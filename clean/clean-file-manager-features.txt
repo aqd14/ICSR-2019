@@ -1,0 +1,1415 @@
+system should along with data protection we are constantly working on macdrive to bring you the fastest transfer speed possible film maker recording artist it professional and thousand of other window user rely on macdrives speed a well a it data protection
+system should access almost any type of mac formatted disk including hard drive dvd cd and more you can even mount a mac in target disk mode
+system should macdrives disk manager make it easy to create partition and delete your mac disk on your pc
+system should macdrives disk repair can automatically find and safely fix most error on mac disk
+system should macdrive allows you to browse through time machine backup a well a copy those file and folder to your pc
+system should you can use macdrive on a mac with apple boot camp utility and access drive with vmware fusion or parallel
+system should favorite quick access to most often used folder
+system should drag drop move file by dragging in q view and other program such a m explorer
+system should clipboard copy paste between the q dir directory view and other program such a m explorer
+system should folder type zip ftp cabinet network system folder shortcut
+system should view large icon tile list detail thumbnail vista extra large symbol
+system should export to xl csv txt html
+system should popup menu desktop my computer
+system should screen magnifier anything on the screen can be enlarged
+system should color filter different color for different item type e g log txt
+system should highlight filter effective way for fast item highlighting
+system should file filter allows for quick and easy filtering of the item
+system should column all column support and save function
+system should quick link s for fast folder access
+system should folder select fast flexible folder selection address bar desktop menu my computer menu
+system should multi ini several ini file for q dir
+system should preview allows a quick preview
+system should own installer with choose type of installation and element to install language plugins icon shortcut default skin and installation type for all user and personal
+system should a lot of automatically configured plugins
+system should expanded main menu tab tab management system quick launch system window desktop my computer font network printer trash extended configuration menu direct access to configuration option
+system should expanded toolbar comment quickview search cd tree synchronize dirs multirename tool
+system should predefined search pattern and custom field wdx
+system should color file name depend on type
+system should skin change icon color and font
+system should drag and drop facility for copy and move operation
+system should easy configurable option internal external file viewer and text editor file operation association for certain file type panel view and file sorting mode
+system should ntfs compressed and encrypted attribute and hard symbolic link support
+system should plugin module and command default plugins set includes archive management plugin ftp client network browser print manager and temporary panel but you may write your own plugins
+system should tunable configuration color scheme customization
+system should define just the view you need in each pane for your folder and file
+system should the ef commander have a full featured hi quality audio player with playlist and tag support play in background with le resource usage ogg vorbis flac wma and wav more format can be play over winamp plugins
+system should a versatile function for comfortable renaming of numerous file in a processing step use a flexible concept for the clear definition of renaming rule include rule for file and exif information
+system should quickly and easily get an overview your photo or other image collection
+system should all long operation are run with multi tasking you can run any number of different operation at the same time or several instance of the same operation for example you can have several copy command going simultaneously
+system should ef commander wa the first file manager worldwide with this feature handle your data in the same way a on your desktop or laptop computer
+system should nero burning rom www nero com is required
+system should use ef commander to pack file or whole folder in any of the common archive format no external program are required
+system should supported format zip ace arc arj cab cpio gzip img iso lha rar rpm sfx sqx tar tbz tgz zip zoo
+system should view picture file and movie and play ogg vorbis flac wma and wav audio file without having to use any other software
+system should enlarge the number of available format to or more ef commander run quietly in the background but remains fully available to you file can also be managed in the internal viewer in the quick view mode or a thumbnail
+system should the built in ftp client feature resume download and fxp server to server transfer ftp secure ssl tl connection
+system should ef commander ha full text and hex editor for file that are limited only by your system resource
+system should split large file into smaller part and recombine the part
+system should check the integrity of your data ef commandersupports the sfv and format
+system should synchronize your notebook or your lan with your work station
+system should allows file list in cab
+system should allows to unpack some file from cab to any directory
+system should allows to make new cab
+system should optional tree view for each panel
+system should built in file viewer to view file in hex binary text or image format
+system should file viewer inside archive too
+system should built in archive handling zip read write cab read write rar read
+system should easy access to system folder control panel desktop and start menu
+system should copy move delete rename file and folder
+system should create and verify checksum
+system should file property and context menu
+system should modification of file date and attribute
+system should file searching inside archive too
+system should multithreading operation to provide extremely fast search result
+system should faster duplicate file searching than any other program of it kind
+system should fast search mode allows extremely fast byte comparison on large file
+system should search across multiple directory and drive
+system should search for all file type or narrow your search to specific file type only
+system should also can locate and delete empty file
+system should double click a file in the tree list to display a detailed information dialog
+system should ability to delete selected original file
+system should two independent panel with directory listing
+system should directory listing always up to date
+system should internal support for zip rar arj cab ace and tar gzip archive
+system should support for creating self extracting archive
+system should the ability to view content of file text html over picture format etc
+system should command line for executing arbitrary command through the system shell
+system should support for long filename file type association and compression on ntfs volume
+system should internal viewer for up to gb file with text and hex mode
+system should easy handling even with file over gb
+system should very fast file and directory search
+system should user menu for all selected file and directory
+system should all window are reconfigurable with multiple docking option a well a the ability to float or be hidden
+system should toolwindows have toolbars that maybe hidden or docked in any location
+system should any combination of the above can also be designed
+system should ultra fast display rendering and folder enumeration
+system should tabbing is context sensitive to which listview is currently active
+system should new tab initial location user definable
+system should the tab are drag drop aware you can drop file on the tab to place them in the folder
+system should breadcrumb bar allow fast access to parent folder in the current path hierarchy
+system should dropdown menu allow direct access to other folder in the folder hierarchy or to the property sheet for the folder
+system should support total commander lister plug in
+system should an ultraexplorer exclusive the component used the for file listing unlike other explorer replacement are faster then explorer itself this mean it is practical to have multiple list of file visible at one time this will quickly become a favorite view for many application
+system should customizable association menu key mouse gesture alias
+system should multiple language and unicode support
+system should burn cd and dvd directly from total commander s directory structure by displaying command and burning project a pseudo directory and pseudo file
+system should planned type videocd super video cd udf data cd
+system should verify data and videodvd project after burning
+system should erase rewritable medium mode fast and complete
+system should display information about available burning device brand vendor product id and inserted medium type mode number of session used and free space
+system should explore visualize and comprehend drive space usage
+system should find the disk space hog with just a few click
+system should visualize the distribution of file by file type age and size
+system should schedule automatic scan and generate report
+system should reclaim gigabyte of drive space in minute
+system should customize program layout for your individual need
+system should multi threaded scanning algorithm for better performance and responsiveness
+system should interactive dynamic full color customizable bar and pie chart
+system should scan filtering using powerful regular expression
+system should html xml csv and plain text report generation
+system should file type and extension report
+system should top file by size age or owner
+system should largest file report and drive space monitor
+system should chart export to clipboard and image file
+system should search in tab you often search your system for file added in the last hour you quickly need a list of all text file containing your name let a finding tab do this or any other search job at a single click
+system should the address bar accepts not just folder but also file url and search term yes you can enter search pattern directly into the address bar simply put between location and search pattern boolean operator and regular expression allowed
+system should the tree and list offer a suite of unique highlighting option to increase visual grip highlight folder boxed branch favorite folder bold highlight focused row highlight sorted column colored grid all color are fully customizable
+system should find file xyplorer feature a high end search engine with tremendous power and amazing speed it fully support boolean logic advanced pattern matching regular expression boolean regexp the boolean combination of any number of regular expression whole word and fuzzy matching content search look for text string inside file wildcards supported multiple location search a duplicate file finder and much more
+system should configurable toolbar a configurable toolbar where most button have a specific right click menu additionally many button feature a dropdown menu
+system should floating preview the floating preview quickly toggled by show the current file in a non modal preview window whose size and absolute screen position is stored between session it support all type of image and snapshot preview for html pdf mpeg dwg etc everything your system can generate thumbnail for resizing the window resizes the preview in real time
+system should support of archive zip rar ace cab jar tar lha
+system should support of l plug in and wcx plug in
+system should build in viewer and quick view function
+system should work with a network environment
+system should support drag and drop at work with other application
+system should visual style color category of file font for all interface element
+system should full drag and drop capability
+system should built in file viewer for text rtf and binary file
+system should system tree view for both panel able to mimic window explorer
+system should advanced change attribute capability recurse subdirectory ability to change system attribute ability to change created modified accessed file time date stamp
+system should advanced filtering capability in file panel and in basic operation like copy move and delete
+system should built in favourite for quick directory change
+system should ability to wipe the file from the disk so they can not be undeleted
+system should fully customisable colour in the file panel
+system should built in medium player for quick preview of wav mid avi mpg and other supported file format without any need for opening separate application
+system should very detailed yet very simple user interface
+system should full clipboard support including file name and file path copy
+system should built in strong encryption capability for quick fil encryption
+system should detailed directory info display with graph
+system should commandline field for quick command
+system should window explorer styled keyboard mouse setup
+system should fast selection deselection of multiple file using filter
+system should load save current selection to memory or file
+system should history button to show the latest location you been at for fast access
+system should disconnect usb remote device from inside multi commander
+system should show file and folder in detailed or list or thumbnail list mode
+system should browse the registry a a filesystem
+system should browse archive zip zip rar tar gz
+system should all file operation are run in background do not hang block the main window
+system should delete file inside archive eg zip
+system should copy move file operation
+system should filter to include or exclude file and folder
+system should copy move plugins like auto sort auto unpack content copy
+system should unpack archive into individual folder
+system should pack zip tar gz tar gz tar
+system should copy selection to clipboard or save to file
+system should find opened locked file find what process ha a specific file open
+system should change file attribute date and time
+system should run multi commander from portable usb device
+system should mulit update automatically update mulit commander to latest version
+system should send filename with or without fullpath to clipboard
+system should send comma separated list of all selected file to the clipboard
+system should image information in clipboard screen capture can be save a jpg png bmp with ctrl v paste
+system should text information in clipboard can be save to text file with ctrl v paste
+system should reformat or compact xml file
+system should wizard that help you create junctionssymlinkshardlinks
+system should file system browser will flow link
+system should show link target in file system browser
+system should remove file permission for all user on file folder
+system should add permission to user group for file folder
+system should remove meta data from
+system should export data to text file
+system should show data a column in the file system browser
+system should strip exif information from picture
+system should adjust exif date information in picture by changing the time x minute
+system should adjust picture file date to the date of the exif date information
+system should show exif data column in the file system browser
+system should show movie information like rating genre and more a column on movie file
+system should get movie information from imdb and rottentomato
+system should search by looking for file content file attribute file size file time
+system should remove item or group of item from search result with context menu
+system should verify sfv file
+system should verify crc code against a file
+system should option to rename all bad file to bad
+system should option to delete all bad file
+system should auto start verify if double click on sfv file in the file system browser
+system should file system plugin eg registry ftp zip rar
+system should copy move file operation plugins eg auto unpack auto sorting file
+system should file property plugin for showing file property in column eg showing exif or meta information
+system should create zip and iso file
+system should upload file to the internet using ftp
+system should fast file management using the keyboard
+system should built in viewer for many file format
+system should no installation required self extracting zip provided for convenience
+system should no uninstallation required just delete the folder
+system should free for non professional home use
+system should you will be able to manage and view disk space consumption with the help of disk space usage report grouped by file type file size attribute file date and file ownership you can drill down and see exactly how file are consuming disk space on your computer
+system should diskanalyzer pro allows you to specify your own search term while looking for unwanted file and folder consuming your disk space
+system should over a period of time hard disk space becomes cluttered with useless file junk temporary internet file zero size file etc diskanalyzer pro can find and delete such file and regain gigabyte of hard disk space
+system should locate biggest and oldest file
+system should you will be able to see a list of biggest space hogging file a well a old unused file from your hard disk drive you can delete these file and regain big chunk of disk space
+system should network computer are generally filled up with file such a video image audio file compressed file duplicated all over hard disk diskanalyzer pro can locate these file and help you to remove not required file
+system should the new command line scanner can be used to perform a disk search from the command prompt and create a saved disk report archive this can be later opened with diskanalyzer pro for detailed disk space analysis you can use any scheduling program to schedule the disk search using command line scanner
+system should this is one of the essential report in disk space management this report consists of a single list of all folder and respective subfolders sorted by file size so now you can quickly find out how many folder consume most of the disk space
+system should whenever you need to drill down to file level from any disk space report you can use file explorer viewer this tool list all the file for a particular disk space report and allows you to further filter the list using multiple criterias such a file name with wild card file size date file type file path etc
+system should you might need to export any or all of the disk space report to external file and you can do it here you can save report a html csv and xml file this is useful for comparison of disk space report over a period of time or to maintain disk space usage history
+system should seamless handling of virtual folder ftp webfolders zipfolders etc
+system should extended file folder detail tag checksum etc
+system should instant preview of text graphic and audio video content
+system should find file using hyperfilters e g locate file searching their comment for keywords
+system should detect and cleanup duplicate file
+system should manage many folder in dual pane or using tab
+system should easy folder comparison synchronization
+system should powerful visual filtering and selection engine
+system should touch date split merge and shred file
+system should execute text command or do script on file
+system should advanced ntfs support hard link file comment etc
+system should unicode and text encoding aware
+system should export file information a text for printing etc
+system should focus on usability with keyboard shortcut history autocompletion etc
+system should integrated file search to quickly locate and jump to those lost file
+system should integrated quick launch area for fast access to the program you use the most
+system should favorite button to quickly open those often used folder
+system should dual pane view for those that demand speed in file management
+system should requires no installation no data is written to the system registry s configuration information is saved in a local ini file
+system should keep it on your pen jump drive and take it where ever you go
+system should completely erase a whole hard drive
+system should the delete permanently option is integrated in the window shell
+system should permanently delete multiple file and folder at once
+system should ultra flexibility to choose what to delete and how to delete
+system should permanently delete file from computer hard drive removable disk usb drive memory stick network drive etc
+system should file joiner splitter support all the popular file format avi mpeg exe or any other type
+system should file joiner splitter break the size limit found in other software we have tested our software with file over in size with no problem
+system should this feature make split file much more portable join file back on computer without our software convenient splitting method split file by either desired file size or by number of split file
+system should the new version come with a beautiful new user interface which make joining and splitting that much easier
+system should easily install or remove our software
+system should easy user friendly and intuitive interface
+system should can be launched directly from window explorer shell context menu
+system should search in every kind of drive internal external network cd rom dvd etc
+system should ability to calculate the size of the folder
+system should search file or file and folder or only folder
+system should allows you to quickly select the local or network drive or of single drive
+system should search in plain text file and in binary file looking in their raw format e g txt html csv exe dll obj etc
+system should allows you to specify the text mask in way word and phrase
+system should can ignore file of certain type hidden system image audio video
+system should possibility to select the date range on the basis of hour minute second
+system should possibility to append result of consecutive search
+system should multi select support in order to perform editing on multiple item e g cut copy copy to folder move to folder rename delete etc
+system should the result can be exported in various file format
+system should display of the main search filter in the window caption and in the taskbar
+system should can choose which type of mru item to save and or load
+system should copying moving renaming and deleting file and folder
+system should extra tool bar to run window tool
+system should display of column title in the first row turn on off
+system should display of intertitles directory path turn on off
+system should print directory listing direct printing of corresponding list
+system should export list into other program by copying to the clipboard
+system should open the list directly in microsoft word and excel
+system should support for connecting and disconnecting network drive
+system should automatic saving of display option when exiting the program
+system should start program with a directory path a a parameter
+system should selection of starting directory by an explorer like tree structure
+system should selection of starting directory by entering the path a a text string
+system should manage plugins of all type
+system should install plugins even from zipped pack and nested folder
+system should disable enable plugins tc cannot do it
+system should run restart total commander
+system should customize a menu for home and work
+system should add file folder from window explorer
+system should access lt pop up menu from ie
+system should one click access super fast super easy
+system should highly configurable and convenient file management environment
+system should transparent interface now you can view the file on ftp or in the archive a easily a you would do it on your local computer
+system should quick view for browsing your photo and music collection or for sorting out the random chaos of your downloads folder
+system should a number of file viewer that can handle dbf rtf html doc excel and other format
+system should additional utility included treenotes startup manager calculator smartpad and directory size manager
+system should quick folder bookmark you can easily access the folder that you use most often
+system should favorite similar to ie s favorite
+system should the history of moving around the folder history of file operation view and edit
+system should built in file viewer supporting image viewing jpg jpeg bmp gif ico tif tiff png wmf emf pcx tga abdobe photoshop psd text editing web content html browsing hex viewing and much more
+system should well thought out multithreaded program engine allows the handling of any number of concurrent file operation copy download move search extract compress upload etc
+system should integrated support of all common type of compressed file archive zip arj rar ace jar ha lha and more
+system should folder comparison system very helpful when you need to compare two file and detect the change difference
+system should versatile support ftp ftp and sftp protocol are support also
+system should file synchronization system the simple way to compare and merge your file and folder you may sync folder on ftp site
+system should size manager find the folder that take up too much hd space
+system should file reconstruction after the copy process is interrupted this is a must when a huge file such a a film is copied
+system should advanced search system allowing fast searching on local and network disk now regular expression are added
+system should total commander file plug in system support
+system should built in text viewer feature configurable syntax color highlighting for common programming language c c java pascal etc scripting language perl php vbscript bat etc and document markup language html xml
+system should method navigator quick search for a necessary function or procedure in big huge vast file pascal vb sql php perl and others
+system should html support system quick type feature for the most commonly used tag internet explorer view code completion
+system should export in html and rtf with color highlighting
+system should this is extremely convenient when publishing your source on the web
+system should view and edit tag
+system should detailed information about video file
+system should picture operation all popular format are supported
+system should powerful selection engine for easily building up selection pattern for item before file operation
+system should file filter both for selecting and for displaying file
+system should drive bar navigation for accessing quickly all the drive installed on a computer
+system should keyboard shortcut for nearly all it command for efficient everyday use
+system should complete file date information utilizing creation and last accessed information a well a the normal modification date
+system should printing of folder content find result and other statistic
+system should proper file sorting based on extension alphabetically
+system should full drag drop and shell context menu support for integration with the desktop
+system should separable tree view one can have both the tree view and the two content pane visible at the same time
+system should multi functional address bar for specifying folder name and visual filter plus for running window or do application
+system should dockable thumbnail bar for previewing popular graphic format jpg bmp gif etc plus html and m s office document
+system should efficient navigation supporting bookmark folder history and internet style back next folder navigation
+system should shell namespace browser allowing the browsing of non filesystem folder like control panel etc if you install a shell extension for ftp and or zip content browsing will integrate with that too
+system should auto completion for path and other frequently typed information
+system should copy path name of selected item and preview bitmap simplifying clipboard transfer
+system should optional single click activation scheme for both view and tree to match your usability pattern
+system should handle large file with ease
+system should file can be viewed in greenbar mode
+system should column of text may be copied to the clipboard
+system should regular expression searching and grep
+system should the application automatically extract all file contained within mac disk image file on to your window computer
+system should easy to use software no technical knowledge required
+system should recover any file from your dmgs
+system should support all format of dmg file
+system should quick view plus maintains the formatting of the original document allowing you to see the content a it wa originally created
+system should quick view plus integrates with popular browser and e mail application allowing these program to seamlessly view file format they do not support
+system should the quick view plus viewing environment provides two pane navigation allowing user to quickly navigate through their file system and use the same quick view plus window to view any file they choose the file navigation pane can be oriented in either a left hand or top attachment manner
+system should not only can quick view plus view the content within a zip file it can also create them this can save your organization the expense or hassle dealing with a separate program to create or open zip file
+system should all or a portion of any viewed file can be copied and then pasted into an application quick view plus is the fast way to view and print all or part of one or multiple file you can even print file without viewing them
+system should along with data protection we are constantly working on macdrive to bring you the fastest transfer speed possible film maker recording artist it professional and thousand of other window user rely on macdrives speed a well a it data protection
+system should access almost any type of mac formatted disk including hard drive dvd cd and more you can even mount a mac in target disk mode
+system should macdrives disk manager make it easy to create partition and delete your mac disk on your pc
+system should macdrives disk repair can automatically find and safely fix most error on mac disk
+system should macdrive allows you to browse through time machine backup a well a copy those file and folder to your pc
+system should you can use macdrive on a mac with apple boot camp utility and access drive with vmware fusion or parallel
+system should three available output text html and csv
+system should flexible choice of output column
+system should heavily customized html and text output
+system should extended representation of file list with adjustable thumbnail size
+system should fast preview any page of multipage document
+system should fast access to a tree of bookmark in pdf or djvu file
+system should detection of html pair e g foo htm and a folder named
+system should various file operation on the document repository e g creating folder inserting new file can be performed through docfetcher s interface
+system should customizable text and html file extension e g nfo cpp java py shtml and so on
+system should regular expression based exclusion of file from indexing
+system should automatic index update on change to the indexed document optional
+system should preview panel with search term highlighting and a simple built in web browser
+system should search result can be sorted and filtered according to different criterion filetype filesize path etc
+system should a portable version for both window and linux is available which amongst other thing is useful in combination with volume encryption truecrypt
+system should virtual filesystem with support for local volume ftp sftp smb nfs http amazon hadoop hdfs and bonjour
+system should quickly copy move rename file create directory email file
+system should browse create and uncompress zip rar tar gzip iso nrg ar deb and lst archive
+system should zip file can be modified on the fly without having to recompress the whole archive
+system should universal bookmark and credential manager
+system should available in language american british english french german spanish czech simplified traditional chinese polish hungarian russian slovenian romanian italian korean brazilian portuguese dutch slovak japanese swedish danish ukrainian and arabic
+system should one click to show hide file or folder in the list
+system should drag and drop to add item
+system should privacy mode showing only requested item mode saved on exit
+system should warning if hidden item are displayed in window explorer
+system should save file or folder with lot of option to a text file
+system should renaming rule add space add text add number add date time add path name remove space remove text remove number add music tag add image tag change case replace date time replace text replace number split name
+system should any number of rule can be combined into rule set and saved allowing total flexibility and fast operation
+system should saved rule set are listed on the toolbar for quick retrieval
+system should exif and tag support
+system should instant preview of the new file name know what the application will do before any file are renamed
+system should conflict checking and illegal file name fixing built in
+system should instant visual display of each file s state making it easy to see what will be renamed and if conflict will arise
+system should command line support any rule set can be exported a a complete script for later automation
+system should rollback after rename for final checking
+system should very long filename support character
+system should the wizard help non techie configure the server and give detailed instruction for how to configure a home cable dsl network the wizard can automatically configure upnp enabled router the wizard let you activate a dynamic dns client that keep your domain name working if you have a varying ip address i e a dynamic wan ip address
+system should provides you with a single application that ha all the functionality necessary to create deploy and manage your own website the free cm is so easy to use you can have your grandmother be your new webmaster
+system should replaces obtrusive email with a more convenient way of communicating
+system should use your company home computer a a centralized and secure file server
+system should easy upload and download of file using a web browser view photo and stream music using the integrated player
+system should provides road warrior and business partner with secure access to back end server and resource such a email server
+system should on a client computer download and install any of the client for the http tunnel server
+system should rightclick the tray icon to configure
+system should choose setting to change rule and option
+system should choose enable to start or stop all the rule
+system should command line with the ability to view output and to interact with do and console application
+system should file name coloring unlimited number of color group
+system should quick view panel with the ability to view file even in archive and on ftp site
+system should possibility to assign separate program to view and edit file of different type
+system should file search by size date attribute and inner text search in archive
+system should inplace file renaming by alt just a in the window explorer
+system should archive content can be viewed like a folder supported format zip ace ain arc arj bzip cab gzip ha jar lzh rar tar zip ability to integrate with external archivers for full scale archive processing
+system should file encryption and compression on ntfs
+system should ability to copy ntfs file stream
+system should favourite folder with hotkey accessibility
+system should ability to minimize fn window to the system tray
+system should ability to make file list for group file operation
+system should ability to duplicate user menu command by toolbar button
+system should ability to store setting in the ini file
+system should ability to use external module dll to view file of different type directly in the fn window
+system should search file by file name text string unicode string regular expression binary data file size file date
+system should replace string in file creating backup copy
+system should multiple search replaces in the separate tag page
+system should ufs explorer standard access provides access to data located on apple mac o linux and freebsd operating system installed a a supplementary to window working on your pc with active window o you can easily get any data from any supported operating system
+system should ufs explorer standard access allows you to open inaccessible file located on an external storage formatted with hf apple mac o reiser xfs jfs linux and ufs freebsd
+system should ufs explorer standard access offer direct access to file on virtual disk of virtual machine and any their copy without virtual machine start and configuration
+system should ufs explorer standard recovery work in a safe read only mode without making any modification on the storage and threatening your data this ensures complete safety of your information during program operation
+system should compare file or folder including sub folder between floppy drive hard drive cd rom drive zip drive and network drive unc path supported
+system should support the following file system fat vfat hpfs ntfs cdfs and udf
+system should offer choice of eight comparison type filename only size only size and date time content attribute version stamp and sha huge file gb
+system should compare only file and folder that match include and exclude filter pattern list which you define wildcards supported
+system should include exlude system and hidden file handle ntfs and fat timestamp incompatibility
+system should allows for user specified number of byte chunk size to be read and compared during a content or sha comparison
+system should remembers the last folder compared
+system should show text difference between two ascii text file microsoft word document excel spreadsheet rtf document or adobe pdf document m word m excel and adobe reader not required
+system should guide through the process using helpful wizard screen
+system should offer choice of nine preset auto synchronization method or a user defined custom method
+system should support copy move send to the recycle bin and delete permanently operation for manual synchronization
+system should check for available disk space before all operation
+system should show all operation about to be performed and prompt for confirmation
+system should allows for the creation of new sub folder
+system should renames multiple file and folder
+system should synchronizes the date time of two file
+system should set the date time of multiple file
+system should sync your pc s system clock with an atomic time server
+system should includes a full featured duplicate file finder
+system should display the binary content of file using a built in hexadecimal hexdump viewer
+system should print the result of the folder comparison in any number of layout
+system should save the result of the folder comparison by printing to a file
+system should open and edit any file from within foldermatch
+system should user configurable sound associated with certain event
+system should split any large file to any size you specify
+system should allows convenience of placing large file on multiple diskette
+system should allows convenience of sending large file via email a you can break them down to any size
+system should allows anyone to paste file back into the original file without having this software installed
+system should allows you to split and recreate any file type whether avi exe or any other file type
+system should no maximum size limit even tested on file that are gig in size and larger
+system should allows you to split your file into almost any sized segment
+system should allows you to split and rejoin any sized file there are no limit in size or file type
+system should creates a tiny program so anyone can paste the file back together without having this installed
+system should allows you to send the content of any folder to your printer
+system should keep track of all split statistic for viewing your stats
+system should easy interface for copying and moving file folder
+system should extract file from rar and zip archive
+system should text and hex file viewer
+system should view bmp wmf emf jpeg png mng gif pcx ico cur and hip image if meesoft image analyzer is installed jpeg tiff ra pnm pgm and ppm image are also supported
+system should auto scaling and enhancement of image suitable for browsing large picture from e g digital camera
+system should automatic rule based renaming of file
+system should keyboard shortcut compatible with norton commander
+system should search for identical file by name size timestamp and or content
+system should search for nearly identical image file
+system should advanced pocket calculator with equation solver
+system should ftp you access powerdesk easy ftp in an easy to use drag and drop interface that let you view ftp site a though they were ordinary folder once you have set up your favorite ftp site connecting with them is one click away
+system should sync manager compare and synchronize the content of two folder this is especially useful for those who work on file that are shared between two computer but it is also useful for backing up file and many other us
+system should size manager a powerful utility that show you where and how the space on each of your drive is being used using size manager make it easy to efficiently manage storage space on your drive
+system should dialog helper enhances open dialog box and save dialog box by adding a list selection for previously opened file and previously opened folder it also provides a file viewer pane that support over file format dialog helper further allows the resizing of these dialog that are often fixed in size
+system should archive manager user can easily compress and expand file from over popular compression format powerdesk also allows user to see within many archive to see the entire list of file and selectively view the content or extract selected file with a simple drag and drop operation
+system should file finder forget where you saved that important file no problem with powerdesk pro you can quickly locate file through search by almost any criterion with it powerful search engine type tool search by keyword file type size or date range and see the hit displayed in a single line reference you can also search inside zip file and archive too
+system should no memory barrier log an unlimited number of disk and file
+system should support for long file and directory name
+system should full support of third party archivers with most popular program pre configured out of the box
+system should undelete now support every kind of disk including fat and ntfs including compressed and encrypted partition it support regular hard disk backup disk usb drive and any other disk shown in window explorer
+system should undelete now us multiple advanced scanning technique not found in other undelete software depending on your disk type it employ a combination of surface scanning bit by bit scanning and advanced error detection with afr technology
+system should when scanning is complete the actual recovery process take under one second on average that s lightening speed in comparison with rival software product
+system should enter the path in root directory text edit enter will start the search
+system should drag a directory from window explorer will start automatically
+system should clear the root directory text edit and click scan will scan all the drive this will scan all drive type selected hard cdrom network removable
+system should use the combo box list to select a single drive
+system should the main window of ab commander host two panel independently displaying the content of folder of your computer just like the built in window explorer doe each panel may be used to browse all folder both virtual and real one located on local or remote drive having two independent panel is especially convenient when copying or moving file enabling you to see the content of the source and destination folder simultaneously
+system should ab commander offer several powerful mean of navigation between folder the folder bar that let you browse the whole hierarchy of folder the favorite list the most recently visited folder history list the drive bar and drive menu
+system should ab commander offer command to work with file and folder directly that is copy move rename and delete ab commander s command do not involve the use of the clipboard so now you can work with file in a direct and straightforward way
+system should if you often move file between your desktop computer and a laptop you will appreciate the command to compare and synchronize folder
+system should the command prompt let you quickly run program that accept command line argument ab commander save you time by allowing you to insert the name or full path of the selected file object directly into the command prompt
+system should show all record for uninstall program
+system should uninstalls any program installed like control panel add remove software enter
+system should view all property of record or ctrl q
+system should deletes incorrect link del or
+system should edits some property of record alt enter
+system should configs plugin alt enter in network neighborhood
+system should automatically search and add all your music file by scanning your disk folder
+system should automatically import tag information of wma ogg file
+system should tool to automatically download and store album cover
+system should tool to automatically download and store artist photo
+system should tool to automatically download and store artist biography
+system should view edit title artist album composer genre e t c
+system should create playlist for your favorite music player
+system should easily sort your database according to artist album title year file format genre e t c
+system should rename your file according to artist album title year genre
+system should advanced search for helping you to find any song
+system should quick filter for easily apply database filter
+system should interact with your photo and music in
+system should interact with your video in full motion
+system should watch your favorite show while simultaneously surfing the internet
+system should multiple file and folder renaming
+system should multiple usage of the template import export
+system should no more struggle with directory
+system should search all your file amazingly fast to find what you re looking for
+system should advanced file view globe calendar and more
+system should easy migration of all your file and directory
+system should neatly integrates into microsoft window and third party software
+system should no admin privilege required default installation
+system should small footprint only in size
+system should easy to operate help file provided however
+system should support major spreadsheet viewer excel openofice google doc libreoffice etc via csv tsv other dsv output file format
+system should come with template creation to easily load save frequently used setting
+system should support multiple instance more then one application can be run at same time
+system should multi threaded processing fully responsive while performing a task
+system should multiple directory scanning via sendto shortcut window explorer context menu
+system should word recovery software extract all the text from the corrupt word document
+system should word recovery software support multiple document recovery at a time
+system should recover and restores font style and formatting
+system should support rich text format rtf
+system should recover and restore data structure
+system should recover field including hyperlink url s
+system should restore and restore header and footnote
+system should repair corrupt word document saved in macintosh format
+system should recovers table bulleted list embedded image chart and drawing
+system should easy to use user friendly software requires no technical skill
+system should access to non system folder my computer control panel
+system should direct access to network neighborhood
+system should internal zip packer and unpacker
+system should context menu like window explorer
+system should easy fast and friendly control
+system should copy delete and move in the background
+system should command line for starting program with parameter
+system should synotpical information about number of folder file and disk s free space
+system should english and czech language support
+system should perform file management task in background copy compress move rename delete file individually or a group applying batch rule
+system should search for file using name mask or complex content filter you can save search result and search condition for future reuse
+system should view jpeg with exif gif png tiff psd and other image format individually or in a slide show copy image fragment to clipboard
+system should convert any image to jpeg tiff gif png and bmp format recompress jpeg
+system should manage text m office photoshop pdf html and others document accessing document content
+system should preview and install true type font
+system should quickly navigate through file and folder using bookmark shortcut color mark history list and filter
+system should preview audio and video file wav and others generate play list
+system should e mail file and folder using your default e mail client
+system should use manage and easily configure file association
+system should work with the window console in a convenient graphical environment
+system should work with zip tar gzip arj rar and others archive
+system should edit binary file in hexadecimal mode
+system should create save and restore your personal workspace using accelman interface scheme predefined scheme included image browser film strip norton commander and others
+system should browse and manage file and folder
+system should favorite list which allows to quickly switch between folder in the browser
+system should find file by file mask or file date
+system should rename file in several folder simultaneously
+system should replace text block in list of file in several folder simultaneously
+system should replace several string in list of file in several folder simultaneously
+system should quick rename file and folder in the same directory using or shift shortcut
+system should search file by mask doc xl html etc
+system should find file created within period of time
+system should find file not older than some hour day week month from current time
+system should find file by size equal larger than smaller than
+system should two mode of replace simple and batch
+system should create a backup copy of original file
+system should find and replace single text block or batch of string
+system should insert text block batch of string before text
+system should insert text block batch of string after text
+system should delete text block batch of string
+system should insert text block to the head of file
+system should insert text block to the foot of file
+system should insert counter in file name
+system should insert data or time in file name
+system should easy convert all character to uppercase or lowercase
+system should various control word for generate new name of file
+system should true point and click hash creation and verification
+system should no brainer hash creation and verification in a word simple
+system should choice of or hashing algorithm
+system should create a regular bit or further increase security by using the algorithm bit checksum recognizes and work with both format even mixed up in the same file
+system should hash single file or folder directory full of file no problem
+system should checksum can create hash file for individual file or folder full of file and importantly automatically recognizes both kind during verification verifying every kind of checksum file it can find also when creating individual hash file checksum is smart enough to skip any that already exist
+system should effortless recursion point at a folder directory or volume and go
+system should not only fully automatic creation and verification of file and folder full of file but hash all the file and folder inside and all the folder inside them and so on and so on through an entire volume if you desire one click drive hashing is now officially easy
+system should multiple user defined file mask group
+system should for instance hash only file or only movie whatever you like available from a handy drop down menu all your favourite file type can be stored in custom group for easy peezy file type specific hashing e g
+system should the most common group are already provided and it s trivial to create your own you can also enter custom mask directly into the one shot option e g report pdf to hash all the report in a folder create ad hoc group or whatever
+system should another killer feature checksum can create music playlist file along with your checksum when creating a folder hash if checksum encounter any of the music file you have specified in your preference s ogg file wma whatever it can create a playlist for the collection i e the album rather nifty and a perfect addition to the custom command in the tip and trick section
+system should a well a regular window standard playlist file winamp etc checksum also support pls playlist shoutcast icecast your call
+system should effortlessly handle all known legacy file
+system should if you discover an that checksum doesn t support send me that file
+system should create lowercase or uppercase checksum at will
+system should like many thing this can also be set permanently if you so wish
+system should automatic synchronization of old and new file
+system should automatically add new hash to existing checksum file
+system should that s right automatically add new hash to existing checksum file
+system should integrated window explorer context right click operation
+system should the installer will setup window explorer context command for all file and folder so you can right click anything and create or verify checksum at will very handy setup the rather clever installer is also available in it own right a a free and ini driven installer engine for your own goody stuffed with feature easy to use and definitely deserving a page to itself soon
+system should a explained above you can also bypass the installer altogether and simply unzip and go for portable checksumming or you can have both
+system should cut and paste your own checksum file if you like rename them mix and match legacy format in a single file even throw in a few hash just for fun worry not checksum will work it out
+system should can be configured to permanently ignore any file type
+system should obviously we don t want checksum file of checksum file for starter but if you have other file type you d like on a permanent ignore desktop ini file thumb db whatever it s easy to setup the most common annoying file type already are
+system should real time tool tip style dynamic progress update
+system should drag it around the screen it snap to the edge and stay there checksum also remembers it dialog screen position for intuitive fast operation
+system should tool tip progress can be disabled altogether if you wish
+system should right click the tooltip for extra option
+system should during verification any failure can be seen real time in a system tray tool tip hover your mouse over the tray icon for detail checksum also flash the progress tooltip red momentarily and optionally beep your pc speaker to let you know of any hash failure if there were error the final tooltip is red by default anything to make life a bit easier
+system should verify a mix of multiple and nested and checksum file with a single command
+system should doe what it say on the can
+system should traditionally individual checksum file are named filename ext personally i find this inelegant and prefer them to be named filename i like it so much i made it the default but you can change that if you like when running extensionless if checksum encounter multiple file with same name it simply add them to the same checksum file so checksum for foo txt foo htm and foo jpg would all go inside foo or better yet foo hash highly groovy
+system should on the verify side of thing checksum ha always verified every possible checksum it can find so these multi hash file look just like regular folder hash file and verify perfectly so long a the data hasn t changed of course
+system should smart checksum file naming with dynamic token
+system should checksum file name reflect the actual file or folder checked automatically
+system should if you want more you can specify either static or dynamic checksum file name with a wide range of automagically transforming token see below for detail
+system should effortless hashing of read only volume
+system should checksum can create and hash for the read only volume but store the checksum file elsewhere either with relative path inside so you can later copy the checksum file into other copy of the volume or absolute path so you can keep tab on the original from anywhere
+system should checksum currently ha three different read only fallback strategy to choose from use whichever most suit your need
+system should extensive logging capability with intelligent log handling and dynamic log naming
+system should checksum always give you the option to log failure but you can log everything if you prefer hashing time can be included in the log and proper cs class ensure you can tell what s what at a glance
+system should relative or absolute log file path location can be configured in your preference a can the checksum log name itself with dynamic date and time a well a dynamic location and status token so you can customize the output naming format to your exact requirement
+system should in other word a well leaving it to checksum to work out automatically or typing a regular name into your prefs such a checksum log you can use cool token to insert the current
+system should sec second value from to
+system should min minute value from to
+system should hour hour value in hour format from to
+system should mday numeric day of month from to
+system should mon numeric month from to
+system should wday numeric day of week from to which corresponds to sunday through saturday
+system should yday numeric day of year from to or if not a leap year
+system should there is also a special token item which is transformed into the name of the file or folder being checked and status which automatically transforms into the current success failure status
+system should you can mix these up with regular string like so
+system should year mon mday hour min sec checksum for item status log
+system should the status string can also be individually configured in your prefs if you wish roll the whole thing up and with the setting above the final log name might look like
+system should checksum for golden boy aok log
+system should html logging with log append and auto log rotation
+system should a well a good old plain text checksum can output log in lovely xhtml with cs used for all style and positional element with the ability to append new log to old and auto transforming token you setup automatic daily monthly whatever log rotation by doing no more than choosing the correct name you can even have your log organized by section and date all automatically via the free energy from your token
+system should click here to see a sample of checksum s log output amongst other thing
+system should total cross platform and legacy file format support
+system should and hash file from unix linux mac and solaris a well a a myriad of legacy window and do format in fact every hash file i ve ever come across is supported throw any old at checksum and you ll get result and if you don t gasp send me that file
+system should if you don t like to see those checksum file no problem checksum can create and verify hidden checksum file a easily a visible one like most option a well a on the fly configuration via the option dialog hold down shift when you launch checksum you can set this permanently by altering checksum ini
+system should to create hidden checksum same a attrib h use h on the command line or choose that option from the option dialog
+system should don t worry about creating music playlist with the invisible option enabled the playlist will be perfectly visible only the checksum get hidden well someone asked o
+system should handy if you are making scheduled item etc and want to disable all the dialog simply add a q
+system should you can also set checksum to only pop up dialog for long operation just how long constitutes a long operation is of course up to you the default is so you get success even if it only took a millisecond check your ini for more wee trick like this
+system should unrelated to the quiet option above checksum can thoughtfully invoke your peecee speaker to notify you of any verification failure a they happen a well a shorter double pip on completion you can even specify the exact khz value for the beep whatever suit you best
+system should you can also assign wav file for the success and failure sound if you prefer
+system should drag and drop file folder and drive onto checksum
+system should if you prefer to drag and drop thing you can keep checksum or a shortcut to it handy on your desktop toolbars sendto menu and drag file or folder onto it for instant checksum creation this work for verification too if you drag a hash file onto checksum it hash are instantly verified
+system should note like regular menu activation you can use the shift key to pop up the option dialog at launch time you can also drag and drop file and folder onto the one shot option dialog to have their path automatically inserted for you
+system should user preference are stored in a plain text window ini file
+system should you can look at it edit it back it up script with it and handle it lot of thing can be tweaked and set from here though of people will probably find the default are just fine and the one shot option dialog handle everything else they could ever need but if you are a more advanced user with special requirement chance are checksum ha a setting just for you click here to find out more about checksum ini
+system should comprehensive set of command line switch
+system should normally with checksum you simply click and go but checksum also accepts a large number of command line switch if you are creating a custom front end modifying your explorer context menu command or creating a custom scheduled task take a look at checksum s many switch
+system should if you simply have some special task to perform it can probably be achieved via the one shot option dialog
+system should analyze folder and disk space usage with an intuitive interface
+system should find all duplicate file by name size or content with an option to delete if necessary
+system should any operation can be executed on subset of data by using extensive filtering capability
+system should filter include date size attribute and even text to find within a file
+system should retrieve statistical data about your file by file type or file size
+system should perform all standard file operation s like moving copying deleting creating folder change file name or extension change volume name creates new empty file shortcut to existing file and much more
+system should view selected file content or detailed information about file by use of built in file viewer file viewer recognizes a lot of file type and it will show you the content of any text file type play audio or video view playlist show picture show all file that can be viewed by internet explorer microsoft excel or embedded with custom application
+system should write cd audio data disc cd dvd writer let you write fully compatible joliet data cd support burn proof for error free recording write iso image for raw writing by other application import and write iso image from other application import multi session iso joliet track and merge new file with an existing session and more
+system should copy cd track from cd audio to drive a wav file
+system should set file attribute and date support mass file operation a well
+system should view manage the content of your computer in file browser and tree view control
+system should execute system command like delete file from recycle bin run control panel item shutdown reboot computer registering ocx dll and many more
+system should run all file and document by double click on the file in the file browser
+system should check if file s fit on selected destination folder drive
+system should use comparison feature like compare folder content compare file and folder synchronizer utility
+system should you may check your shortcut lnk or pif on your computer to see if it s valid and for a valid item in addition you can delete invalid link
+system should erase directory with command that deletes all file in a specified directory along with it sub directory but will leave the directory structure itself intact
+system should split merge file this feature work with removable and hard drive
+system should search your computer file searcher allows to search for specified file in your computer return the number of file directory matching a specification and attribute with this feature you can make a list of specified file
+system should search replace multiple file at once with the source one this tool allows you to search through folder for specified file and replace all of them with the one source file
+system should print document graphic on any printer installed on computer
+system should view edit and convert picture
+system should create view and decompress zip gzip archive
+system should transfer file to and from remote server by use built in ftp client
+system should copy or move multiple file to different location at once by use of multi copy move utility
+system should view drive s information on chart grid
+system should view folder information on chart grid
+system should manage your system startup program by use of built in startup manager
+system should search cooky and delete unwanted cookie file
+system should connect to directory shared on the network use network drive
+system should use standard keyboard shortcut like such key a ctrl c copy ctrl x cut ctrl v paste and refresh
+system should use drag drop method with the mouse you can drag file directly between browser you can also drag drop file to and from another window application a well
+system should use automatic context menu processing when you right click on a selected file or group of file will display a standard alike window explorer pop up menu
+system should scrub file delete file completely without any trace in your computer clean file
+system should use favorite run menu to build a list of your shortcut for easy access to your favorite file or path
+system should use file filter to show different content of browser only file that match the selected file filter are displayed in the browser
+system should view and edit text file
+system should set different view style changeable font color border menu toolbar s sortable browser column display file icon which are associated to that file in the window system
+system should dual panel file explorer a la total commander frigate
+system should file folder creation move copying deleting renaming
+system should viewing and editing of selected text file
+system should quick view for browsing your photo
+system should jpeg gif bmp dib png wmf emf ico cur ani
+system should multi language support english french german polish slovak spanish
+system should free for commercial or non commercial use
+system should csv comma separated value browser
+system should direct access to network neighbourhood
+system should multi language support file shredder support our ml technology just choose from the language list inside the program and it will appear in the language preferred by you language are changed on the fly no additional plug in are required a everything is in the same installation
+system should integration with window explorer you can wipe your file or folder right from window explorer to do this just select the file or folder you want to process then click them with right mouse button and select destroy with shredder from the explorer s pop up menu
+system should virtual folder shell extension you can set file shredder to have it icon on your desktop so it will act similar to window recycle bin i e you can drag drop item right to the icon
+system should drop target window to make drag drop really convenient you can use a little drop target window which always stay on top of other window
+system should custom background you can choose between eleven different window background so you can customize the product appearance
+system should useful tip banner context sensitive tip are shown in the top section of the window here you will learn how to use the program in the most convenient way
+system should online service you can go to the help menu click on product support and get connected to our support service via the web
+system should auto tag file based on folder user defined rule or manually
+system should use virtual folder and regular folder together
+system should work on file folder and url including gmail
+system should manage multi file project on network drive
+system should on the fly group file far away from each other
+system should find and clean file duplicate
+system should search your file based on what they re related to
+system should access your file through different path
+system should combine virtual folder to filter file
+system should file compare compare two file at a time with the ability to merge difference between compared file
+system should folder compare comparison of local network directory and merge difference between compared directory
+system should line compare allows for a single line comparison and replacement
+system should advanced editing option for easy file merging including multi line copy delete
+system should summary bar give a quick overview of differenes between file or directory
+system should window explorer cotext menu integration for easy file selection of file through window explorer right click context menu
+system should modify file date directily by set date and time
+system should modify file date by plus or minus year month day hour minute second separately
+system should modify file date by copy from other property
+system should modify file date by copy property from other file with the same name
+system should exeone system navigator is the file manager perfected it help you manage your file using an intuitive dual panel interface and an impressive set of option that can be applied to file and folder
+system should system info tool offer a comperhensive sheet of information about your computer the information range from the list of installed harware and driver to the browser related information and list of program setup to run at your system startup this tool will turn you into a computer expert in no time
+system should exeone system navigator s size manager provides you with a set of detailed information regarding the space consumption on your hard disk it generates statistical chart and table you are able to export into a format suitable for later use
+system should fast file management with three window to your file
+system should use easy and intuitive keyboard shortcut to quickly perform operation
+system should quick directory folder find feature find directory instantly
+system should uncomplicated zip file handling from within the program
+system should different type of file appear in a different color customize color to the way you want them
+system should built in file find function to search your hard drive for matching file name or search for file that contain specified text
+system should can work a a launch pad for all of your software
+system should executes program with paramaters and work from the do command line
+system should panelviews and one treeview panel you can copy move delete and make folder in panel view
+system should extremely fast file folder management thanks to diskshop s panel system
+system should treeview panel too combined in one a a third command source for file folder select in panelviews
+system should total information and security when managing file and folder on your drive
+system should program optimized with respect to size and speed
+system should resize move program on monitor save position
+system should access your folder with one click from folder history and save your history to file for autoload
+system should access your file from recent file list with one click from file history file backwards
+system should keyboard shortcut to all vital command
+system should picture box in each panel for viewing your digital photo ect enable disable possibility
+system should make file edit file and go to do prompt
+system should sort your file and folder from panel view
+system should rename file and folder single or multiple plus command for indexing and lcase ucase
+system should control all file folder attribute single or multiple
+system should start your program with dbl click on associated file in panelviews
+system should explore all important file folder detail in separate window single or multiple
+system should programmable disk cleanup search function with file open possibility from view plus several delete option
+system should use preset to store your common used folder location and get there fast whenever you want
+system should besides presets enjoy the build in favorite option a file and internet favorite
+system should memory function of selected view memory store memory recall and undo recall
+system should open file folder internet address menu store last item
+system should lan networking with attach drive menu
+system should browsing your disk with history function
+system should build in command line function dedicated for advanced program start
+system should view your disk and ram condition
+system should compare synchronize folder with preview window
+system should advanced view filtering date interval user pattern and file attribute
+system should advanced file filtering with function same a view filtering above
+system should selection tracing and fast recall of previous selection in all folder
+system should color change on item in each panel to indicate which mode you are using copy move or delete
+system should you will for sure experience increased productivity
+system should easy to use interface for simple creation and maintenance of synchronization task
+system should four file comparison method date time size content and
+system should uni directional synchronization replication mirroring of data from source folder to target folder
+system should one to many synchronization is supported one source folder may be synchronized with multiple target folder
+system should us native operating system apis for scanning directory and copying file for optimum performance
+system should assembly language routine are also utilized for blazingly fast execution
+system should file copy only occurs if target file are actually different than the matching source file reducing file transfer requirement
+system should multiple copy option including the ability to maintain the source file s create time stamp and a safe copy option which ensures that the target file is not deleted unless the copy operation is successful
+system should load at window startup and resides in the system tray
+system should interval option include manual every few minute every few hour every few day only on selected day first day of month and last day of month
+system should can ignore the fat ntfs time stamp issue of second difference and daylight saving time difference
+system should all synchronization activity and error are logged or optionally only error are logged
+system should log size limit can be determined by user
+system should scheduled synchronization can be paused
+system should folder can be compared and an html formatted report generated
+system should batch execution of multiple synchronization task in a user specified order
+system should password protection is available for administrator
+system should batch file renaming rename multiple file photo web page music at once preview change before renaming
+system should batch folder renaming can process folder name in mass
+system should rename file extension file extension can be selectively renamed allowing bulk re association of multiple file
+system should convert file case upcase lowcase file name or extension
+system should insert string insert string in existing file name starting at any character position you like
+system should delete string delete part of file name starting at a specific character position from which you select how many character to delete from that position
+system should string replacement search for a certain string within filename and replace it with another string
+system should sequential renaming sequential renaming will add a sequence of number to your filename
+system should rename file tag and rename multiple file according to their tag information tag
+system should filelist renaming renaming using a list of filename
+system should easy to use window explorer style interface intuitive user interface that requires no technical knowledge whatsoever
+system should full drag and drop support
+system should keyword tag any item file folder email contact calendar item note etc and search keyword tag in fuzzy non exact way
+system should quick preview for item found
+system should targeted and granular indexing option
+system should easy way to file document at work and at home
+system should the document are gathered in digital folder and binder that correspond to the one in a traditional archive
+system should quick access to necessary document saved in the archive from now on the physical searching and going through paper pile are thing of the past
+system should the well thought out intuitive interface allows to start quickly and work with the program efficiently
+system should scanning document including the multipage one and enclosing any kind of digital attachment
+system should creating many archive with document both local and network one with unlimited size
+system should administrating access right and creating backup copy
+system should most feature of the original norton commander like copy move delete and dual pane view
+system should look and feel of window explorer
+system should full drag and drop support
+system should multi threaded file management by using shell api for most operation
+system should change to file and folder from another program will be immediately reflected in the view of pablo commander
+system should context menu just like explorer
+system should compare the content of two folder
+system should integrated ftp client including ftp to ftp view open file and folder just like your local file folder
+system should intelligent addressbar to select folder execute program connect to ftp site and almost every other window shell action
+system should import and export catalog database
+system should detailed information about every file folder or disk
+system should support comment for every catalog item
+system should support custom property for every catalog item
+system should support thumbnail for every catalog item
+system should support loading viewing and clearing file conten
+system should instantly find file by name
+system should ten or twenty application button you can configure to start your favourite application with a mouse click and at the same time feed a selected file to the application
+system should configure function key a you like it
+system should zip and unzip with a few mouse click
+system should also support for rar cab tar gzip and tz archive
+system should search for file and for text string in file
+system should built in viewer for text like file and popular graphic format jpeg gif tiff bmp pcx
+system should built in editor for text file
+system should reach your desktop icon with one click of the mouse even when the desktop is cluttered with window
+system should reach your control panel applet with one click of the mouse
+system should use ftp site a local disk with proxy firewall support
+system should print ascii file one or two page on a sheet
+system should command prompt with command history
+system should show the current date and time in the title bar of the current application
+system should minimize by right clicking on empty space in the main window
+system should esc key instantly activates your screen saver
+system should a button exitwin to log off and on to exit and restart window or reboot the machine
+system should copy move rename delete zip unzip and email file
+system should upload and download file using ftp
+system should encrypt and decrypt file with or bit aes encryption
+system should select file to be processed based on a specified date range or file mask
+system should add a time date stamp to file and folder name automatically
+system should verify the integrity of copied or moved file
+system should run other file utility program a separate task within job
+system should track job success warning and error in the nt event log
+system should create task job and schedule in minute with a few click of the mouse
+system should send email to your pc your pager or your cell phone that detail job problem or completion
+system should set up complicated multi step job with ease if you need to copy a file from one machine to another then zip and encrypt that file and then upload it to a ftp server you can create a scheduled job in the nt file mover that will automate the entire process
+system should read wpd wordperfect document and convert to pdf doesn t require adobe acrobat to be installed html rtf m word doesn t need to be installed chm hlp txt ansi and unicode m doc m word
+system should support batch conversion registered version only
+system should easy to use and easy to set up
+system should support advanced pdf export option
+system should support multiple chm and hlp export option
+system should command line support multiple language support skin support
+system should since the program doe not require corel wordperfect to be installed that save your money
+system should of your work can be done while accessing only folder in your computer use virtual folder to create a virtual disk which is composed of your most frequently used folder to double your efficiency
+system should virtual folder creates a virtual disk which can be accessed from anywhere even the command line
+system should want to create a virtual folder just right click it and input the name you can delete a virtual folder a a common folder and all your file will be kept
+system should is your computer in a complex local area network or maybe you have to use too many shared folder you don t need to map a mass of network drive any more create a virtual folder to rapidly access any remote folder
+system should move one multiple or all file from one folder to another
+system should delete one multiple or all file from a folder
+system should you can choose to send to recycle bin or delete permanently
+system should view all program on the machine and uninstall a program
+system should view all file in a folder and delete rename or open a file
+system should run a window run command inside the application
+system should explore your file system using the folder map and open a specific folder
+system should web search that will let you search for website image video and news article from a variety of search engine
+system should ability to vertically append multiple file together you can choose file individually specify wildcards for multiple file selection and then combine them together
+system should ability to change the order of joined file and remove and add new file
+system should ability to specify a separator between joined file for example if you had multiple text file that you wanted to merge together you could specify a simple text delimiter to make it easier to read when opening in an application such a notepad or microsoft word
+system should can join pretty much any file type combining ascii text file merging binary file and so forth
+system should extremely fast processing time it can process multiple large file very quickly saving you time and getting the job done and it very easy to use
+system should completely customizable you can sort folder content by name date size type or any of the other several information column even change the font to suit your need
+system should suported file format save or print detailed information about a number of different file format including ogg vorbis wav avi asf asx wmv mpeg quicktime bmp gif jpeg png targa pcx photoshop psd
+system should detailed information view the following information on your file name size type date modified date created date accessed file version attribute playtime dimension title artist album title year track number genre bit rate copyright author
+system should multiple save option save the directory content a a plain text file or a a comma delimited file to be used with microsoft excel or any other supported spreadsheet software
+system should search your whole computer for music file in second
+system should search by extension wav or wmv
+system should easy to use menu where you can add or remove music file you want to move or copy you can even delete file from your computer entirely
+system should play music file before you copy them
+system should autosync ensures that you always have your latest work most current photo and favorite music on all of your computer and storage device
+system should simple one time setup designed to easily sync file between multiple computer usb keychain drive portable hard disk and more after the simple step configuration wizard file are automatically consolidated and synchronized
+system should autosync keep track of all change whenever you add or remove a file or change a name or re organize your folder autosync automatically update the synced folder
+system should create separate sync plan for work document photo and music use a usb device or ipod to keep work file up to date between a home and work pc sync music file directly across your home lan
+system should encrypt your file when synchronizing to a usb drive or portable hard drive extra protection in case your drive is lost or stolen
+system should seamless handling of virtual folder ftp webfolders zipfolders etc
+system should extended file folder detail tag checksum etc
+system should instant preview of text graphic and audio video content
+system should find file using hyperfilters e g locate file searching their comment for keywords
+system should detect and cleanup duplicate file
+system should manage many folder in dual pane or using tab
+system should easy folder comparison synchronization
+system should powerful visual filtering and selection engine
+system should touch date split merge and shred file
+system should execute text command or do script on file
+system should advanced ntfs support hard link file comment etc
+system should unicode and text encoding aware
+system should export file information a text for printing etc
+system should focus on usability with keyboard shortcut history autocompletion etc
+system should you can add filename to the filename extractor by either clicking the browse button and selecting the filename you want extracted or you can simply drag and drop file into the filename extractor window
+system should if you need the full path of the filename check the include full path option
+system should sometimes simply getting a list of filename isn t quite enough you need to add some sort of text either before or after each filename for some process to work html photo album come to mind
+system should click option always on top ctrl t or click the yellow window icon to toggle the always on top state
+system should you can save the filename extracted to a txt file or print them for your convenience
+system should securely overwrites and destroys all data on physical drive or logical partition
+system should support ide ata scsi hard disk drive
+system should support large more than size drive
+system should support hdd floppy zip flashmedia drive
+system should u department of defense m compliant
+system should support several erasing method including the most secure gutmann s algorithm
+system should data verification could be performed after erasing is completed
+system should erasing report is created and can be saved a a file
+system should can be placed and run from floppy
+system should display detected drive and partition information
+system should support command line mode can be run with no user interaction
+system should disk viewer allows to preview any sector on a drive
+system should allows to scan drive and preview file on fat and ntfs file system before erasing
+system should wipe out drive s free space out of previously deleted data
+system should securely era particular file and folder multiselection is supported
+system should allows to create and schedule cleaning up the user defined profile
+system should era internet activity temporary internet file cooky history etc
+system should era cache of internet explorer netscape opera and aol browser
+system should era local user activity temporary file recent file list run list etc
+system should lightweight installation only for both do and window
+system should installation is signed with authenticode signature and thus protected
+system should immediately after purchase personalized software package including registration info can be downloaded
+system should easy to use explorer style user interface
+system should integrated with window explorer via context menu
+system should complete interactive help file includes how to section
+system should complete integration with window explorer and the window shell
+system should coolest looking pie chart and bar graph with look texture and transparency
+system should shell context menu integration pie and bar behave just like file and folder
+system should print support for diskview report with custom header and footer
+system should pie chart and bar chart report option
+system should export chart to png jpg and bmp format or copy to clipboard
+system should instant chart instant generation of chart a you browse the file system
+system should extremely configurable and customizable easily change chart color label placement print option etc
+system should integrated disk summary to see real time disk usage of all drive
+system should reporting of actual size occupied on disk
+system should support for mapped network drive a well a network folder with unc path
+system should size on disk and relative size column handler for window explorer detail view
+system should integrated diskview folder pane that show relative folder size
+system should startup directory tab are fixed changing directory inside fixed tab creates new tab you can close fixed tab like an ordinary one
+system should besides standard file view you can view file by size and by time size view dynamically calculates subdirectory size and sort them by size on disk size of the file on disk take into account ntfs compression ntfs sparse file and disk cluster size
+system should besides standard icon for file surf make icon from image file this process is slow so some limitation based on picture file size apply default limitation can be changed using picture icon setting dialog
+system should file are divided by group based on their extension inside each group sorting is based on file name default group can be modified using file group setting dialog
+system should surf register win s global hotkey for you to activate it at any time pressing hotkey when surf window is already active minimizes it hot key is configurable via general setting dialog
+system should editing favorite and startup directory you can drag row with mouse to delete row select it by shift space or by clicking on row header and then press delete key use key to edit cell
+system should if current directory ha parent directory it is represented a current directory is represented a
+system should you can drag n drop selected file from surf to window explorer and back default mode is move to copy file hold down control key you can drag selected file name from surf to cmd exe if you drop file on directory item in surf then it will be the target directory you can additionally hold alt key while dropping file to auto rename file on paste if you drop file on tab name file go there you can additionally hold shift key to open selected tab or target directory after paste
+system should when you copy file to clipboard full path text is placed to clipboard along with file and you can paste it in text edit field
+system should to find file in current directory quickly type several first character of file name
+system should in quickpath search field you can type for example to open c first letter should be a drive letter search is limited to subdirectory will find c but will not find c
+system should to search only subdirectory of current directory enter dot a first character for example when file tab show c typing will find
+system should if you enter server name in network server dialog e g select share dialog will appear share that you can t open look gray you can select several share to open at once connecting to window computer with password protected share select this share and check connect to selected share before clicking reconnect a
+system should copy all directory and file recursively
+system should copy local user and group copy local user local group and their membership between remote host will automatically copy these object a encountered in security and audit permission
+system should copy creation time last access time last write time of file and directory
+system should copy read archive system and hidden attribute of file and directory
+system should copy all file and directory security permission exactly a defined on source object
+system should copy all file and security auditing rule exactly a defined on source object
+system should copy all file and directory ownership exactly a defined on source object
+system should will copy any share defined for directory and provides ui for user to manually import file print or device share
+system should will copy all share permission
+system should before importing local user and group it will try to reuse them if already existing by name on the target machine
+system should get a list of all machine user and group security identifier defined on a local machine
+system should identify file and directory which define rule for a certain object
+system should replace security rule for user group or arbitrary sid with another
+system should server do not need to be connected to a domain to copy all object
+system should copier will not quit on access defined but attempt to grant itself access to such object
+system should directs you to the appropriate program to open file
+system should easy to use drag and drop analysis of file extension
+system should scan registry to let you know which extension are currently supported
+system should file manager feature make it easy to control the association between extension and software to open file
+system should monitor your system and alert you if something is trying to alter your file extension association
+system should history page make it easy for you to keep track of what ha been done
+system should nine mode file manager web browser file viewer a text or binary hex text editor image viewer movie viewer zip file viewer ftp and audio player independent of mode
+system should built in zip unzip zip to exe zip repair support along with many other file tool such a convert between bmp jpg gif wmf tif file create numbered file append file name etc
+system should email file from file manager or text from text editor
+system should search for file and text content
+system should calendar clock create calendar file or print
+system should still access to do prompt for u old timer
+system should create playlist from audio player
+system should tag editing for your s
+system should quick access to recent folder used and web favorite
+system should handle large file with ease
+system should file can be viewed in greenbar mode
+system should column of text may be copied to the clipboard
+system should regular expression searching and grep
+system should easily transfer file between your pc and phone
+system should one click auto fill allows quick medium uploading
+system should automatically back up new photo and video from your phone
+system should intuitive graphical interface provides easy file browsing
+system should quickly find file based on file size
+system should apply a fast checksum algorithm to identically sized file to find out whether content is identical
+system should ability to quickly and easily select the file you wish to delete and remove
+system should visually preview file header just in case to see if file match
+system should blisteringly fast searching of your document
+system should search and highlight term in pdf document
+system should scan document in bulk to file at a later date
+system should reminder system so you don t forget to action important document
+system should document can be stored in pre defined filing area
+system should document can be found by searching for any word in any document
+system should store microsoft office document or most type of image file
+system should dedicated viewer for internet document
+system should scan single sided or double sided page
+system should work with most home scanner
+system should import from a watch folder
+system should copy support background execution
+system should move support background execution
+system should delete support background execution and deletion to recycled deletion to recycled by mask
+system should view with internal viewer internal viewer support following file format ascii bmp wfm emf pcx ico jpg jpeg gif jif dib rle tga html required internet explorer and later and also binary file
+system should find file by mask date changed size and attribute
+system should set and change file attribute
+system should set and change description for file and folder
+system should pack file and directory alt now support zip cab tar rar arj
+system should unpack fpacked file alt now support zip cab tar rar arj
+system should support addition new packer module on base external packer
+system should customizable user interface customizable color theme which may be saved customizable file color
+system should customizable user application user can customize application menu for his need
+system should multilanguage support now is available english russian slovak szech polish ukrainian hungarian and spanish
+system should support window clipboard file operation such a copy cut and paste
+system should quick file and folder viewer
+system should support unc path you can working with unc path in the same way a with local directory for example you can view server sharedir directory if you execute cd server sharedir or select direcory in go to dialog go to menu
+system should scan folder or file group
+system should optimized detection algorithm file size and bytewise comparison
+system should duplicate detection by content date name size
+system should employ file filter date attribute size to minimize scan time
+system should the duplicate can be copied moved recycled or passed a parameter to external program
+system should find and deletes duplicate file
+system should regains valuable hard disk space
+system should reduces time needed to defragment your hard drive
+system should minimizes time used by antivirus to scan your computer
+system should when generating the data list you can use property like size date of creation file extension in addition a lot of the metadata contained in file can be used this feature enables you to create for example list that contain artist album and genre photographer have the option to utilize information like shooting location shooting date camera model and resolution for photo list
+system should with you can easily print folder content or you can save the directory content a a text file csv file etc to further process the extracted information for export there are many format available
+system should the extensive filter and sort function can be applied to many property such a file extension image size and date of creation by using filter you can include or exclude file and or folder
+system should due to the real time preview the effect of all setting such a change of the column width font color and frame color are visible immediately
+system should the setting made can be saved a a profile for repeated use example are output type page format and appearance
+system should generate file hash checksum verify file checksum and compare file
+system should reveal hidden file or folder
+system should automatically organize with digital magnet
+system should store file email and various document
+system should all file function copy move delete rename split etc
+system should quick view wav avi mpeg etc
+system should file viewer with syntax highlighting
+system should command line shell command do command built in command
+system should find duplicate file in any drive folder and neighborhood computer
+system should search similar and duplicate file by crc name size and their combination
+system should search a file in result by inputing part of the file name
+system should show chart by duplicate file type size and quantity
+system should find duplicate for a specified file
+system should search in local computer and networked computer
+system should check file similarity by crc name size and their combination
+system should compare two file by crc cyclic redundancy check
+system should move unnecessary duplicate file to recycle bin delete unnecessary file temporarily
+system should rename selected duplicate file move them to another folder open the folder they are located
+system should log all the action of duplicate file scan and resolution
+system should set file scan scope on file date size and arttribution
+system should skip file type scan or specify file type scan
+system should file name auto numbering customizable starting number increment value and number format
+system should set date time to certain value
+system should set created date modified date or modified date created date etc
+system should change attribute of file and folder
+system should process one file folder or a group of file folder subfolders
+system should recursive operation process whole directory tree or certain branch
+system should powerful custom filter to selectively stamp certain file or folder
+system should secure erase of file and folder
+system should secure erase of whole disk and parititions
+system should manage file for most window apps
+system should fast search filter engine
+system should migrate to sql server or msde support
+system should multi panel multi desktop file manager
+system should the modern interface help you to have full control over your file and folder you can immediately begin using owl commander with no learning curve because it will feel extremely familiar and comfortable to you fully configurable menu toolbars and hotkeys support drag drop right click context menu and clipboard operation with file
+system should you not need external zip and ftp program owl commander let you access zip file and ftp site a easily a local folder you can copy file from anywhere and to anywhere even from an ftp site straight into a zip file
+system should upload download entire folder at once parallel operation automatically retry if a connection attempt failed
+system should you can have several copy command going simultaneously from anywhere and to anywhere
+system should you can view content of file text html picture and rtf
+system should very fast file and directory search search by file context search in zip file
+system should command line for executing arbitrary command through the system shell
+system should clonekiller will clean your hard drive of duplicate file that are just wasting space
+system should workspace control allow you to save and reuse current workspace in future session
+system should drag and drop confirmation for all object dropped into xplorplus whether internally or from external application i e explorer
+system should be in place at one time with dual independent folder file list layout
+system should file filter simple and complex inclusive and exclusive for displaying file you want
+system should compare file list folder content with extensive comparison option
+system should printing of folder content including file version information if required and available plus more layout option
+system should full drag and drop interaction for all supported application
+system should keyboard shortcut for nearly all command for efficient everyday use
+system should enhanced file selection capability based on extension a well a type
+system should start up folder option including c root my document last used etc
+system should enhanced search engine with multiple file spec and inclusive exclusive option now also find folder new in version
+system should instant font sizing to suit your eyesight both larger and smaller and font selection
+system should change font and background color independently for both file list
+system should save a copy a feature to make a copy of a file or folder with a new name or path
+system should folder plus sign resolution for remote drive folder
+system should refresh file list that work
+system should refresh from here for folder
+system should refresh all that actually refreshes all the list
+system should compare synchronise and swap displayed file list content
+system should rename multiple file window using a custom template with a rename preview window to check the desired result before you commit
+system should image contact sheet manager window with option for heading orientation image size and direction multi page optimizes page usage
+system should new clear work file dialog to wipe or delete unused file immediately or on start up
+system should all window and dialog now open using a smart positioning strategy to ensure visibility
+system should quickly view system setting like computer name user name total ram memory usage processor name speed and load operating system service pack and more
+system should synchronise the computer date and time with internet time server
+system should quickly create an internet web gallery from selected image in one or more folder
+system should view the registry and change key setting them if youre game
+system should play multiple selected medium file in a playlist
+system should us a launch bar instead the old folder tree
+system should search file by name extension date and type
+system should can save bookmark for the most frequented folder
+system should advanced backup between folder without re copy of existing file
+system should deletion of duplicate file within single folder or between folder
+system should compare and copy missing file between folder
+system should crc file check between two folder
+system should multiple synchronization job in task list
+system should keep copy of old file
+system should high speed data migration tool
+system should transfer from any data source to another for example you can transfer data from an existing microsoft access database to an existing sql database
+system should template for sql dbf access csv and excel
+system should transfer at high speed rate from any data source that ha an odbc connection without the use of our template
+system should simplifies file and folder operation
+system should ensures safety of file and folder management
+system should highly configurable and convenient file management environment
+system should transparent interface now you can view the file on ftp or in the archive a easily a you would do it on your local computer
+system should quick view for browsing your photo and music collection or for sorting out the random chaos of your downloads folder
+system should a number of file viewer that can handle dbf rtf html doc excel and other format
+system should additional utility included treenotes startup manager calculator smartpad and directory size manager
+system should built in file viewer supporting image viewing
+system should well thought out multithreaded program engine allows the handling of any number of concurrent file operation copy download move search extract compress upload etc
+system should integrated support of all common type of compressed file archive zip arj rar ace jar ha lha and more
+system should folder comparison system very helpful when you need to compare two file and detect the change difference
+system should versatile support ftp ftp and sftp protocol are support also
+system should file synchronization system the simple way to compare and merge your file and folder you may sync folder on ftp site
+system should size manager find the folder that take up too much hd space
+system should file reconstruction after the copy process is interrupted this is a must when a huge file such a a film is copied
+system should advanced search system allowing fast searching on local and network disk now regular expression are added
+system should total commander file plug in system support
+system should built in text viewer feature configurable syntax color highlighting for common programming language c c java pascal etc scripting language perl php vbscript bat etc and document markup language html xml
+system should method navigator quick search for a necessary function or procedure in big huge vast file pascal vb sql php perl and others
+system should html support system quick type feature for the most commonly used tag internet explorer view code completion
+system should export in html and rtf with color highlighting this is extremely convenient when publishing your source on the web
+system should view and edit tag
+system should detailed information about video file
+system should picture operation all popular format are supported
+system should different destination for each item
+system should side by side comparison of two directory
+system should detect difference in a file size timestamps attribute
+system should exclude directory from a comparison
+system should explorer style tree of embedded directory
+system should portable no install just unzip and execute on the spot
+system should easy uninstall just delete the application and it related file
+system should easy intuitive user interface operation
+system should built with embarcadero c builder
+system should user can upload or download file from the host machine using their browser these file are transferred from pre defined shared folder that are created by the administrator
+system should access important file from your office or home machine from anywhere the intuitive web interface allows you to move copy download and upload file a if you are working locally
+system should using public link you can have your client or other business associate transfer file from your machine without having to create a user account for them
+system should modify the name and logo that appears on the screen to give a more personal touch to your client
+system should user can easily copy cut and paste file on the host machine using the remote clipboard operation this allows user to move file from one folder to another on the host machine from any remote location
+system should easily zip and unzip file on the host machine from a remote location allowing user to compress file before transferring them over the internet saving tremendous amount of network traffic and time
+system should synaman is a product not a service this mean you purchase it once and use if for ever there are no monthly fee setup fee transfer fee or usage fee
+system should actual file transfer a well a any administrative task can be optionally encrypted using ssl a self signed ssl certificate come bundled with the product that get you up and running withing minute
+system should create unlimited user account which are protected by user id and password administrator can associate multiple shared folder to these account with customizable read write access
+system should user access can be restricted by ip address for further security
+system should using built in audit trail and logging mechanism administrator can easily back track any user s activity in the past using the audit trail log you can answer question like who logged into the system and what did they do
+system should the system automatically sends email alert to the administrator when a security violation occurs for example an alert is generated when someone try to login with incorrect password more than time
+system should notification message can be sent via email when someone uploads or downloads file from a specified folder this is a handy feature if you are using synaman a a central repository for a project
+system should work with any operating system
+system should upload and download file using a web browser no other software is required on the client end work with all popular browser including internet explorer mozilla firefox apple safari and google chrome
+system should installing synaman is very easy simply download the installer and run it an interactive wizard will guide you through the setup process within minute you can have your client colleague transfer file
+system should no other software is required to run synaman there is no need to configure any web database or ftp server everything required to run synaman is included and get configured automatically during installation
+system should use our free ip discovery service to locate your machine on the internet if you are using synaman on a dynamic ip address such a home
+system should important email alert are sent to the administrator when suspicious activity is observed on the host machine for example an alert is generated if someone try to guess a user s password
+system should synaman automatically check for new release and bug fix and update itself on a regular basis once the update are downloaded and verified they get applied to the running instance without any human interaction
+system should the web interface exposed by synaman is ajax enabled providing a smooth and user friendly environment to work with user see file and folder a they appear on their local machine
+system should since synaman is a web based solution all you need is a browser to connect administer and transfer file
+system should easy to use and search are fast
+system should search file of a certain type size modified time and created time
+system should remove and move file in batch
+system should can pause and resume search process
+system should identifies and sort music and movie into duplicate cluster
+system should find all track reference in itunes which are missing and put them into the non existent track group
+system should browse your music library and find which of the duplicate you want to keep and which to delete
+system should evaluates the play count and date added to determine the best track
+system should track are marked with a tick if they are to be deleted
+system should go in itunes and deletes both the track reference from itunes and the file itself if you have the option checked in preference
+system should you can send the item to the recycle bin or permanently remove them from the computer
+system should multiple window up to four window can be opened simultaneously they can be tiled cascaded or arranged any way you want to make copying and moving file far easier
+system should file preview an optional preview window can be opened to display the content of file the type of file that can be displayed include graphic word processing document text file pdfs spreadsheet multimedia file and others
+system should file filter to include or exclude file meeting particular specification
+system should expand the folder tree for a specific folder or an entire drive to make all folder visible at once
+system should display and print listing of folder size number of file and total byte for each folder for the entire tree or any part
+system should print file from the preview window
+system should convert graphic to different format
+system should create and extract from zip file extract from rar file
+system should group rename change the extension of a group of file all at once
+system should change file date and time
+system should destroy file by writing over their content so they cannot be recovered
+system should system information display including current memory usage
+system should go straight to a folder by name
+system should built in command line to run any window or do command
+system should quick access to system function such a control panel clipboard viewer calculator do prompt format diskette copy diskette
+system should user defined program can be added to the menu
+system should thumbnail view of file available in any version of window
+system should quick search function based on user defined criterion
+system should index and split large file
+system should press ctrl p to quickly jump to a directory fman remembers which folder you visit most often and suggests them first this is so much quicker than manually navigating through directory hierarchy
+system should completely tailor fman to your need via it powerful plugin system install plugins created by others or write your own and share them with the community
+system should launched in fman is under very active development we re committed to developing it for year if progress ever stall fman s open source promise guarantee that you will never be locked into an unmaintained platform
+system should scan any location or drive cd dvd usb network path
+system should quick search by filename path of file type
+system should create rename and delete your entry
+system should add a many file and folder a you want to rename
+system should define how the new file name will look like concerning file date number customized text and so on
+system should decide by your own how date and time in file name should be formatted
+system should substitute drive letter for any path
+system should restore virtual drive after system reboot
+system should view all assembly form gac
+system should search assembly based from part of assembly name or public key
+system should sort the searched list based on any assembly attribute
+system should select one or more assembly and remove them application can remove assembly which is installed by any installer
+system should double click on row to open assembly in il disassembler ildasm note that you have to set proper path environment variable so that ildasm can work
+system should swiftcompare lite is a free file compare and folder synchronization tool for window compare and merge any type of file including binary file folder or drive using this freeware file compare tool a light version of swiftcompare swiftcompare lite is very useful for business people programmer web developer traveler who need to work at multiple site on different pc home user who need to keep their photo music file video etc organized and just about anybody who keep multiple backup or backup of backup of his stuff to protect him from any disaster data corruption accidental deletion people who copy burn important data onto a floppy cd dvd rom before taking the latter to office home presentation site can use the binary compare function of swiftcompare lite to make sure that the data copied burned is correct to the last byte hence saving them from possible frustation or embarrassment
+system should command line script and command line switch allow you to easily process multiple operation script can also be created interactively from the main dialog
+system should easily change the case of file name and number file sequentially time and date variable can also be used during renames
+system should built in viewer that display the actual difference between two file and output the result optionally to a formatted text file
+system should easily find duplicate file on your drive
+system should file system and ftp plug in
+system should overlayed folder structure for better overview
+system should simple and recursive compare of folder and file
+system should ignoring folder and file by name relative path absolute path or pattern
+system should manual change of synchronization setting
+system should synchronization of folder and file with the possibility to choose alternative destination and backup path
+system should throughput limit and pause for all file transfer
+system should window explorer compatible drag drop
+system should opening deleting and renaming file and folder
+system should defining custom file command including the integration of graphical file comparison tool
+system should creating virtual structure by mapping location a subfolders
+system should defining task and bundling them to job for automated execution command line scheduler
+system should the embedded advanced search algorithm and content analysis technology enables it to quickly compare file content bit by bit and accurately identify all the duplicate in the selected folder and disk
+system should the customized search setting enable you to exclude subfolders exclude or include specific file type define file size range and modified date etc the flexibility let you pin down the search scale and speed up the scanning process
+system should it find duplicate file of all type with convenient file type selection guide you can search for file of specific type such a music video email image open office document m office document etc
+system should you can add and scan multiple folder or drive on your computer at a time besides it support any removable storage device such a usb flash drive iphone ipod psp zune player camera and so on
+system should finding and removing duplicate not only free up your disk space and reduces clutter back up size and time but also help to speed up file indexing and therefore improve your computer performance
+system should a default smart duplicate finder will exclude system file application file hidden and protected file avoiding system crash because of mistakenly removing critical file
+system should program can also read from and write to sd card usb stick external drive etc
+system should add a many folder a you want where the program should replace file
+system should add a many file a you want a source file that are used to overwrite the old one
+system should define what file are worth overwriting concerning file size file date and much more
+system should check later what you replaced with the history function
+system should print out your history file via network or on a local printer
+system should load and save replacement project
+system should arrange your data by type with a hierarchy of label
+system should search your data by name rating date added last time opened type label artist actor duration
+system should rate your data and add comment
+system should fill information about your data or simply retrieve it from the internet automatically poster preview automatically taken from the video list of actor director producer writer synopsis comment rating from internet user album cover image list of track with information artist and album name year
+system should play your medium in an integrated or external medium player directly on your tv using internet box if supported i e sfr neuf box medium center
+system should explorer of file with tab
+system should surlignage of the file according to their extension
+system should fast outline of the photograph textual file
+system should filtering of the list of the file to find a file quickly
+system should decompression of the file to the format zip rar ace cab
+system should calculation of the size occupied by your file
+system should personalization of the icon of the file
+system should management of the favorite file
+system should internal system of copy of file
+system should control crc of the file
+system should editor of tag
+system should manage file directory and drive and nothing else
+system should use instead of window explorer
+system should all the key information right in the main window
+system should easy access to file and tool you use often
+system should clear out all temporary file
+system should launch file upon detection of removable medium
+system should customize the view font background and tag color
+system should set the minimum and maximum tag size
+system should customize filter by editing file extension
+system should sort file and folder by column
+system should hide and show any column
+system should optional launch at the system start
+system should icon in the notification area
+system should copy or move file and directory
+system should check the synchronization state of the file
+system should copy only the newer file to a other directory
+system should open file by doubleclick or popup menu in external program
+system should rename file with popup menu
+system should progress dialog when copying or moving or deleteing file and directory
+system should manager all your movie tv show and concert import new file and rename them automatically
+system should scrape the movie db the tv db imdb cinefacts videobuster and ofdb logo cleararts and more are scraped from fanart tv
+system should mediaelch creates nfo file for use with kodi thanks to extensive configuration option other medium center are supported a well
+system should mediaelch is open source and developed continuously feature suggestion can be made in our community
+system should prevent file deletion on start up
+system should recordthe name and directory of the deleted file a well a the action performed on it
+system should auto tag file based on folder user defined rule or manually
+system should use virtual folder and regular folder together
+system should work on file folder and url including gmail
+system should manage multi file project on network drive
+system should on the fly group file far away from each other
+system should find and clean file duplicate
+system should search your file based on what they re related to
+system should access your file through different path
+system should combine virtual folder to filter file
+system should organize volume folder and file into category
+system should browse zip arj rar cab arc ace lzh and tar archive
+system should add comment to each file folder and disk
+system should search for file and folder using a filename or your own comment with wildcards limiting the search result by date size and category
+system should search for file in archive
+system should extract description including tag from wav wma and ogg vorbis file
+system should extract cd information from cddb
+system should extract description from html adobe acrobat pdf and microsoft office file
+system should multilanguage interface more than language are supported
+system should load file content of folder and subfolders
+system should display the length and bit rate of file
+system should sort file by name size type date duration or bit rate
+system should copy all information selected item to clipboard tab delimited csv mode
+system should export all information selected item only to mht web archive generic xml or xml with defined xslt template
+system should support for utf encoding mode
+system should file viewer express search for many common file type or group of file type display print organize or send file over the internet
+system should find and display picture video sound music text file document datasnap database file on your computer
+system should picture file type supported are jpg gif uncompressed tif tiff bmp ico pcx wmf emf psd png tga etc
+system should view text doc word htm html shtml shtm asp pnp pdf rtf wri sys bat bak lst ini do wps cd datasnap file
+system should find phrase letter and number in text file
+system should quick color editing and resizing of picture or image
+system should find and play wav mid wma wmv avi mpg mpeg mov flv file
+system should separate and multiple play list for music and video file
+system should some image editing feature a contrast brightness resize etc
+system should quick print of picture text document database access excel and datasnap cd file that are viewable by file viewer express
+system should print a list of all occurrence of a file or searchable file type on your disk or cd rom and save in a text file
+system should send file you can find with file viewer express by e mail if you use a stand alone e mail program a outlook express
+system should receive file over the internet by same e mail tab
+system should organize any number of file in group you create and define in your own file database with easy tabular viewing for quick location and retrieval of frequently used file
+system should sort and view cataloged file by name description search word and group you define
+system should organize your entire disk with one procedure automatically grouping file a picture sound
+system should music video text document database or spread sheet using file cataloging
+system should set your own style for window list box entry field and thumbnail
+system should complete help text for easy program use
+system should window s explorer style interface and click for viewing of supported file
+system should support source view of adobe pdf file
+system should window version view m access paradox excel and datasnap sqllite database file
+system should create slide show of photo album with music from play list and transitional effect
+system should organize picture in photo album video and music in play list document text and database file in list
+system should get photo from the internet
+system should four different type of view
+system should recursive calculation for directory structure optional
+system should result list can be sorted ascending descending by any checksum type
+system should link to file can be resolved optional
+system should hash value can be displayed in hexadecimal or mime compatible mode
+system should display of detailed file property like attribute size and date of creation
+system should result list can be copied or saved a csv or html file
+system should during long run calculation the computing progression is displayed
+system should statistic on computation average speed rate file size are automatically collected
+system should a warning message may be displayed before a time consuming computation is started
+system should multiple file computation task may be aborted during the calculation
+system should checksum calculation for a very big file may be aborted too
+system should all option are maintained in an ini file which is automatically saved in the current user s application data directory and can be configured
+system should comparing file content accurate result
+system should high speed comparison algorithm very fast
+system should very easy to use only need click to get result
+system should flexible source drive s folder s file size s and type s
+system should save load the result duplicate file
+system should helpful option sub folder system hidden file excluding path
+system should invert check operating the result easily
+system should fast filter quickly filter the duplicate file by size
+system should sort result by size in descending order
+system should mark the adjacent duplicate file group by different color
+system should can set and reset attribute
+system should copy and manipulate date time stamp
+system should insert date time information into file name
+system should ideal tool to annotate your document
+system should you can use custom filter template batch process file search file mask and shift date time print folder content
+system should atmfiler can handle folder that doe not exist for the moment like a usb stick when the usb becomes available the sync will start
+system should there are no limitation if the folder are local or on the network
+system should you can ignore subfolders if you like
+system should you can let the application wait x day before it syncs
+system should logging all the event done
+system should filter and wildcard for just syncing jpg file or for example file that start with photo unlimited filter rule per folder
+system should three way to handle file collision overwrite create a new file and skip
+system should you can create subfolders to easy manage photo for example theese are available mmmm yyyy yyyymmdd with both date of the copied file and file creation date january or
+system should possible to add a new file prefix like that will then be txt only available in move
+system should move file to a folder a soon a any file arrives which contains all the above possible parameter the file is transfered to one or unlimited amount of destination folder
+system should unlimited number of master folder aswell
+system should support to import eml file that are exported from window live mail window mail outlook express into mac mail
+system should import eml into mac mail with accurate email property like to cc bcc from sent received date attachment
+system should this program preserve all formatting text html of eml file
+system should batch bulk mode to import eml into mac mail
+system should split a file by size
+system should split a file by number
+system should split a file by segment
+system should merge the ripped unit of the file
+system should the numbering function is particularly helpful with the comfortable administration of picture or music collection a user of winfr folder you have many option to number folder it is possible to place the numbering before and after the folder name
+system should this function allows the changing of an existing numbering you can insert new folder into numbering remove folder from numbering or change the parameter of the numbering
+system should with this option date and time of creation or last modification can be added to the folder name therefore different date time format are available or can be defined by your own
+system should like file name also folder name can have an extension to change this for many folder at once this functionality is available you can simply replace the existing folder extension or keep it a part of the folder name and add a new one
+system should four function of capitalization are available which should cover the most usual requirement there is the option to apply this function to folder name only to folder extension only or to both
+system should with this option the folder name are extended by a prefix and or suffix without changing the actual core of the folder name
+system should with the help of this option single character or character string of a folder name can be removed or replaced by new character or character string e g replacing of underline by blank
+system should this menu option allows to insert charakter string on free choosable place of the folder name there is the possibility to select if the counting start at the beginning or at the end of the file name
+system should herewith you can freely move part of folder name to new position
+system should a name structure provides the functionality to assemble folder name by a specific schema beside normal text which will be taken over one to one into the file name also so called element tag are supported
+system should by mean of this option new folder name can be determined by a list for this winfr folder us csv file which among others can be created with customary spreadsheet program
+system should changing folder attribute set or delete attribute like hidden archive etc or change date time of folder
+system should creating a folder list creates a list of folder opened in winfr folder
+system should different way to open folder by dialogue by drag and drop from other application like the window explorer or by mean of folder list
+system should free to define filter at the open dialog
+system should number of folder to open only limited by the system
+system should sorting of the preview by clicking the column header
+system should manual sorting of the preview by drag n drop
+system should multiple undo functionality thus the possibility exists of returning at any time to a previous status of the modification without having to reject directly all modification made up to then
+system should history functionality cancel change at folder name which were already taken over or longer time to be past
+system should scripting functionality allows you to record complex renaming action and to re use them at a later time
+system should show long name a tooltiptext
+system should coloured marking of changed folder name
+system should get position of character make it easier to insert or replace character at the right position
+system should b multi language ability the implementation of language other than english and german is also possible
+system should command line option allows controlling the program from command line
+system should easy program update it s not needed updating the program manually anymore
+system should you take data from a server on a laptop on the road you must synchronize your laptop with the server to and returning from travel you often copy on your laptop a large volume of data hosted on a server synchronizing a large volume of data is incomparably faster since only one the file that are not up to date are copied
+system should you need to maintain folder or disc up to date with recent change mirroring raid winsynchro can manage your synchronization and run them automatically at interval of time or specific time pro version
+system should with the ability to perform unidirectional or bidirectional synchronization winsynchro can be used a a manager of automatic or manual backup backup are very fast a only file that are not up to date in the backup are copied
+system should winsynchro can be used very quickly from the context menu that appears on all folder it open the window of winsynchro in compact mode for a bidirectional synchronization of the folder with it image
+system should at the end of each synchronization a report is created and saved in the folder
+system should get a quick and complete overview of the hierachical structure and content of a new folder you have received
+system should find the most recently modified file anywhere in a folder hierarchy of document
+system should find the file and folder taking up the most space on your hard drive and move them to a different drive
+system should find duplicate file file with identical content in your document folder and delete them
+system should reliably copy the entire content of one external hard drive to another
+system should backup the file from your main hard drive to an external drive
+system should search for file of a paticular name or partial path quickly in a big hierarchy of file
+system should extract file of a particular type for example image file out of a hierarchy and move them to a different root folder
+system should complete integration of ntfs dfs and active directory administration into a single tool
+system should a powerful visual query designer for ad search create complex search with no need to manually write ldap filter
+system should a detailed log of all administrative task performed
+system should superior workflow compared to mmc and explorer exponentially increase your productivity

@@ -1,0 +1,474 @@
+Download one file from more users simultaneously without corruption! This way of downloading dramatically improves download speed, especially for fast connections, and it's safer than classical downloading. Segment position ans size are decided by file size and chunks speed.
+Allows downloading and uploading parts of file which is being currently downloaded by you or other users. This increases download speed and file expanding over network.
+Avoids a full line usage and leaves some speed for web browsing. Realise, that download speed limit is dependent on upload speed limit which is dependent on amount of opened slots/hubs.
+Disconnects sources who speed is under certain value for certain time. If download speed during segmented downloading goes too low, the source is disconnected regardless the set value to avoid unnecessary slot usage.
+You can set sounds according to situation, change color scheme or icons, show popup balloons, see emoticons...
+Web links opens in new windows, instead of existing ones
+Seconds are shown in timestamps
+The sfv check tells the result in the lowest status bar
+Autocomplete user names in main chat
+Skip list. Files you don't want to be downloaded will be skipped
+Popup menu for url's. Uou can either "Open", "Save as..." or "Add to Winamp playlist"
+"Go to file" in the popup menu in the search result window. Downloads the file list and "goes" to (focuses on) the file
+Notification in PM's when the user goes offline so you won't have to write messages that he/she won't see
+"Autosearch for alternatives" on both folders and multiple selected files
+User specified text color (not just 16 colors, but Any color)
+User defined colors in main chat (multicolor ie)
+Filter useless NMDC messages
+Filter in the user list. This way you can easily find users in the list
+Added icons to the window tabs, so you can easily see what that specific tab is (optional)
+Fast autosearch algorithm for the "search for alternatives" feature
+Customized colors for the progress bar in the transfer window
+Fast search for alternates for "releases"
+lastlog feature
+Support for multibuttonmice
+Vertical tile feature to be able to tile subwindows vertically, not only horizontally
+Option (in the Viewmenu) to show/hide the transfer window
+"File menu" to the transfer menu, to open incomplete files (or its folder[s])
+Web Shortcuts. Now you can type eg. "/g [search string]" to search google directly from chat
+File information (dimmed) in transfer window for files not beeing currently downloaded but is waiting
+Update check feature
+Multiple simultaneous downloads
+Configurable bandwidth scheduler
+Global and per torrent speed limiting
+Quick resumes interrupted transfers
+RSS Downloader
+Password protected boss key
+Global runcommand feature on torrent completion/state change
+UDP proxying for SOCKS5
+Proxy privacy features
+Improved set download location/relocate feature (now moves files for you)
+Show add torrent dialog for magnet links
+Add option to pause torrents when user activity is detected on the computer
+Tiger Tree Hashes (TTH) used for file integrity
+Search across all (or selected) connected hub by type, size, or name
+Resume of downloads, with optional search for alternate sources
+Logging options and configuration for chat, private messages, downloads, and uploads
+Auto configuration of UPnP routers
+MAGNET link support for linking to specific content
+Automatic and manual download priorities
+Saving of user's file lists for browsing and queueing
+Segmented downloading
+Multiple torrent downloads
+Upload and download speed limiting, both globally and per torrent
+Advanced seeding rules
+Adjustable disk cache
+Only uses one port for all the torrents
+UPnP sets the forward on your router
+Can use a proxy, for both tracker and peer communications
+Fast resume
+Can set a default download dir and move completed files
+Can import torrents automatically from a set dir
+Highly customizable interface
+IRC plugin included for quick help
+Embedded tracker, host your own torrents, automate your shares (periodic scanning of a dir)...
+Distributed Hash Table: host on it a completely decentralised torrent and/or benefit from it when the tracker is offline.
+Dynamic bandwidth management  download without disrupting other applications
+Detailed stats on the health of media files provides a safer, more controlled experience
+No hardware configuration  reduced hassle of fast downloads
+Lightweight client
+Local peer discovery
+Configurable bandwidth scheduler
+Global and per torrent speed limiting
+RSS Downloader
+Completely new core written in C++, stable and fast, very low CPU usage
+Multiple simultaneous downloads, ability to select download files in one torrent and set file priority
+Ability to limit the upload speed as well as download speed
+Intelligent Connection Optimize, Auto Optimization for different connections, runs well using all default settings
+Intelligent Rate Control, optimize the upload distribution in order to get the max download rate
+Intelligent Disk Cache, decrease the potential damage to the hard disk when highspeed downloading (>500KB/s) by decrease the read / write frequency, extra memory usage is the cost
+Intelligent Disk Allocating, no longtime disk allocation, also decrease the disk fragment to almost zero
+Intelligent Hash Scan, no timeconsuming scanning when seeding / resume
+Support Torrent Share£¬ exchange torrent files while downloading
+Support LongTime Seeding, improve download speed notably
+Using only one TCP listening port
+Auto config ICF (Internet Connection Firewall) and ICS (Internet Connection Sharing) in Windows XP
+Auto config port mapping in router (UPnP support is required in router, Windows XP is required)
+Support Mutitracker torrent format, and utf8 extension, UDP tracker Proptocol
+Auto Update Checker
+MutiLanguage supported
+Clean interface
+Multiple simultaneous downloads
+Disk cache mechanism
+Fast job resume
+File selecting support
+Powerful file manager
+UPnP port mapping
+Instant Messaging support
+Gzip Data compression
+Flexible speed control
+Scheduled downloading
+Integrated with IE
+Shutdown computer when done
+HTTP/SOCKS4/5 proxy support
+High speed
+Very low CPU & Mem usage
+Cache mechanism
+High speed
+Powerful files management function
+Various running time log
+Integrated with IE
+Favorite website management
+Clipboard guard
+Simple and easy to use interface
+Easily searches a multitude of sites with a single click
+Returns all results in a single list
+Download directly from the list, or visit the website source page for complete details
+Complete filtering and sorting of results, on any column
+Automatically allows searching and downloading on sites which require user registration, using your system's cookies
+Complete downloading transparency, with an engine status screen which shows a comprehensive breakdown of exactly what pages Torrent Harvester is loading and the results from each page
+Get updates of engines directly from within Torrent Harvester
+Create your own engines for your favourite sites using the inbuilt Engine Designer, and create your own Torrent Harvester update website to distribute engines you create to other users
+Completely userdefinable engines, allowing for creation of search engines for a multitude of different sites: Torrents, IRC, ED2k, Cracks, Keygens, Direct Downloads, etc.
+Complete help every step of the way.
+88 Included engines
+Support for PeerGuardian binary list formats (P2Bv1, P2Bv2, P2Bv3 code taken from libp2p, with few minor modifications)
+PeerGuardian List Viewer
+Autoopen hubs OP Chat (works with the 1st entry of OP chat names list, which has been renamed to Hub Chatrooms)
+Toolbar positions are now saved
+Explorer like locking of toolbars (added a toolbar context menu, toolbar and media toolbar toggles aswell)
+Option to use AutoComplete in search window (this option also turns on persistent search history. AutoComplete from revconnect)
+Options to keep finished uploads/downloads between sessions
+Quick Search box (Under View menu)
+Added "Always on top" (Under View menu)
+Option to display full info for file lists in download queue
+Option to place all non-hub tabs in front (pm windows are counted as hub tabs)
+Option to use Zion like tabs
+Mini tabs (hub tabs only)
+Option to blend offline search results
+Option for logging chat in favorite hub properties
+Auto resizing chat message boxes (set max value in experts only to 1 in order to disable this)
+Consider old clients (no full support for TTH) as cheating
+Option to use RegExp's and wildcards with ignorelist (use $Re: for RegExp, option to prevent it unnecessarily looking for them in the list)
+Option to toggle "speed indicators" of Stealthy styled progress bars
+Check finished files for viruses
+Ability to use the old way (StrongDC 1.x) of displaying hub names (default: disabled)
+Compatibility modes for few different kinds of external user list images
+Files are highlighted in search window if user already has them shared (SMT)
+Chat command /reconnect (use /rc for short)
+RegExp ADLSearch and related features from Zion Blue 2.02
+Option to use one layout for all hub windows
+Modified the present "Hub chat rooms" feature so that it's more useful to those that use raws or user commands (see added note)
+Now extracts "metadata" from Profiles.xml file
+Back button to ClientProfileDlg
+The raw & cheating description quick access dialog from Zion Blue 2.02
+Delete checked file lists
+Extended Favourite download directories
+Easy to use well organized search will allow you to search files according to various categories. Use the advanced search if you want to set up individual parameters of search results.
+Just imagine that all the latest movies, music, games and software are in one place! Easytouse search with ability to filtrate results according to various criteria will help you to find exactly want you need.
+Embedded multiformat media player MediaGet will allow you listening to music and watching movies you chose online before their download is complete. Just press Play.
+Easy to adjust pass band, fast recovery of interrupted download, serial torrent integration.
+When you download music and video they are instantly added to your media database. You can sort your collection in any way you like. Just enter a file name or a name of the artist in the search field to find a certain file. Results will appear already when you type in the request.
+Ares Galaxy automatically finds more sources and downloads files from many users at once. Increase the speed of your downloads, and enjoy one of the most easytouse BitTorrent clients.
+Ares Galaxy search engine helps you find exactly what you want, quickly! Just as you google for the best airfare, you can now avoid to explore every single torrent site or perform multiple web searches.
+Ares Galaxy works behind firewalls and requires zero configuration. Ares Galaxy works well also on restricted networks, so that data sharing is enabled between two peers behind a firewall.
+Clients use several networks to create one reliable network. (ED2K, Source Exchange, Kad)
+Kad is now in an open testphase, eMule v0.42 can be enabled to use Kad
+eMule's Queue and Credit system helps to ensure that everyone will get the file he wants by promoting those that upload back to the network
+Each file checked for corruptions while downloading to ensure an error free file
+The eMules Intelligent Corruption Control helps to speed up the correction of corrupted parts
+Auto priorities and Source management allows you to start many downloads without having to monitor them
+The Preview function allows you to look at your Videos and Archives before they are completed. For video previewing, we recommend the Video Lan Client
+The eMule features webservices and a webserver that allows you to have quick access to and from the internet
+You can create categories for your download to organize them
+To find the file you want, eMule offers a wide range of search possibilities which include: Servers (Local, and Global), web based (Jigle, and Filedonkey), and Kad (Still in Alpha)
+eMule also allows you to use very complex Boolean searches that make the searches much more flexible
+With the messaging and friend system, you can send messages to other Clients and add them as friends. In your friend list, you can always see if a friend is online
+With the build in IRC client, you can chat with other downloaders and chatters around the globe
+Completely free & opensource
+Firewall to firewall transfers
+Builtin community chat
+No bundled software of any kind!
+Connects to more sources
+Creative commons license support
+Max. speed network connections
+Junk result filters
+TurboCharged download speeds
+iTunes integration
+BitTorrent support
+Proxy Support
+Supports multiple torrents running in one instance.
+Automatically loads torrent info from torrent file.
+Support for tabs sessions (save current session and load it later)
+Very strong protection against anticheat scripts.
+Very good, user friendly GUI. Drag&drop support for files.
+Parses all data from all running uTorrent, Azureus, BitComet and ABC instances.
+Can select upload and download speed.
+Can select random values for upload and download speeds at tracker update.
+Can select tracker response interval (program automatically gets this value from tracker).
+Lots of bittorrent client simulations available  latest versions of uTorrent, BitComet, Azureus, BitTorrent, BitLord, ABC, BTuga, BitTornado, Burst, BitTyrant, BitSpirit, Deluge, KTorrent and Gnome BT.
+Shows uploaded, downloaded, tracker update intervals, and more info all in realtime!
+Support for custom announce and client simulation parameters.
+Good error protection.
+Supports different types of proxies. (HTTP, SOCKS4, SOCKS4a and SOCKS5)
+Program keeps a log and if any errors occur you can send the developer the log and he will try to fix the problem.
+Program will inform you of new versions.
+Works in almost all bittorrent trackers.
+Download one file from multiple users at the same time without corruption! This can vastly improve your download speeds.
+Prevent users from exhausting precious free slots in the network
+The credit system is used to reward users contributing to the network, i.e. uploading to other clients
+Clients in the network are identified by a unique 384 bit RSA public key, it's used to grant earned credits with other users
+A hub independent en more effective search engine
+Find and recommend quality files with ease. Take a look at the Share Masters for magnet links (and to post your own)
+Once you decide your downloads, you never need find sources by yourself
+Use the power of 4 P2P Networks simultaneously!
+Four networks mean access to a wide variety of users. Look no further: Shareaza's got it!
+Download from multiple sources
+Experience downloads the way they were meant to be: fast! Shareaza swarms across four networks!
+Sophisticated filehashing
+Say adios to corrupted files and mp3s that skip. Shareaza detects and fixes corruption before the download completes.
+Find that file with Global Searching on Gnutella2!
+Search the entire network, not just a part of it. Shareaza will find you that file!
+Multiple results tabs
+Each search is displayed in a new window. Your search results will never be overwritten. Shareaza runs the searches you want, when you want!
+Previews, users comments, and ratings
+Get picture and movie previews right from the search panel. Even view comments and ratings written by users like you. Shareaza ensures you avoid those fakes and download the real deal!
+Tired of boring old Windoze? Why not Skin it!
+Choose from dozens of different looks or even make your own skin and share it to the world! Shareaza has a style to suit your tastes!
+Shareaza goes Global!
+Translated into over Ten different languages (and counting), Shareaza is equipped with full Unicode support for true international searches and downloads. Shareaza is perfect for anyone, anywhere in the world.
+Further Shareaza's horizon with a Plugin
+Extend the functionality of Shareaza with plugin modules, the sky is the limit. You can even create your own!
+Did someone say Media Player?
+Play all types of video and audio files, watch visualisations, edit playlists, and even control the player with a snazzy remote. Shareaza is your onestop media solution.
+Preview filters
+Want to view that video file before it has finished downloading? Well, Shareaza has the ability to preview your incomplete audio and video files!
+Chat with a friend or someone you've just met!
+You can chat with friends oneonone while you're using Shareaza, pass on a message or get to know another Shareaza user.
+Block unwanted attention
+With the help of security block lists, a highlysophisticated IP and client filter, you have the ability to block malicious companies and clients. Shareaza keeps you safe.
+No central servers
+Encrypted communications
+Contact list with instant messaging and private mail
+P2P file sharing
+Builtin Torrent Editor/Viewer
+Automatic update of trackers, as well as personal tracker support
+2 modes: Simple and Classic
+Support for backup/multi trackers
+Improved GUI: the client has been redesigned to have a more intuitive and appealing GUI. Servers, Transfers and Statistics windows has been revamped for better screen usage and greater customization.
+Web Server: originally conceived in eMule Plus but now on official this 'light' interface is useful to remotely control your client. It's evolving each day, adding features to make it better while not making it a resource hog. We have some extended features as Intruder Detection, A4AF support, a graphical queue list, client version information, automatic compression support (gzip) and much more. eMule XP and eMule Light templates are now included in the main distribution as eye candy or simplified interfaces to our Web Server. Templates are optimized to reduce required traffic while keeping compatibility with different browsers.
+Better Interface Design: we take special care in the interface design, so you won't see any misplaced box or a cut string. Images used in our client and sites are done the best way possible by Graphic Designers to be more appealing and meaningful.
+Localization: eMule Plus has its own team of translators localizing new strings. Currently supported languages: Basque, Belarusian, Catalan, ChineseSimplified, ChineseTraditional, Croatian, Czech, Danish, Dutch, English, Extremaduran, Finnish, French, German, Greek, Hebrew, Italian, Korean, Lithuanian, Malay, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Romanian, Russian, Slovenian, Spanish, Turkish, Ukrainian.
+Our Own Team of Betatesters: eMule Plus team has an extensive team of beta testers, including Windows 9x users, releasers and a lot of different system configurations are daily tested. We have an extensive testing process before a release. This doesn't mean the client won't have bugs, but there will be less of them or they won't affect the majority of the users.
+Static Servers Priority: priority for static servers can be changed from the GUI without users having to change the configuration files directly.
+Rating/Comments of Files: a better rating information has been added to help users to get an idea of the file rating. With several levels of quality and a special icon to inform users about fakes. This system accumulates ratings of remote users and calculates an average value shown to you in the thermometer style.
+Upload Progress: a different and improved upload progress bar is used to give a better glimpse of the status of a client downloading from you. It shows the number of parts each client has as well as currently downloading part.
+A4AF (Asked for Another File) Management: the ed2k protocol allows only one file to be transferred at the same time from a single client, so other requests to the same user are queued until the transferring file is completed. Our client shows you sources that have been requested for other files in each single file sources list and allows you to force them to switch to another file.
+Stored Sources: when you close your client for long periods sources are lost. Most of them can be recovered with the sources exchange protocol but for rare files the obtained sources from other sessions can be lost. Stored Sources allows you to store sources in a file to be retrieved again when you restart your client.
+Better Client Information: client software as well as the status is shown with different mule icons. Different colors related to the official color of the software are used to give a better insight on the client type distribution in your queues and the status of the clients you connect to or those connecting to you. Credits, friends and banning statuses are also shown with different icon modifications.
+Unneeded Sources: there are sources in your download queue which sometimes don't have chunks for the file you're downloading, so they are using a slot while not being useful for us. This kind of sources are removed automatically when the max sources limit for a file is reached.
+Download Queue Progress: queue progress is shown with color coding (progression, regression or the same position) and information about how many positions were gained or lost after previous source status check.
+Destination Directory: you can set a different (from the main incoming directory) destination directory for every downloading file. After completion, a file will be transferred to that directory.
+Filename Cleanup: automatically or manually activated, this feature allows you to clean filenames. Unwanted advertisement strings or noncased files can be formatted in a more pleasant way.
+Improved Search: you can search files not containing strings. There is also support for FileDonkey and eMugle web service searches. The selected search method is also retained between sessions, so you won't need to change it to your preferred choice every time you start a new search.
+Enhanced Information for Search Results: additional information is available providing the date when servers saw a complete source for the specific file last time. This information can be very helpful during file selection as it shows the risk of staying with incomplete file. Media information (length, bitrate and codec) is provided for media content files in search results. Average file rating (comments are unaccessible) collected by servers is available as well together with the estimation of the number of voted users.
+Related Files Search: a related search gives the files that are the most published by the clients who share the given file. It can be used to detect related (companion) files, but also anomalies in files distribution.
+Part Traffic: spreading information in p2p applications is vital. Knowing which files are already well spread and which are not is something that releasers request a lot. This information can be obtained from the clients currently downloading from you or by storing all transfers information. The Plus team believe that the second method is better because you know how your client actively performed.
+Part Status: sometimes, old and not well designed clients asks for parts which are already well spread while not asking for rare parts. This isn't useful for the network because files need more time to be spread. With this in mind a feature that allows you to disable access to these parts has been bundled in the client.
+JumpStart: the initial release of a file is mostly chaotic. The problem is that some parts of the file are transferred hundred of times while others are not transferred at all. JumpStart automatically controls a release while supervising the spread of the different chunks by hiding well spread parts. This is an automated and intelligent process.
+Upload System (zz): the ed2k protocol has been designed in a way only full chunks are shared. As chunks have a size of 9Mb you need to complete them before sharing that part to the world. The zz Upload System prioritizes the upload of full chunks while maximizing your upload speed with trickle slots. These slots use the remaining bandwidth not used by the other downloading clients. The speed of spreading parts is prioritized instead of a level transfer speed between all the downloading clients, guaranteeing a faster spread of files on the network.
+Small and Rare Files Boost: higher score for rare and small file requests in waiting queue, what increases chances to upload rare files as well as faster spread small files.
+Shell Menu: for shared files a shell menu is provided bringing you the file handling options supported by the operating system.
+Doubleclick Behavior: provides a possibility to configure the doubleclick action for sources and files, letting a user decide which way is better.
+Font Configuration: allows customization of the font style and size used within IRC/chat/log windows.
+Smooth File Completion: while using a custom made copy routine instead of not quite performing system one, completing files now let you with a much more responsive system.
+Message Filtering: allows you to disable messages containing filtered words from being shown. There is an option to keep them in the log.
+Comment Filtering: allows you to disable comments containing filtered words from being shown. There is an option to keep them in the log.
+Intelligent Chunk Request (ICR): the Intelligent Chunk Request system allows faster file downloading by concentrating on the rarest and (or) complete chunks.
+Lancast: saves bandwidth and increases download speeds in dual network capacity environments (your PC is on the internet, but also on a LAN with other eMule clients). Your client will discover other local/LAN sources and will upload to these clients above your client's normal upload limits, using multicast. Useful for people who share an Internet connection with other eMule Plus users (student networks, home networks and Metropolitan Area networks as long as they support multicast data).
+Complete Sources: a new column in Shared Files window which shows a range of possible values for the number of complete sources, for the files you're currently sharing. If you didn't receive enough data to calculate a total range, you will see an approximate value preceded by a sign "Tips  useful not visible features".
+Shared File Permission: permission to show a file in the shared files list which can be requested by a remote user. This feature provides comprehensive flexibility to report only desirable shared files for particular user category.
+Auto Download Lists: every X minutes client downloads Xml files from preconfigured locations, which contain ed2k links, those links are automatically added to download into specified categories. Useful for first spreading of files inside groups, etc.
+Improved Source Exchange: tracks all file requests (not only clients waiting for some file in waiting queue) what provides more sources for source exchange requests as some clients can request several files.
+Large File Support: eMule protocol extension to support large files (> 4GB). Maximum supported file size is 512 GB  1 byte (549,755,813,887 bytes).
+Once installed, any file you drop into your Dropbox folder will synchronize and be available on any other computer you've installed Dropbox on, as well as from the web. Also, any changes you make to files in your Dropbox will sync to your other computers, instantly.
+Let's say you accidentally delete that 8 page report that you were supposed to have for a meeting tomorrow. A handy Dropbox feature is the ability to undelete files or pull up any previous versions of it.
+You can also share files and folders with whomever you choose, whether it be music with buddies, docs with colleagues or photos with grandma, even if they're not Dropbox users.
+We obsess over speed, and it shows. Dropbox is very smart about the way it handles files. For example, if you make a change to a huge file, dropbox will only update the piece of the file that changed.
+All files are transported over SSL and encrypted using AES256 (banks use this too).
+All completed or  compromised files are cleaned automatically.
+Additional sources are searched for at userspecified intervals.
+A nice, userfriendly interface, easy operable by a system tray icon.
+Paused downloads are automatically resumed.
+Configuration from last run is saved and auto loads on startup.
+Automatically resumes paused downloads;
+Configuration from last run is saved and auto loads on startup;
+Clean and free, without any adware or spyware;
+Finished and wrong files are cleaned automatically;
+Finds more sources at user specified intervals;
+Interface is easy to use and goodlooking;
+Interface is easy operable by a system tray icon.
+Finished and wrong files are cleaned automatically
+Finds more sources at userspecified intervals
+Interface is easy to use and goodlooking
+Interface is easy operable by a system tray icon
+Automatically resumes paused downloads
+Configuration from last run is saved and auto loads on startup
+Clean and free, without any adware or spyware
+Download and upload speed limits.
+Seeding.
+It is not necessary to install the program for a single torrent download.
+The program's additional features (auto startup, updates, file associations) become available after installation.
+Core/UI split allowing Deluge to run as a daemon
+Connect remotely to the Deluge daemon
+Web UI
+Console UI
+GTK+ UI
+BitTorrent Protocol Encryption
+Mainline DHT
+Local Peer Discovery (aka LSD)
+FAST protocol extension
+µTorrent Peer Exchange
+UPnP and NATPMP
+Proxy support
+Web seed
+Private Torrents
+Global and pertorrent speed limits
+Configurable bandwidth scheduler
+Password protection
+RSS (via Plugin)
+Other  libtorrent features
+A safe place to store your files
+Share files with other and edit them in realtime
+Create new documents, spreadsheets and presentations instantly
+Integration in Gmail and Google+
+Powerful search features
+Open over 30 file types right in your browser
+Create and reply to comments
+Creates revisions to save your stored content
+Finished and wrong files are cleaned automatically;
+Automatically resumes paused downloads;
+Finds more sources at userspecified intervals;
+Configuration from last run is saved and auto loads on startup;
+Interface is easy to use and goodlooking;
+Interface is easy operable by a system tray icon.
+Global Options
+Customize Traffic Settings up to 500%
+Daily graphic reports
+You can turn off download reports (Seeder emulation)
+You can turn off upload reports (Network problems emulation)
+Prioritization to select which torrents, and which files inside those torrents, to download first
+Supports Magnet links
+Selective downloading
+Optionally move torrents to a different folder when they finish downloading
+Encrypted peer connections
+Torrent file creation
+A builtin web server so that users can control Transmission remotely via the web (using RPC or WebUI)
+Automatic port mapping (using UPnP/NATPMP)
+Fast Resume  with peer caching
+Blocklists for bad peers, periodically updated with the same bluetack peer list used by PeerGuardian and PeerBlock
+Single listening port for all torrents
+Scheduled bandwidth limits
+Global and pertorrent bandwidth caps
+Sorting/filtering options
+HTTPS tracker support
+IPv6 support
+Local Peer Discovery support
+Pleasant and easy to operate interface;
+Automatically clears downloaded and incorrect files;
+Automatically resumes paused downloads;
+Operable by system tray icon for convenient and faster use;
+Automatically searches for multiple sources at userspecified intervals;
+Keeps configurations from last run and auto loads on startup.
+Access your OneDrive right from Windows Explorer—photos, documents, and all your other important files.
+Quickly add new files to OneDrive by dragging them to the OneDrive folder.
+Easily organize your files and folders in OneDrive, just like any other folder.
+Connect back to your PC if you forget to put something in OneDrive.
+Now you can play music and video files instantly on any device in your home, without a second thought about format compatibility. Worryfree conversion of audio and video files lets you rest assured your favorite songs and vacation videos will be played back on any supported device, regardless of format. Automatic, onthefly transcoding in real time enables you to simply sit back and enjoy the show or sounds. Nero MediaHome will do the rest.
+Do you have so much digital media saved on your PC, Laptop, and the hard drive of your game console that it’s hard to keep your files in order? With Nero MediaHome, organizing digital media files has never been easier! With intuitive categorization features for TV channels, collections, music, photos, and videos, Nero MediaHome gives you full control over hundreds and even thousands of your personal media files. Stream your favorite music, videos, photos, and TV shows to compatible devices throughout your connected home, including to your Xbox 360 and PLAYSTATION 3 game consoles.
+Want to watch your favorite TV program someplace in your home other than your living room? Stream live TV around your home and even outdoors with wireless streaming features in Nero MediaHome. With simple network configurations and the appropriate devices, you can watch your favorite shows as they happen anywhere in your home!
+Now enjoy your favorite songs no matter where you are, throughout your home! Nero MediaHome lets you stream your favorite songs from the hard drive of your PC to any room in the house. Plus choose from a variety of web radio stations and customized multimedia podcasts.
+SHAREit can share photos, music, video, apps, PDF, and other file types with no size restrictions
+Directly control your PPT with your mobile.
+Back up valuable data in a second, save every treasured moment.
+Easily transfer and back up contacts, messages, apps, all types of files from your old phone to new one
+Search for .torrent files in the most popular search engines
+Fully customizable user interface, with several skins included
+Embedded web browser with links to the best .torrent sites, you can add your own favs too
+Create .torrent wizard to help you share your files with the rest of the community
+Details window to know everything about your downloads
+Powerful queue system: choose all you want to download and let it work by itself
+Install directly in 5 languages: English, Spanish, Italian, German and French, it also includes: Polish and Dutch
+Interface is nice and accessible;
+Interface is easy operable by a system tray icon;
+Completed and bad files are cleared automatically;
+Searches more sources at userspecified periods;
+Automatically resumes paused downloads;
+Configuration from last run is saved and auto loads on startup.
+Simultaneous download of multiple torrents
+Integrated torrent search engine
+Integrated RSS feed reader and downloader
+Good internationalization
+DHT, PeX, Encryption, LSD, UPnP, NATPMP, µTP
+Cross platform (Linux, Mac Os, Windows)
+Very lightweight
+Torrent queueing and prioritizing
+Control over files in a torrent (filtering, prioritizing)
+Nice µTorrentlike interface with Qt4 toolkit (qBittorrent v2.x)
+IP filtering (eMule dat files or PeerGuardian files)
+Peer display with country and hostname resolution (qBittorrent v2.x)
+Advanced control over torrent trackers (qBittorrent v2.x)
+Closest open source equivalent to µTorrent (qBittorrent v2.x)
+Torrent creation tool
+Remote control through Secure Web User Interface
+Automatically resumes paused downloads;
+Finds more sources at userspecified intervals;
+Configuration from last run is saved and auto loads on startup;
+Interface is easy to use and goodlooking;
+Finished and wrong files are cleaned automatically;
+Interface is easy operable by a system tray icon
+detailed user interface, with views of individual peers, detailed bitfield graphs, and bandwidth usage charting
+highly flexible bandwidth throttling, including trading/seeding share adjustment and adjustable priority for individual transfers and peers
+efficient peer choking / unchoking algorithms to ensure fast downloads
+easy to create and seed new transfers
+peer, transfer, and systemwide event logging with adjustable detail level and backscroll size
+move downloaded files to new filesystem location while transfer is in progress, even to different partition
+full DHT (Distributed Hash Table) implementation including detailed message traffic charting
+Free  Zultrax is fully free. We could use a contribution from you if you like the program but do not obligate it.
+Clean  No adware, no spyware, no bundles. Zultrax doesn't install any garbage and does not modify your registry.
+Stable  Zultrax doesn't crash or give problems. It just does its work.
+Smart  The Zultrax kernel contains advanced state of the art P2P technology.
+Silent  Zultrax keeps an eye on your CPU usage and adapts to it. On this way Zultrax does not slow down your machine.
+Listings
+Keeps you updated with new shows added
+Featured shows (Shows we recommend)
+uTorrentlike interface
+Multilingual user interface
+Torrents filtering by status and tracker
+Resolving of peer's host name and country
+Displaying of peer's country flag
+Tray icon and balloon tooltips when download is complete
+Association with .torrent files
+Selectable download folder when adding a new torrent
+Select files to download
+Choose files priority
+View details about connected peers
+Full information about each torrent
+Per torrent options
+Trackers details
+Clean interface
+No server or internet connection needed
+Zero configuration
+High speed batch file transfer
+Logging transfers
+Send and receive text snippets
+Open received files directly from the application
+Taskbar integration
+Progress and transfer indicator
+Show your IP addresses on the IP connection page
+Full Unicode support
+Metro style UI
+Managed torrent queue system
+Disk cache and Magnet URI support
+Trackerless torrents (using the Mainline kademlia DHT protocol).
+Torrent style multitracker announcing
+IP filtering with eMule style ipfilter.dat import
+Protocol Encryption support
+Superseeding.
+Minimize to tray with transfer rate summary
+Full Unicode support through UTF8 and native Windows widechar strings
+Login support where tracker requires it
+Ability to edit trackers specified in the torrent and to create torrent files
+Port randomisation and forwarding (UnPlug and Play or NATPMP).
+Transfer rate and connection limits both global and pertorrent
+Shutdown scheduler

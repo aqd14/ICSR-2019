@@ -1,0 +1,1286 @@
+Comprehensive popup controls to keep unwanted advertising off your desktop;
+A tab browsing mode that lets you open several pages in a single window, allowing you to load links in the background without leaving the page you're on;
+Integrated search (powered by Google);
+Industry leading accessibility with Find As You Type - find links and page text by simply typing;
+Simplified privacy controls that let you cover your tracks more effectively;
+A streamlined browser window that lets you see more of the page than any other browser while at the same time being more configurable;
+A large variety of free downloadable extensions and themes that add specific functionality and visual changes to the browser.
+Quick to start up from your desktop
+Loads web pages in a snap
+Runs web applications faster than ever
+Search and navigate to web pages from the same box
+Arrange and organize tabs however you wish ó quickly and easily
+Get to your favorite websites with just a click, from the thumbnails of your most visited sites in the New Tab page
+Try Minimalist, Star Gazing, or Google Chrome Artist Themes.
+One box for everything
+New Tab page
+Application shortcuts
+Dynamic tabs
+Crash control
+Incognito mode
+Safe browsing
+Instant bookmarks
+Importing settings
+Simpler downloads
+Opera keeps your browsing safe, so you can stay focused on the content. Our secure browser protects you from fraud and malware on the web. Would you like better privacy on the web? Try our unlimited, free VPN feature.
+Tired of online ads? Opera is the first major browser that can block ads for you without add-ons. According to tests, our built-in ad blocker makes content-rich webpages load in Opera up to 90% faster.
+Our visual bookmarks, tab cycling and customizable shortcuts, keep you on track and save you time. Can't get enough online video? Donít miss our new video pop out feature - a floating, moveable video frame that lets you keep browsing or work in other apps without missing any of the action.
+Operaís speed and performance are among our top priorities. The data-compressing Opera Turbo feature, native ad blocker and other features will help you browse faster. And, the new battery saver feature will help you browse longer, too: it extends laptop battery life by up to 50%.
+With a currency converter built right into the browser, Opera helps you shop online around the world without any nasty surprises on your credit card bill.
+Over 1,000 extensions make it easy to customize Opera. Download the extensions and themes you like from Operaís add-ons catalog to get the best browser experience with a personal touch. With the animated themes, you can even bring Operaís start page to life.
+Switch between devices and pick up browsing where you left off with Opera sync. Bookmarks, open tabs and other data stay synced through your Opera account. Want to keep Opera with all its settings handy on a USB drive? Try our portable version.
+Opera brings the latest news to one spot, available from the browserís start page. Personalize your news feed to read what is most relevant to you. You can add preferred news sources from all over the world, in addition to the top 50 articles from your region.
+The new graphic capabilities and improved performance in Internet Explorer 9 set the stage for immersive and rich experiences.
+Internet Explorer 9 surfaces the websites you love most and puts them one click away. Once you're in the browser, the New Tab page helps get you started browsing quickly, providing meaningful suggestions and information to help you decide what to do next as you browse.
+Notifications in Internet Explorer 9 allow for more fluid and faster browsing. Instead of dialog boxes popping up unexpectedly and getting in your way, all notification messages are consolidated in the Notification Bar, located at the bottom of the browser frame.
+With Pinned Sites, you can get to your favorite sites directly from the Windows taskbarówithout having to open Internet Explorer first.
+Tear-off tabs make interacting with multiple sites fast and intuitive. You can rearrange tabs within Internet Explorer 9ójust like you can rearrange icons in the taskbar in Windows 7óor you can open any tab in a new browser window by dragging that tab to your desktop.
+Designed based on what you use most, the navigational controls in Internet Explorer 9 are streamlined and simplified. The back button is larger, the address bar and search box are combined into one new address bar, and the multiple menus from previous versions of Internet Explorer are consolidated into a single menu.
+Cross-site scripting attacks are a leading online threat. Their aim is to exploit vulnerabilities in the websites you visit. How do they work? By compromising legitimate websites with malicious content that can capture keystrokes and record your login information and password. If your login information and password is captured, your personal data could be compromised.
+One way to avoid deceptive websites is to know the address of the website you're intending to visit. With domain highlighting, Internet Explorer 9 lets you see the true web address at a glance by highlighting the domain name in the address bar, making it easier for you to identify the sites you visit.
+Online Profile Storage
+AutoFills
+Built-in AD/Pop-up Blocker
+Built-in RSS/ATOM Reader
+Additional Mouse Functions
+Multi-Window Browsing
+Real Full Screen Mode and Alternative Full Desktop mode
+Built-in Search Engine
+Full IE Compatibility
+Control Your Privacy
+Safe Recovery
+Customizable Skins
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+You can create several standard messages: they are stored in a database, so that you don't need to type them all over again.
+You can choose to which friends you want to send your message
+Macroreplacement unique system. By placing the identifiers $nc$ or $nl$ anywhere on your message, they will be replaced by your friend's name once the message is posted.
+By activating the "random messages" option the program will search messages randomly on its database everytime it posts. This way you will be able to create several messages and each of your friends will receive a different message.
+You can search direct by drag text in browser. The other way, you also can add special search button to search bar, for example: news, software, image, BT, dictionary, MP3, click the search button will begin search, no use to switch search engine in pop menu. The best and speedy way is direct drag drop text on search button.
+There are 15 search buttons in the search bar image: Baidu, Google, Yahoo, GreenBrowser Search, 163 Search, MSN Search, Google Feeling Lucky, Baidu Know, Baidu News, Google Image, BT Search, MP3 Search, Software Search, Shopping Search. If you like powerful search bar, click here to download and uncompress to GreenBrowser's user folder.
+You can add some frequently use programs link in external toolbar by "Set External Toolbar...". After That you can set the program "Auto Start with GreenBrowser" or "Auto Close with GreenBrowser".
+Tab bar icon show the state of page: blank page? finish download? read or not? locked? protected? saved?
+Compatibility enhancements
+WebGL and High DPI support
+Optimized for touch screens
+Powerful developer tools for creating Windows Store apps using JavaScript
+Fast website loading (prerender and prefetch, caching and prioritization)
+Enhanced view of websites and Windows Store apps using JavaScript
+Tile support and tile notifications with RSS
+Personalized look and better integration with the Windows environment
+Closed Captions for HTML5 Video
+Custom Style Sheets
+Enhanced Keyboard Navigation
+Next-Generation Standards Support
+HTML5 AJAX History
+Advanced Page Caching
+HTML5 Draggable Attribute
+Full Screen for HTML5 Video
+Location Services Preferences
+HTML5 Offline Support
+Optimized for modern processors
+Based on our own optimized layout engine (Goanna)
+Safe: forked from mature Mozilla code and regularly updated
+Secure: Additional security features and security-aware development
+Supported by a friendly, active community of users
+Familiar, efficient, fully customizable interface
+Support for full themes: total freedom over any element's design
+Support for easily-created lightweight themes (skins)
+Smooth and speedy page drawing and script processing
+Increased stability: experience fewer browser crashes
+Support for many Firefox extensions
+Support for a growing number of Pale Moon exclusive extensions
+Extensive and growing support for HTML5 and CSS3
+Many customization and configuration options
+Update your status and make comments from anywhere on the web New Flock starts fast
+And it handles JavaScript really fast
+The JavaScript engine in Chromium allows Flock to keep you up to date with all your friends and favorite feeds, while keeping the browser's performance top notch
+The sidebar is the hub of activity in Flock. It keeps you informed with feed content and social streams so you don't have to leave the web page you are on. As soon as you sign into your social services and/or subscribe to RSS and ATOM feeds, the sidebar starts delivering what's new with your friends and favorite content
+The sidebar works like the channels on a TV. Use the "channel changer" drop down menu at the top of the sidebar to see just friends on Facebook, just friends on Twitter, all friends, just feeds, etc. But this is better than TV, because you can create any channel you want!
+Talk about the news, the funny video you just found, or anything else you stumble upon. Just click the Talk button, write a comment, and get back to what you were doing. We'll automatically add the link, and even shorten it for you.
+We know there are lots of people who want to customize and personalize their online experience, and browser extensions can be a great way to do that. Google Chrome extensions work with Flock.
+Flock provides you the option of creating a free account that stores your favorite sites and feeds, your social networking accounts, and all the groups you make for your sidebar. You can access your account from any Flock browse.
+When the browser closed, the selected browsing data would be cleared automatically(not selected by default). You can go to Options‡Privacy Data‡Privacy Plus to setup.
+You can make efficient commands with easy mouse gestures. Practiced mouse gestures can save you quite a lot of time and are fun.
+Some web pages use IE controls and thus can only run in IE correctly. The IE tab is designed to visit these pages.
+With the bulid-in Adblock, CoolNovo can prevent the display of ads. Especially, the Adblock of CoolNovo supports the rules of the world famous Adblock Plus' rule and thus make use of the existing blocking-list of Adblock Plus.
+Dragging and dropping a block of text in the page will create a page and search the text with your default search engine. You can also drag the links and pictures to open them in the newtab page.
+For your convenience, CoolNovo supports some popular download tools in the context menu of web pages. Thereíre more than 10 kinds of downloading tool supported including NetAnts, Orbit, QQ Xuanfeng, IS, FlashGet3, FlashGetMini, NetX, WebThunder, Xunlei, and so on.
+A new feature of CoolNovo, there're some common-used features on the Bottom toolbar, very convenient and useful.
+It has the ability to open multiple sites and windows inside a single browser task.Web pages are organized on tabs to prevent your screen from getting cluttered.
+A fast way to control the Web Browser. Mouse gestures can provide quick access to common functions of Crazy Browser.
+Currently, Crazy Browser supports for 3 kinds of plug-ins: COM Objects, Scripts and Executable Files.
+Crazy Browser allows you to prevent most pop-up windows from appearing over pages you want to view while you're using the Internet.
+Built-in web form filler. Also support integration of RoboForm Form Filler.
+Built-in popup killer suppresses all annoying popup ads while you browse internet.
+Built-in web form spell checker proofs your online postings against spelling mistakes.
+URL Filter eliminate ad banners or other unwanted components within web pages by address patterns.
+Convenient access to major web search engines or your own favorite ones by Quick-Search Bar
+Built-in VBScript/Jscript/HTML/Text editor.
+A large collection of skins available to tune the browser appearance to your own taste.
+Autologin enables you to navigate to your favorite site and log into your account with a single click.
+Seamless integration with online translation engines and dictionaries.
+Site group lets you save a collection of web sites as a group and open all of them at once with a single click.
+You can type pre-defined short alias instead of long URL to browse frequently visited internet sites
+TheWorld Browser is the second multi-thread frame browser in the world the first is Internet Explorer 7.0), the multi-threaded window frame can avoid web page being out of response.
+TheWorld can block popup ad. and float ad. automatically.
+You can also use black list to filter ad., the black list filter is working from lower level of HTTP protocol, with regular expression, you can filter every page item that you want.
+Flash filter, unlock page script limited, zoom in/out page in all level, proxy quick switch, auto forms, quick media saver, privacy keeper, mouse gesture , custom hotkey, drag&drop link ...
+TheWorld Browser has special safe guard to keep you out of risk, more safe function is still in development...
+Which is insist multi-thread download, resumable download, with a easy download manager, it can save you most time.
+TheWorld Browser insist skin and plugins, now we had hundreds of skin and plugins to extend your browse experience, also, we insist Internet Explorer's plugin.
+Take full advantage of your PC with GPU-powered graphics and compiled JavaScript
+Deliver interoperability through web standards including HTML5 and ES5
+Create next-generation experiences with HTML5 and CSS3 graphical capabilities.
+Your sites shine through a site centric browsing experience and pinned sites
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Tabbed browsing gives you a better way to surf the net. You no longer have to open one page at a time. With tabbed browsing, open several pages at once with one click. Plus, your homepage can be multiple pages, in tabs. And if you mistakenly close a tab or window, functionality to Undo Closed Tab or Window helps you bring it back to continue working with it.
+SeaMonkey's powerful Add-ons Management provides almost infinite possibilies to extend your Internet experience both through installing additional functionality created by others and even freely developing your own extensions and providing them to the rest of the SeaMonkey community.
+Feed detection notifies you when web pages offer RSS or Atom feeds, and feed preview lets you view their contents and choose a reader with which to subscribe to those - including an internal reader in the Mail & Newsgroups component of SeaMonkey.
+Smart Location Bar enables you to search your visited web pages right when typing in the browser's location bar and finding what you want to re-visited as fast as possible by learning which pages you visit frequently.
+Popup blocker lets you surf the web without interruption from annoying ads.
+Image Manager lets you block images to remove offensive images or speed up the rendering of web sites.
+Find as you type gives you another way to navigate a page. Just start typing to jump from link to link or to find a word or phrase within a page.
+Session restore brings back all your open windows and tabs after the rare occasion that SeaMonkey crashes - and if you wish even when you close and reopen the browser or restart your computer.
+Plus all the features a modern browser should have including: Advanced security settings; Password, Download, and Cookie managers; Web form autocompletion; Themes; toolbar customization; multi-language and multi-platform support; and the latest in Web Standards.
+Tabbed Mail lets you manage your mail and folders in parallel, without losing control of where you're at when reading, replying to and working with messages in more complex patterns.
+Junk mail controls help you take back control of your e-mail from spammers. SeaMonkey's adaptive junk mail control gets smarter with use and is personalized to the e-mail that you receive.
+Manage your mail with customizable Tags and Mail Views. Color code your e-mail to help you prioritize. Sort your mail with views to help you through your e-mail much faster.
+Multiple Accounts support helps you manage all your mail through one interface.
+Feeds and Blogs is a reader for RSS and Atom feeds right in your messaging center that eases your reading of information from all across the web.
+SeaMonkey Mail & Newsgroups includes Enterprise ready features such as S/MIME, return receipts, Address Books, LDAP support, and digital signing.
+SeaMonkey's powerful yet simple HTML editor keeps getting better with dynamic image and table resizing, quick insert and delete of table cells, improved CSS support, and support for positioned layers. For all your documents and website projects, Composer is all you need.
+Chat on IRC networks with this simple yet powerful IRC client. Multiple networks and channels are easy to keep track of in a familiar tabbed interface.
+You can change the look and feel of the chat with motifs; choose from several built-in motifs, many more downloadable, or create your own with CSS.
+DOM Inspector enables you to dig into the document structure of web pages, add-ons or even the SeaMonkey "chrome" itself and inspect a huge number of properties of any element in that structure, including JavaScript objects and CSS styles.
+JavaScript Debugger ("Venkman") lets you debug JavaScript code on your websites, add-ons and even in SeaMonkey itself with a suite of powerful debugging tools.
+Improved Privacy over Chromium
+Easy SSL Certificate Identification
+Fast Website Access
+Greater Stability and Less Memory Bloat
+Incognito Mode Stops Cookies, Improves Privacy
+Very easy to switch from your Browser to the Dragon
+Be upset for inable to use your own bookmark collection on different computers or different browsers? CometBirds free you from this trouble. CometBird bookmark synchronizer makes all your bookmarks keep consistent anytime and anywhere!
+With CometBird, you can download any video / audio / flash you like to your computer. You only need to right-click the video that is playing, CometBird will save the selected file to your local disk.
+The page-loading speed is greatly improved by opening new page in a new tab instead of new widow, which saves much of your computer memory and disk space.
+Anti-virus software, Pop-up blocker, one-click clearing private data, anti-malware and customized security settings etc, all these techniques are applied to assure you a safe and secure browsering environment.
+full screen
+portrait/landscape
+mouse pointer for non-touch screen devices
+zoom to relevant section
+zoom to width
+zoom to height
+zoom to fit page
+kinetic
+normal (through keys)
+accelerated
+security (e.g. how does the user know the site is secure?)
+tabbed browsing
+spatial navigation - keyboard shortcuts
+ssr (single column display)
+fit to width
+fit to height
+scrollbar-free layout
+viewport meta tag
+breakpad for ARM
+virtual keyboard
+text input - password/input manager + native integration
+low memory handlers
+start page
+basic navigation/UI design
+localization
+text layout
+send page/URL
+device integration through Javascript
+determine build profile (simple, basic) and what needs to be removed/added
+radical new UI
+The new graphic capabilities and improved performance in Internet Explorer 9 set the stage for immersive and rich experiences.
+Internet Explorer 9 surfaces the websites you love most and puts them one click away. Once you're in the browser, the New Tab page helps get you started browsing quickly, providing meaningful suggestions and information to help you decide what to do next as you browse.
+Notifications in Internet Explorer 9 allow for more fluid and faster browsing. Instead of dialog boxes popping up unexpectedly and getting in your way, all notification messages are consolidated in the Notification Bar, located at the bottom of the browser frame.
+With Pinned Sites, you can get to your favorite sites directly from the Windows taskbarówithout having to open Internet Explorer first.
+Tear-off tabs make interacting with multiple sites fast and intuitive. You can rearrange tabs within Internet Explorer 9ójust like you can rearrange icons in the taskbar in Windows 7óor you can open any tab in a new browser window by dragging that tab to your desktop.
+Designed based on what you use most, the navigational controls in Internet Explorer 9 are streamlined and simplified. The back button is larger, the address bar and search box are combined into one new address bar, and the multiple menus from previous versions of Internet Explorer are consolidated into a single menu.
+Cross-site scripting attacks are a leading online threat. Their aim is to exploit vulnerabilities in the websites you visit. How do they work? By compromising legitimate websites with malicious content that can capture keystrokes and record your login information and password. If your login information and password is captured, your personal data could be compromised.
+One way to avoid deceptive websites is to know the address of the website you're intending to visit. With domain highlighting, Internet Explorer 9 lets you see the true web address at a glance by highlighting the domain name in the address bar, making it easier for you to identify the sites you visit.
+Built with Clang-cl on Windows
+No Adobe DRM
+No Pocket
+No data collection
+Run every 64-Bit plugin
+Run every Add-On (even unsigned ones!)
+Windows XP 64-Bit Support
+AOL Explorer attaches easy-to-see tabs to browser windows so you can find and get to the window you want in a snap. It lets you "keep tabs" on your Internet experience. Watch a demo of Tabbed Browsing
+AOL Explorer transfers your favorite website links from IE, and lets you access them from a "Portable Favorites Folder." This way, you can tap into your favorite sites on any machine using your AOL or AIM Screen name by simply going to http://favorites.aol.com
+AOL allows you to customize the look and feel of your browser. You might want to try the Midnight theme, or check out Bubble Gum or Kickflip. Choose from any of our sixteen themes to add bling to your browser
+You can now take the Side Panels in AOL Explorer and put them right onto your desktop. Take your Feeds Panel, Journals Panel, or whatever and have it right at your fingertips. Best of all, you can keep them open even when AOL Explorer has been closed. You are never far from the latest breaking events, blogs and general information
+It can open one or more local files and/or URLs in all installed versions of Mozilla Firefox with a single click
+It can appear in the context menu of Windows Explorer, so a file can be opened in every installed version of Mozilla Firefox directly
+It can display the version number of Mozilla Firefox in the titlebar
+It includes a number of window resizing options for the Web Developer add-on, settings for all common resolutions like 800x600, 1024x768, 1280x1024, 1440x900 and 1600x1200 are included
+It can be installed for all users, so itís available for everyone
+It can be installed and used silently, itís possible to create an unattended installation and use all functions using command line parameters
+It even works under the most restricted user accounts after installation, only the installation needs to be done by someone with Administrator privileges
+Cached searches for faster experience (with bypass cache option),
+Automatically saves all viewed videos,
+Displays video title and description,
+Auto launches VLC to view video while downloading.
+We are all absolutely unique and we want different things. Vivaldi web browser lets you do things your way by adapting to you and not the other way around.
+Are you a keyboard person? Then Vivaldi is your delight. Quick Commands let you search through open tabs, bookmarks, history, settings and more with one single keyboard shortcut. Quick commands menu is highly customizable allowing you to create your own commands and run them instantly.
+Tired of unorganized tabs in your browser? Let the mess be cleaned up with Vivaldi. Organize your tabs using Tab stacks, a feature that you will fall in love with.
+Take notes and add screen shots of web pages while browsing, store attachments and add URLís to easily organize and locate it later.
+One of the things that makes Vivaldi unique is that it is built on modern web technologies. We use JavaScript and React to create the user interface with the help of Node.js and a long list of NPM modules. Vivaldi is the web built with the web.
+Vivaldi ís color scheme will adapt as you browse the web, much like a chameleon adapts to its surroundings. A clean and modern look complements the content. Facebook turns Vivaldi blue, The Verge will make it orange ñ If you so wish.
+Say goodbye to tab-cycling through web page content now. You can move in every axis using the arrow keys. Get faster anywhere on the web page using your keyboard.
+How many bookmarks do you have in your browser? 56, 225, or 1056? If you use bookmarks a lot, you have come to the right place!
+Web Panels allow you to view websites as a panel on the sidebar of your Vivaldi browser. Read news, follow conversations on social media, chat with your friends and much more, while using the main browser window separately.
+Lunascape is the first browser in the world that contains both Internet Explorer and Gecko(Firefox) engines, and support most of IE toolbars, plug-ins or extensions. You think that "Gecko is faster and safer"? Or you think "IE is more universal"? Lunascape is both!
+Want to subscribe to a RSS feed? Just drag&drop it in your Favorites(Bookmarks) and Lunascape will provide you the last news automatically.
+Just like looking at an electrical bulletin board, RSS ticker displays News one after another. Drag & drop is the only step you have to take to register new RSS.
+InfoView mode dramatically increases efficiency of RSS news and blogs reading. You don't have to visit to the site each time to get information.
+Quick Customize, with variety of plug-ins
+Lunascape is the first browser to support multiple sidebar plug-ins(add-ons) for Internet Explorer at the same time. Lunascape itself has more than 100 functions implemented, but it also supports Internet Explorer toolbars plugins for people who are used to. Lunascape also uses Gecko Engine, so it supports some of Firefox, Netscape or Mozilla extensions and plug-ins.
+Lunascape contains a Setting Bar, which is the tool that makes easier the management of Favorites, Design, Switching, etc. You can add your own settings by drag & dropping items into the Setting Tree.
+Lunascape contains various search engines from the beginning, so you can perform a Web search easily.
+Type desired keyword in the search bar, choose your search engine, and hit enter.
+Lunascape produces high quality Skins that can be installed very quickly and easily. When installing a new Skin, only the appearence of the browser will change; Speed and features remain the same.
+In Lunascape, you can turn off images, videos, scripts, Java, ActiveX and all sort of web functionalities that may be dangerous for non-experimented users. All those security settings can be setup for each of your Favorites
+Have you ever thought that Internet Explorer Favorites are not convenient to use? Lunascape has been evaluated as one of the browsers that have the most useful Favorites organizing system. For each Favorite, you can setup a security level, add comments, choose color, etc.
+Auto-sorting by use frequencyFavorites you use the most will display automatically on top of the list
+Without opening the corresponding page, news, blogs, etc. recorded in your Favorites will be automatically updated in real-time as RSS feeds. Title of the Favorites also are updated! (RSS, Podcasts are supported)
+In Lunascape, you can block popup ads that disrupt your Web browsing. You can also, of course, allow some sites to display popups by specifying their URL.
+Choose "Block Popup" from "Security" menu
+Having hard time remembering your IDs and passwords? By using RoboForm toolbar, you don't have to type in IDs and passwords each time. The system will fill them in automatically by just one click.
+Install RoboForm from "Extension" in "Tool bar" menu
+Lunascape provides a very useful function to switch between proxies very easily. Add proxy by drag&dropping it into your Setting Tree, on Setting Bar, and select the proxy that you want to use.
+Other than those on above, Lunascape has hundreds of functions that raise efficiency of Web surfing.
+Mouse Gesture is a technology that permits you to drive most of Lunascape commands with your mouse. When surfing on the web, just click the Right button of your mouse, and while holding the right-click, move your mouse in one of the following directions : left, right, up, down, or a combination of these directions. Then, when you release the right button, a command that corresponds to the combination you have done will be executed.
+Sleipnir is designed to be completely customizable, and to be responsive to user expectations. Sleipnir is designed to maintain the same level of high performance no matter how much you customize it.
+No matter what plug-ins you decide to use, Sleipnir is designed to maintain the same high level of performance and responsiveness. It has been developed especially for Windows with performance in mind.
+You can change almost all functions as you want to. Customization may sound difficult, but it is actually very easy to understand and quite intuitive. With Sleipnir, you can easily change and customize almost any aspect of the browser. Even beginners can have a customized web-browsing experience with minimal effort.
+Users have come to expect their browser to support tabbed browsing, and Sleipnir has been designed from the ground up to provide the ultimate tabbed-browsing experience. With its advanced Window-View and Thumbnail functionality, Sleipnir is a breeze to use no matter how many tabs you have open.
+The vast majority of websites are designed for optimal viewing in Internet Explorer. Sleipnir uses the same Trident rendering engine as Internet Explorer, so it will display just about any web page perfectly.
+Built on the latest Mozilla similar to Firefox.
+Tweaked for Speed.
+Faster Browsing. Faster Downloads.
+Malicious Website Warnings: We'll warn you if you
+are about to visit a website known to host viruses.
+Get protection against over 3 million malicious sites.
+Personalize Epic. Epic is the first browser to offer full-screen wallpaper images.
+With one-click in any text-box, start typing in any of 12 Indian languages. Type how the word sounds in English, and Epic will convert it to the Indic language
+Live Cricket Scores. Top Albums. News from 200 Leading Sources. Regional and Hindi Language News. Events. Even a Daily Joke.
+In the India Sidebar, watch 18 different live tv stations, watch tv shows from over 40 channels and hundreds of films in 7 different languages!
+Choose from thousands of radio stations across hundreds of music genres. Get desktop alerts for each new song played!
+No Browsing Reports. We don't store your browser
+or search data Ever.
+Create quick notes or documents in English & Indian
+languages instantly in our light-weight Epic Write.
+Don't miss a beat. Get instant desktop alerts for
+new tweets, e-mails and facebook posts.
+Faster Web Browser.
+You can Now With Webplayer Listen to The Music and to watch Films online With a browsing.
+Now you don`t have to use the keyboard any more, with WebGoo on screen easy keyboard for you.
+Browse your Internet Make your phone call at the same time.
+You can Search in more site.
+Type a word in the Address bar and press Space to automatically add (http: //www.) and (.com) at both side of the site-name.
+You can type the friendly name of a favorite page in the Address bar, and then select the page name in the AutoComplete list that appears.
+To display the Links bar, a handy place to keep your favorite Web sites, click the View menu, point to Toolbars, and then click Links.
+Print the current page or active frame.
+Automatic URL History saving and retrieval. Add/ Edit/ Organize Favorite Links.
+Disable Popup Windows.
+It's Easy to Get and Send Mail. Have Auto Detection of ONLINE/OFFLINE Status.
+Can Dialup with Current Connection. Disconnect from Current Connection and Edit In-place Feature for Web Documents.
+You can watch the time with WebTime clock.
+Edit In-place Feature for Web Documents
+WebGoo FTP
+Send SMS Free With WebGoo SMS
+You can search file, image, text and Video And Audio Files in computer.
+HTML Editor and Design websitePHP Editor
+Maxthon Browser's powerful tabbed interface will give you the best browsing experience without taking your taskbar space away. All the web pages are arranged inside Maxthon Browser's main window. Multiple web pages are indicated by tabs for easy navigation.
+Command your browser just with your mouse! Mouse Gestures are another revolutionary invention among the browsers. With 'Mouse Gestures' enabled, you can use your mouse to command Maxthon easily. And Some people say that it feels like playing KongFu with their mouse.
+Maxthon Browser introduces another revolutionary technology to speed up your browsing - the 'Super Drag&Drop'. With 'Super Drag&Drop' enabled, you can open new links by simply dragging and dropping the link on the page. You can also drag&drop to search selected words with the default search engine or open a link in new tab or save the selected content when CTRL is held down.
+Maxthon Browser provides a customizable favorites Bar for better access to your "Links" or favorites from other folders. You can open all favorites inside a folder. You also have the option to set favorites as "Most Favorites" in the favorites side bar and open them when Maxthon Browser starts. Even more options are available from the right click menu.
+Popup ads, Flash ads, Floating ads, Image ads... Get enough with all these annoying ads? Here is the solution: AD Hunter. AD Hunter consists of several neat functions to block all kind of ads. You can use the "Auto Filter" to block popup ads or setup a "Filter List" for more accurate and customized blocking.
+Can the Google Bar and other IE Toolbar be installed and used in third party browsers besides IE? Even Google will tell you NO, but we can say YES. In fact, not only the Google Bar is supported. Maxthon Browser can also support a lot of other IE plugins and toolbars like FlashGet Bar, etc.
+With Maxthon Browser, you don't have to start other programs by switching away. Just add them to the Utility Bar and launch them by a single click. You could even set them to start and shut down with Maxthon Browser automatically.
+We care about your privacy. With Maxthon Browser, you can erase all your browsing information easily and even automatically. You can clear your private information such as the browsing history, cookies, cache...etc with a single click. Further more, you can even setup Maxthon Browser to clear all your browsing information automatically when it closes.
+Maxthon Browser supports flexible skins to change the look of the browser window. With skins you can change the icons, colors and backgrounds of Maxthon Browser. If you want, you can also disable them to enable Windows native skinning. There are already 300+ skins created for Maxthon Browser and more are coming. Be sure to visit the Skins site to find out how beautiful Maxthon Browser could be.
+You can further enhance the functionalities of Maxthon Browser with plugins. Besides the IE plugins, Maxthon Browser supports its own even more powerful sidebar and toolbar plugins. There are already 400+ plugins created for Maxthon Browser and more are coming. Be sure to visit the Plugins site to add even more features to Maxthon Browser.
+Maxthon Browser has full IE compatibility which means you will still have all you have in IE. Maxthon Browser uses very few resources, resulting in an average of 65% less RAM usage compares to IE when having the same large number of pages open.
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Smarter and more convenient than the basic password manager in Chrome. Save page link and login data in a form file which let you open your favorite online account with a single click later on.
+Slimjet let users customize the toolbar and add/remove additional buttons to quickly access additional features and functionality.
+In Slimjet, you can share the link you visited, a paragraph of text or an image easily on Facebook with a single click on the facebook toolbar button.
+Download any YouTube video to local hard disk in specified resolution and file format (mp4, agp, flv). You can also convert the downloaded video file into mp3 file automatically.
+Slimjet includes a Photo Salon in which you cano apply different effects or add beautiful frames to the photos before they are uploaded.
+Automatically compress photos to web-optimized resolution so that photos are uploaded up to 20 times faster.
+Display current weather condition and weather forecast directly on the browser window.
+Slimjet lets you define short aliases for long URLs which are slow to type and hard to remember. After that, just type the aliases from the omnibox to open the corresponding page.
+Instead of automatically translating a full web page into the current UI language, Slimjet lets you translate a web page or a piece of text between any two specified languages.
+Slimjet provides many additional options and settings so that you can customize the browser to best suit your personal preference instead of being forced to take everything as it is without any choice.
+Tabbed Mobile Internet browsing
+WAP 2.0 (xHTML Mobile Profile + WML) browsing
+WinWAP Mobile Transcoding allows HTML 4.0 pages to be opened (reduced HTML support)
+Multi start page: load multiple start pages when you launch your browser;
+Built-in Pop Blocker: eliminate annoying pop advertising when you visit websites;
+Mouse Gestures: use your mouse to move forward/back between pages, refresh your screen, and move to different tabs;
+built-in Search Engine: type a search term into your browser address bar and click search to view relevant search results;
+Auto Login: store and retrieve website login details automatically;
+Auto Form Fill: automatically fill online forms without typing your details, to save the hassle of repeatedly filling in your details;
+RSS/Atom News Reader: Subscribe to your favorite news feeds and let the news reader compile and display the latest news on one screen.
+Four default options for handling New Web Browser Windows
+Four selected group lists options for handling New Web Browser Windows
+Import bookmark.htm from Netscape and Favorites from Internet Explorer
+History of the last 1000 sites visited
+5 options for docking bookmarks window
+Easily organize bookmarks
+When the browser closed, the selected browsing data would be cleared automatically(not selected by default). You can go to Options‡Privacy Data‡Privacy Plus to setup.
+You can make efficient commands with easy mouse gestures. Practiced mouse gestures can save you quite a lot of time and are fun.
+Some web pages use IE controls and thus can only run in IE correctly. The IE tab is designed to visit these pages.
+With the bulid-in Adblock, CoolNovo can prevent the display of ads. Especially, the Adblock of CoolNovo supports the rules of the world famous Adblock Plus' rule and thus make use of the existing blocking-list of Adblock Plus.
+Dragging and dropping a block of text in the page will create a page and search the text with your default search engine. You can also drag the links and pictures to open them in the newtab page.
+For your convenience, CoolNovo supports some popular download tools in the context menu of web pages. Thereíre more than 10 kinds of downloading tool supported including NetAnts, Orbit, QQ Xuanfeng, IS, FlashGet3, FlashGetMini, NetX, WebThunder, Xunlei, and so on.
+A new feature of CoolNovo, there're some common-used features on the Bottom toolbar, very convenient and useful.
+Lots of Tab Options
+Scrollbale Tab Bar
+Incognito Tab
+Single Renderer Process
+Mouse Gesture
+Powered by the Chromium and Trident engines.
+Ability to save tabs.
+Powerful Garbage collector.
+Autocomplete omnibar.
+Ad Blocker.
+HTML5, CSS3, WebGL, Hardware Accel., etc. support
+HTML5 Test: 512/555, Acid3 Test: 100/100.
+Apps, Extensions (Userscripts), and Addons
+Password Manager
+Different and intuitive interface
+Aero style support
+Taskbar progress
+Quick-Hide
+Support tor touch gestures
+Touch friendly interface
+Has its own music player, so you can play, pause and even stop the song!
+Create your own playlist, and view all your music in its own library!
+Easy access to favorites, help, and other support!
+AutoComplete
+Integrated programs like Paint or AIM
+Has its own list of hyperlinks, click on them will take you instantly to the link!
+Popup Blocker.
+InfoClick
+Get instant information, answers and search results for the clicked on word whether you're in a browser, email or other application such as Office or Acrobat.
+Answer Browser
+JiveQ comes with a fully functional drag and drop browser that has all the standard browser features such as inline search, tabs, popup blocker and custom search buttons.
+WebShot
+Instantly get a snapshot of an entire web page. Then print it, copy it, email it or save it.
+Custom Search Buttons
+Custom Search buttons can be made for any Search Engine on any web page.
+Search in Tabs
+Stay more organized and focused with searches done in separate tabs.
+SurfButtons
+SurfButtons bring the information from any search engine one click away. With SurfButtons you don't need to be on a web site to use it's search engine.
+SurfButtons are custom, drag and drop buttons used to navigate to a web page or are linked to a search field on any web page.
+JiveQ's SurfButtons's work with every search engine not just a predefined list.
+Error Message Search
+From any application search error message right from the window they are displayed in by pressing Ctrl + Right Click and selecting. Results are shown in new tab.
+HotKey Search
+Search the selected word from any application by pressing Ctrl + Alt + S.
+All HTML
+For usability consistency all of JiveQ's browser controls are HTML controls.
+New attractive look, more user friendly.
+Add and Manage Bookmarks.
+Find and Load Proxy List.
+Change proxy using one single click.
+Enable and Disable proxy using single click.
+Remove complicated Registration and Login Process.
+Browse anywhere and anytime.
+Full integration with GTK+ 2
+Fast rendering with WebKit
+Tabs, windows and session management
+Flexibly configurable Web Search.
+User scripts and user styles support.
+Straightforward bookmark management.
+Customizable and extensible interface.
+Extensions such as Adblock, form history, mouse gestures or cookie management.
+Based on three rendering engines
+Multi-Processing
+Online Bookmarks
+AutoFills
+Flash Animation Filter
+Mouse Gestures
+Private Browsing
+Online Profile Storage
+Built-in AD/Pop-up Blocker
+Built-in RSS/ATOM Reader
+Built-in Search Engine
+Safe Recovery
+Customizable Skins
+Distribution options. You can specify how you want to distribute Internet Explorer - either using a product CD or the local area network (LAN). You can also create a configuration-only package to update Internet Explorer settings without installing code on your customers' or users' computers.
+Custom components. You can include in-house applications and other programs in the custom package to distribute to your users and computers.
+Setup experience. Depending on your license type, you can set the level of user interaction during the installation and specify settings for the Microsoft Windows Malicious Software Removal Tool, the default browser, and Internet Explorer updates.
+Search experience. You can customize the list of search providers for your users.
+Browser experience. You can customize where your users are directed for support; the display of home pages and a welcome page; the list populating Favorites, Links, and Web Feeds; and toolbar buttons.
+Administrator-approved ActiveX controls. You can specify the controls to run while locking out all others, which reduces overhead and troubleshooting issues. The approved set of Microsoft ActiveX controls can be enabled and administered dynamically by using the options in Additional Settings in IEAK Profile Manager.
+Automatic Configuration. You can automatically refresh your users' Internet Explorer settings at regular intervals, or every time the browser is started.
+Refresher PRO has a built-in pop-up manager, where you can block unwanted windows and allow friendly windows.
+Refresher PRO displays all of your favorites which are stored in Internet Explorer, with the ability to manage each of your favorite links.
+The Refresher PRO Quick Search box, for when you just want a quick search (with spell checker).
+Ability to "Hide" your second web browser window and resume where you left off at any time.
+Intelli-Search where the words you search most often are remembered and predicted for you as you being typing in the Search box.
+Preserve Windows Taskbar space by minimising Refresher PRO to the System Tray
+Automatically stops Refresher PRO if you navigate within a page which is currently refreshing.
+Quick, convenient 'Rapid Fire' buttons to take you to your web mail and eBay.
+Choose the startup window state, whether you would like it Normal, Maximised or Minimised.
+Ability to auto start when Windows starts.
+Block web image content to quicken page rendering
+Refresh individual windows or both windows at the same time.
+Dual browser or single browser mode.
+Copy & Go - Quickly and conveniently go to the same address in one browser as in the opposite browser.
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Minimum memory usage.
+Cache manager: smaller flow of the network, faster speed.
+Block all popup AD on more than 1000 test websites.
+Abundant favorites operate, a real one stand up favorites management of you
+Auto fill forms.
+Auto Hide float Ad.
+Hide float Ad with middle button of mouse.
+Design web page before print.
+Net TV.
+Download tool.
+Net tools.
+Translation web page.
+View redirect URL.
+Drag the URL of real media or windows media.
+Drag and save image or flash to local disk.
+Auto retry to download image when image can not be view.
+Access custom web site through custom proxy immovable.
+Test or stat favorites in batches.
+Auto scroll web page.
+Auto refresh web page.
+Resume last visited pages.
+Resume pages broken by error.
+View medias within Gogo Explorer.
+Clean privacy data.
+Save web page as picture
+Domain completion
+Zoom web page
+Customize popup menu
+Authenticated encryption
+Content blocking
+Exceptions
+FTP browser
+File manager
+Generate PDF files via a terminal
+Gopher browser
+PowerPC
+Preferred SSL/TLS ciphers
+Private browsing
+Qt 4.7.x, 4.8.x, and 5.x support
+Raspberry Pi
+Session restoration
+Simple bookmark system
+Temporary sessions
+Super fast browsing architecture!
+Built-in Popup Killer based on intelligent identification
+Ability to turn on/off Flash Animation
+Access to major search engines with Quick-Search Bar
+Integration with online translation engine and dictionaries
+Site Group: Open and save a collection of sites as a group
+ScriptPad: Built-in VBScript/Jscript/HTML/Text editor
+You can change the Skins to your color preference
+Rock solid performance over all other browsers
+Support for Multiple Amazon S3 Accounts.
+Processing very large amounts of files (millions) effectively!
+HTTP Headers (metadata) editor.
+Support for bulk ACLs assignment (edit ACLs in batch mode).
+Web URLs Generator.
+Bandwidth throttling and proxy support.
+Support for copy/move between amazon s3 accounts and buckets.
+Drag and Drop Support.
+Fast working multithreaded HTTP Engine.
+Special algorithms are used to decrease the number of requests and save you money!
+Change Application Style on the fly, and see how the program and websites look under different versions of Windows and Unix environment.
+Move Navigation Bar and Bookmarks Bar anywhere within a mainframe, or even undock and place them on the Desktop.
+Tabbed browsing by default. User Interface can be switched to non-tabbed.
+Turn on Private Browsing mode to avoid leaving traces of browsing, even UserAgent which is being sent to the web server is masked.
+Full Reset feature - clears all caches and restores all local settings to the state just after installation, as it was never run on the machine.
+Supported SSL to access secure sites. Certificate information and certification path can be displayed.
+Size of executable is 11MB only, no additional DLLs and other configuration files required.
+In most cases you just need one file - QtWeb.exe, that can be copied and run even from USB or CD/DVD.
+Can be run in limited Windows environment (Win PE), like Active Boot Disk, or BartPE running from CD/DVD/USB.
+Frames, JavaScript, Cookies, Bookmarks, History, Passwords, Media content - all essential browser features are here.
+Supported FTP browsing and downloading.
+AutoFill option - stores and pre-populates user names and passwords for the sites you visit most.
+With Qt 4.5 supported Netscape plugins, like Adobe Flash Player, QuickTime or MediaPlayer.
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Using bookmarks
+Changing the document encoding
+Working offline
+The following
+XML syntax validation and highlight
+Tolerance to XML syntax errors
+Viewing entities as characters
+Logging of the HTTP traffic
+Modification of HTTP headers
+Direct access to the HTTP query
+Modification of POST requests
+Viewing WML context variables
+Control over WML events
+Register and connect to any number of Amazon S3 accounts
+Copy files between your S3 accounts Share buckets and files located on Amazon S3 with other users
+Create, browse, and delete S3 buckets Copy and move files between Amazon S3 and your local computer
+Set up file access permissions Automate common tasks with Microsoft PowerShell
+Generate external URLs, BiTorrent URLs Copy/Move in background Support for content-types
+Support for MD5 to ensure files are not corrupted while transferred to S3 Support for Amazon CloudFront service
+Support for CNAMEs and signed URLs Apply ACL list to child objects (files inside a bucket)
+Automatic check for updates
+Rename objects in S3 Support for Requester Pays
+Support for streamincloud.com
+FLV encoder
+Generate short URLs using http://chilp.it
+Support for Private Content feature for CloudFront Streaming Distributions
+Support for Canned Access Policies Support for Amazon S3 Versioning CloudFront Streaming AWS
+With CloudBerry Explorer, Amazon S3 becomes an extension to your local storage. You are no longer limited to the classic data storage on your local drive(s). With CloudBerry Explorer, you can move files to Amazon S3 just as easily as managing them on your local drive(s).
+CloudBerry Explorer allows you to move large files such as photos, videos, and music to Amazon S3 and free up your local storage.
+User friendly
+Quick bookmarks
+Remember browsing history
+Tabbed Browsing
+Fast & Secure
+Faster
+Safer
+Cooler
+Easier
+Easy to Use ó Just enter a website URL and download the whole website!
+Offline Browsing ó Web2Disk fixes downloaded websites for easy offline browsing
+Website Backup ó Automatically save a snapshot of your website; daily, weekly or monthly.
+Email Alerts ó Get an email alert when a website is updated.
+Put Your Website On CD ó Easily distribute your website on CD or USB drive without additional browser software.
+Instead of typing in an address like www.youtube.com in full, simply type youtube and press the .com button, we'll automatically fill in the www & .com bit so you don't have to. You'll never type .com again!
+From version 2.0 onwards Browzar no longer supports the downloading of ActiveX components. This is a security measure to protect you and the computer you are using. If you visit a site which requires ActiveX, Browzar will simply not download the ActiveX component. In the event that you visit a site using Browzar which has already been visited using Internet Explorer and an ActiveX component has already been downloaded to the computer you are using, then this ActiveX component will still run in Browzar.
+Auto-complete blocking
+Boss button and keys
+Browzar is based on Internet Explorer
+At some point or another we all need to use browse the Web discretely without our families, friends, colleagues or bosses knowing why. We created Browzar to give people this choice. We wanted to make it free and easy for everyone (not just the technically savvy), to browse in private without the need to install software or register for it. We've designed Browzar for your convenience: so, you can download it when you need it, and easily dispose of it when you don't.
+You can choose from Black, Silver and Windows style colour schemes.
+Cleanup progress panel
+Cookies and privacy protection
+Crash protection and recovery
+Browzar now has all the Function and Ctrl shortcuts available in Internet Explorer.
+History deletion
+Homepage customization
+Index.dat cleanup
+Media (Audio and Video)
+Menu functionality
+Popup management
+Secure File Deletion
+Tabbed browsing
+Temporary Application Data delete (Flash and Java)
+Web cache deletion
+Web search tool
+Simultaneously load multiple web pages with a single mouse click, for viewing in a single window.
+Conveniently navigate through open windows.
+Access favorite bookmarks instantly with the Quick Groups Manager
+Suspend and later resume any browsing session, remembering and reopening all currently open windows in the same order
+Block unwanted pop-up windows
+Clear all traces of your Internet browsing, stored automatically by Windows, from your computer
+Gather images automatically from pages you have visited
+Download images from specified sites. Search and download images using 7 image-searching engines.
+Streamline management of your bookmarks.
+View images from your hard drive, CDs, etc.
+Work with lists of bookmarks.
+Create, save, and retrieve personal comments about web pages you visit.
+Avoid repeat visits to any web page
+Use the online foreign language translation feature to easily translate any web page.
+Browse an entire domain effortlessly!
+Scene-Reproduce
+Docking-Tabbed
+Five-level Topology & Multi-Process Mode
+Scenes Synchronize
+Ad-Blocker
+Six Color Themes
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Based on the bult in Microsoft Internet Explorer engine
+Tabbed Browsing
+Page zooming
+Bookmarks
+History Viewer
+Rss Reader
+enhanced ability to access html elements via id/name in javascript
+HTML content-type sniffing
+support of jscrip.encode
+partial support of xml-dataisland
+access elements in array by the function call ()
+tolerance for malformat content-disposition
+Ease of use: Tabbed Browsing (with no delete buttons on the actual tabs so you don't accidentaly delete a tab). Browsing speed faster than you can say jack-in-a-box (depending on the size of the website).  Shares add-ons from IE (accessed from right clicking the browser). Shares browsing history and cache and cookies with IE so you only need to delete one set of browsing history. Search box with user chosen search providers. Fast and easy to use favourites window. Video buffering speed is trippled (especially on youtube and google video).  Loading text tells you what website and what part of the website is loading at that second.
+Security: High strength Web Encryption (It clearly tells you when the website is encrypted, so you don't have to worry about if it's safe to type in your login or credit card info). Highly Secure Parenting control web-site blocker (not even the brainiest kid can breakthrough the encrypted password need to access the blocked website). Private browsing tab (nothing is saved from your browsing, parenting control web-site blocker will still be active in a private browsing tab). Phishing filter allows you to block suspected fraudulent web-sites (so you don't run the risk of going on them).
+Very stable browsing: hardly ever does a tab lock up or close for no reason, and if it does the whole program won't have to close. Only that particular tab is affected, you can also delete the tab even if it locks up. The browser hardly ever locks up (depending on how many other programs you are running). Add any amount of tabs and the program still runs smoothly.
+Real multi browsing - surf with multiple browsers at once. Each window is a browser, the use is intuitively, simple and fast. Minimal mouse movements, no toolbar overflooding, more rendering space.
+Surfing is more secure based on 'Windows XP/SP2 - Security Feature Control Opt-In'. With the security report window, you can view your security settings.
+Session restore after application crash caused by Plug-Ins
+Search with multiple selectable search engine
+Eight integrated gui themes are available (Office 2007 and Visual Studio 2008 theme included)
+Tabbed and side by side browsing (tabbed MDI interface).
+Supports different kinds of drag and drop.
+News feed reader for RSS, RDF and ATOM format. Bookmarking news feeds and export bookmark folder to a RSS 2.0 file. Simply configure a news feed with a mouse click.
+Access Windows Media Player Library, playing windows media files or playlists side by side. Export into windows media playlists.
+Searchable bookmark archive. Extract bookmarks from active Window. Export the whole archive or a single bookmark folder into different formats.
+Snapshot window layout session into the layout archive or into window layout file on the desktop.
+Change your buttons, change sizes, and add the text you want!
+You can change the background color, too!
+Use the quick links to get where you want to go FAST!!!
+Just move your mouse over the toolbar and click.
+You don't have to type a word to see the website you want!
+Your favorite search engines are just a click away!
+Improved power management
+Improved configuration system
+Improved idle time log out and screen savers
+Improved security
+Tabs
+Keyboard Shortcuts for nearly everything
+Popup Blocking
+Quick Search
+Plugins - Including: iTunes Remote, Text Editor, GTalk
+History and Bookmarks
+Smart Address Bar
+Show's unread tabs
+History management (back/forward)
+Typed in addresses saving (they are saved from one instance to another)
+Visual effects for different window effects
+The KIDOíZ Browser is a protected environment that enables children to surf only to approved sites.
+The system blocks links, scripts and any other attempts that lead to sites which have not been approved, preventing them being viewed by the children.
+The KIDO'Z Browser is designed especially for young kids and it is easy, simple and intuitive to use. The child doesn't need to know how to read or write in order to use it and no parentsí assistance is required.
+With the KIDO'Z Browser kids can safely explore an endless amount of games, videos and other content and can enter with one click to the best kidsí sites that can be found.
+Tab-browsing
+Powerful ads blocking
+Slim interface suitable for netbooks
+Integrated Google search
+Integrated Google translate
+Smart address bar with auto-completion
+Simple installation, uninstaller included
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Metro interface
+Favorites
+Google search (from address bar)
+Virtual keyboard (click the pencil on the address bar)
+To be multi-tasking, it's essential. So many tricks can be done when dual window is on.
+Use hotkey to change window proportion.
+Exp+ allows you to open multiple tabs, no matter folder tabs or web pages.
+Tabs can be moved freely between windows.
+Drag & drop subfolders to the tab bar to open them
+You can not only set related folders and web pages as a group, but also send files to a group.
+While setting, you can config any tab as auto-locked, or a web page as auto-refreshed with preferable frequency.
+Making good use of dual-window mode, you can right-click or left-click to open folder, favorite, or group to the left or right window.
+Includes some tabs, such as "Desktop", "Favorites", and "Backup Files Previewer".
+Backup Files Previewer allows you to preview the content of file before restore it.
+Special floating design grants you the best flexibility.
+Command Bar
+Function Key Bar
+Auto-detect whether folder tab or web page a tab is, then display corresponding Function Key Bar.
+Right-click to switch between "File Search Toolbar" and "Web Search Toolbar".
+The Language pack of Exp+ is extensible. Currently, It includes 8 languages,  including English, Traditional Chinese, Simplified Chinese, Spanish, French, German, Italian, and Portuguese.
+In Exp+, you can configure the UI language to any other available language.
+Including three parts: "My Computer", "Groups" and "Last Unclosed Tabs". Each part contains a link list, each link represents a shortcut for you.
+Support Unicode
+Exp+ can handle non-English file names, thus, file exchange won't be troublesome at all.
+You can extract compressed files of ZIP, RAR, or JAR format.
+Based on dual-window mode, moving files or copying files becomes the easiest job ever. By using hotkey, files can be moved or copied between windows in a blink.
+For Folder
+You can rapidly open folder by clicking on Floating Buttons Bar at Type column.
+For File
+A floating button of File Content Previewer at Type column offers another access to preview a file content.
+Whenever the cursor is moved onto an icon of image file, the image will be instantly shown in a floating auto-size window. This is for you to rapidly scan through a large number of image files.
+You can add a new search engine to  search engine list of your own. Whenever a search job is executed,  search engines will be activated at the same time.
+Whenever you want to open a link in a web page, simply drag and drop to the window you prefer.
+Instantly e-mail any web page to a friend along with message.
+Simply setup server address (e.g. smtp.gmail.com), account and password etc.
+Use  configurable hotkey
+Click on self-defined Fast Start Bar button
+Type self-defined alias
+This tool is the greatest alternative of Windows commands, include Shutdown, Hibernate, Log off, Restart, and Standby.
+Wherever you are, you are as free as at home. When someone approaches you, keystrokes help you to disguise.
+Fast and easy internet navigation with low resources usage
+Custom form and special interface with aero
+History and Bookmarks recording and management
+Printing, Print Preview, Page Setup
+Zoom Pane
+Bookmarks Bar
+Tab Control with aero on tabs
+Navigation and Search within the addressbar
+Security Info about the page
+Downloads
+More Tools for Developers
+Undo and Redo
+Export not limited browser cache
+Export http, ftp, cookies, visited and other pages
+Can export files by mask
+Program size 20 Kb. (In archive 6 Kb)
+Can export files in Etype Eserv format
+Fast - quickly browse and launch;
+Small - standalone program, no installation need, can run from Flash Disk (only 820KB);
+Tabs browser - browse multiple web pages in the same browser;
+Free - one completely freeware;
+Easy to use - no need install;
+You can store all kinds of web pages, images and Shockwave Flash files.
+The Saved Pages folder allows you to save a page with just one click.
+A convenient toolbar button adds the page to one of the ten most-used folders.
+You can also use drag-and-drop and the right-click context menu to store a page.
+Drag a link to the Inquiry Band to download and save the page automatically.
+Drag a selection with links to download and store all pages linked to the selection.
+You can append the current page contents or a selection on the page to another page.
+Use the Auto Save button to automatically store all pages you browse to a special folder.
+Inquiry keeps all collected information in compressed files saving disk space.
+Aurora has native support to ad-blocking, making your experience more enjoyable and secure
+Everytime you shop for a product in one of the online stores in our database, weíll let you know if there are better deals available elsewhere
+Click on the 'Pop-up' button in order to stick the video to the front and keep watching it while you browse the web
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Wysigot monitors your favorite sites!
+Automatic or scheduled updates of documents.
+Shows anything new by highlighting texts within the pages.
+Online and offline browsing (clicked links are downloaded as soon as possible).
+Alarms (for your most important documents).
+Allows you to fill in forms (search engines...) online and offline, and to submit them repeatedly if necessary.
+Wysigot captures sites!
+Captures internet sites with scripts, styles, flash...
+Unlimited number of pages without slowing down your PC.
+Resumes interrupted downloadings (Web and Ftp).
+Possibility of keeping former versions of documents.
+Black list, to eliminate advertising.
+Displays downloads in progress and those still to be done.
+Wysigot makes it easier!
+Advanced search.
+Automatic or manual organization of documents.
+Advanced management (cookies, scripts, activeX, flash, css...).
+Individual or grouped properties edition of documents.
+Detailed display of the pages' parameters and information.
+Annotations document by document.
+Instant search of any URL or document name in the address bar.
+Recycle bin (to recover accidentally deleted documents).
+Imports Favorites (Internet Explorer).
+Wysigot updates itself automatically (after confirmation).
+WebGL Enabled Graphics
+OSPFC Security Tabs
+YRC Backup Manager
+You can store all kinds of web pages, images and Shockwave Flash files.
+The Saved Pages folder allows you to save a page with just one click.
+A convenient toolbar button adds the page to one of the ten most-used folders.
+You can also use drag-and-drop and the right-click context menu to store a page.
+Drag a link to the Inquiry Band to download and save the page automatically.
+Drag a selection with links to download and store all pages linked to the selection.
+You can append the current page contents or a selection on the page to another page.
+Use the Auto Save button to automatically store all pages you browse to a special folder.
+Inquiry keeps all collected information in compressed files saving disk space.
+Lots of viewing space and no visual clutter
+Big fonts and big buttons for easy navigation from across the room
+An easy-to-use onscreen keyboard
+Zoom-and-pan power that brings every site into view
+Sit back and get ready for big-screen browsing. Kylo brings your TV and computer together to create the ultimate content experience. Enjoy your favorite online shows, videos, music, games and news. Take your HDTV anywhere on the web.
+Find the web content you want. Click and watch without getting off the couch.
+Kylo's wide-open interface is designed specifically to fit your TV screen. It's not just a blown-up web browser. Kylo lets you enjoy your favorite content fast. Don't waste time hunting through lists of links and unreadable text. See what you want to see!
+The last thing you need is another piece of equipment cluttering your coffee table. Use Kylo's onscreen keyboard instead! Quick and intuitive, it lets you input web addresses, instant messages, and even emails using a classic QWERTY interface.
+Onscreen reading is a breeze with Kylo. The Zoom-and-Pan feature lets you enjoy text content when you're ten feet from the screen. Instead of squinting, sit back and enjoy online content the right way.
+XML syntax validation
+Viewing XML entities as characters
+Logging of the HTTP traffic
+User can modify HTTP headers and query directly
+User can modify POST requests
+Working offline
+Viewing WML context variables
+Highlighting of the XML syntax
+Tolerance to XML syntax errors
+Control over WML events
+Support of basic HTTP authentication
+Work with HTTPS protocol
+Tabbed Browsing
+Text size changer - Runecats Explorer has a text size changer, so you are able to see the text enlarged
+MiniWeb- Runecats famouse MiniWeb has been improved again!
+Search Drawer- Runecats have noticed all main browsers have a search bar on them, so we decided to add this with a twist, we have a pop-out drawer like search bar, it makes searching slightly quicker and saves lots of room.
+Runetext extention, improved finding tool, faster engine, skins, center button and many many more
+HTML5, CSS3, JS, HTML5 Video, WebGL 3D, etc
+Flash (only with PPAI systemwwide installation of Flash)
+Tabbed browsing
+Address bar (also opens Google)
+Back, Forward, Stop, Refresh
+Developer tools
+Parental Controls (with password protection for settings and erasing history)
+Sticky notes
+Search bar (also highlights all instances)
+Download manager
+Download Location Dialog (Asks where to download file)
+Popups
+Browsing History
+Quick launcher (For important, useful sites)
+Custom error pages
+Drop Down Menu.
+Settings which allow customization of homepage, default search engine and has the
+option to not show splash screen at startup.
+Multiple tabs and Multiple windows
+View online & offline webpages
+PDF files supported
+Menu at the bottom left part of the page.
+Easy and fast navigation
+Easy to use interface
+Aero theme
+MDI Tab Control
+Use of the Pipelining method and some other tricks to gain more speed
+Use of Privoxy (Download by visiting Addons)
+Better interface and menu
+Built-In Adblock and Anti-Phishing (Provided you have installed Privoxy for GT Web Browser 3)
+Better Bookmarks and History management
+CSS Importer
+Better Find Function
+Full Page Zoom and Text Zoom support
+Support for Downloads and HTML5 without the need of Compatibility Mode
+More Security Features
+Support for HTML5 pages
+Support for the latest versions of Java, Adobe Flash Player and Adobe Shockwave Player
+Print web pages exactly how they look on screen
+Perform instant Google searches with a single click
+Easily manage your favorites, RSS feeds and more
+Browse secure web pages with total privacy
+Help avoid phishing websites with advanced protection
+Automatically block adverts, animations and sounds
+Effectively track and manage your file downloads
+Work with your favorite Internet Explorer add-ons
+Customize the browser interface with themes and skins
+Export discovered email addresses to a file
+Matrix Scan View - Purely for atmosphere
+Save and load databases for future reference or use.
+View source code for web pages
+Scan the net for web pages
+Import your old database from HyperNet v1
+Alter your scanning preferences to expand your crawl in different patterns
+Optimize your database for faster searches
+Adjust search settings
+Include & Exclude pages from search results
+Search your database for information and get detailed results from scanned web pages
+display LIVE explorer windows in a 3D environment
+provide easy manipulations and navigation
+makes browsing easier
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Go beyond trivial and messy Tabbed Browsing by using an ultra streamline web navigation system, that's logically group and sort websites according to their pages.
+Browse the Internet using an unlimited number of web windows without having to keep track of them ever again.
+Using Net.Ex Pro advanced URL/Website filtering management, you can easily block unwanted Ads and other annoyances and stop them from loading. Combined with Net.Ex Pro advanced Window Popup Management you can selectively block the popup windows that you don't want, and not the popup windows that you wanted have open.
+With Net.Ex Pro, you can easily delete all your web browsing history and erase all your tracks, or you can set Net.Ex Pro to automatically cleanup after you when you finish. You can safely and easily delete all your private information such as the web browsing history, Cookies, Internet Cache, Internet addresses, Web Queries, etc... You can even block websites from identifying what system you are using to surf the web with.
+Integrated Net Panels combined all your Favorites, History, RSS Feeds, Web Sessions, and other plug-in panels from the web into a centralize and easy to access and easy to manage location.
+Get instant access to Web Query using multiple search providers on the Internet at the same time. Get more results by doing less, save time and effort by searching the web using group-search to query multiple search engines at the same time, to achieve greater scope for your search results.
+Automatically update without any user intervention so that you will never have to worry about getting the latest bugs fixed or patches again.
+Customize the color of the browser.
+Set a password that you need to enter to use the application.
+Change the search engine.
+Tabbed web browsing
+New, improved UI
+Browser lock with custom lock screens
+Settings menu
+New web development settings
+Print options
+In-built source code finder
+built in languages (English, French, Italian, German, Spanish, Russian)
+Omnibar
+Tab bar
+History manager
+Download manager
+Cookie manager
+Bookmark manager
+Import/Export bookmarks
+Private browsing
+Adblock
+ClickToFlash
+Last session restorer
+Proxy manager
+Webpage source code viewer
+User agent
+View your internet history like never before
+Lock your browser with a password
+Task Reminder
+Awesome address bar
+Block unwanted sites and keywords
+Browse products and compare prices
+Discover the Latest store coupons
+Find current hot deals
+Visual Page List.
+Eliminate the wait with Surf-Ahead.
+Open several links at once.
+The Next Page button.
+Search several search engines at once.
+Pin pages to mark them.
+Add several pages to Favorites at once.
+Favorites Books.
+Exchange sets of pages with others.
+Keep pop-ups out of your way.
+View multiple web pages in the same window or tabbed windows
+There is no limit on how many tabs you can have open at the same time, it depends on your computer hardware and the content of web pages (we had more than 400 sites open on an 10 years old computer Pentium Pro 200 MHz with 256M Ram...)
+Open multiple web sites by one-click
+Create groups of pages and open by group
+Ability to control annoying popup windows
+Block popup windows but doesn't interfere the normal opening a new window
+JavaScript error suppression
+Content Filter with password protection for parental control
+User definable search engine
+Type a word or phrase in the Address bar to start a search using your predetermined search engine
+Ability to clean up at program shutdown by purging temporary Internet files, typed URLs, History and Cookies, temporary Window files
+Resources Sharing for easy to manage and to save disk space by using Favorites, History lists of Internet Explorer
+Designed to give you maximum space on your display to view your web pages menus, toolbars can be hidden
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Tabbed web browsing: almost any modern browser has this, but Goona Browser has a difference - when you hover the mouse on the tabs, a thumbnail of the tab appears below it, just like in Windows Aero taskbar!
+History with a thumbnail of the page in each entry (the thumbnail is bigger enough to let you recognize a page). Thumbnails do not take much space in disk since they are encoded in JPEG format and are saved on a single file to provide a quicker access to them.
+Powerful, advanced download manager (comparable with Orbit or FDM). Supports download pause and multi-threading (various segments in one file)
+allows you to choose which rendering engine will show you the webpages: Gecko or Webkit
+Basic twitter integration, advanced integration with twitter and facebook in the future.
+Easy to use, powerful control panel.
+Simple but powerful interface that leaves many space left for viewing the websites (even in smaller screen resolutions!)
+Windows 8 Immersive UI and full Metro UI
+Use low memory
+Tab Control (Currently Limited)
+Support Chat System
+Support Site Icon, Change in Encryption Level, Change in Homepage
+Very smart and easy to use
+Support Tab preview
+Support all extensions used in IE
+Common Web Browser Tasks
+Use Metro Homepages
+Control on Size
+Access your favorite video sites with a single click!
+Download videos from 350+ sites including YouTube
+Convert videos to a variety of popular formats
+Browse secure web pages with total privacy
+Automatically block adverts animations and sounds
+Help avoid phishing websites with advanced protection
+Work with your favorite Internet Explorer add-ons
+Easily manage your favorites
+RSS feeds and more
+Perform instant Google searches with a single click
+Effectively track and manage your file downloads
+Customize the browser interface with themes and skins
+Print web pages exactly how they look on screen
+Maximize your screen real estate with Slickscreen's "unique non-overlapping interface".
+Compare and work with web sites side by side with ease.
+Save multi-panel layouts, Slickscreen's multi-panel bookmarks.
+"Drag and drop links" from one panel to another for the ultimate in web productivity.
+New:  Every Slickscreen panel can add 'traditional' web browsing'tabs'.
+Leverages Microsoft's Internet Explorer rendering engine for "performance, privacy and security".
+Splash Screen
+Lightweight program
+Proxy support.
+Can use Dropbox or Ubuntu One to store settings and data as of 0.10.0, allowing you to access your data from anywhere.
+Multiple profile folders can be managed from the GUI as of 0.10.0.
+Can print the current page as of 0.8.0.
+Can save the current page as of 0.8.0.
+Able to record browsing history. Unfortunately, clearing the history may not work 100% correctly.
+Partially-centralized notification system for somewhat reduced disturbance as of 0.7.0.
+Bookmarks manager as of 0.7.0.
+Allows you to close all the tabs to the left or right of the current tab as of 0.7.0.
+Experimental ad-blocking support as of 0.6.2 (enable it by going into the Preferences dialog!)
+Basic XSPF playlist support as of 0.6.2. This feature has since been removed.
+Custom search expressions as of 0.6.2.
+Web inspector support as of 0.6.2 (analogous to Firefox's Firebug tool)
+Location bar auto-complete-as-you-type.
+Stores cookies between sessions, and also allows the cookies to be cleared out. When clearing out the cookies on Linux, Ryouko performs a "shred -v" operation on the database for added privacy.
+Supports private browsing mode as of 0.4.4.
+Has a Find function as of 0.4.6.
+Supports opening new windows as of 0.4.6.
+Zoom in/out functionality as of 0.4.10.
+Status messages as of 0.4.8
+Has tabbed browsing, like any respectable modern Web browser.
+Supports command-line arguments. This means that it's actually possible to use it as your default Web browser! (But of course, it isn't recommended.)
+Unlike some browsers in the same vein, Ryouko understands page requests that ask to open links in new windows. In 0.5.0 and below, it opens them in new windows with reduced-functionality, but as of 0.5.1, it opens them in new tabs.
+Unlike some other amateur projects on SourceForge, Ryouko's Git repository actually has commits in it.
+The "Save Link..." option in the context menu actually works. As of 0.7.0, it should work 100% of the time.
+If faced with an unsupported file type, Ryouko will offer to download the offending file to your computer.
+Back and forward buttons to go back to the previous resource and forward respectively.
+A refresh or reload button to reload the current resource.
+A stop button to cancel loading the resource. In some browsers, the stop button is merged
+with the reload button.
+A home button to return to the user's home page.
+An address bar to input the Uniform Resource Identifier (URI) of the desired resource and
+display it.
+A search bar to input terms into a search engine. In some browsers, the search bar is
+merged with the address bar.
+A status bar to display progress in loading the resource and also the URI of links when
+the cursor hovers over them, and page zooming capability.
+Based on a unique multi-process and multi-thread design, Exp+ Web Browser is faster and more stable. Granted that it is based on IE, it is faster than IE.
+You can create search engines of your own,  and manage your Multiple Search List. A search by alias is also allowed.
+Besides general web filtering rules, you can also set up exceptions. Filtering items contain pop-ups, images, Java Script, ActiveX, and Java Applets, and so forth.
+With this built-in functionality, reading any RSS feeds is just as easy as browsing a web page.
+When the current tab is a web page, you can activate this tool to download images files, ActiveX objects and Scripts.
+View satellite images, get directions,  capture maps in preferable sizes, and view the street scene in a floating window, displaying in 2nd monitor if there is one.
+One click to translate a webpage from a foreign language to yours, and vice versa.
+You can add your own plug-ins developed by Java Script.
+Plug-ins are on the increase.
+Words in a web page can be used as search keywords. Upon dragging and dropping them, you activate search engines in your Multiple Search List simultaneously.
+Whenever you want to open a link, simply drag and drop to the panel you prefer.
+Instantly e-mail any web page to a friend along with your message.
+Simply set up a server address, port number and your account info. e.g. smtp.gmail.com, port no.465.
+You can activate multiple accelerators with one click.
+Integrate IE accelerators..
+To get the most up-to-date content of a web page automatically, you can set it at a preferable auto-refreshed frequency.
+Cookies, History of Visited Tabs, and Input Data and Search Keywords can be deleted immediately or when exiting Exp+.
+With dual panels, multi-tasking and file management are made easy.
+Easily switch current window mode between single and dual by double-clicking on a tab or using hotkey.
+An interactive and multi-tabbed design, including 'Computer', Latest Viewed Tabs', and Recent Web Pages', etc.
+All images and texts are links, which can be dragged and dropped.
+Multi-pane design, including 'Help Center'(F1), 'Desktop', 'Favorites', and "Preview Backup File', etc.
+'Preview Backup File' pane allows you to preview the content of files and restore them.
+Floatable Design.
+Fast Start Bar
+Refer to Fast Start Genie.
+The type of a tab, a folder or a web page, is auto-detected  to display its own Function Key Bar.
+The File Search Toolbar and the Web Search Toolbar are interchangeable.
+Plug-in Bar
+A plug-in interface is provided.
+Plug-ins are on the increase.
+A multi-tabbed browsing design.
+Any tab, a folder or a web page, can be moved  between panels.
+You can set related folders, files, programs, and web pages as a group.
+Each tab can be configured as auto-locked.
+Each web page can be configured to be auto-refreshed at preferable frequency.
+Scroll up or down to switch tabs.
+Drag and drop files to a folder tab or a zip tab in the opposite panel; drag and drop subfolders to a tab bar.
+Right-click or left-click to open a folder, a group of favorites, or a group to the left or right panel.
+This is a place where most of the customization are done, including panes like General, Tabs, Status Bar, Toolbar, Browser, etc. Also, you can configure the system layout anytime you fee like doing so.
+The language pack is extensible in Exp+, currently 8 languages are built-in: English, Traditional Chinese, Simplified Chinese, Spanish, French, German, Italian, and Portuguese.
+The UI language can be configured in Exp+.
+Inquiry stores various Web files: entire web pages, selected text and images, Shockwave Flash clips and many others. It can also import documents from your MSIE Favorites and export them to various formats to share with friends and colleagues. Forget cumbersome open and close dialog boxes. Managing your stored pages is quick and easy.
+You access Inquiry simply by clicking a button on the MS Internet Explorer toolbar or Inquiry Sidebar. A single click saves the page you are currently browsing, or your selected text or images. You can choose to display or hide the Inquiry Sidebar by selecting the Internet Explorer Toolbars menu entry from the View menu and then selecting Inquiry Bar.
+Besides that you can drag-and-drop a selection of a Web page to either save the selection or to store all pages linked to the selection.
+Inquiry stores pages much faster than the regular Internet Explorer Save As feature.
+Inquiry allows you to quickly search in all collected pages and displays the search results in a separate tree folder, allowing you to view them later. It is also easy to organize your stored items as you wish, divide them by theme and purpose, sort in the order you need using drag & drop or using standard ordering methods.
+Information stored in Inquiry never expires or disappears. Even if the Web site stops responding or the contents change, you will be able to browse the pages just as they were stored originally.
+Click the Features link to read more on what Inquiry can do for you.
+Using Inquiry you can email stored pages with a couple of clicks. It is easy to convert a page into a convenient format, such as HTML Help file or MHT Archive (to reduce the file size,) Microsoft Word or to a small executable file that includes a compact IE-based browsing application.
+Inquiry is sophisticated enough to meet the needs of professional researchers, yet simple enough for novice users. Researchers, lawyers, writers, scholars, professors, students or just the casual shopper will all find Inquiry just the tool they need to collect, store and manage any type of Internet information.
+Inquiry eliminates the concern that information on the Internet today will be gone tomorrow ñ it puts control of the Internet files in your hands.
+Do you study remotely and need to have all necessary information on your local computer? Inquiry will help you gather Internet pages and articles for your assignments and work with them offline. Using Inquiry, you can save all citation and reference information, and design your own reference styles to be stored with each document.
+Inquiry can help compare products and prepare reports and presentations.
+Are you searching for the best price of a product on the Internet? Catalog and store all the pages you have found and review them later at your leisure.
+Inquiry makes it easy to save and organize Web site information on competitive products and services.
+Using Inquiry, you can organize and store information from government sites as well as research sites such as Westlaw and Lexis.
+Are you studying for a test or doing research for one of your classes? Inquiry provides a fast and easy way to find, save and analyze the information you need--when you need it.
+If you need a fast and easy way to browse, save and analyze the information on the Internet then MetaProducts Inquiry is for you.
+Web video viewer!
+Click through video!
+Transparent web!
+Quick Hide!
+Auto Mute on Quick Hide!
+Double Vision Mode!
+Custom transparency levels!
+Watch and perform tutorials
+Be stealth at work in Double Vision mode
+Increased productivity as you regain screen real-estate
+Improved ability to multi-task
+Bypass blocked websites
+Multiprofile browsers
+Can be launched independently
+Retain all functions of the original browser
+Leaves no traces after browsing
+Anonymous and safe browsing
+Simplified interface
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Fast and easy internet searching with multi-selected searching engines and searching modes.
+Hot key(Ctrl+C+3) to open an internet searching(Web/Images/Video/News/Map) for highlighted text at any time. (Ctrl+C+4/5/6/7)
+Smooth scrolling, low CPU usage and customized news ticker and stock quote ticker. Click to prompt a news window or stock chart window for quick browsing.
+Docking tickers on top or on bottom of your desktop, Keep an eye on stock market and all news that concerns you most while working or entertaining yourself on computer.
+Drag and drop to open multiple web browser windows with low computer resource cost.
+User Friendly Interface
+Web Booster
+Bookmarks
+Instead of tabs, new windows
+Google Search bar
+Light-Weight
+Fast
+Powerful parser that analyzes most RFCs.
+Rich and friendly user interface: 2 views (Structure View and Page View for RFCs), hyperlink, color rendering, scalable RFC length, print and print preview.
+Structure View provides a navigating tree of RFC including references.
+Page View can help you browse the RFC page by page or turn to the page you want anytime.
+Hypertext-like browsing.
+Scalable: hide Footers/Headers/blank lines.
+Optimal Desktop offers 3 levels of Tabbed organization to organize access to your favorite web pages and desktop files and folders in one place.
+Optimal Desktop integrates access to files and folders with file filtering and preview window built into the system.
+Subscribing to RSS feeds is a simple drag and drop.  Each feed can be viewed in its own window with flexible update functions.
+Optimal Desktop offers a highly customizable interface to the online moreover feed generator.  Users can define their filters and information sources and recieve highly customizable information feeds to their desktops.
+Optimal Desktop offers and integrated popup blocker.
+Optimal Desktop offers a macro function for recording and playing back a sequence of Internet actions.  This feature is optimal for storing and replaying passwords.
+Optimal Desktop let's you isolate your desktop, internet favorites, history and any folder within the folder tree (Section folders) and toggle between these folders in your folder view.
+Optimal Desktop lets you search your favorites and the content of your RSS feeds in a highly customizable search function.
+Tabbed browsing
+Ez bookmarks
+Smart download manager
+Link manager
+Safe browsing
+Instant search
+Fastest: Chrome's latest core(version 54) speed
+Powerful: Xvast browser support all the latest HTML5 features
+Xvast supports DRM-X 4.0 protection. It enables you easily enjoy the protected premium content
+Light-weight,
+Clean interface,
+Tab browsing.
+Uses Microsoft IE's Trident engine by default and Chakra by a patch provided in the package.
+With our headquarters in the EU, we are forced to respect user privacy to a much higher level in comparison to other countries, namely the United States.
+Any setting that could compromise your privacy is deactivated by default. Examples include third-party cookies, password autofill, prediction text and more.
+A built-in VPN helps you stay anonymous and safe by creating an encrypted tunnel between your computer and websites.
+Every file you download is automatically scanned for viruses and checked against a database updated in real time. Files that are suspicious are clearly marked in red for you to review.
+Websites are rated by a large community of internet users so you know a site's reputation immediately simply by looking the Shield in the upper corner of UR.
+Homescreen: Your own personalized Homescreen centralizes news, weather, search and more.
+Customization: With an extensive gallery of 2D and 3D wallpapers, you can customize the theme of your browser as well as the background of your Homescreen.
+Moods: Get quick access to your favorite sites (sorted into profiles called Moods), straight from the Homescreen.
+Download Booster: Files download 3x faster than traditional browsers thanks to an advanced, ìmulti-threadingî technology.
+Bypass blocked websites
+Multiprofile browsers
+Can be launched independently
+Retain all functions of the original browser
+Portable and can be launched from any carrier
+Leave no traces after browsing
+Anonymous and safe browsing
+Simplified interface
+Image Viewer
+Comprehensive HTML editor
+Website Blocker
+Easy browsing without complicated configuration options
+Multi-tabbed interface
+History
+Bookmarking
+Multiple search engine support (9)
+No special requirements
+Most errors are suppressed
+Password protection tool
+File downloader
+Single-tab browsing
+YouTube, Bing and Google search buttons
+Customizable homepage
+Easy and fast browsing experience
+Easy to use installer
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+Tabbed Mode and Tree Mode Browsing;
+Top Sites List and Site Directory Explorer;
+Top Forums List and Forum Directory Explorer;
+Top Software List and Software Directory Explorer;
+Bookmark Your Favorites;
+Automatic Online Weekly Updates.
+Fully adjustable split screen browsing environment. Muddly supports 4 panes, Top, Bottom, Right and Left. These panes can be further divided for precise control of composite documents. All panes support tabs and all panes can be maximized.
+Muddly documents allow you to compile a web archive using your Windows file system. This allows you to collect many documents containing all the sites of interest for that document without cluttering your Favorites collection. Whatever you have on screen under a document tab can be saved in the Muddly .mud file format. You can open and restore your content and layout anytime later. As files they can be sent as file attachments in E-mail etc.
+You can open one or more RSS feeds in the Muddly Tree Browser - this allows you to view any page in a feed without opening more than one browser pane - giving you more control of your favorite feeds. If required you can open any item in a new tab, window or document. Feeds are integral with the document - when you save a document that contains a feed - it will open along with the other document content when you return to it.
+The Muddly Tree Browser works the same way with your Favorites too - this is the fastest, most convenient way to look through your Favorites and find the page you are looking for with just one view. It's the same story for your History too.
+Muddly isn't trying to replace the rich functionality and special features of Internet Explorer - we dont ask you to make it your default browser or change anything at all. Muddly has a unique feature set and its own place in your software inventory.
+Muddly turns the web into a well organised reference - and there'll be certain documents you'll want to refer to all of the time. When you don't need it on the desktop you can reduce it to the system tray ready when you need it.
+Muddly looks great with a skin to suit your taste - browsing feels better too when you decide on the ambience.
+Cross-platformed Ribbon UI
+Tabbed browsing
+Whole web page save as image file
+Click thumbnail image, then found it on page
+Anti shoulder surfing
+Protects your children every second they're on the internet!
+Web-page analyzer that analyzes any page you add to their list.
+Desktop lockdown that allows you to prohibit children from using Internet Explorer, Firefox, etc so that they only use the KidSafe Internet Browser. (For Windows 2000 & XP)
+History area that lets you see where your kids have been (they will only have access to SAFE areas)
+Helps children learn and practice math, English, and science
+Sandbox area for kids to play almost unlimited games.
+Put time restrictions on the internet by using the Mr. Pocketwatch Feature
+Full featured web browser
+Password-protected Parental Admin
+Unlimited updates / auto-update checker
+Keeps children safer than by using only filtered internet
+Pop-up blocker (configurable)
+Enable / Disable the printer and search bar
+View how long your children have used the internet per day.
+Fantastic Bookmark Menus
+Revolutionary Internet Searching
+Awesome Loading Speed
+Guaranteed Safety & Privacy
+Superb Entertainment
+Respect for Users and their Systems
+Tools you've always wanted
+HTML5 Compatibility Checking
+Local Media Support
+Faster Downloads
+Fully emulated phones and tablets inside
+URL and scroll of desktop and mobile are in sync
+Blisk refreshes pages automatically on file change
+Debug desktop and mobile with DevTools
+Blisk works with any IDE, language and framework
+'Any Pic' Theme system
+Back Music Funtion
+Qik. Qik allows you to make instant HTML sites and retrive other HTML site's codes ! Has More functions as calculator, dictionary etc. - Switchers are replaced by on top shortcuts
+All new super designed address bar
+Check mail
+Favourites
+Web Property Viewer
+Send Mail, without loging in to your Email ID
+Socialization ! Allows you to socialize easily and even does not occupy your browsing space
+Super Tab Controller
+True system info. For downloading Matters
+Compactible with all downloaders
+Super Quick Downloading
+Hacking Mode
+Basic shortcuts enabled
+Webmaps
+Changing Logos
+Hacking websites
+Online Favorites Service: Access your Favorites content anywhere with Maxthon Online Favorites Service. The encrypted stand-alone Favorites file format can protect your privacy on a shared computer.
+Tabbed Browsing: All the web pages are arranged as tabs inside main window to ease your navigation.
+Super Drag&Drop: Type the keywords in Address Bar then press Enter to perform a search. Or simply drag & drop a keyword with your mouse.
+Ad Hunter: Ad Hunter can efficiently clean up the web pages by stopping Popup Windows and removing Ad Content Blocks.
+Fully Customizable: Plugins. Skins. Filter Packs. Multi-language
+A fast, reliable rendering engine that allows for a large amount of compatability with many web sites.
+A sleek, clean design.
+Two built in themes which each have their advantages
+A built in bookmark and History manager in order to get to your favorite websites, fast.
+A minimalist menu style that allows the user to browse while editing settings.
+Internet Explorer
+Webskape Kiosk uses the same robust web technology as Microsoft Internet Explorer.
+Tamper-proof
+This application is designed for public use. Lock down the OS, restrict the keyboard and stop right-click.
+Hidden Control Panel
+Access a hidden control panel by pressing the bottom left corner of the screen and then entering your pin number.
+Web Filter
+Train a filter to either block all all the web sites you don't want or only allow the web sites your do.
+Style
+Re-style the software. Change the colors, background image and logo.
+Touch Screen
+Add an optional touch keyboard and hide the cursor.

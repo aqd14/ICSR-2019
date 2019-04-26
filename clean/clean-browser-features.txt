@@ -1,0 +1,884 @@
+system should comprehensive popup control to keep unwanted advertising off your desktop
+system should a tab browsing mode that let you open several page in a single window allowing you to load link in the background without leaving the page you re on
+system should integrated search powered by google
+system should industry leading accessibility with find a you type find link and page text by simply typing
+system should simplified privacy control that let you cover your track more effectively
+system should a streamlined browser window that let you see more of the page than any other browser while at the same time being more configurable
+system should a large variety of free downloadable extension and theme that add specific functionality and visual change to the browser
+system should quick to start up from your desktop
+system should load web page in a snap
+system should run web application faster than ever
+system should search and navigate to web page from the same box
+system should arrange and organize tab however you wish quickly and easily
+system should get to your favorite website with just a click from the thumbnail of your most visited site in the new tab page
+system should try minimalist star gazing or google chrome artist theme
+system should opera keep your browsing safe so you can stay focused on the content our secure browser protects you from fraud and malware on the web would you like better privacy on the web try our unlimited free vpn feature
+system should tired of online ad opera is the first major browser that can block ad for you without add ons according to test our built in ad blocker make content rich webpage load in opera up to faster
+system should our visual bookmark tab cycling and customizable shortcut keep you on track and save you time can t get enough online video don t miss our new video pop out feature a floating moveable video frame that let you keep browsing or work in other apps without missing any of the action
+system should opera s speed and performance are among our top priority the data compressing opera turbo feature native ad blocker and other feature will help you browse faster and the new battery saver feature will help you browse longer too it extends laptop battery life by up to
+system should with a currency converter built right into the browser opera help you shop online around the world without any nasty surprise on your credit card bill
+system should over extension make it easy to customize opera download the extension and theme you like from opera s add ons catalog to get the best browser experience with a personal touch with the animated theme you can even bring opera s start page to life
+system should switch between device and pick up browsing where you left off with opera sync bookmark open tab and other data stay synced through your opera account want to keep opera with all it setting handy on a usb drive try our portable version
+system should opera brings the latest news to one spot available from the browser s start page personalize your news feed to read what is most relevant to you you can add preferred news source from all over the world in addition to the top article from your region
+system should the new graphic capability and improved performance in internet explorer set the stage for immersive and rich experience
+system should internet explorer surface the website you love most and put them one click away once you re in the browser the new tab page help get you started browsing quickly providing meaningful suggestion and information to help you decide what to do next a you browse
+system should notification in internet explorer allow for more fluid and faster browsing instead of dialog box popping up unexpectedly and getting in your way all notification message are consolidated in the notification bar located at the bottom of the browser frame
+system should with pinned site you can get to your favorite site directly from the window taskbar without having to open internet explorer first
+system should tear off tab make interacting with multiple site fast and intuitive you can rearrange tab within internet explorer just like you can rearrange icon in the taskbar in window or you can open any tab in a new browser window by dragging that tab to your desktop
+system should designed based on what you use most the navigational control in internet explorer are streamlined and simplified the back button is larger the address bar and search box are combined into one new address bar and the multiple menu from previous version of internet explorer are consolidated into a single menu
+system should cross site scripting attack are a leading online threat their aim is to exploit vulnerability in the website you visit how do they work by compromising legitimate website with malicious content that can capture keystroke and record your login information and password if your login information and password is captured your personal data could be compromised
+system should one way to avoid deceptive website is to know the address of the website you re intending to visit with domain highlighting internet explorer let you see the true web address at a glance by highlighting the domain name in the address bar making it easier for you to identify the site you visit
+system should real full screen mode and alternative full desktop mode
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should you can create several standard message they are stored in a database so that you don t need to type them all over again
+system should you can choose to which friend you want to send your message
+system should macroreplacement unique system by placing the identifier nc or nl anywhere on your message they will be replaced by your friend s name once the message is posted
+system should by activating the random message option the program will search message randomly on it database everytime it post this way you will be able to create several message and each of your friend will receive a different message
+system should you can search direct by drag text in browser the other way you also can add special search button to search bar for example news software image bt dictionary click the search button will begin search no use to switch search engine in pop menu the best and speedy way is direct drag drop text on search button
+system should there are search button in the search bar image baidu google yahoo greenbrowser search search msn search google feeling lucky baidu know baidu news google image bt search search software search shopping search if you like powerful search bar click here to download and uncompress to greenbrowser s user folder
+system should you can add some frequently use program link in external toolbar by set external toolbar after that you can set the program auto start with greenbrowser or auto close with greenbrowser
+system should tab bar icon show the state of page blank page finish download read or not locked protected saved
+system should webgl and high dpi support
+system should powerful developer tool for creating window store apps using javascript
+system should fast website loading prerender and prefetch caching and prioritization
+system should enhanced view of website and window store apps using javascript
+system should tile support and tile notification with r
+system should personalized look and better integration with the window environment
+system should closed caption for video
+system should full screen for video
+system should based on our own optimized layout engine goanna
+system should safe forked from mature mozilla code and regularly updated
+system should secure additional security feature and security aware development
+system should supported by a friendly active community of user
+system should familiar efficient fully customizable interface
+system should support for full theme total freedom over any element s design
+system should support for easily created lightweight theme skin
+system should smooth and speedy page drawing and script processing
+system should increased stability experience fewer browser crash
+system should support for many firefox extension
+system should support for a growing number of pale moon exclusive extension
+system should extensive and growing support for and
+system should many customization and configuration option
+system should update your status and make comment from anywhere on the web new flock start fast
+system should and it handle javascript really fast
+system should the javascript engine in chromium allows flock to keep you up to date with all your friend and favorite feed while keeping the browser s performance top notch
+system should the sidebar is the hub of activity in flock it keep you informed with feed content and social stream so you don t have to leave the web page you are on a soon a you sign into your social service and or subscribe to r and atom feed the sidebar start delivering what s new with your friend and favorite content
+system should the sidebar work like the channel on a tv use the channel changer drop down menu at the top of the sidebar to see just friend on facebook just friend on twitter all friend just feed etc but this is better than tv because you can create any channel you want
+system should talk about the news the funny video you just found or anything else you stumble upon just click the talk button write a comment and get back to what you were doing we ll automatically add the link and even shorten it for you
+system should we know there are lot of people who want to customize and personalize their online experience and browser extension can be a great way to do that google chrome extension work with flock
+system should flock provides you the option of creating a free account that store your favorite site and feed your social networking account and all the group you make for your sidebar you can access your account from any flock browse
+system should when the browser closed the selected browsing data would be cleared automatically not selected by default you can go to optionsàprivacy dataàprivacy plus to setup
+system should you can make efficient command with easy mouse gesture practiced mouse gesture can save you quite a lot of time and are fun
+system should some web page use ie control and thus can only run in ie correctly the ie tab is designed to visit these page
+system should with the bulid in adblock coolnovo can prevent the display of ad especially the adblock of coolnovo support the rule of the world famous adblock plus rule and thus make use of the existing blocking list of adblock plus
+system should dragging and dropping a block of text in the page will create a page and search the text with your default search engine you can also drag the link and picture to open them in the newtab page
+system should for your convenience coolnovo support some popular download tool in the context menu of web page there re more than kind of downloading tool supported including netants orbit qq xuanfeng is flashgetmini netx webthunder xunlei and so on
+system should a new feature of coolnovo there re some common used feature on the bottom toolbar very convenient and useful
+system should it ha the ability to open multiple site and window inside a single browser task web page are organized on tab to prevent your screen from getting cluttered
+system should a fast way to control the web browser mouse gesture can provide quick access to common function of crazy browser
+system should currently crazy browser support for kind of plug in com object script and executable file
+system should crazy browser allows you to prevent most pop up window from appearing over page you want to view while you re using the internet
+system should built in web form filler also support integration of roboform form filler
+system should built in popup killer suppresses all annoying popup ad while you browse internet
+system should built in web form spell checker proof your online posting against spelling mistake
+system should url filter eliminate ad banner or other unwanted component within web page by address pattern
+system should convenient access to major web search engine or your own favorite one by quick search bar
+system should a large collection of skin available to tune the browser appearance to your own taste
+system should autologin enables you to navigate to your favorite site and log into your account with a single click
+system should seamless integration with online translation engine and dictionary
+system should site group let you save a collection of web site a a group and open all of them at once with a single click
+system should you can type pre defined short alias instead of long url to browse frequently visited internet site
+system should theworld browser is the second multi thread frame browser in the world the first is internet explorer the multi threaded window frame can avoid web page being out of response
+system should theworld can block popup ad and float ad automatically
+system should you can also use black list to filter ad the black list filter is working from lower level of http protocol with regular expression you can filter every page item that you want
+system should flash filter unlock page script limited zoom in out page in all level proxy quick switch auto form quick medium saver privacy keeper mouse gesture custom hotkey drag drop link
+system should theworld browser ha special safe guard to keep you out of risk more safe function is still in development
+system should which is insist multi thread download resumable download with a easy download manager it can save you most time
+system should theworld browser insist skin and plugins now we had hundred of skin and plugins to extend your browse experience also we insist internet explorer s plugin
+system should take full advantage of your pc with gpu powered graphic and compiled javascript
+system should deliver interoperability through web standard including and
+system should create next generation experience with and graphical capability
+system should your site shine through a site centric browsing experience and pinned site
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should tabbed browsing give you a better way to surf the net you no longer have to open one page at a time with tabbed browsing open several page at once with one click plus your homepage can be multiple page in tab and if you mistakenly close a tab or window functionality to undo closed tab or window help you bring it back to continue working with it
+system should seamonkey s powerful add ons management provides almost infinite possibilies to extend your internet experience both through installing additional functionality created by others and even freely developing your own extension and providing them to the rest of the seamonkey community
+system should feed detection notifies you when web page offer r or atom feed and feed preview let you view their content and choose a reader with which to subscribe to those including an internal reader in the mail newsgroups component of seamonkey
+system should smart location bar enables you to search your visited web page right when typing in the browser s location bar and finding what you want to re visited a fast a possible by learning which page you visit frequently
+system should popup blocker let you surf the web without interruption from annoying ad
+system should image manager let you block image to remove offensive image or speed up the rendering of web site
+system should find a you type give you another way to navigate a page just start typing to jump from link to link or to find a word or phrase within a page
+system should session restore brings back all your open window and tab after the rare occasion that seamonkey crash and if you wish even when you close and reopen the browser or restart your computer
+system should plus all the feature a modern browser should have including advanced security setting password download and cookie manager web form autocompletion theme toolbar customization multi language and multi platform support and the latest in web standard
+system should tabbed mail let you manage your mail and folder in parallel without losing control of where you re at when reading replying to and working with message in more complex pattern
+system should junk mail control help you take back control of your e mail from spammer seamonkey s adaptive junk mail control get smarter with use and is personalized to the e mail that you receive
+system should manage your mail with customizable tag and mail view color code your e mail to help you prioritize sort your mail with view to help you through your e mail much faster
+system should multiple account support help you manage all your mail through one interface
+system should feed and blog is a reader for r and atom feed right in your messaging center that eas your reading of information from all across the web
+system should seamonkey mail newsgroups includes enterprise ready feature such a s mime return receipt address book ldap support and digital signing
+system should seamonkey s powerful yet simple html editor keep getting better with dynamic image and table resizing quick insert and delete of table cell improved cs support and support for positioned layer for all your document and website project composer is all you need
+system should chat on irc network with this simple yet powerful irc client multiple network and channel are easy to keep track of in a familiar tabbed interface
+system should you can change the look and feel of the chat with motif choose from several built in motif many more downloadable or create your own with cs
+system should dom inspector enables you to dig into the document structure of web page add ons or even the seamonkey chrome itself and inspect a huge number of property of any element in that structure including javascript object and cs style
+system should javascript debugger venkman let you debug javascript code on your website add ons and even in seamonkey itself with a suite of powerful debugging tool
+system should greater stability and le memory bloat
+system should incognito mode stop cooky improves privacy
+system should very easy to switch from your browser to the dragon
+system should be upset for inable to use your own bookmark collection on different computer or different browser cometbirds free you from this trouble cometbird bookmark synchronizer make all your bookmark keep consistent anytime and anywhere
+system should with cometbird you can download any video audio flash you like to your computer you only need to right click the video that is playing cometbird will save the selected file to your local disk
+system should the page loading speed is greatly improved by opening new page in a new tab instead of new widow which save much of your computer memory and disk space
+system should anti virus software pop up blocker one click clearing private data anti malware and customized security setting etc all these technique are applied to assure you a safe and secure browsering environment
+system should mouse pointer for non touch screen device
+system should security e g how doe the user know the site is secure
+system should spatial navigation keyboard shortcut
+system should text input password input manager native integration
+system should determine build profile simple basic and what need to be removed added
+system should the new graphic capability and improved performance in internet explorer set the stage for immersive and rich experience
+system should internet explorer surface the website you love most and put them one click away once you re in the browser the new tab page help get you started browsing quickly providing meaningful suggestion and information to help you decide what to do next a you browse
+system should notification in internet explorer allow for more fluid and faster browsing instead of dialog box popping up unexpectedly and getting in your way all notification message are consolidated in the notification bar located at the bottom of the browser frame
+system should with pinned site you can get to your favorite site directly from the window taskbar without having to open internet explorer first
+system should tear off tab make interacting with multiple site fast and intuitive you can rearrange tab within internet explorer just like you can rearrange icon in the taskbar in window or you can open any tab in a new browser window by dragging that tab to your desktop
+system should designed based on what you use most the navigational control in internet explorer are streamlined and simplified the back button is larger the address bar and search box are combined into one new address bar and the multiple menu from previous version of internet explorer are consolidated into a single menu
+system should cross site scripting attack are a leading online threat their aim is to exploit vulnerability in the website you visit how do they work by compromising legitimate website with malicious content that can capture keystroke and record your login information and password if your login information and password is captured your personal data could be compromised
+system should one way to avoid deceptive website is to know the address of the website you re intending to visit with domain highlighting internet explorer let you see the true web address at a glance by highlighting the domain name in the address bar making it easier for you to identify the site you visit
+system should built with clang cl on window
+system should run every add on even unsigned one
+system should aol explorer attache easy to see tab to browser window so you can find and get to the window you want in a snap it let you keep tab on your internet experience watch a demo of tabbed browsing
+system should aol explorer transfer your favorite website link from ie and let you access them from a portable favorite folder this way you can tap into your favorite site on any machine using your aol or aim screen name by simply going to http favorite aol com
+system should aol allows you to customize the look and feel of your browser you might want to try the midnight theme or check out bubble gum or kickflip choose from any of our sixteen theme to add bling to your browser
+system should you can now take the side panel in aol explorer and put them right onto your desktop take your feed panel journal panel or whatever and have it right at your fingertip best of all you can keep them open even when aol explorer ha been closed you are never far from the latest breaking event blog and general information
+system should it can open one or more local file and or url in all installed version of mozilla firefox with a single click
+system should it can appear in the context menu of window explorer so a file can be opened in every installed version of mozilla firefox directly
+system should it can display the version number of mozilla firefox in the titlebar
+system should it includes a number of window resizing option for the web developer add on setting for all common resolution like and are included
+system should it can be installed for all user so it s available for everyone
+system should it can be installed and used silently it s possible to create an unattended installation and use all function using command line parameter
+system should it even work under the most restricted user account after installation only the installation need to be done by someone with administrator privilege
+system should cached search for faster experience with bypass cache option
+system should automatically save all viewed video
+system should display video title and description
+system should auto launch vlc to view video while downloading
+system should we are all absolutely unique and we want different thing vivaldi web browser let you do thing your way by adapting to you and not the other way around
+system should are you a keyboard person then vivaldi is your delight quick command let you search through open tab bookmark history setting and more with one single keyboard shortcut quick command menu is highly customizable allowing you to create your own command and run them instantly
+system should tired of unorganized tab in your browser let the mess be cleaned up with vivaldi organize your tab using tab stack a feature that you will fall in love with
+system should take note and add screen shot of web page while browsing store attachment and add url s to easily organize and locate it later
+system should one of the thing that make vivaldi unique is that it is built on modern web technology we use javascript and react to create the user interface with the help of node j and a long list of npm module vivaldi is the web built with the web
+system should vivaldi s color scheme will adapt a you browse the web much like a chameleon adapts to it surroundings a clean and modern look complement the content facebook turn vivaldi blue the verge will make it orange if you so wish
+system should say goodbye to tab cycling through web page content now you can move in every axis using the arrow key get faster anywhere on the web page using your keyboard
+system should how many bookmark do you have in your browser or if you use bookmark a lot you have come to the right place
+system should web panel allow you to view website a a panel on the sidebar of your vivaldi browser read news follow conversation on social medium chat with your friend and much more while using the main browser window separately
+system should lunascape is the first browser in the world that contains both internet explorer and gecko firefox engine and support most of ie toolbars plug in or extension you think that gecko is faster and safer or you think ie is more universal lunascape is both
+system should want to subscribe to a r feed just drag drop it in your favorite bookmark and lunascape will provide you the last news automatically
+system should just like looking at an electrical bulletin board r ticker display news one after another drag drop is the only step you have to take to register new r
+system should infoview mode dramatically increase efficiency of r news and blog reading you don t have to visit to the site each time to get information
+system should quick customize with variety of plug in
+system should lunascape is the first browser to support multiple sidebar plug in add ons for internet explorer at the same time lunascape itself ha more than function implemented but it also support internet explorer toolbars plugins for people who are used to lunascape also us gecko engine so it support some of firefox netscape or mozilla extension and plug in
+system should lunascape contains a setting bar which is the tool that make easier the management of favorite design switching etc you can add your own setting by drag dropping item into the setting tree
+system should lunascape contains various search engine from the beginning so you can perform a web search easily
+system should type desired keyword in the search bar choose your search engine and hit enter
+system should lunascape produce high quality skin that can be installed very quickly and easily when installing a new skin only the appearence of the browser will change speed and feature remain the same
+system should in lunascape you can turn off image video script java activex and all sort of web functionality that may be dangerous for non experimented user all those security setting can be setup for each of your favorite
+system should have you ever thought that internet explorer favorite are not convenient to use lunascape ha been evaluated a one of the browser that have the most useful favorite organizing system for each favorite you can setup a security level add comment choose color etc
+system should auto sorting by use frequencyfavorites you use the most will display automatically on top of the list
+system should without opening the corresponding page news blog etc recorded in your favorite will be automatically updated in real time a r feed title of the favorite also are updated r podcasts are supported
+system should in lunascape you can block popup ad that disrupt your web browsing you can also of course allow some site to display popups by specifying their url
+system should choose block popup from security menu
+system should having hard time remembering your id and password by using roboform toolbar you don t have to type in id and password each time the system will fill them in automatically by just one click
+system should install roboform from extension in tool bar menu
+system should lunascape provides a very useful function to switch between proxy very easily add proxy by drag dropping it into your setting tree on setting bar and select the proxy that you want to use
+system should other than those on above lunascape ha hundred of function that raise efficiency of web surfing
+system should mouse gesture is a technology that permit you to drive most of lunascape command with your mouse when surfing on the web just click the right button of your mouse and while holding the right click move your mouse in one of the following direction left right up down or a combination of these direction then when you release the right button a command that corresponds to the combination you have done will be executed
+system should sleipnir is designed to be completely customizable and to be responsive to user expectation sleipnir is designed to maintain the same level of high performance no matter how much you customize it
+system should no matter what plug in you decide to use sleipnir is designed to maintain the same high level of performance and responsiveness it ha been developed especially for window with performance in mind
+system should you can change almost all function a you want to customization may sound difficult but it is actually very easy to understand and quite intuitive with sleipnir you can easily change and customize almost any aspect of the browser even beginner can have a customized web browsing experience with minimal effort
+system should user have come to expect their browser to support tabbed browsing and sleipnir ha been designed from the ground up to provide the ultimate tabbed browsing experience with it advanced window view and thumbnail functionality sleipnir is a breeze to use no matter how many tab you have open
+system should the vast majority of website are designed for optimal viewing in internet explorer sleipnir us the same trident rendering engine a internet explorer so it will display just about any web page perfectly
+system should built on the latest mozilla similar to firefox
+system should malicious website warning we ll warn you if you
+system should are about to visit a website known to host virus
+system should get protection against over million malicious site
+system should personalize epic epic is the first browser to offer full screen wallpaper image
+system should with one click in any text box start typing in any of indian language type how the word sound in english and epic will convert it to the indic language
+system should live cricket score top album news from leading source regional and hindi language news event even a daily joke
+system should in the india sidebar watch different live tv station watch tv show from over channel and hundred of film in different language
+system should choose from thousand of radio station across hundred of music genre get desktop alert for each new song played
+system should no browsing report we don t store your browser
+system should create quick note or document in english indian
+system should language instantly in our light weight epic write
+system should don t miss a beat get instant desktop alert for
+system should new tweet e mail and facebook post
+system should you can now with webplayer listen to the music and to watch film online with a browsing
+system should now you don t have to use the keyboard any more with webgoo on screen easy keyboard for you
+system should browse your internet make your phone call at the same time
+system should you can search in more site
+system should type a word in the address bar and press space to automatically add http www and com at both side of the site name
+system should you can type the friendly name of a favorite page in the address bar and then select the page name in the autocomplete list that appears
+system should to display the link bar a handy place to keep your favorite web site click the view menu point to toolbars and then click link
+system should print the current page or active frame
+system should automatic url history saving and retrieval add edit organize favorite link
+system should it s easy to get and send mail have auto detection of online offline status
+system should can dialup with current connection disconnect from current connection and edit in place feature for web document
+system should you can watch the time with webtime clock
+system should edit in place feature for web document
+system should send sm free with webgoo sm
+system should you can search file image text and video and audio file in computer
+system should html editor and design websitephp editor
+system should maxthon browser s powerful tabbed interface will give you the best browsing experience without taking your taskbar space away all the web page are arranged inside maxthon browser s main window multiple web page are indicated by tab for easy navigation
+system should command your browser just with your mouse mouse gesture are another revolutionary invention among the browser with mouse gesture enabled you can use your mouse to command maxthon easily and some people say that it feel like playing kongfu with their mouse
+system should maxthon browser introduces another revolutionary technology to speed up your browsing the super drag drop with super drag drop enabled you can open new link by simply dragging and dropping the link on the page you can also drag drop to search selected word with the default search engine or open a link in new tab or save the selected content when ctrl is held down
+system should maxthon browser provides a customizable favorite bar for better access to your link or favorite from other folder you can open all favorite inside a folder you also have the option to set favorite a most favorite in the favorite side bar and open them when maxthon browser start even more option are available from the right click menu
+system should popup ad flash ad floating ad image ad get enough with all these annoying ad here is the solution ad hunter ad hunter consists of several neat function to block all kind of ad you can use the auto filter to block popup ad or setup a filter list for more accurate and customized blocking
+system should can the google bar and other ie toolbar be installed and used in third party browser besides ie even google will tell you no but we can say yes in fact not only the google bar is supported maxthon browser can also support a lot of other ie plugins and toolbars like flashget bar etc
+system should with maxthon browser you don t have to start other program by switching away just add them to the utility bar and launch them by a single click you could even set them to start and shut down with maxthon browser automatically
+system should we care about your privacy with maxthon browser you can erase all your browsing information easily and even automatically you can clear your private information such a the browsing history cooky cache etc with a single click further more you can even setup maxthon browser to clear all your browsing information automatically when it close
+system should maxthon browser support flexible skin to change the look of the browser window with skin you can change the icon color and background of maxthon browser if you want you can also disable them to enable window native skinning there are already skin created for maxthon browser and more are coming be sure to visit the skin site to find out how beautiful maxthon browser could be
+system should you can further enhance the functionality of maxthon browser with plugins besides the ie plugins maxthon browser support it own even more powerful sidebar and toolbar plugins there are already plugins created for maxthon browser and more are coming be sure to visit the plugins site to add even more feature to maxthon browser
+system should maxthon browser ha full ie compatibility which mean you will still have all you have in ie maxthon browser us very few resource resulting in an average of le ram usage compare to ie when having the same large number of page open
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should smarter and more convenient than the basic password manager in chrome save page link and login data in a form file which let you open your favorite online account with a single click later on
+system should slimjet let user customize the toolbar and add remove additional button to quickly access additional feature and functionality
+system should in slimjet you can share the link you visited a paragraph of text or an image easily on facebook with a single click on the facebook toolbar button
+system should download any youtube video to local hard disk in specified resolution and file format agp flv you can also convert the downloaded video file into file automatically
+system should slimjet includes a photo salon in which you cano apply different effect or add beautiful frame to the photo before they are uploaded
+system should automatically compress photo to web optimized resolution so that photo are uploaded up to time faster
+system should display current weather condition and weather forecast directly on the browser window
+system should slimjet let you define short alias for long url which are slow to type and hard to remember after that just type the alias from the omnibox to open the corresponding page
+system should instead of automatically translating a full web page into the current ui language slimjet let you translate a web page or a piece of text between any two specified language
+system should slimjet provides many additional option and setting so that you can customize the browser to best suit your personal preference instead of being forced to take everything a it is without any choice
+system should wap xhtml mobile profile wml browsing
+system should winwap mobile transcoding allows html page to be opened reduced html support
+system should multi start page load multiple start page when you launch your browser
+system should built in pop blocker eliminate annoying pop advertising when you visit website
+system should mouse gesture use your mouse to move forward back between page refresh your screen and move to different tab
+system should built in search engine type a search term into your browser address bar and click search to view relevant search result
+system should auto login store and retrieve website login detail automatically
+system should auto form fill automatically fill online form without typing your detail to save the hassle of repeatedly filling in your detail
+system should r atom news reader subscribe to your favorite news feed and let the news reader compile and display the latest news on one screen
+system should four default option for handling new web browser window
+system should four selected group list option for handling new web browser window
+system should import bookmark htm from netscape and favorite from internet explorer
+system should history of the last site visited
+system should option for docking bookmark window
+system should when the browser closed the selected browsing data would be cleared automatically not selected by default you can go to optionsàprivacy dataàprivacy plus to setup
+system should you can make efficient command with easy mouse gesture practiced mouse gesture can save you quite a lot of time and are fun
+system should some web page use ie control and thus can only run in ie correctly the ie tab is designed to visit these page
+system should with the bulid in adblock coolnovo can prevent the display of ad especially the adblock of coolnovo support the rule of the world famous adblock plus rule and thus make use of the existing blocking list of adblock plus
+system should dragging and dropping a block of text in the page will create a page and search the text with your default search engine you can also drag the link and picture to open them in the newtab page
+system should for your convenience coolnovo support some popular download tool in the context menu of web page there re more than kind of downloading tool supported including netants orbit qq xuanfeng is flashgetmini netx webthunder xunlei and so on
+system should a new feature of coolnovo there re some common used feature on the bottom toolbar very convenient and useful
+system should powered by the chromium and trident engine
+system should webgl hardware accel etc support
+system should test test
+system should apps extension userscripts and addons
+system should ha it own music player so you can play pause and even stop the song
+system should create your own playlist and view all your music in it own library
+system should easy access to favorite help and other support
+system should integrated program like paint or aim
+system should ha it own list of hyperlink click on them will take you instantly to the link
+system should get instant information answer and search result for the clicked on word whether you re in a browser email or other application such a office or acrobat
+system should jiveq come with a fully functional drag and drop browser that ha all the standard browser feature such a inline search tab popup blocker and custom search button
+system should instantly get a snapshot of an entire web page then print it copy it email it or save it
+system should custom search button can be made for any search engine on any web page
+system should stay more organized and focused with search done in separate tab
+system should surfbuttons bring the information from any search engine one click away with surfbuttons you don t need to be on a web site to use it s search engine
+system should surfbuttons are custom drag and drop button used to navigate to a web page or are linked to a search field on any web page
+system should jiveq s surfbuttons s work with every search engine not just a predefined list
+system should from any application search error message right from the window they are displayed in by pressing ctrl right click and selecting result are shown in new tab
+system should search the selected word from any application by pressing ctrl alt s
+system should for usability consistency all of jiveq s browser control are html control
+system should new attractive look more user friendly
+system should find and load proxy list
+system should change proxy using one single click
+system should enable and disable proxy using single click
+system should remove complicated registration and login process
+system should full integration with gtk
+system should tab window and session management
+system should user script and user style support
+system should extension such a adblock form history mouse gesture or cookie management
+system should based on three rendering engine
+system should distribution option you can specify how you want to distribute internet explorer either using a product cd or the local area network lan you can also create a configuration only package to update internet explorer setting without installing code on your customer or user computer
+system should custom component you can include in house application and other program in the custom package to distribute to your user and computer
+system should setup experience depending on your license type you can set the level of user interaction during the installation and specify setting for the microsoft window malicious software removal tool the default browser and internet explorer update
+system should search experience you can customize the list of search provider for your user
+system should browser experience you can customize where your user are directed for support the display of home page and a welcome page the list populating favorite link and web feed and toolbar button
+system should administrator approved activex control you can specify the control to run while locking out all others which reduces overhead and troubleshooting issue the approved set of microsoft activex control can be enabled and administered dynamically by using the option in additional setting in ieak profile manager
+system should automatic configuration you can automatically refresh your user internet explorer setting at regular interval or every time the browser is started
+system should refresher pro ha a built in pop up manager where you can block unwanted window and allow friendly window
+system should refresher pro display all of your favorite which are stored in internet explorer with the ability to manage each of your favorite link
+system should the refresher pro quick search box for when you just want a quick search with spell checker
+system should ability to hide your second web browser window and resume where you left off at any time
+system should intelli search where the word you search most often are remembered and predicted for you a you being typing in the search box
+system should preserve window taskbar space by minimising refresher pro to the system tray
+system should automatically stop refresher pro if you navigate within a page which is currently refreshing
+system should quick convenient rapid fire button to take you to your web mail and ebay
+system should choose the startup window state whether you would like it normal maximised or minimised
+system should ability to auto start when window start
+system should block web image content to quicken page rendering
+system should refresh individual window or both window at the same time
+system should dual browser or single browser mode
+system should copy go quickly and conveniently go to the same address in one browser a in the opposite browser
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should cache manager smaller flow of the network faster speed
+system should block all popup ad on more than test website
+system should abundant favorite operate a real one stand up favorite management of you
+system should hide float ad with middle button of mouse
+system should design web page before print
+system should drag the url of real medium or window medium
+system should drag and save image or flash to local disk
+system should auto retry to download image when image can not be view
+system should access custom web site through custom proxy immovable
+system should test or stat favorite in batch
+system should resume page broken by error
+system should view medias within gogo explorer
+system should save web page a picture
+system should generate pdf file via a terminal
+system should qt x x and x support
+system should built in popup killer based on intelligent identification
+system should ability to turn on off flash animation
+system should access to major search engine with quick search bar
+system should integration with online translation engine and dictionary
+system should site group open and save a collection of site a a group
+system should you can change the skin to your color preference
+system should rock solid performance over all other browser
+system should support for multiple amazon account
+system should processing very large amount of file million effectively
+system should support for bulk acls assignment edit acls in batch mode
+system should bandwidth throttling and proxy support
+system should support for copy move between amazon account and bucket
+system should fast working multithreaded http engine
+system should special algorithm are used to decrease the number of request and save you money
+system should change application style on the fly and see how the program and website look under different version of window and unix environment
+system should move navigation bar and bookmark bar anywhere within a mainframe or even undock and place them on the desktop
+system should tabbed browsing by default user interface can be switched to non tabbed
+system should turn on private browsing mode to avoid leaving trace of browsing even useragent which is being sent to the web server is masked
+system should full reset feature clear all cache and restores all local setting to the state just after installation a it wa never run on the machine
+system should supported ssl to access secure site certificate information and certification path can be displayed
+system should size of executable is only no additional dlls and other configuration file required
+system should in most case you just need one file qtweb exe that can be copied and run even from usb or cd dvd
+system should can be run in limited window environment win pe like active boot disk or bartpe running from cd dvd usb
+system should frame javascript cooky bookmark history password medium content all essential browser feature are here
+system should supported ftp browsing and downloading
+system should autofill option store and pre populates user name and password for the site you visit most
+system should with qt supported netscape plugins like adobe flash player quicktime or mediaplayer
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should xml syntax validation and highlight
+system should tolerance to xml syntax error
+system should logging of the http traffic
+system should direct access to the http query
+system should register and connect to any number of amazon account
+system should copy file between your account share bucket and file located on amazon with other user
+system should create browse and delete bucket copy and move file between amazon and your local computer
+system should set up file access permission automate common task with microsoft powershell
+system should generate external url bitorrent url copy move in background support for content type
+system should support for to ensure file are not corrupted while transferred to support for amazon cloudfront service
+system should support for cnames and signed url apply acl list to child object file inside a bucket
+system should rename object in support for requester pay
+system should generate short url using http chilp it
+system should support for private content feature for cloudfront streaming distribution
+system should support for canned access policy support for amazon versioning cloudfront streaming aws
+system should with cloudberry explorer amazon becomes an extension to your local storage you are no longer limited to the classic data storage on your local drive s with cloudberry explorer you can move file to amazon just a easily a managing them on your local drive s
+system should cloudberry explorer allows you to move large file such a photo video and music to amazon and free up your local storage
+system should easy to use just enter a website url and download the whole website
+system should offline browsing fix downloaded website for easy offline browsing
+system should website backup automatically save a snapshot of your website daily weekly or monthly
+system should email alert get an email alert when a website is updated
+system should put your website on cd easily distribute your website on cd or usb drive without additional browser software
+system should instead of typing in an address like www youtube com in full simply type youtube and press the com button we ll automatically fill in the www com bit so you don t have to you ll never type com again
+system should from version onwards browzar no longer support the downloading of activex component this is a security measure to protect you and the computer you are using if you visit a site which requires activex browzar will simply not download the activex component in the event that you visit a site using browzar which ha already been visited using internet explorer and an activex component ha already been downloaded to the computer you are using then this activex component will still run in browzar
+system should browzar is based on internet explorer
+system should at some point or another we all need to use browse the web discretely without our family friend colleague or boss knowing why we created browzar to give people this choice we wanted to make it free and easy for everyone not just the technically savvy to browse in private without the need to install software or register for it we ve designed browzar for your convenience so you can download it when you need it and easily dispose of it when you don t
+system should you can choose from black silver and window style colour scheme
+system should browzar now ha all the function and ctrl shortcut available in internet explorer
+system should temporary application data delete flash and java
+system should simultaneously load multiple web page with a single mouse click for viewing in a single window
+system should conveniently navigate through open window
+system should access favorite bookmark instantly with the quick group manager
+system should suspend and later resume any browsing session remembering and reopening all currently open window in the same order
+system should clear all trace of your internet browsing stored automatically by window from your computer
+system should gather image automatically from page you have visited
+system should download image from specified site search and download image using image searching engine
+system should streamline management of your bookmark
+system should view image from your hard drive cd etc
+system should work with list of bookmark
+system should create save and retrieve personal comment about web page you visit
+system should avoid repeat visit to any web page
+system should use the online foreign language translation feature to easily translate any web page
+system should browse an entire domain effortlessly
+system should five level topology multi process mode
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should based on the bult in microsoft internet explorer engine
+system should enhanced ability to access html element via id name in javascript
+system should access element in array by the function call
+system should ease of use tabbed browsing with no delete button on the actual tab so you don t accidentaly delete a tab browsing speed faster than you can say jack in a box depending on the size of the website share add ons from ie accessed from right clicking the browser share browsing history and cache and cooky with ie so you only need to delete one set of browsing history search box with user chosen search provider fast and easy to use favourite window video buffering speed is trippled especially on youtube and google video loading text tell you what website and what part of the website is loading at that second
+system should security high strength web encryption it clearly tell you when the website is encrypted so you don t have to worry about if it s safe to type in your login or credit card info highly secure parenting control web site blocker not even the brainiest kid can breakthrough the encrypted password need to access the blocked website private browsing tab nothing is saved from your browsing parenting control web site blocker will still be active in a private browsing tab phishing filter allows you to block suspected fraudulent web site so you don t run the risk of going on them
+system should very stable browsing hardly ever doe a tab lock up or close for no reason and if it doe the whole program won t have to close only that particular tab is affected you can also delete the tab even if it lock up the browser hardly ever lock up depending on how many other program you are running add any amount of tab and the program still run smoothly
+system should real multi browsing surf with multiple browser at once each window is a browser the use is intuitively simple and fast minimal mouse movement no toolbar overflooding more rendering space
+system should surfing is more secure based on window xp security feature control opt in with the security report window you can view your security setting
+system should session restore after application crash caused by plug in
+system should search with multiple selectable search engine
+system should eight integrated gui theme are available office and visual studio theme included
+system should tabbed and side by side browsing tabbed mdi interface
+system should support different kind of drag and drop
+system should news feed reader for r rdf and atom format bookmarking news feed and export bookmark folder to a r file simply configure a news feed with a mouse click
+system should access window medium player library playing window medium file or playlist side by side export into window medium playlist
+system should searchable bookmark archive extract bookmark from active window export the whole archive or a single bookmark folder into different format
+system should snapshot window layout session into the layout archive or into window layout file on the desktop
+system should change your button change size and add the text you want
+system should you can change the background color too
+system should use the quick link to get where you want to go fast
+system should just move your mouse over the toolbar and click
+system should you don t have to type a word to see the website you want
+system should your favorite search engine are just a click away
+system should improved idle time log out and screen saver
+system should keyboard shortcut for nearly everything
+system should plugins including itunes remote text editor gtalk
+system should typed in address saving they are saved from one instance to another
+system should visual effect for different window effect
+system should the kido z browser is a protected environment that enables child to surf only to approved site
+system should the system block link script and any other attempt that lead to site which have not been approved preventing them being viewed by the child
+system should the kido z browser is designed especially for young kid and it is easy simple and intuitive to use the child doesn t need to know how to read or write in order to use it and no parent assistance is required
+system should with the kido z browser kid can safely explore an endless amount of game video and other content and can enter with one click to the best kid site that can be found
+system should slim interface suitable for netbooks
+system should smart address bar with auto completion
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should google search from address bar
+system should virtual keyboard click the pencil on the address bar
+system should to be multi tasking it s essential so many trick can be done when dual window is on
+system should use hotkey to change window proportion
+system should exp allows you to open multiple tab no matter folder tab or web page
+system should tab can be moved freely between window
+system should drag drop subfolders to the tab bar to open them
+system should you can not only set related folder and web page a a group but also send file to a group
+system should while setting you can config any tab a auto locked or a web page a auto refreshed with preferable frequency
+system should making good use of dual window mode you can right click or left click to open folder favorite or group to the left or right window
+system should includes some tab such a desktop favorite and backup file previewer
+system should backup file previewer allows you to preview the content of file before restore it
+system should special floating design grant you the best flexibility
+system should auto detect whether folder tab or web page a tab is then display corresponding function key bar
+system should right click to switch between file search toolbar and web search toolbar
+system should the language pack of exp is extensible currently it includes language including english traditional chinese simplified chinese spanish french german italian and portuguese
+system should in exp you can configure the ui language to any other available language
+system should including three part my computer group and last unclosed tab each part contains a link list each link represents a shortcut for you
+system should exp can handle non english file name thus file exchange won t be troublesome at all
+system should you can extract compressed file of zip rar or jar format
+system should based on dual window mode moving file or copying file becomes the easiest job ever by using hotkey file can be moved or copied between window in a blink
+system should you can rapidly open folder by clicking on floating button bar at type column
+system should a floating button of file content previewer at type column offer another access to preview a file content
+system should whenever the cursor is moved onto an icon of image file the image will be instantly shown in a floating auto size window this is for you to rapidly scan through a large number of image file
+system should you can add a new search engine to search engine list of your own whenever a search job is executed search engine will be activated at the same time
+system should whenever you want to open a link in a web page simply drag and drop to the window you prefer
+system should instantly e mail any web page to a friend along with message
+system should simply setup server address e g smtp gmail com account and password etc
+system should click on self defined fast start bar button
+system should this tool is the greatest alternative of window command include shutdown hibernate log off restart and standby
+system should wherever you are you are a free a at home when someone approach you keystroke help you to disguise
+system should fast and easy internet navigation with low resource usage
+system should custom form and special interface with aero
+system should history and bookmark recording and management
+system should printing print preview page setup
+system should tab control with aero on tab
+system should navigation and search within the addressbar
+system should security info about the page
+system should export not limited browser cache
+system should export http ftp cooky visited and other page
+system should can export file by mask
+system should program size kb in archive kb
+system should can export file in etype eserv format
+system should fast quickly browse and launch
+system should small standalone program no installation need can run from flash disk only
+system should tab browser browse multiple web page in the same browser
+system should free one completely freeware
+system should easy to use no need install
+system should you can store all kind of web page image and shockwave flash file
+system should the saved page folder allows you to save a page with just one click
+system should a convenient toolbar button add the page to one of the ten most used folder
+system should you can also use drag and drop and the right click context menu to store a page
+system should drag a link to the inquiry band to download and save the page automatically
+system should drag a selection with link to download and store all page linked to the selection
+system should you can append the current page content or a selection on the page to another page
+system should use the auto save button to automatically store all page you browse to a special folder
+system should inquiry keep all collected information in compressed file saving disk space
+system should aurora ha native support to ad blocking making your experience more enjoyable and secure
+system should everytime you shop for a product in one of the online store in our database we ll let you know if there are better deal available elsewhere
+system should click on the pop up button in order to stick the video to the front and keep watching it while you browse the web
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should wysigot monitor your favorite site
+system should automatic or scheduled update of document
+system should show anything new by highlighting text within the page
+system should online and offline browsing clicked link are downloaded a soon a possible
+system should alarm for your most important document
+system should allows you to fill in form search engine online and offline and to submit them repeatedly if necessary
+system should capture internet site with script style flash
+system should unlimited number of page without slowing down your pc
+system should resume interrupted downloadings web and ftp
+system should possibility of keeping former version of document
+system should black list to eliminate advertising
+system should display downloads in progress and those still to be done
+system should automatic or manual organization of document
+system should advanced management cooky script activex flash cs
+system should individual or grouped property edition of document
+system should detailed display of the page parameter and information
+system should instant search of any url or document name in the address bar
+system should recycle bin to recover accidentally deleted document
+system should wysigot update itself automatically after confirmation
+system should you can store all kind of web page image and shockwave flash file
+system should the saved page folder allows you to save a page with just one click
+system should a convenient toolbar button add the page to one of the ten most used folder
+system should you can also use drag and drop and the right click context menu to store a page
+system should drag a link to the inquiry band to download and save the page automatically
+system should drag a selection with link to download and store all page linked to the selection
+system should you can append the current page content or a selection on the page to another page
+system should use the auto save button to automatically store all page you browse to a special folder
+system should inquiry keep all collected information in compressed file saving disk space
+system should lot of viewing space and no visual clutter
+system should big font and big button for easy navigation from across the room
+system should zoom and pan power that brings every site into view
+system should sit back and get ready for big screen browsing kylo brings your tv and computer together to create the ultimate content experience enjoy your favorite online show video music game and news take your hdtv anywhere on the web
+system should find the web content you want click and watch without getting off the couch
+system should kylo s wide open interface is designed specifically to fit your tv screen it s not just a blown up web browser kylo let you enjoy your favorite content fast don t waste time hunting through list of link and unreadable text see what you want to see
+system should the last thing you need is another piece of equipment cluttering your coffee table use kylo s onscreen keyboard instead quick and intuitive it let you input web address instant message and even email using a classic qwerty interface
+system should onscreen reading is a breeze with kylo the zoom and pan feature let you enjoy text content when you re ten foot from the screen instead of squinting sit back and enjoy online content the right way
+system should viewing xml entity a character
+system should logging of the http traffic
+system should user can modify http header and query directly
+system should user can modify post request
+system should highlighting of the xml syntax
+system should tolerance to xml syntax error
+system should support of basic http authentication
+system should text size changer runecats explorer ha a text size changer so you are able to see the text enlarged
+system should miniweb runecats famouse miniweb ha been improved again
+system should search drawer runecats have noticed all main browser have a search bar on them so we decided to add this with a twist we have a pop out drawer like search bar it make searching slightly quicker and save lot of room
+system should runetext extention improved finding tool faster engine skin center button and many many more
+system should j video webgl etc
+system should flash only with ppai systemwwide installation of flash
+system should address bar also open google
+system should parental control with password protection for setting and erasing history
+system should search bar also highlight all instance
+system should download location dialog asks where to download file
+system should quick launcher for important useful site
+system should setting which allow customization of homepage default search engine and ha the
+system should option to not show splash screen at startup
+system should multiple tab and multiple window
+system should view online offline webpage
+system should menu at the bottom left part of the page
+system should use of the pipelining method and some other trick to gain more speed
+system should use of privoxy download by visiting addons
+system should built in adblock and anti phishing provided you have installed privoxy for gt web browser
+system should better bookmark and history management
+system should full page zoom and text zoom support
+system should support for downloads and without the need of compatibility mode
+system should support for the latest version of java adobe flash player and adobe shockwave player
+system should print web page exactly how they look on screen
+system should perform instant google search with a single click
+system should easily manage your favorite r feed and more
+system should browse secure web page with total privacy
+system should help avoid phishing website with advanced protection
+system should automatically block advert animation and sound
+system should effectively track and manage your file downloads
+system should work with your favorite internet explorer add ons
+system should customize the browser interface with theme and skin
+system should export discovered email address to a file
+system should matrix scan view purely for atmosphere
+system should save and load database for future reference or use
+system should view source code for web page
+system should scan the net for web page
+system should import your old database from hypernet
+system should alter your scanning preference to expand your crawl in different pattern
+system should optimize your database for faster search
+system should include exclude page from search result
+system should search your database for information and get detailed result from scanned web page
+system should display live explorer window in a environment
+system should provide easy manipulation and navigation
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should go beyond trivial and messy tabbed browsing by using an ultra streamline web navigation system that s logically group and sort website according to their page
+system should browse the internet using an unlimited number of web window without having to keep track of them ever again
+system should using net ex pro advanced url website filtering management you can easily block unwanted ad and other annoyance and stop them from loading combined with net ex pro advanced window popup management you can selectively block the popup window that you don t want and not the popup window that you wanted have open
+system should with net ex pro you can easily delete all your web browsing history and erase all your track or you can set net ex pro to automatically cleanup after you when you finish you can safely and easily delete all your private information such a the web browsing history cooky internet cache internet address web query etc you can even block website from identifying what system you are using to surf the web with
+system should integrated net panel combined all your favorite history r feed web session and other plug in panel from the web into a centralize and easy to access and easy to manage location
+system should get instant access to web query using multiple search provider on the internet at the same time get more result by doing le save time and effort by searching the web using group search to query multiple search engine at the same time to achieve greater scope for your search result
+system should automatically update without any user intervention so that you will never have to worry about getting the latest bug fixed or patch again
+system should customize the color of the browser
+system should set a password that you need to enter to use the application
+system should browser lock with custom lock screen
+system should built in language english french italian german spanish russian
+system should view your internet history like never before
+system should lock your browser with a password
+system should block unwanted site and keywords
+system should browse product and compare price
+system should discover the latest store coupon
+system should eliminate the wait with surf ahead
+system should open several link at once
+system should search several search engine at once
+system should pin page to mark them
+system should add several page to favorite at once
+system should exchange set of page with others
+system should keep pop ups out of your way
+system should view multiple web page in the same window or tabbed window
+system should there is no limit on how many tab you can have open at the same time it depends on your computer hardware and the content of web page we had more than site open on an year old computer pentium pro mhz with ram
+system should open multiple web site by one click
+system should create group of page and open by group
+system should ability to control annoying popup window
+system should block popup window but doesn t interfere the normal opening a new window
+system should content filter with password protection for parental control
+system should type a word or phrase in the address bar to start a search using your predetermined search engine
+system should ability to clean up at program shutdown by purging temporary internet file typed url history and cooky temporary window file
+system should resource sharing for easy to manage and to save disk space by using favorite history list of internet explorer
+system should designed to give you maximum space on your display to view your web page menu toolbars can be hidden
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should tabbed web browsing almost any modern browser ha this but goona browser ha a difference when you hover the mouse on the tab a thumbnail of the tab appears below it just like in window aero taskbar
+system should history with a thumbnail of the page in each entry the thumbnail is bigger enough to let you recognize a page thumbnail do not take much space in disk since they are encoded in jpeg format and are saved on a single file to provide a quicker access to them
+system should powerful advanced download manager comparable with orbit or fdm support download pause and multi threading various segment in one file
+system should allows you to choose which rendering engine will show you the webpage gecko or webkit
+system should basic twitter integration advanced integration with twitter and facebook in the future
+system should easy to use powerful control panel
+system should simple but powerful interface that leaf many space left for viewing the website even in smaller screen resolution
+system should window immersive ui and full metro ui
+system should support site icon change in encryption level change in homepage
+system should very smart and easy to use
+system should support all extension used in ie
+system should access your favorite video site with a single click
+system should download video from site including youtube
+system should convert video to a variety of popular format
+system should browse secure web page with total privacy
+system should automatically block advert animation and sound
+system should help avoid phishing website with advanced protection
+system should work with your favorite internet explorer add ons
+system should perform instant google search with a single click
+system should effectively track and manage your file downloads
+system should customize the browser interface with theme and skin
+system should print web page exactly how they look on screen
+system should maximize your screen real estate with slickscreen s unique non overlapping interface
+system should compare and work with web site side by side with ease
+system should save multi panel layout slickscreen s multi panel bookmark
+system should drag and drop link from one panel to another for the ultimate in web productivity
+system should new every slickscreen panel can add traditional web browsing tab
+system should leverage microsoft s internet explorer rendering engine for performance privacy and security
+system should can use dropbox or ubuntu one to store setting and data a of allowing you to access your data from anywhere
+system should multiple profile folder can be managed from the gui a of
+system should can print the current page a of
+system should can save the current page a of
+system should able to record browsing history unfortunately clearing the history may not work correctly
+system should partially centralized notification system for somewhat reduced disturbance a of
+system should bookmark manager a of
+system should allows you to close all the tab to the left or right of the current tab a of
+system should experimental ad blocking support a of enable it by going into the preference dialog
+system should basic xspf playlist support a of this feature ha since been removed
+system should custom search expression a of
+system should web inspector support a of analogous to firefox s firebug tool
+system should store cooky between session and also allows the cooky to be cleared out when clearing out the cooky on linux ryouko performs a shred v operation on the database for added privacy
+system should support private browsing mode a of
+system should ha a find function a of
+system should support opening new window a of
+system should zoom in out functionality a of
+system should status message a of
+system should ha tabbed browsing like any respectable modern web browser
+system should support command line argument this mean that it s actually possible to use it a your default web browser but of course it isn t recommended
+system should unlike some browser in the same vein ryouko understands page request that ask to open link in new window in and below it open them in new window with reduced functionality but a of it open them in new tab
+system should unlike some other amateur project on sourceforge ryouko s git repository actually ha commits in it
+system should the save link option in the context menu actually work a of it should work of the time
+system should if faced with an unsupported file type ryouko will offer to download the offending file to your computer
+system should back and forward button to go back to the previous resource and forward respectively
+system should a refresh or reload button to reload the current resource
+system should a stop button to cancel loading the resource in some browser the stop button is merged
+system should a home button to return to the user s home page
+system should an address bar to input the uniform resource identifier uri of the desired resource and
+system should a search bar to input term into a search engine in some browser the search bar is
+system should merged with the address bar
+system should a status bar to display progress in loading the resource and also the uri of link when
+system should the cursor hovers over them and page zooming capability
+system should based on a unique multi process and multi thread design exp web browser is faster and more stable granted that it is based on ie it is faster than ie
+system should you can create search engine of your own and manage your multiple search list a search by alias is also allowed
+system should besides general web filtering rule you can also set up exception filtering item contain pop ups image java script activex and java applet and so forth
+system should with this built in functionality reading any r feed is just a easy a browsing a web page
+system should when the current tab is a web page you can activate this tool to download image file activex object and script
+system should view satellite image get direction capture map in preferable size and view the street scene in a floating window displaying in monitor if there is one
+system should one click to translate a webpage from a foreign language to yours and vice versa
+system should you can add your own plug in developed by java script
+system should plug in are on the increase
+system should word in a web page can be used a search keywords upon dragging and dropping them you activate search engine in your multiple search list simultaneously
+system should whenever you want to open a link simply drag and drop to the panel you prefer
+system should instantly e mail any web page to a friend along with your message
+system should simply set up a server address port number and your account info e g smtp gmail com port no
+system should you can activate multiple accelerator with one click
+system should to get the most up to date content of a web page automatically you can set it at a preferable auto refreshed frequency
+system should cooky history of visited tab and input data and search keywords can be deleted immediately or when exiting exp
+system should with dual panel multi tasking and file management are made easy
+system should easily switch current window mode between single and dual by double clicking on a tab or using hotkey
+system should an interactive and multi tabbed design including computer latest viewed tab and recent web page etc
+system should all image and text are link which can be dragged and dropped
+system should multi pane design including help center desktop favorite and preview backup file etc
+system should preview backup file pane allows you to preview the content of file and restore them
+system should refer to fast start genie
+system should the type of a tab a folder or a web page is auto detected to display it own function key bar
+system should the file search toolbar and the web search toolbar are interchangeable
+system should a plug in interface is provided
+system should plug in are on the increase
+system should any tab a folder or a web page can be moved between panel
+system should you can set related folder file program and web page a a group
+system should each tab can be configured a auto locked
+system should each web page can be configured to be auto refreshed at preferable frequency
+system should scroll up or down to switch tab
+system should drag and drop file to a folder tab or a zip tab in the opposite panel drag and drop subfolders to a tab bar
+system should right click or left click to open a folder a group of favorite or a group to the left or right panel
+system should this is a place where most of the customization are done including pane like general tab status bar toolbar browser etc also you can configure the system layout anytime you fee like doing so
+system should the language pack is extensible in exp currently language are built in english traditional chinese simplified chinese spanish french german italian and portuguese
+system should the ui language can be configured in exp
+system should inquiry store various web file entire web page selected text and image shockwave flash clip and many others it can also import document from your msie favorite and export them to various format to share with friend and colleague forget cumbersome open and close dialog box managing your stored page is quick and easy
+system should you access inquiry simply by clicking a button on the m internet explorer toolbar or inquiry sidebar a single click save the page you are currently browsing or your selected text or image you can choose to display or hide the inquiry sidebar by selecting the internet explorer toolbars menu entry from the view menu and then selecting inquiry bar
+system should besides that you can drag and drop a selection of a web page to either save the selection or to store all page linked to the selection
+system should inquiry store page much faster than the regular internet explorer save a feature
+system should inquiry allows you to quickly search in all collected page and display the search result in a separate tree folder allowing you to view them later it is also easy to organize your stored item a you wish divide them by theme and purpose sort in the order you need using drag drop or using standard ordering method
+system should information stored in inquiry never expires or disappears even if the web site stop responding or the content change you will be able to browse the page just a they were stored originally
+system should click the feature link to read more on what inquiry can do for you
+system should using inquiry you can email stored page with a couple of click it is easy to convert a page into a convenient format such a html help file or mht archive to reduce the file size microsoft word or to a small executable file that includes a compact ie based browsing application
+system should inquiry is sophisticated enough to meet the need of professional researcher yet simple enough for novice user researcher lawyer writer scholar professor student or just the casual shopper will all find inquiry just the tool they need to collect store and manage any type of internet information
+system should inquiry eliminates the concern that information on the internet today will be gone tomorrow it put control of the internet file in your hand
+system should do you study remotely and need to have all necessary information on your local computer inquiry will help you gather internet page and article for your assignment and work with them offline using inquiry you can save all citation and reference information and design your own reference style to be stored with each document
+system should inquiry can help compare product and prepare report and presentation
+system should are you searching for the best price of a product on the internet catalog and store all the page you have found and review them later at your leisure
+system should inquiry make it easy to save and organize web site information on competitive product and service
+system should using inquiry you can organize and store information from government site a well a research site such a westlaw and lexis
+system should are you studying for a test or doing research for one of your class inquiry provides a fast and easy way to find save and analyze the information you need when you need it
+system should if you need a fast and easy way to browse save and analyze the information on the internet then metaproducts inquiry is for you
+system should auto mute on quick hide
+system should be stealth at work in double vision mode
+system should increased productivity a you regain screen real estate
+system should retain all function of the original browser
+system should leaf no trace after browsing
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should fast and easy internet searching with multi selected searching engine and searching mode
+system should hot key ctrl c to open an internet searching web image video news map for highlighted text at any time ctrl c
+system should smooth scrolling low cpu usage and customized news ticker and stock quote ticker click to prompt a news window or stock chart window for quick browsing
+system should docking ticker on top or on bottom of your desktop keep an eye on stock market and all news that concern you most while working or entertaining yourself on computer
+system should drag and drop to open multiple web browser window with low computer resource cost
+system should instead of tab new window
+system should powerful parser that analyzes most rfcs
+system should rich and friendly user interface view structure view and page view for rfcs hyperlink color rendering scalable rfc length print and print preview
+system should structure view provides a navigating tree of rfc including reference
+system should page view can help you browse the rfc page by page or turn to the page you want anytime
+system should optimal desktop offer level of tabbed organization to organize access to your favorite web page and desktop file and folder in one place
+system should optimal desktop integrates access to file and folder with file filtering and preview window built into the system
+system should subscribing to r feed is a simple drag and drop each feed can be viewed in it own window with flexible update function
+system should optimal desktop offer a highly customizable interface to the online moreover feed generator user can define their filter and information source and recieve highly customizable information feed to their desktop
+system should optimal desktop offer and integrated popup blocker
+system should optimal desktop offer a macro function for recording and playing back a sequence of internet action this feature is optimal for storing and replaying password
+system should optimal desktop let s you isolate your desktop internet favorite history and any folder within the folder tree section folder and toggle between these folder in your folder view
+system should optimal desktop let you search your favorite and the content of your r feed in a highly customizable search function
+system should fastest chrome s latest core version speed
+system should powerful xvast browser support all the latest feature
+system should xvast support drm x protection it enables you easily enjoy the protected premium content
+system should us microsoft ie s trident engine by default and chakra by a patch provided in the package
+system should with our headquarters in the eu we are forced to respect user privacy to a much higher level in comparison to other country namely the united state
+system should any setting that could compromise your privacy is deactivated by default example include third party cooky password autofill prediction text and more
+system should a built in vpn help you stay anonymous and safe by creating an encrypted tunnel between your computer and website
+system should every file you download is automatically scanned for virus and checked against a database updated in real time file that are suspicious are clearly marked in red for you to review
+system should website are rated by a large community of internet user so you know a site s reputation immediately simply by looking the shield in the upper corner of ur
+system should homescreen your own personalized homescreen centralizes news weather search and more
+system should customization with an extensive gallery of and wallpaper you can customize the theme of your browser a well a the background of your homescreen
+system should mood get quick access to your favorite site sorted into profile called mood straight from the homescreen
+system should download booster file download faster than traditional browser thanks to an advanced multi threading technology
+system should retain all function of the original browser
+system should portable and can be launched from any carrier
+system should leave no trace after browsing
+system should easy browsing without complicated configuration option
+system should multiple search engine support
+system should youtube bing and google search button
+system should easy and fast browsing experience
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should tabbed mode and tree mode browsing
+system should top site list and site directory explorer
+system should top forum list and forum directory explorer
+system should top software list and software directory explorer
+system should fully adjustable split screen browsing environment muddly support pane top bottom right and left these pane can be further divided for precise control of composite document all pane support tab and all pane can be maximized
+system should muddly document allow you to compile a web archive using your window file system this allows you to collect many document containing all the site of interest for that document without cluttering your favorite collection whatever you have on screen under a document tab can be saved in the muddly mud file format you can open and restore your content and layout anytime later a file they can be sent a file attachment in e mail etc
+system should you can open one or more r feed in the muddly tree browser this allows you to view any page in a feed without opening more than one browser pane giving you more control of your favorite feed if required you can open any item in a new tab window or document feed are integral with the document when you save a document that contains a feed it will open along with the other document content when you return to it
+system should the muddly tree browser work the same way with your favorite too this is the fastest most convenient way to look through your favorite and find the page you are looking for with just one view it s the same story for your history too
+system should muddly isn t trying to replace the rich functionality and special feature of internet explorer we dont ask you to make it your default browser or change anything at all muddly ha a unique feature set and it own place in your software inventory
+system should muddly turn the web into a well organised reference and there ll be certain document you ll want to refer to all of the time when you don t need it on the desktop you can reduce it to the system tray ready when you need it
+system should muddly look great with a skin to suit your taste browsing feel better too when you decide on the ambience
+system should whole web page save a image file
+system should click thumbnail image then found it on page
+system should protects your child every second they re on the internet
+system should web page analyzer that analyzes any page you add to their list
+system should desktop lockdown that allows you to prohibit child from using internet explorer firefox etc so that they only use the kidsafe internet browser for window xp
+system should history area that let you see where your kid have been they will only have access to safe area
+system should help child learn and practice math english and science
+system should sandbox area for kid to play almost unlimited game
+system should put time restriction on the internet by using the mr pocketwatch feature
+system should unlimited update auto update checker
+system should keep child safer than by using only filtered internet
+system should enable disable the printer and search bar
+system should view how long your child have used the internet per day
+system should respect for user and their system
+system should fully emulated phone and tablet inside
+system should url and scroll of desktop and mobile are in sync
+system should blisk refreshes page automatically on file change
+system should debug desktop and mobile with devtools
+system should blisk work with any ide language and framework
+system should qik qik allows you to make instant html site and retrive other html site s code ha more function a calculator dictionary etc switcher are replaced by on top shortcut
+system should all new super designed address bar
+system should send mail without loging in to your email id
+system should socialization allows you to socialize easily and even doe not occupy your browsing space
+system should true system info for downloading matter
+system should online favorite service access your favorite content anywhere with maxthon online favorite service the encrypted stand alone favorite file format can protect your privacy on a shared computer
+system should tabbed browsing all the web page are arranged a tab inside main window to ease your navigation
+system should super drag drop type the keywords in address bar then press enter to perform a search or simply drag drop a keyword with your mouse
+system should ad hunter ad hunter can efficiently clean up the web page by stopping popup window and removing ad content block
+system should fully customizable plugins skin filter pack multi language
+system should a fast reliable rendering engine that allows for a large amount of compatability with many web site
+system should two built in theme which each have their advantage
+system should a built in bookmark and history manager in order to get to your favorite website fast
+system should a minimalist menu style that allows the user to browse while editing setting
+system should webskape kiosk us the same robust web technology a microsoft internet explorer
+system should this application is designed for public use lock down the o restrict the keyboard and stop right click
+system should access a hidden control panel by pressing the bottom left corner of the screen and then entering your pin number
+system should train a filter to either block all all the web site you don t want or only allow the web site your do
+system should re style the software change the color background image and logo
+system should add an optional touch keyboard and hide the cursor

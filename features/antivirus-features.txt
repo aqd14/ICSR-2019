@@ -1,0 +1,1100 @@
+Award-winning protection from malware (viruses, Trojans, worms, etc.)
+Scans unknown files in real time for malware and exploits.
+Identifies potentially unwanted applications
+Hidden programs bundled with other software. They display ads, slow down your PC and redirect you to other websites.
+hidden within legitimate software.
+Blocks viruses, spyware, & other malware
+Scans web, Twitter & Facebook links
+Behavior Shield - better protects you against ransomware by monitoring running programs for suspicious behavior
+SafeZone browser is now included also in free version
+Detect viruses, malware and more, even on your home network
+Real-time analysis of unknown files, so viruses can’t take you by surprise.
+Play with maximum power and no interruptions.
+Except one. Log in anywhere with your master password; we’ll remember the rest.
+Threats don't always enter your network in ways you expect. ESET NOD32 Antivirus inspects SSL-encrypted communication channels like HTTPS and POP3S and intelligently scans compressed files to find hidden threats other products miss. Proactive protection begins at the earliest point in system startup to ensure your computer is always secure.
+Email scanning for Microsoft Outlook, Outlook Express, Mozilla Thunderbird, Windows Live Mail, Windows Mail, and other POP3/IMAP mail clients, ensuring your email is free of viruses and other threats.
+Threats can enter your PC from removable media such as USB thumb drives. For self-running media, ESET NOD32 Antivirus scans autorun.inf and associated files when the medium is inserted, in addition to scanning any file on any removable device when it is accessed, or during a full-scan of the media. Power users can adjust ESET NOD32 Antivirus to perform additional levels of scanning on removable media.
+ESET SysInspector and ESET SysRescue simplify diagnosing and cleaning of infected systems by allowing deep scans of system processes to find hidden threats, and creating bootable rescue CD/DVD or USB drives to help you repair an infected computer.
+ESET NOD32 Antivirus has built-in technology to prevent malicious software from corrupting or disabling it, so you can rest assured your system is always protected.
+Energy-sipping battery mode extends laptop battery life without compromising security
+Advanced Protection Status screen informs you of threat detections
+Information pop-ups are hidden when running full screen applications like games, video players or presentations
+Password protection prevents ESET NOD32 Antivirus from being uninstalled by strangers
+New interface and keyboard shortcuts simplify use for visually impaired users
+Real-time protection against computer viruses, spyware, Trojans, rootkits, and more
+Ensures the applications on your PC are safe with Trusted Applications Mode Website and email scanning to detect malicious software
+Fast and efficient PC performance
+Rapid reaction to new and emerging threats
+Instant safety checks on files, applications and websites
+Rollback of harmful malware activity
+It's okay to blink, because we never do – SONAR technology and live 24x7 Threat Monitoring watch over your PC for any suspicious behavior to quickly identify threats.
+Download away - we scan the files you download and eliminate online threats that we find.
+Deep clean your PC - our powerful Threat-Removal Layer targets and scrubs out aggressive, hard-to-remove infections that less sophisticated products often miss.
+Harness global power - only Norton can bring you the ultra-fast Network Defense Layer to block a multitude of threats before they can even touch your PC.
+Protection from the future, available today - our exclusive reputation and behavior antivirus technology are so advanced that they can stop online threats that bad guys haven't even created yet.
+Keep out trespassers - Browser Protection blocks unsafe websites that secretly download software that can steal personal information or take over your PC.
+It's easy to stumble into the wrong part of the web - we block "phishing" websites set up to trick you into leaking your passwords, credit card numbers or worse.
+Facebook links are tempting – now you don't need to worry if a Facebook News Feed contains dangerous downloads or fraudulent links.
+Protects your identity by securely storing and automatically entering your user names and passwords.
+Blazingly fast performance delivers fast browsing and file scanning.
+Intelligent detection and quiet background operation block threats and won’t overload you with pop-up warnings or restart requests.
+So smart, it scans and runs updates only when you’re not using your PC - with no need to reboot after updates.
+Lets you fix, update, renew or install Norton products on additional PCs without needing to track down the product key or install CD.
+Works from anywhere over the Internet with a few simple clicks.
+Norton Protection System - The 5 patented layers of protection detect and eliminate threats more quickly and accurately than other technologies.
+Browser Protection - Proactively protects you by checking for and blocking online threats as your browser loads, to stop online threats before they can do damage.
+SONAR Behavioral Protection & Live 24x7 Threat Monitoring - Stays ahead of, detects and eliminates threats that haven’t been invented yet by watching your PC for suspicious activity.
+Threat-removal Layer - Targets and eliminates hard-to-remove threats less sophisticated products often miss.
+Insight - Improves performance by identifying safe files and only scanning unknown files.
+Download Insight - Protects you from dangerous applications before you install them by telling you if they are harmful or unstable.
+Always up-to-date Product Version - Norton automatically sends you important product and feature updates throughout the year. The latest version installs without you needing to do anything.
+Norton Management - Cloud-based controls let you fix, update, renew and install Norton AntiVirus over the Internet with a few simple clicks. It brings together your available Norton protection for other devices, like your Mac® computer, smartphone or tablet, in one place.
+Bandwidth Management - Automatically adjusts Norton data usage updates when you connect to 3G networks to avoid using up your monthly data allotment or causing overage fees.
+Norton Pulse Updates - Updates your protection every 5 to 15 minutes, without disrupting you.
+Comprehensive malware protection
+Simple, free download
+Automatic updates
+Easy to use
+Real-Time Protection defends against new and emerging viruses, spyware and more
+Proactive Detection identifies unknown malware – and lets you rollback harmful activity, if your PC has been infected
+Hybrid Protection combines the power of the cloud and your device
+Instant Safety Checks examine files & websites
+Automatic Exploit Prevention ensures vulnerabilities won’t compromise your PC
+Gamer Mode helps you enjoy an uninterrupted gaming experience
+Two-Way Firewall prevents hacker attacks
+Security Notifications for Public Wi-Fi Networks inform you about potential threats and vulnerabilities when you’re using public Wi-Fi
+Application Control prevents dangerous applications from harming your system
+Safe Surf alerts you to potentially malicious web sites
+URL Advisor informs you about the reputation and security of website links
+Anti-Blocker helps to unblock your PC if it’s being blocked by a Trojan
+Trusted Applications Mode ensures only trusted applications are allowed to run on your PC
+System Watcher technology secures your PC from malware dangerous behavior and enables the malicious actions roll back
+Change Control helps prevent the installation of unwanted programs and browser settings
+Network Attack Blocker prevents malicious network attacks
+Anti-Banner blocks dangerous and annoying banner adverts
+Anti-Spam protects you against spam messages
+Advanced Parental Control keeps your children safe & responsible online
+Safe Money protects data during online financial transactions
+Webcam Protection helps prevent unauthorized, remote access to your PC’s webcam
+Private Browsing prevents tracking your web browsing habits and capturing your personal information
+Anti-Phishing defends you against phishing sites or emails that try to steal your money or your identity
+On-Screen Keyboard – including quick launch – defends against malware that captures images from your PC screen or records the keys you press
+Secure Keyboard protects personal data entered via your PC’s physical keyboard
+Privacy Protection allows you to hide your private mobile communication from others. Manual, automatic or remote activation makes the mode more convenient to work with
+Settings Password Protection shields from application(s) unauthorized un-installation, protection disability or configuration modification
+My Kaspersky allows you to manage the security of all your devices from anywhere, via the Web
+Stops Viruses. Automatically blocks, cleans, and removes viruses so you can surf the Web safely and download files.
+Blocks Spyware. Blocks spyware before it installs on your computer and removes existing spyware so you can surf the Web safely.
+Stops Hackers. Protects and conceals your computer from hackers so you can surf the Internet safely.
+Guards important files stored on your computer, and helps prevent your computer from crashing.
+Automatically monitors incoming and outgoing Internet activity, looking for suspicious applications and data.
+Improves your computer's performance by removing clutter and freeing disk space.
+Provides advance warning to help you avoid sites which send spam, install adware, or attempt online scams.
+Redesigned for You. Scan your computer, check for updates and configure your security settings using the new McAfee SecurityCenter. This essential, easy-to-use program gives you one-click access to your computers security information.
+Always On, Always Protecting. 24/7 virus and threat protection from McAfee AVERT Labs continuously monitors worldwide virus activities and provides immediate, anti-virus protection and removal solutions.
+Always Upgrading, Always Updating. Daily updates are installed automatically. When a new version of McAfee is available, you get it automatically at no charge during your subscription, ensuring that you always have up-to-date protection.
+Convenient, Ongoing Protection. McAfee offers a variety of renewal options to keep your McAfee protection current.
+Real People, Real Help. Support from McAfee's computer security experts, via Internet chat, e-mail and phone.
+Integrated anti-virus, anti-spyware and firewall technologies work together to combat today's sophisticated, multi-pronged attacks.
+Spyware protection detects, blocks, and removes spyware and adware.
+Complete inbound and outbound firewall protection automatically trusts known good applications and helps blocks spyware, Trojans, and key loggers.
+McAfee SystemGuards watches your computer for specific behaviors that may signal virus, spyware, or hacker activity.
+McAfee X-Ray for Windows detects and kills rootkits and other malicious applications that hide from Windows and other anti-virus programs.
+McAfee SiteAdvisor adds safety ratings to sites and search engine results based on comprehensive spam, adware, and online scam safety tests.
+Stealth mode can hide your presence on the Internet, making your computer invisible to hackers.
+McAfee SecurityCenter makes it simple to review your computer's security status, check for updates, and fix potential security issue
+Light speed quick scanning.
+Ability to perform full scans for all drives.
+Database updates released daily.
+Quarantine to hold threats and restore them at your convenience.
+Ignore list for both the scanner and Protection Module.
+Settings to enhance your Malwarebytes Anti-Malware performance.
+A small list of extra utilities to help remove malware manually.
+Multi-lingual support.
+Works together with other anti-malware utilities.
+Command line support for quick scanning.
+Context menu integration to scan files on demand.
+Threats don't always enter in ways you expect. ESET Smart Security inspects SSL-encrypted communication channels like HTTPS and POP3S, and intelligently scans compressed files to find threats that other products miss. ESET's Smart Optimization feature makes file scanning faster than ever.
+New Learning Mode saves time by automatically creating firewall rules by observing how end users use the network, while offering advanced firewall modes for power users. Pair customized firewall profiles with trusted network zones and have appropriate firewall rules applied automatically based on detected network presence.
+Identify trusted network zones by network configurations (a configurable combination of host/DNS/DHCP server IP address, wireless SSID, connection profile, etc) or securely authenticate into a network using ESET Authentication Server.
+ESET Smart Security now takes care of annoying spam with a smaller, faster, and even more effective spam filter.
+Threats can enter your PC from removable media such as USB thumb drives. For self-running media, ESET Smart Security scans autorun.inf and associated files when the medium is inserted, in addition to scanning any file on any removable device when it is accessed, or during a full-scan of the media.
+ESET SysInspector and ESET SysRescue simplify diagnosing and cleaning of infected systems by allowing deep scans of system processes to find hidden threats, and creating bootable rescue CD/DVD or USB drives to help you repair an infected computer.
+ESET Smart Security has built-in technology to prevent malicious software from corrupting or disabling it, so you can rest assured your system is always protected.
+Automatically detects unsafe and potentially dangerous websites, and prevents you from visiting them.
+Efficiently blocks emails that might carry infected attachments or links to compromised or fake and phishing websites.
+Protects your online banking activities from fraudulent websites and malicious programs that steal financial information. It provides a safe desktop session where your financial transactions on banking portals, shopping and other e-commerce websites stay private and hidden from hackers.
+Runs your Internet browsers in a secure, virtual environment that acts like a shield between your PC's operating system and malicious downloads. If any malicious file gets downloaded in this environment, it gets secluded and is blocked from reaching your real PC.
+The Parental Control feature now comes with enhanced configurability.
+Firewall blocks external threats that try to reach your computer over the Internet. It also blocks threats that may arise within networks that are connected to your system. Besides allowing you to configure protection for incoming and outgoing Internet traffic, our enhanced Firewall lets you set a Firewall profile for network connections such as ‘Home’, ‘Work’, ‘Public’ or ‘Restricted’. Stealth Mode is an added benefit. It hides your PC from the prying eyes of hackers.
+Assures complete security for your PC with a deep system scan. A combination of features like AntiVirus, AntiSpyware, AntiMalware, Anti-Rootkit, Firewall and IDS/IPS work together to give you the best antivirus protection.
+The existing Malware Protection of Quick Heal is now enhanced and offers more protection to your PC against spyware, adware, keyloggers, riskware, and other malicious programs.
+Efficiently prevents programs called keyloggers from recording what you type on your keyboard while you are doing online banking or shopping or simply browsing the Internet.
+Scans files and folders in lesser time without using too much system resources.
+Quick Heal DNAScan technology detects and blocks unknown threats. It uses a combination of behavioral and characteristic inspection and monitoring of unsafe programs.
+The Operating System (OS) settings and other applications in your system might have security vulnerabilities or weaknesses. Leaving these vulnerabilities unpatched can let hackers hijack your computer and your data. Vulnerability Scan helps you detect such weaknesses. The feature also helps you fix vulnerabilities that could be present in the OS settings.
+Attackers can steal your confidential information by installing spyware or keyloggers in your machine. These are data-stealing software that record what you type on your keyboard, and send the information to the attacker. This can be prevented by using the Virtual Keyboard. Any information typed on this keyboard gets encrypted and cannot be recorded or accessed by any malicious software.
+Securely deletes sensitive data to prevent their recovery by any recovery tools. This ensures complete security and confidentiality of your valuable data.
+Stay safe against infected USB drives. This feature automatically scans external drives the moment they are connected to your PC. It also blocks autorun infections.
+This facility stops unauthorized users from changing Quick Heal security settings when the system is running on Safe Mode.
+Protects Quick Heal's running processes and services.
+Suppresses prompts and notifications from Quick Heal for uninterrupted PC usage. This does not affect the security level of your system.
+You can export Quick Heal security settings from a single computer and import it to other computers. This is helpful in cases where reinstallations or multiple computer configurations are concerned.
+Automatic product downloads and installations
+Insight + Optimized File Copy identifies safe files and only scans unknown files
+Defrag fixes common problems that can rob your computer of speed and power
+Startup Manager frees up PC memory
+Safe Web for Facebook
+Parental Control helps you protect your kids from online dangers
+Anti-phishing technology blocks fraudulent "phishing" sites
+Scam Insight reviews a website’s reputation
+Panda Antivirus Pro is truly 'install and forget'. Remove viruses and any other threats or malware from your computer. Essential anti virus programe that offers real-time protection for your PC.
+Panda Antivirus Pro includes a bidirectional firewall to protect your Wi-Fi network from intrusions and unwanted connections. Chat, share photos and videos, read your favorite blogs or simply surf the Web with complete peace of mind.
+Panda Antivirus Pro also protects you against online fraud, identity theft, phishing attacks and other criminal activities
+Safe- mode computer disinfectant - for emergencies and critical situations. No need to turn your computer on. Unlimited usage - share with friends and family.
+Easy to install and run
+Detect and Remove malware (viruses, Rootkit’s, FakeAV, worms and more)
+Utilize advanced Anti-Rootkit technology
+Quarantine module to process the detected files
+Deep scan and cleaning including Norman patented Norman SandBox technology
+Supports Quick- and Deep Scan mode
+New command line function for better tailor scanning across several machines (businesses)
+Daily signature updates available
+Detects and removes viruses, worms and trojans automatically. Protects your files, scans and cleans infection from email attachments and Internet downloads automatically.
+Blocks spywares before they get installed on your PC. Protects your privacy by detecting and cleaning spywares and blocking their activities of identity theft automatically.
+Quick Heal  Firewall Professional powered by Agnitum Outpost locks hackers and thieves out of your PC. Delivers total protection against known and unknown internal and external network based attacks.
+A new advanced malware scanning engine scans registry, files and folders at lightening speed to thoroughly detect and clean Spywares, Adwares, Roguewares, Dialers, Riskwares and lots of other potential threats in your system.
+Detects and cleans rootkits proactively by doing deep system scan. Scans running processes, registry and file system for any suspicious rootkit activity that is kept hidden in the system.
+Mass-mailing worms
+E-mail viruses
+Peer-to-peer viruses
+Internet worms
+File viruses
+Trojans
+Stealth viruses
+Polymorphic viruses
+Bodiless viruses
+Macro viruses
+MS Office viruses
+Script viruses
+Spyware
+Spybots
+Password stealers
+Keyloggers
+Paid Dialers
+Adware
+Riskware
+Hacktools
+Backdoors
+Joke programs
+Malicious scripts
+Other malware
+Stop malware, block dangerous downloads, avoid fake websites, and secure personal files with advanced ransomware protection.
+Prevent voyeurs from hijacking your webcam, hide private photos and files from snoops, and securely shred sensitive data.
+Install AVG Internet Security Unlimited on unlimited personal PCs, tablets, and smartphones to protect everyone in your family.
+Blocks viruses, spyware, & other malware
+Scans web, Twitter & Facebook links
+Protects you from harmful downloads
+Encrypts & password-protects private files
+Phone & chat agents are on hand 24/7
+Keep your inbox free of spam & scams
+Shop & bank safer with Enhanced Firewall
+With Avira Protection Cloud detection technology
+Rates the safety of all sites in your search results
+Malware scanning for shared folders
+Intercepts malicious websites before they load
+Shuts out online spies and annoying adware
+Browser Tracking Blocker
+Stops companies from recording your web activities
+Detects all kinds of nasty threats, from viruses to malware. Yes, even spyware, ransomware, and phishing attacks.
+Malware loves to act innocent. Avast analyzes app behavior in real-time to catch any suspicious changes before damage is done.
+Ever downloaded a file from a shady server and suspected it’s trouble? Test files in a sealed space first, and keep the rest of your PC safe.
+Get rid of mystery toolbars, add-ons, and extensions that were installed without you noticing – and without your permission.
+Don’t like to play favorites with antivirus? No problem. Avast can sit quietly in the background until you need our other advanced features.
+Personal, real-time threat detection. Sends unknown files to the Avast Threat Labs to be analyzed by our experts, and quarantines them if they’re dangerous.
+A simple click has never been more powerful. Checks your PC and network for all kinds of issues - and tells you how to fix them instantly.
+Is your router set up properly to block threats? We’ll tell you. Otherwise, anyone can break into your home network and anything connected to it.
+Too many passwords, none of which are safe? It’s fairly common. Remember just one, and Avast Passwords will take care of the rest.
+Your router settings can be changed to connect you to a fake site. Why? So hackers can steal your banking details. SecureDNS keeps your online banking safe.
+The new way to browse, bank, and shop. With a suite of tools designed to provide extra protection, discover why SafeZone is the world’s most secure browser
+Automatically puts your Windows and other notifications on hold so you've got maximum processing power and speed for your game.
+Total protection from malware.
+Protects you from emerging threats.
+Blocks hidden applications bundled with legitimate software.
+Scans emails for malware.
+Scans files shared on your network.
+Safely surf, shop, stream, download and bank online.
+Suspends unnecessary notifications during games and movies.
+Close to zero impact on the system
+Minimum user interaction required
+Fewer settings to configure
+Continuous scanning protection for your system
+Simple program interface
+Easily deploy and manage protection on all devices in your household. You can now scan your devices, update your products, optimize them, and check for vulnerabilities from one single place.
+Protect your files, family albums and important documents from being encrypted and held for ransom.
+The new firewall is built on top of the Windows Filtering Platform (WFP) and offers an advanced system for app rules and filters. It's focused around greater performance and stability, and it's fully compatible with Windows 10.
+The simplified browsing and automatic form filling password manager is now available across all PCs. Choose to sync your data across devices and benefit from automatic logins from any PC you use
+Make online transactions from a unique, dedicated browser that secures your accounts from fraud. Safepay can now automatically fill credit card details in billing fields.
+Locks, wipes or even locates your laptop from any Internet-connected device you have at hand.
+Blocks inappropriate content, restricts web access, and helps you remotely monitor your children's online activity, even on Facebook.
+Antiphishing analyzes and blocks websites that support various scams or credit card phishing attempts. Anti-spam stops unwanted email from reaching your inbox, supports POP3 servers, and it's now fully based on cloud technology.
+Ensure that no traces of your deleted sensitive files remain on your PC, and lock up confidential files in an encrypted vault.
+OneClick Optimizer speeds up your system and frees up disk space by running every known optimization, all in one click. Startup Optimizer minimizes the system’s boot time by allowing you to disable or delay the programs that launch at startup.
+With a single click, the vulnerability scanner automatically warns of outdated and vulnerable software, missing Windows security patches, and potentially unsafe system settings.
+Displays your overall security status for the past week, as well as the total issues fixed by Bitdefender since installation. Includes freed up space, optimized apps, and remaining available storage.
+Innovative, exclusive technology that visibly improves speed and performance in a matter of hours by gradually adapting to each PC.
+Autopilot provides a hassle-free experience by making optimal security-related decisions with no input from you. This means no pop-ups, no alerts, nothing to configure. Plus, Bitdefender can auto-detect when you work, play or watch movies, or when the notebook is running low on battery, and it temporarily prevents apps from popping up or slowing you down.
+If e-threats, such as rootkits, cannot be removed from within the Windows operating system, the computer is rebooted in Rescue mode — a trusted environment used for cleanup and restoration.
+A proactive, dynamic detection technology that monitors the processes’ behavior in real time and tags suspicious activities.
+Enables you to keep track of all of your security-related tasks, plus lets you quickly and easily drag-and-drop files for quick scanning for viruses — right from your desktop!
+Norton Community Watch tracks virtually every file on the Internet
+Defrag fixes common problems that can rob your computer of speed and power
+Startup Manager frees up PC memory and fine-tunes settings, so your computer starts up faster
+PC Tuneup removes unnecessary files to free up storage space and improve hard drive speed and reliability
+Safe Web tells you if a website is unsafe before you visit it and it's too late
+Parental Control helps you protect your kids from online dangers by giving you direct access to Norton Family
+Scam Insight reviews a website's reputation and lets you know if it's safe to enter your personal information
+Quick Scans
+Quarantine Management
+White List Management
+AVG Search-Shield places safety ratings next to each link in your search results, letting you know which sites can be trusted, while AVG Surf-Shield checks web pages in real time, identifying malicious websites before you visit them.
+Automatically checks links exchanged on Facebook and MySpace in real time so that you and your friends stay safe.
+Download and share files without risk of infection. You are also protected when you exchange files through online chat.
+Our technical experts are available to help with any problems you might have.
+AVG’s core layers of protection make sure you can’t receive or unintentionally spread even the toughest threats.
+Hassle-free protection that works in the background while you play games and watch movies.
+AVG 2011’s scans are even faster. AVG Smart Scanning works while you’re away and runs in low-priority mode when you return.
+Anvi Smart Defender detects and stops the latest and most malicious threats attacks. Integrating multiple guards (Privacy Guard, Startup Guard, Process Guard, Behavior Guard, Files Guard), it stops and blocks malware. When you are surfing, shopping, charting, socializing, sharing or banking, overall guards protect your PC from malware efficiently than traditional security software.
+Anvi Smart Defender with its smart engine scans and detects latest malware in a fast, light, and effective way. It will not interfere with your working when it is scanning, just let it run slightly on background.
+Anvi Smart Defender adopts creative cloud computing technology to give your PC more protection. Upload the suspicious file with a smart way, you can get the cloud security report and discover the newest threats at the first time.
+Besides protecting your PC from malware, Anvi Smart Defender optimizes your computer in several aspects (System Optimize, Registry Fix, Privacy Cleaner, Memory Sweep, and Disk Defragment).
+Your home network can be attacked just like your PC. With just one click, you can scan your network for potential security issues to help prevent attacks on your routers and network.
+Safe zone isolates your banking to give you an extra-secure place to bank and pay bills online. Pair it with SecureLine VPN to really protect your privacy and identity.
+Use our secure personal firewall to shield your operating system, software, and hardware from hackers.
+Know which emails are spam before you open them, and avoid getting taken by a phishing attack.
+Get email support, or you can move to paid phone support for an even faster response.
+Protect your router from DNS hijacking that could redirect you to a password-harvesting website.
+Now you have the ability to safely run apps and open files you’re unsure about
+New feature designed to ensure the safety of your data by blocking ransomware and other dangerous apps
+Absolute power in the most efficient antivirus available today. Bitdefender Antivirus Plus 2017 works against all threats, from viruses, worms and Trojans, to ransomware, zero-day exploits, rootkits and spyware. Your data and your privacy are in good hands.
+Active Threat Control
+We use an innovative technique called behavioral detection to closely monitor your active apps. When Bitdefender Antivirus Plus 2017 detects anything suspicious, it takes instant action.
+Ransomware Protection
+You can place sensitive documents under special protection from malicious encryption programs that demand ransom on your personal files.
+Rescue Mode
+Some sophisticated viruses, like rootkits, need to be removed before Windows starts. When Bitdefender Antivirus Plus 2017 detects such threats, it reboots the computer in Rescue mode for cleanup and restoration.
+Bitdefender Antivirus Plus 2017 sniffs and blocks websites that masquerade as trustworthy in order to steal financial data such as passwords or credit card numbers.
+Our advanced filtering system warns you whenever you visit websites that may try to scam you, such as casinos, porn sites, money loan schemes and others.
+Find out whether your search results are safe to access before you actually click on a link. Bitdefender Antivirus Plus 2017 also blocks known infected links.
+Once switched on, Autopilot will run your entire cyber-security by itself. It makes optimal security decisions without asking for your input through nagging pop-ups and dialog boxes. Nothing to set up, nothing to configure.
+This innovative, exclusive technology helps Bitdefender Antivirus Plus 2017 adapt to the hardware and software configuration of your system to save computing resources and improve speed and performance.
+When scanning takes place in the cloud there is virtually zero impact on your local resources, which means your system’s speed and performance remain unaffected. And your files always remain completely private: we only scan data signatures, not the actual contents of your files — which are never uploaded or stored in the cloud.
+Bitdefender Antivirus Plus 2017 detects when you play, work or watch a movie, so it knows not to bother you with unnecessary requests. This way you can focus on what’s important. Depending on what you choose to do on your computer, Bitdefender temporarily halts pop-ups, adjusts visual settings and pauses unimportant background activities to allow you to enjoy your device to the max.
+This useful, intelligent feature saves battery life for laptops and tablets by temporarily tweaking system settings such as display, system cooling, system updates or Bluetooth connectivity.
+Bank and shop from a unique, dedicated browser that secures your transactions to prevent fraud. Bitdefender Safepay can now also automatically fill out credit card details in billing fields.
+Stay safe from malicious links and any threats that your friends may unwittingly pass on to you via Facebook, Twitter, Pinterest or other social networks.
+Store your passwords, credit card information and other sensitive data in a secure vault for easy access whenever you need them. Password Manager gives you the option to autofill online forms and can even recommend secure passwords.
+Use this tool when you wish to delete a file for good and leave no traces that it ever existed on your PC.
+It’s pure freedom: just turn Autopilot on, and it will run all your cyber-security by itself, hassle-free. Without pop-ups, dialog boxes or hundreds of options to go through, you’ll be able to focus on your work and on having fun.
+State-of-the-art protection from the world leader in security.
+Built to secure your virtual infrastructure.
+Integrated antivirus, antispyware, firewall, and intrusion prevention as well as device control and application control.
+Powerful central management of security for physical and virtual endpoints
+Enables instant upgrade to self-enforced network access control without additional software deployment
+Seamless migration from previous versions of Symantec Endpoint Protection
+The latest version of avast! antivirus kernel features world-class detection abilities together with high performance (data throughput). You can expect 100% detection of In-the-Wild viruses and Trojan horses.
+The kernel is certified by ICSA and the product frequently takes part in the tests of Virus Bulletin magazine, yielding multiple VB100% awards.
+avast! 4 Server Edition is ready to work and even supports large cluster and terminal servers. It contains direct support for cluster setup, including a special wizard that makes the installation on cluster easier.
+To set up avast! on terminal environment, you can use another wizard that guides you through the reconfiguration of avast! system for the work in terminal mode. Such a reconfigured avast! system looks (and behaves) to the terminal users as the standard avast! would for workstations.
+The support for the terminals is not limited to the terminal services by Microsoft; it is fully functional with Citrix MetaFrame system as well.
+avast! 4 Server Edition has been fully tested with all editions of Windows Servers (starting with NT 4.0 and up to Windows Server 2003, including Windows Storage Server 2003 and Windows Datacenter Server 2003). It is fully optimized to take advantage of multiple CPUs and has been stress-tested even on machines with a large number of processors to verify exceptional robustness and scalability of its technology.
+Special care has been taken to ensure 100% compatibility with advanced server components such as the VSS (volume shadow copy) and FRS (file replication services), guaranteeing that your server will run flawlessly under all circumstances.
+avast! 4 Server Edition works perfectly even on IA-64 and AMD-64 based machines. It is one of the very few AV solutions on the market that covers this fast-emerging platform that is likely to gain more and more importance in the upcoming years.
+Resident protection which is the real-time protection on the computer, is one of the most important parts of an antivirus program today. avast! features a powerful resident module that is able to detect the virus before it has any chance to infect your computer.
+The file system protection ensures that no virus will be executed on startup, and no virus will be even uploaded to it. The default settings of the resident protection are accommodated to the server environment - it provides thorough scanning. It is possible to adjust the settings to your requirements; you can specify to scan the copied files, or just files with given set of extensions, etc.
+An important new feature is so-called "semi-silent" mode of operation. The purpose is to correctly display virus warnings on a server system. It works like this: if a request to load an infected file comes from a network, an automatic action is taken and nothing is displayed. On the other hand, when the request comes from a local or terminal session, the usual interactive mode is used - as in desktop antivirus.
+The resident module is highly optimized for speed and tested even in heavy load. It fully utilizes the possibilities of today's powerful servers, such as multiple CPUs (the scanning can be parallelized).
+Developed especially to use on Terminal Server, avast! 4 Server Edition contains additional resident modules for e-mail protection (Outlook/Exchange, Internet Mail) and browser protection (Script Blocker).
+Even though the Server Edition contains both the user environments of avast! - simple and enhanced - in server usage usually the enhanced user interface will be employed (except for the terminal server). The enhanced user interface gives you access to all the settings of avast!, thus making it possible to fully configure it for extensive scanning.
+The main principle is so called "antivirus task" based scanning. First, you define the tasks used to scan for viruses, including the common parameters. Then, you run these tasks (probably periodically). Every task generates some results; of course, you can work with these results afterwards. Resident protection is also a special type of task.
+Another feature, closely connected with tasks, is the Scheduler. It makes it possible to schedule the start of a particular task, both one-time and periodically.
+To make work easier, Server Edition contains a special notification manager. Here, you can define notification objects and associate them with antivirus tasks (both resident and on-demand). Those notification objects are used in the case when a virus is found.
+The new version supports a number of notification objects, such as sending e-mail messages using SMTP or MAPI (Outlook). SMS, notification using the Windows popup mechanism (network message), printing the message on a network printer, SNMP traps, or even sending IM messages using MSN/Windows Messenger are also supported.
+Automatic updates are another key point in virus protection, both the virus database and the program itself can be updated automatically. The updates are incremental, and only new data is downloaded, thus reducing the transfer time. The typical size of a virus database update is approximately of 20-80kb, the program update usually has approximately 200-500kb.
+If your Internet connection is persistent, the updates are performed completely automatically in fixed time intervals. If you connect to the Internet only occasionally, avast! watches your connection and tries to perform the update when you are online.
+A special feature of the Server Edition is PUSH updates. It is a dramatic change in the philosophy of updates, usually every installed program checks periodically and when a new version is available downloads it. PUSH updates however are initialized by our servers; they result in your computer quickly responding and performing the necessary update. The system is based on the SMTP protocol. The updates themselves are controlled by the avast! resident e-mail providers (MS Outlook and Internet Mail).
+The whole system is protected by asymmetric ciphers and is resistant to unauthorized misuse.
+The Chest can be thought of as a Quarantine area on your disk having special properties that make it a safe isolated place suitable for storing certain files. You can work with the files in the Chest with security restrictions.
+The main properties of the Virus Chest are complete isolation from the rest of the operating system.
+Boot-time scan
+A special avast! feature is the boot-time scan. It is important in the case of suspect that there might be an active virus on the computer. The boot-time scan is performed during the start of the operating system, before the virus can get loaded/activated - thus preventing the virus from spreading or taking actions to avoid being detected.
+Experienced users may like another Server Edition feature which is the command-line scanner. The scanning can be controlled by many arguments and switches; it can be used as a pipe filter, also a special STDIN/STDOUT mode is available.
+The module is intended to be used in BATCH programs. Its output is the same as the output from the Enhanced User Interface tasks (including the report files).
+Complete defense against viruses, spyware, adware and PUAs across the widest range of platforms of any vendor. Sophos Anti-Virus is 100% Checkmark-certified for spyware detection.
+The smallest, fastest protection is automatically distributed at pre-set times or on-demand. Failsafe updating and bandwidth throttling ensures remote laptop users stay protected.
+Computers can be completely disinfected in a single operation. Unwanted registry entries, running processes, and even files on disk are removed.
+Behavioral Genotpye protection identifies malicious code and blocks it before execution, giving the benefits of a Host Intrusion Prevention System (HIPS).
+Scanning can be performed on access, on demand and automatically at scheduled times. Decision Caching technology means only those files that have changed are rescanned.
+Absolute power in the most efficient antivirus available today. Bitdefender Internet Security 2017 works against all threats, from viruses, worms and Trojans, to ransomware, zero-day exploits, rootkits and spyware. Your data and your privacy are in good hands.
+We use an innovative technique called behavioral detection to closely monitor your active apps. When Bitdefender Internet Security 2017 detects anything suspicious, it takes instant action.
+You can place sensitive documents under special protection from malicious encryption programs that demand ransom on your personal files.
+Some sophisticated viruses, like rootkits, need to be removed before Windows starts. When Bitdefender detects such threats, it reboots the computer in Rescue mode for cleanup and restoration.
+Bitdefender sniffs and blocks websites that masquerade as trustworthy in order to steal financial data such as passwords or credit card numbers.
+Our advanced filtering system warns you whenever you visit websites that may try to scam you, such as casinos, porn sites, money loan schemes and others.
+Find out whether your search results are safe to access before you actually click on a link. Bitdefender also blocks known infected links.
+Once switched on, Autopilot will run your entire cyber-security by itself. It makes optimal security decisions without asking for your input through nagging pop-ups and dialog boxes. Nothing to set up, nothing to configure.
+This innovative, exclusive technology helps Bitdefender Internet Security 2017 adapt to the hardware and software configuration of your system to save computing resources and improve speed and performance.
+When scanning takes place in the cloud there is virtually zero impact on your local resources, which means your system’s speed and performance remain unaffected. And your files always remain completely private: we only scan data signatures, not the actual contents of your files — which are never uploaded or stored in the cloud.
+Bitdefender Internet Security 2017 detects when you play, work or watch a movie, so it knows not to bother you with unnecessary requests. This way you can focus on what’s important. Depending on what you choose to do on your computer, Bitdefender Internet Security 2017 temporarily halts pop-ups, adjusts visual settings and pauses unimportant background activities to allow you to enjoy your device to the max.
+This useful, intelligent feature saves battery life for laptops and tablets by temporarily tweaking system settings such as display, system cooling, system updates or Bluetooth connectivity.
+Bank and shop from a unique, dedicated browser that secures your transactions to prevent fraud. Bitdefender Safepay can now also automatically fill out credit card details in billing fields.
+With Parental Advisor, you can discreetly supervise your children’s online activities so they are always safe online.
+With Bitdefender Internet Security 2017 you get an extra layer of protection so your personal information stays safe from hackers and data snoops.
+Store your passwords, credit card information and other sensitive data in a secure vault for easy access whenever you need them. Password Manager gives you the option to autofill online forms and can even recommend secure passwords.
+Use this tool when you wish to delete a file for good and leave no traces that it ever existed on your PC.
+It’s pure freedom: just turn Autopilot on, and it will run all your cyber-security by itself, hassle-free. Without pop-ups, dialog boxes or hundreds of options to go through, you’ll be able to focus on your work and on having fun.
+Scan for security holes and vulnerabilities with just one click. Bitdefender Internet Security 2017 checks your PC for outdated and vulnerable software, missing Windows security patches and potentially unsafe system settings, and will indicate the best fix.
+Memory system scanning
+Scanning All files
+Scanning Compressed files (.zip and .rar) [Optional, if you activate]
+Multi Selection Drive Scanning
+Good Accurate and Method Scanning
+Fast Scanning (Depending on your computer spesification)
+Recover Folder and Files
+Show All Hidden Folder [Optional, if you activate]
+Portable
+Friendly Inferface & Use
+Estimate Scanning with ProgressBar
+Percentage of Scanning Progress
+GAV Engine 2.0
+Log Off, Restart, Shutdown, and Lock Computer Menu
+Log File
+Recover Registry [optional, if you activate]
+Show Hidden Folder(s) Selection
+Show Hidden File(s) Selection
+Set Registered Organization and Owner Registry Value
+Run Application Facility
+Process List
+Split and Get Document from Malware [ for : Backdoor.Win32.Delf.axz,
+Trojan.Win32.Delf.aav, Worm.Win32.Delf.cd, Worm.Win32.VB.du, Worm.Win32.VB.du [2], Worm.Win32.Delf.cd [3], Lod5 ]
+Split and Get Application from Malware [ for : DeulleDo-X [2], Virus.Win32.Delf.bk, Viking]
+Set ShowHidden and SuperHidden Registry Value
+Services List
+Split and Get Image from Malware [ for : MontoxBro [1], Video Hot ]
+Check File(s) if file(s) contain image or document [Optional, if you activate]
+Check and Clean Zero file(s) size [Optional, if you activate]
+Registry Value Scanning
+Startup Folder Scanning
+Improve Technology and Quality always
+Manual Check Registry Autorun [ like : HKLM Run, HKLM Runonce, HKCU Run, HKCU Runonce, HKU Run ]
+Effective protection from malicious programs
+Real-time antivirus protection. Kaspersky Anti-Virus 6.0 for Windows Servers Enterprise Edition scans all files that are launched, opened and/or modified and disinfects or deletes all infected files. Furthermore, suspicious files and content are isolated in a quarantine area prior to undergoing further analysis
+On-demand scanning. The application scans specified areas of the file system according to a schedule or upon demand from the system administrator
+Scanning of critical system areas. The application can scan those areas of the operating system that are more susceptible to infection as a separate task. For example, scanning startup objects helps prevent malicious code from launching during system startup and detects hidden processes. The most susceptible areas include startup objects and objects in RAM
+Prevention of virus epidemics. The application records any virus attacks, which helps the system administrator react promptly by launching a scan, updating the antivirus database or switching to an increased level of security
+Isolating infected computers. If a workstation on the network becomes infected, the application blocks the user from accessing server resources for a certain amount of time. During this period, the administrator can identify the source of infection and treat the infection
+High Performance
+Scalability. On multiprocessor servers, system administrators can define the number of copies of the antivirus engine they would like to run simultaneously in order to accelerate the processing of server requests
+Load balancing. The application allows administrators to regulate the allocation of server resources between the antivirus solution and other applications depending upon task priority levels; antivirus scans can continue in background mode
+Optimized scanning. The iSwift and iChecker technologies make Kaspersky Anti-Virus for Windows Servers Enterprise Edition complete tasks noticeably faster: the program performs a complete scan of the system during the first on-demand scan, while subsequent scans will only check new and/or modified files
+Flexible Administration
+Centralized installation and control. Kaspersky Administration Kit ·? a centralized administration tool ·? can be used to install applications and change settings remotely for several servers at once and to control the application after installation
+Flexible administration options. Kaspersky Anti-Virus for Windows Servers Enterprise Edition can be managed via the Microsoft Management Console (including remote administration), Kaspersky Administration Kit, or using the command line
+Database updates. Updating antivirus databases can be carried out on demand or automatically based on a schedule via Kaspersky Lab servers on the Internet or via local servers. The application automatically selects the least loaded update server
+Flexible time settings for virus scans. In order to optimize the use of server resources and maximize the convenience of users, the system administrator can assign the exact time for an antivirus scan to begin and end, which makes it easy to schedule on-demand scans during times when corporate servers are not overloaded ·? such as at night or on the weekend
+Reporting system. The system administrator can control the application using reports and by reviewing the Microsoft Windows or Kaspersky Administration Kit event logs. The reporting system features a search function and a filter, which makes it easy to find the information needed in large logs
+Information about the application's status. The application comes with an extensive list of events of which the administrator can be notified via NetSendor via email, with support for the Simple Network Management Protocol (SNMP) and the Microsoft Operations Manager (MOM)
+Microsoft Windows Server 2008 supports Kaspersky Anti-Virus for Windows Server 2008 version 6.0.1.511 and higher
+Please note!
+To install and manage the Kaspersky Anti-Virus 6.0 for Windows Servers Enterprise Edition via Kaspersky Administration Kit remotely, you must use Kaspersky Administration Kit 6.0 MP1 CF1 (6.0.1565 or higher)
+Rising Cloud Security 3.0, with high intelligence performance based on strong technique support from Rising Cloud Security Data Center which is the largest one in Asia and, the most efficient Rising Antivirus Virtual Machine Technique, as well as Rising Virtual Engine Technique, to perform the most excellent platform focusing on intelligent data collection, automatic data analysis, and providing professional security solution against Internet threats, behaviors of malicious attack from hackers, habits of computer users setting computer security defense, and traditional computer security defense.
+Based on triple layers security defense structure of Rising Cloud Security 3.0 and, integrated traditional monitor and intelligent active defense functions, Rising Antivirus 2011 instantly defenses personal computer security.
+Automatically intercepts and deletes Trojan, Backdoor, Worm, and other malicious viruses program while opening a file.
+Scans inbound (POP3) and outbound (SMTP) emails against Trojan, Backdoor, Worm, and other malicious viruses program.
+Automatically intercepts and deletes unknown Trojan, Backdoor, Worm, and other malicious viruses program while removable devices connect to computer via USB port.
+Adopting Rising Dynamic Behavior Analysis technique on Windows operating system kernel and, intercepts unknown Trojan, Backdoor, Worm, and other malicious viruses program at real-time.
+Taking Rising System Kernel Reinforce into web browser program and, intercept unknown Trojan, Backdoor, Worm and other malicious viruses at real-time.
+Automatically intercept unknown Trojan, Backdoor, Worm and other malicious viruses program and, prevent malicious attacks which exploit office software unknown vulnerability away while launching office software.
+Providing professional computer users two optional customizable methods as Templates and Custom, to detect, monitor, and intercept all malicious behaviors from viruses program and, reinforce Windows system kernel.
+Tracks down and destroy any existing malware hiding in a PC
+Detects spyware threats and destroys each infection.
+Scans, detects & removes rootkits on your computer.
+Prevents malicious software turning your PC into a zombie.
+Protects critical system files and blocks malware before it installs
+Runs unknown files in an isolated environment where they can cause no damage.
+Cutting-edge protection against sophisticated buffer overflow attacks.
+Kills malicious processes before they can do harm.
+The Manager: an interface which allows you to set up each Cracklock-controlled software an easier and faster way.
+Multilingual: Cracklock has been translated to many languages.
+Contextual help: you can obtain help from anywhere, at any time
+Defend your systems against viruses, worms, spyware, bots, Trojans, buffer overflows, and blended attacks. Block a broad range of viruses and malicious code — even those hidden in compressed files — with combined anti-virus, firewall, and intrusion prevention technology. McAfee’s industry-leading security also safeguards against spam, phishing attacks, malicious websites, and other threats that often evade standard anti-virus and URL filtering systems.
+Close the protection gap with McAfee Global Threat Intelligence (GTI). GTI offers comprehensive, real-time protection against both known and emerging threats across all key threat vectors — file, web, email, and network. A cloud-based service using reputation-based threat protection in addition to other techniques, McAfee GTI correlates real-world data collected from millions of sensors globally and delivers intelligence via a complete suite of McAfee security products.
+Detect and clean viruses in Microsoft Outlook and Lotus Notes, including HTML text and attachments.
+Don’t let your anti-malware software slow down end users. VirusScan Enterprise scans faster, uses less memory, requires fewer CPU cycles, and protects users better than any other anti-malware product on the market.
+Limit the risk and impact of an outbreak if one occurs. Close ports, monitor applications and email engines, and block files and directories, even before .DAT files are issued.
+Defend your desktops, laptops, and file servers against disruptions. Malware and hackers cannot disable McAfee VirusScan Enterprise.
+Guard against buffer-overflow exploits that aim at vulnerabilities in Microsoft Windows operating system services, Microsoft Word, Microsoft Excel, Microsoft Internet Explorer, Microsoft Outlook, and Microsoft SQL Server. It also protects IIS services, WinZip, and Microsoft PowerPoint, Microsoft Office Access, Microsoft Office Visio, Microsoft Windows Media Player, and Microsoft Messenger.
+Control and manage VirusScan Enterprise from one central McAfee ePolicy Orchestrator (ePO) console, and get detailed enterprise-level reporting quickly and easily.
+Huge trojan definitions database
+Leading-edge anti-Trojan scanning and removal technologies
+Advanced heuristics analysis to detect and stop new and yet unknown viruses
+Program code analysis feature for detection of sophisticated and hidden malicious code
+Additional check of files' execution points for better security
+Built-in cure utility for safe disinfection of files
+Continuous system supervision by ATS monitor module
+File quarantine capabilities to isolate and neutralize suspected files
+System information utility and analysis tools for extensive system check
+Update utility for keeping the program always updated
+Archives scan (zip, rar, arj, cab, etc.)
+Over the network scanning abilities
+Information about detected Trojan horses, viruses or worms
+Detailed scanning reports
+Can work in parallel with any known anti-virus software for better protection
+All program's functions are easily accessible through the graphical interface
+Multi Threading system
+Open Database
+Easy to customize
+Light size
+Clean interface
+Extensive Malware Recognition: aside from viruses, Trojans, backdoor programs, worms, etc., it detects Adware & Spyware, double extension files and unusual runtime compression tools;
+Solid antivirus technologies: multi-platform, VB100% certified scan engine;
+Low usage of computer resources;
+Modular structure: allows remote configuration, thus assisting the server admin's work while keeping network users perfectly protected;
+Professional services: the Avira license entitles you to virus definitions updates and product upgrades, access to documentation, as well as standard technical support, offered by a team of skilled professionals;
+Avira Resident Service runs silently in the background, monitoring all file operations. When the user performs a file operation (e.g. launching a program, opening a document), this is automatically scanned against viruses and unwanted programs;
+The Control Program is a special interface, designed to configure and monitor the Resident Service. As such, it offers the possibility to manage several Resident Services installed on different servers in the network.
+Configuration assistant for easy and fast basic configuration after the installation.
+Trojans and Backdoors provide strangers with access to your PC. Once a Backdoor is installed, an attacker can take full control of your computer. A Trojan is best described as a piece of software pretending to be something it is not - they often contain Backdoors, and usually arrive as email attachments. A Keylogger is a type of Malware that invisibly records all keyboard activity. a-squared Free specializes in recognizing and eliminating these types of Malware.
+Worm viruses are currently one of the most irritating phenomena on the Internet. Usually transmitted as dangerous email attachments, worms send copies of themselves to all reachable destinations and cause great damage. Newer network worms/bots use security holes (Exploits) to infect a PC, and can reproduce at an astonishing speed. Without your knowledge, your PC is essentially transformed into a spam-sending zombie! a-squared Free eliminates worms from your PC and prevents them from doing any further damage.
+Dialers are small programs that change the Internet access number of a modem-equipped computer to a much more expensive number. Costs can rise as high as several hundred dollars per dial attempt. a-squared Free removes Dialers before they are becoming active.
+Your personal data and information is worth a great deal of money to certain advertising companies. They have no qualms about smuggling software into your system, recording information and spying on everything you do. Adverts that change the start page of your browser also belong in the Spyware/Adware category. a-squared Free completely removes Spyware from your PC. Traces of Spyware in the Registry and Tracking Cookies are also recognized.
+Makes sure that only known PC-safe applications execute
+Stops viruses and malware before they access your computer…so it isn't too late to stop them.
+The sandbox is a virtual operating environment for untrusted programs – ensuring viruses and other malicious software are completely isolated from the rest of your computer
+Our download offers free Antivirus protection that exceeds the protection offered by expensive security suites
+Possible viruses are kept executing to ensure that nothing "sneaky" gets through
+Set virus scans to run on a schedule, when it's convenient for you
+Spyware Scanner detects and cleans malware infections in PC registry and disks.
+Cloud based antivirus scanning detects malicious file even if a user does not have up-to-date virus definitions.
+Cloud based behavior analysis system detects zero-day malware INSTANTLY.
+Cloud based whitelisting of trusted publisher easily identifies a safe file and vendor
+Suppresses operations that could interfere with a user’s gaming experience such as alerts, virus database updates or scheduled scans.
+Provides users with the ability to lockdown their PC so only known good applications can run.
+Make sure your PC is clean with one simple button click
+Simply install and forget, while Antivirus continues to protect
+Get the most current protection possible against new viral strains
+Change the behavior of Antivirus to reflect your security preferences at any given time
+Prevents viruses, spyware, ransomware and other malware from infecting your PC, Mac, tablet and smartphone
+You always have the latest software with Total Defense. All product upgrades are free; as soon as we release a new feature or version your product automatically gets updated. It’s fast, easy, and hassle-free.
+Auto Scanning of USB drives blocks portable malware from entering your PC.
+Let’s you monitor the status of your system by providing real-time reports that show user activity and system alerts. Every month you receive a consolidated report of the protection you received and the product updates that occurred.
+Auto Update: Product automatically updates itself from the Internet. Constant protection from new viruses, spyware and other types of malware
+Enhanced Scan Engine : The fastest scan engine in its class. Certified by Virus Bulletin. Checkmark certified. Vista certified by Microsoft.
+Real-time scanner: All new files accessed, downloaded, created or modified are automatically scanned. Ensures complete protection at all times.
+Fastest AV scanner: K7 AntiVirus does not slow down your system while protecting it. Has the smallest memory footprint and a program size of less than 10 MB.
+Anti-Spyware: Stops unwanted programs from installing themselves without your approval. Certified by Checkmark.
+Anti-Malware: Stops all types of malware such as Trojans, Worms, Rootkits, Adware and Key Logger exploits
+E-mail scanner: Automatically scans e-mails and attachments
+Windows Temp Files Cleaner
+K7Internet Temp Files Cleaner
+K7Virtual Keyboard
+K7USB Vaccination
+Quickly check the overall condition of your computers' health and safety with one click
+Integrating award winning antivirus engines from 360 Cloud Scan Engine,360 QVMII AI Engine, Avira and Bitdefender to provide you with the ultimate in Virus detection and protection capabilities.
+Manage and optimize your system services, boot up items and plugins - Shorten your boot time and get going sooner
+Cleanup frees your disk space by removing junk files and plugin, which can improve system performance - With cleanup you can decide which areas and files to clean.
+Protection offers 4 different user selectable modes - Performance/Balanced/Security and Custom. Each mode offers a different level of protection from malware, phishing attacks and backdoors.
+Comprehensive security
+Protects all communication channels (e-mail (POP3 /
+IMAP), instant messaging (MSN, Yahoo, AOL, etc.)
+Improved protection from viruses, worms, rootkits,
+spyware, dialers, Trojans, backdoors, and more
+Searches all compressed files and archives
+Resource-saving new user interface
+Cutting edge technology
+DoubleScan: best, award-winning virus detection
+OutbreakShield: Immediate protection against new
+viruses
+Quickest reaction to new virus attacks
+Also for 64-bit Windows systems
+G DATA BootCD will find loaded rootkits
+High tech fully automatically
+E-mail virus blocker for Outlook, Outlook Express,
+Mozilla, Eudora, and more
+Virus blocker for instant messaging (MSN, Yahoo, AOL, etc.)
+Automatically scans HTTP traffic
+System protection monitors Registry and Hosts file
+Fully automatic virus scans and updates
+Updates & Premium Support
+New detection updates every minute
+Virus signatures, software updates and upgrades are
+included for one year
+Technical support by e-mail and phone
+InternetAmbulance analyzes suspicious files
+Scans for viruses, trojans, worms, spyware, adware and malware.
+Only few seconds are required to perform complete PC scan to detect malware presence.
+Malware signatures database contains over ten thousand entries of real-world threats.
+Malware signatures database is updated often to include information about latest threats.
+Scans & cleans your computer completely and provides reports of any viruses that it finds.
+Checks and cleans all illegal dialers that are present on your computer.
+Checks and clears you of any background illegal sniffers or tools like spyware, adware, keyloggers etc. running in the memory of your computer.
+You can add this utility to the startup list of programs on your computer so that it scans and clean your computer every time you start using it.
+When you download this utility you will get it with the latest updated list of viruses that can scan and clean your computer for all known viruses.
+Comprehensive Spyware Detection and Removal- Provides complete protection against spyware, adware, keyloggers, Remote Access Trojans (RATs), and browser hijackers
+Real-time Protection - Proactively protects your PCs against new spyware threats
+Active Protection - Kills active pests in memory and zaps spyware cookies before they can phone home about you
+Automatic Updates - Makes sure you're always covered against the latest spyware threats
+Detailed Scan Results - Delivers the specific threat level of any pest found, and allows you to link to our pest database for more information
+Security you can Trust - Your security is backed by the industry's largest research team, the CA Security Advisory Team
+Rootkit scanning
+User memory scanning
+Kernel memory scanning
+eScan provides you with a user friendly graphical user interface that is designed to suit the needs of both the novice and expert users. This GUI offers a single screen access to both the Virus Monitor and the On Demand Scanner.
+eScan provides the proactive scan feature that warns you about any changes that takes place in the registry. It also notifies you about any applications which are suspicious in nature.
+eScan provides a two-way inbuilt firewall that monitors both the incoming & outgoing network activities in the system and safeguards the computer from network based attacks.
+eScan’s new On-Demand Scanner is equipped with the Cache technology that scans faster and is lighter on system resources. It also scans USB drives, Spyware and Adware.
+eScan does real-time virus scanning of files, applications, emails, email attachments and websites using the MicroWorld Winsock Layer (MWL) technology and Heuristic Algorithms.
+eScan provides multi-level protection from Viruses, Trojans, Worms, Spyware and many more Information Security threats using various technologies such as Application Control, MWL Technology, NILP Technology, Endpoint Security, Domain Blacklisting, Firewall, etc.
+Automatic hourly program as well as definition updates to protect against zero day threats.
+We provide round the clock free telephonic and online technical support
+USBShield monitors in real time and protects your computer against all threats that can take over your computer via USB drive. It blocks threats based on innovative proactive technology and requires no signature updates at all.
+If you suspect that your computer is infected (it behaves abnormally), run an on-demand computer scan to examine
+your computer for infiltrations.
+Process Manager provides information about programs and processes running on your computer.
+You can find out the suspicious process easily and inquire information about the process.
+You can remove USB disk safely by clicking UnLock button.
+And you can setup the USB Devices Security to prevent theft of information.
+Very often, several malicious programs change registry and stay in the temporary internet directory. RepairSystem can restore malicious changes on your computer and delete unnecessary files and malicious programs that stay in the temporary internet directory.
+Disable the autorun facility of windows . To block most of the malicious programs infect USB drive, 'Acquire
+Immunity' can disable AUTORUN of USB drive and create directories named AUTORUN.INF on your drives
+Free: 2 scanners to clean infections: Anti-Malware + Anti-Virus!
+Not just any scanners, but a combination of two world class products - the Emsisoft Anti-Malware, and the Ikarus Anti-Virus engine. Latest tests approve that both are cutting edge in Malware detection.
+No doubling of the scan duration as would be the case with two separate scanning programs. Considerable performance improvement is possible thanks to the integration of the two engines on the lowest level.
+No double price - two top security products for the price of one.
+3 guards: file guard, behavior blocker and surf protection
+Since version 5: The new, free configurable file guard compares all files that are downloaded or started with about 4 million patterns of known malicious software.
+Unlike conventional protection systems Emsisoft Anti-Malware does not only check files, but it also constantly monitors the behavior of all active programs and raises an alarm as soon as something suspicious happens.
+Typical ways of infection are disabled in advance. Websites that try to plant trojans or spyware or that offer deceptive contents are blocked by the surf protection.
+Signature updates at least 5 times per day, in combination with the zero-day protection of the behavior analysis this guarantees the best possible protection from new infections.
+3 ways of Malware removal to clean every infection
+When a Malware infection is detected, the scanner puts the found objects under quarantine or deletes them finally.
+Anti-Malware holds plenty of advanced options for experts to detect and delete Malware manually. For this purpose the integrated system analysis tool HiJackFree is included, and helps you to have all processes, services, auto-runs, open ports, browser plug-ins, LSPs and host entries under your control.
+For tough problems our helpful Malware experts are at your disposal for free. With their step-by-step advises, any infection, no matter how resistant it is, can be purged - guaranteed.
+More security with behavior based Malware detection
+Emsisoft Anti-Malware includes a guard, which recognizes and blocks all dangerous programs before they have a chance to cause any damage. The unique new Emsisoft Anti-Malware Behavior Blocker module immediately warns you when a program attempts to perform a potentially dangerous operation. It does this for every program, including those that may appear harmless at first sight!
+Full control over internal system activities
+Select this option to always allow particular specific behavior of a program. In certain situations a benign program can contain a function that is very similar to a damaging function and is thus reported. If you are sure that this action is actually not dangerous then you can allow it. All other types of dangerous behavior are still reported.
+Select this option to permanently block a particular program. You can also use this feature to provide child protection by preventing other PC users from starting a particular application.
+Select this option to completely exclude an application from the monitoring process. Use this when you always trust an application and are sure that it does not execute any damaging actions.
+Bonus feature: Application protection
+You can use the application rules to protect specific programs from third-party manipulation. For example, this feature is used to prevent Mamutu from being terminated by Malware in order to disable the protection. You can also make use of this feature. You can protect your Browser and other important programs from being illegally terminated.
+Extended program help
+Emsisoft Anti-Malware is installed with great default settings for the majority of the users. Beyond that, it allows experts to configure the software for their personal needs. The program help contains extended information to get the most from the software.
+New: Community based help with decisions
+With the Anti-Malware Network feature, Emsisoft Anti-Malware makes use of the "Intelligence of the masses" and provides a recommendation based on the decisions of other users when an alert is raised: A clearly understandable graphic illustrates the percentage of users that have performed each possible action. This allows you to quickly decide whether to allow the behavior of the alerted program (other behavior types will be alerted), exclude it from monitoring (completely trusted), block it (shut down process) or place it in quarantine (shut down process and put exe file into quarantine so it can't be started anymore).
+You can also define a particular percentage value at which the application is automatically permitted. For example: If (e.g.) 90% of the users have classified a background updater as not damaging, then the application is automatically permitted to run. This ensures a smooth workflow without annoying popups and you no longer need to make sometimes difficult decisions about unknown processes. The transfer of your own decisions to the Anti-Malware Network is of course voluntary and can be deactivated at any time.
+Free personalized updates. Feel the meaning of Real Personal Protection with 'Submit State' feature fastest possible responder to Your Threats in 24 hours. Submit your information to us with 1 click and your can exterminate your trouble with next-day database update;
+Run it whenever you need. Don't waste your system resources with always running applications;
+Helps you to stay CLEAN. That's vitally important in modern world of online commerce;
+Huge anti-malware database (more than 300,000). This guarantees removal of all infections;
+Free everyday database updates sustain your protection;
+Compatible with other security suites;
+24 hours customer support service;
+Simple and intuitive interface;
+Easy to install and use;
+Anti-Virus: Lets you open eMail attachments and use your computer without any fear of virus infections, spyware intrusion or malicious programs that can take over your computer
+Anti-Spyware: Protect your privacy by preventing spyware and hackers from entering your computer
+DeepGuard 2.0: New proactive DeepGuard 2.0 technology protects you against any unknown threats
+Performance: The anti-virus software working from behind the scene
+Enhanced detection performance and reduced system overhead
+Automates all key tasks required to keep your computer and data safe from viruses
+Keeps you safe against the unknown targeted attacks, or so called zero-day-attacks, and rootkits
+Web Traffic Scanning guards you against websites that can infect your computer even if you do not download anything from the website
+Multiple scanning engines identify different type of malware bringing you the very best in malware detection and disinfection
+F-Secure DeepGuard 2.0 introduces network based recognition of suspicious software while improving the accuracy and speed of response to new outbreaks of malicious code
+Security news about virus outbreaks is delivered straight to your computer
+Immediate reaction times and fast cures during new and emerging threats ensured by F-Secure Research Team working 24 hours a day
+Easier & faster installation with less user interaction
+Automatic protection against viruses, malware and online threats
+Secure Internet surfing with Browsing Protection
+Safe search results for your privacy and safety
+Secure online banking with Banking Protection
+Parental Control for protecting children online
+Protection that doesn't slow your computer
+Instant recognition of online threats
+Now in order to protect your online surfing in a powerful way, IObit Malware Fighter 4 newly added the world’s leading Bitdefender anti-virus engine, enhanced IObit anti-malware engine, and expanded the database by 10 times.
+Malicious websites and plug-ins can easily change your web browser's homepage and default search provider to a different one without your permission. The enhanced Anti-tracking browser protection in IObit Malware Fighter 4 can effectively prevent homepage hijacking and default search engine modification on major browsers, including Chrome, IE, Firefox and Edge, to ensure you a better and safer online experience.
+The Internet is something of a security minefield which is easy to get in trouble. IObit Malware Fighter 4 improved the Security Guard functions for better real-time privacy protection, to block more malware and viruses proactively. The enhanced protection will automatically clear the malicious tracking data to better protect your privacy and password for all kinds of accounts, leaving no rooms for all threats.
+IObit Malware Fighter 4 is fully compatible with all mainstream antivirus products and can assist your antivirus products to ensure your PC at its top security. You will feel it is easier to use and read with the brand new UI design. In addition, with cache scan mechanism, IObit Malware Fighter 4 will minimize the resource usage during threat scanning and removing, to dramatically enhance the scan speed for smoother PC experience.
+Edge Protection is a proactive technology that defends against zero-day threats by protecting any web browser and its components against drive-by download attacks and known and unknown exploit kits.
+VIPRE's user interface makes managing VIPRE easy and intuitive. Quickly select or schedule scans, check for current definition updates, customize how patchs are applied and much more.
+Scans your Facebook page for bad links that could infect PCs with malware like viruses and Trojans, or expose you and your friends to other online threats.
+Helps you browse the web safely by identifying links that could infect your PC with viruses, Trojans or other online threats.
+Detects and removes viruses, spyware, rootkits, bots, Trojans and all other types of internet security issues.
+Ensures a smooth, trouble-free installation process by eliminating potential software conflicts.
+Leverages multiple detection methods to monitor and protect against internet security issues, including zero-day attacks, in real time.
+Combines advanced antivirus and anti-spyware technologies to provide complete security that doesn't slow down your PC.
+Scans USB flash drives and other removable drives and files for threats automatically when connected to your PC.
+Finds and disables hard-to-remove malware that gains unauthorized access to and hides deep within your PC.
+Protects against email viruses in Outlook, Outlook Express,
+Windows Mail and any email program using POP3 and SMTP.
+Adds an "Erase Files" option to your Window's Explorer menu to permanently delete all traces of a file.
+Removes browsing and search histories, including the history stored by many popular applications.
+Computer Protection protects your computer against known and new threats. Each type of threat is processed by a separate application component. This structure of the protection system allows a flexible configuration of the application, depending on the needs of any specific, or of an enterprise as a whole.
+files and personal data;
+system;
+network activity.
+Virus scan tasks used to scan individual files, folders, drives, areas or the entire computer for viruses.
+Update, ensuring the up-to-date status of internal application modules, and databases used to scan for malicious programs.
+File Anti-Virus monitors the file system of the computer. It scans all files that can be opened, executed or saved on your computer, and all connected disk drives. Computer Protection intercepts each attempt to access a file and scans such file for known viruses. The file can only be processed further if the file is not infected or is successfully treated by the application. If a file cannot be disinfected for any reason, it will be deleted, with a copy of it saved in the backup, or moved to the quarantine.
+Mail Anti-Virus scans all incoming and outgoing email messages on your computer. It analyzes emails for malicious programs. The email is available to the addressee only if it does not contain dangerous objects. The component also analyzes email messages to detect phishing.
+Web Anti-Virus intercepts and blocks scripts on websites if they pose a threat. All HTTP traffic is also subject to a thorough monitoring. The component also analyzes web pages to detect phishing.
+IM Anti-Virus ensures the safe use of Internet pagers. The component protects information that comes to your computer via IM protocols. IM Anti-Virus ensures safe operation of various applications for instant messaging.
+Application Control logs the actions performed by applications in the system, and manages the applications' activities, based on which group the component assigns them to. A set of rules is defined for each group of applications. These rules manage applications' access to various resources.
+Firewall ensures security for your work in local networks and on the Internet. The component filters all network activities using rules of two types: rules for applications and packet rules.
+Proactive Defense allows to detect a new malicious program before it performs its malicious activity. The component is designed around monitoring and analyzing the behavior of all applications installed on your computer. Based on the actions being performed, Computer Protection makes a decision whether the application is potentially dangerous, or not. So your computer is protected not only from known viruses, but from new ones as well that still have not been discovered.
+The Network Attack Blocker loads at the operating system startup, and tracks incoming network traffic for activities characteristic of network attacks. Once an attempt of attacking your computer is detected, Computer Protection blocks any network activity of the attacking computer towards your computer.
+Anti-Spam integrates into the mail client installed on your computer, and monitors all incoming email messages for spam. All messages containing spam are marked with a special header. The option of configuring Anti-Spam for spam processing (deleting automatically, moving to a special folder, etc.) is also provided. The component also analyzes email messages to detect phishing.
+The component designed to view information about network activity in real-time mode.
+The component, integrated into Web Anti-Virus, Anti-Spam and IM Anti-Virus, which allows to check web addresses if they are included in the list of phishing and suspicious web addresses.
+Anti-Banner blocks advertising information located on banners built into interfaces of various programs installed on your computer, or displayed online.
+Computer Protection protects data stored on your computer against malware and unauthorized access, ensuring secure access to the local network and to the Internet.
+Files, personal data, parameters of access to different resources (user names and passwords), information about banking cards etc. Protection of these objects is provided by File Anti-Virus, Application Control and Proactive Defense.
+Applications installed on your computer and operating system objects. Protection of these objects is provided by Mail Anti-Virus, Web Anti-Virus, IM Anti-Virus, Application Control, Proactive Defense, Network Attack Blocker and Anti-Spam.
+Online activity: using e-payment systems, email protection against spam and viruses etc. Protection of these objects is provided by Mail Anti-Virus, Web Anti-Virus, IM Anti-Virus, Firewall, Network Attack Blocker, Anti-Spam, Network Monitor, Anti-Banner.
+Computer Protection protects data stored on your computer against malware and unauthorized access, ensuring secure access to the local network and to the Internet.
+Files, personal data, parameters of access to different resources (user names and passwords), information about banking cards etc. Protection of these objects is provided by File Anti-Virus, Application Control and Proactive Defense.
+Applications installed on your computer and operating system objects. Protection of these objects is provided by Mail Anti-Virus, Web Anti-Virus, IM Anti-Virus, Application Control, Proactive Defense, Network Attack Blocker and Anti-Spam.
+Online activity: using e-payment systems, email protection against spam and viruses etc. Protection of these objects is provided by Mail Anti-Virus, Web Anti-Virus, IM Anti-Virus, Firewall, Network Attack Blocker, Anti-Spam, Network Monitor, Anti-Banner.
+Application Activity Control. The component logs the actions performed by applications in the system, and manages the applications' activities, based on which group they belong to. A set of rules is defined for each group of applications. These rules manage applications' access to various resources.
+Digital Identity Protection. Application Control manages rights of applications to perform actions on the user's personal data. They include files, folders and registry keys, which contain the settings and important data of the most frequently used applications, as well as user's files (My Documents folder, cookies, information about the user's activity).
+Safe environment for running the applications. Computer Protection ensures the maximum security of operating system objects and the user's personal data by running unknown applications in the protected virtual environment.
+Network Monitor is a tool used to view information about network activities in real time. To run Network Monitor, use the Network Monitor link in the Computer Protection main window.
+The Connections and ports tab lists all the open ports and active network connections currently established on your computer.
+The Firewall: rule processing log tab displays information about the use of packet rules for applications.
+The Network traffic tab holds information on all inbound and outbound connections established between your computer and other computers, including web servers, mail servers, etc.
+The Blocked computers tab lists the blocked computers.
+In addition to the constant protection of all the ways that malicious programs can penetrate, it is extremely important to periodically scan your computer for viruses. This is necessary in order to rule out the possibility of spreading malicious programs that have not been discovered by security components, for example, because the security level was set to low or for other reasons.
+Object Scan. Scan of objects selected by the user. You can scan any object in the computer's file system.
+Full Scan. A thorough scan of the entire system. The following objects are scanned by default: system memory, programs loaded on startup, system backup, email databases, hard drives, removable storage media and network drives.
+Quick Scan. Virus scan of operating system startup objects.
+Completely renewed user interface
+Possibility to create exceptions
+Shredder for secure file deletion
+BHO Viewer
+XP Antispy
+LSP Viewer
+Heuristics to detect unknown threats
+Scanning and cleaning of the Windows registry
+Support for NTFS-ADS scanning
+Daily database updates
+Patch proof by using strong signatures
+Analysis tools (startup, connections and processes)
+Intelligent online-update
+Scan inside archives
+Secure detection and deletion of DLL-Trojans
+Generic crypter detection through emulation
+Generic binder detection
+Free E-Mail Support
+Automatic Clean Engine
+Quarantine for suspicious files
+Multilingual User Interface
+eScan Protection Center has a virus monitor that constantly keeps monitoring files accessed by the user. This helps in identifying if any file is infected and take the necessary action. The eScan Protection Center also has a one click access to the virus monitor and scanner. The powerful On Demand Scanner is equipped with cache technology.
+eScan’s spam control uses a combination of technologies like Non Intrusive Learning Patterns (NILP), eMail Header check, X-Spam Rules check, Sender Policy Framework (SPF) check, Spam URI Realtime Blacklist (SURBL) check and Realtime Blackhole List (RBL) check. Certain words or phrases can also be specified so that mails with such words in the subject, header or body will be identified and subsequently quarantined or deleted.
+eScan provides you with a highly advanced feature for blocking non-business and offensive content accessed by employees in an organization. These websites are blocked based on the words and phrases appearing in such websites. Algorithms are employed to avoid any false positives in this process. This same feature is used for advanced Parental Control for safeguarding kids from accessing websites containing adult content.
+The eScan Management Console (EMC) acts as a central dashboard from where the system administrators remotely install software, distribute updates, upgrades to all machines in your network and enforce Integrated Security Policies for the entire organization network.
+eScan’s powerful new feature, eScanRAD helps you to access the Management Console from a remote location and perform management tasks. It also helps in remote technical support for the software. Operations like installation, uninstallation and updating can be conveniently managed through this feature, irrespective where the administrator is located.
+Pop-up windows are quite annoying while browsing the Internet. Many sites have a number of windows opening as soon as you visit them, which disturbs your activities on the computer, strangles the bandwidth and on accidental click leads to website containing malicious content. eScan offers a complete solution to this problem by providing a complete Pop-up blocker option that blocks all pop-up windows from opening.
+eScan’s MicroWorld AntiVirus (MWAV) is a Powerful anti-virus utility. With some new intelligent features added, it's all set to give you the best ever performance. This module also has the power for detection and disinfection of registry entries of Viruses, Spywares, Adwares and other malice, so that the system performance and stability can be improved drastically.
+eScan Browser Cleanup feature provides an easy and automatic means to protect your privacy in such a way that you can erase details of sites and web pages you have accessed. It also provides features that allow you to remove tracks of your normal offline activity like opening closing files, delete operations, etc. Deleted files, Internet cache, history files, cookies, etc are removed permanently from your hard disks.
+Data theft and virus infections are on the rise through USB/Firewire based portable storage devices such as Flash drives, Pen drives, Portable Hard disks, etc. eScan’s new feature provides endpoint security to your organization by providing password protection.
+eScan’s in-built firewall monitors and logs both incoming and outgoing network activities in the system and protects it from all network based attacks. There are different set of rules such as Trojan Rule, Zone Rule, Expert Rule, Application Rule, Trusted MAC Address and Local IP List that can be used to either allow/block any incoming and outgoing traffic.
+eScan monitors the registry for any changes and warns the user on detecting any changes   in the registry. eScan also detects and warns about the applications that are suspicious in nature.
+Asset Management is done via the System Information tool. This tool helps the system administrators to know about the hardware and software deployed on the networks.
+Logs and reports are being created and displayed by all the modules for Protection, Scan and Update.
+Automatic Compressed Updates are being provided by eScan for both the software as well as the virus and spam definitions. The Virus signatures or spam definitions are being automatically updated hourly for instant protection from existing and emerging threats.
+eScan is available in multiple languages. You can choose the language while installing the software. The languages available are English, German, Finnish, French, Italian, Portuguese, Spanish, Polish, Chinese and Latin Spanish.
+eScan has many other features that offer optimal control over virus scanning and content security related activity. Some of them are: remote access file rights, where you can allow or bar specific files from being created or modified by remote users in your network automatic download of Anti-Virus updates and auto mailing of notifications to users.
+eScan Remote Support (ERS) works with the help of remote desktop connection which enables eScan Support technicians to access computers with problems from a remote location and troubleshoot them directly. This helps in providing secure, faster and better support worldwide and also increases efficiency.
+eScan Auto Back-up / Restore utility takes back-up of all the frequently used files (PE files) and stores it in an encrypted form. If an infection is found, eScan's Auto Back-up / Restore utility will restore back all the clean files in real-time without the need to format the system.
+Scans all mail passing through Lotus Domino for viruses.
+Scans for viruses documents in the users bases as set by Administraror.
+Cure, deletes or removes into quarantine infected and suspected mail messages and documents.
+Notifies users and administrators about infected and suspected objects.
+Saves results in the Log file.
+Optimized speed.
+Fast scan and browse speeds
+Less memory use than the average used by competing products
+PC Security with industry leading virus, spyware and firewall protection
+Blocks fraudulent Web sites and verifies trusted ones
+Conveniently and securely manages user names and passwords for you
+Phishing Protection guards online attempts to steal your personal information by blocking fraudlent websites and verifies trusted ones.
+Protects photos, music, and documents with automated backup
+Supports new backup destinations including Blu-ray Disc, HD-DVD, and iPod
+Automatically detects and backs up your critical files
+Includes 10 GB of secured online storage (with option to purchase additional storage)
+Lets you view your wireless network and each device connected to it
+Displays the security status of all the Norton products on your network
+Alerts you when you connect to an unsecured wireless network
+Browser Protection—Protects against Web-based drive-by downloads that use vulnerabilities in your browser to insert malware on your PC
+Automatically optimizes and maintains your PC for peak performance
+Automatically cleans up unnecessary Internet clutter and temporary files
+Helps optimize Windows performance by removing unneeded registry files
+Fast access to expert support through email, live chat, or phone
+Protection updates—Includes protection updates and new product features as available throughout the renewable service period
+Ongoing protection—Keeps your computer protected from the latest Internet risks by automatically renewing your subscription at the regular subscription price (plus applicable tax), so you don't have to do it.
+Optional antispam and parental controls—Enables you to download antispam and parental controls via the Norton Add-on Pack
+PC Tools AntiVirus detects and eradicates viruses and related malware threats that attempt to enter computer systems by means of file transfer through storage media, e-mail, the Internet and other network protocols. Protection is provided by means of on-demand system scanning or real-time (IntelliGuard) detection of threats.
+Smart Updates are released frequently, allowing you to protect your system against the latest virus and related malware threats, as well as improvements to PC Tools AntiVirus' functionality. By running Smart Update regularly, you can help keep your system free of new infections.
+Scan settings are easily configurable and apply both to the on-demand scans and IntelliGuard scans (detection in real-time through the IntelliGuard tool). These scan options allow you to customize a range of generic and global settings which affect the overall behavior of PC Tools AntiVirus.
+PC Tools AntiVirus allows you either to remove detected viruses and related malware from your system or to quarantine them into a contained area. The majority of infections that have been quarantined can be restored at a later time. You can customize PC Tools AntiVirus either to remove or to quarantine malware items fixed in a scan.
+All File Scans conducted by PC Tools AntiVirus can be logged, providing a record of when each scan was conducted; the infections that were identified; and when infections were disinfected, quarantined or removed.
+PC Tools AntiVirus' service-based architecture allows user accounts with limited permissions to scan all areas of the operating system to ensure thorough removal of viruses and other related malware threats.
+Automatically restricts access to websites that are designed to infect your PC with viruses, or trick you into giving away your personal or financial information to hackers
+Cloud-based Email Security prevents spam, phishing, and infected emails from reaching your Inbox.
+Secures your financial details while you are banking or shopping on the Internet. When launched, this antivirus feature begins a safe desktop session with the supported Internet browsers. Quick Heal Safe Banking prevents Internet threats such as phishing. It also blocks malicious programs such as keyloggers that record what you type on your keyboard
+Running your Internet browsers in Browser Sandbox gives you a secure, uninterrupted browsing experience. It acts like a protective screen between the PC's operating system and malicious threats, thereby reducing the risks of unexpected or hidden malware attacks.
+Quick Heal’s enhanced Parental Control lets parents configure the following settings:Internet Browsing Control, Application Control, PC Access Control .
+Firewall is an essential antivirus security feature that keeps your PC safe against external threats over the Internet. It also blocks threats that may arise within networks that are connected to your system. Besides allowing you to configure protection for incoming and outgoing Internet traffic, our enhanced Firewall lets you set a Firewall profile for network connections such as ‘Home’, ‘Work’, ‘Public’ or ‘Restricted’. It also includes the Stealth Mode feature which makes it difficult for hackers to trace your system.
+Gives multilayered virus protection with a combination of features such as AntiVirus, AntiSpyware, AntiMalware, Anti-Rootkit, Firewall and IDS/IPS. This ensures the best Internet security for your PC and data.
+Enhanced Malware Protection detects and blocks spyware, adware, keyloggers, riskware, and other malware.
+Keyloggers are data-stealing malicious programs that record what you type on your keyboard and share the information with hackers. Quick Heal’s Anti-Keylogger feature prevents such programs from stealing your valuable data.
+The revamped antivirus scan engine avoids rescanning files that have not been altered since the previous scan. This helps it scan files and folders in lesser time without slowing down your system.
+Quick Heal DNAScan technology combines behavioral and characteristic inspection and monitoring of unsafe programs. This protects your PC against unknown malware and other threats.
+Vulnerability Scan helps you detect known security vulnerabilities that can be misused by hackers to steal your data or infect your computer with viruses and malware. Scanning your system with this feature detects vulnerabilities that could be present in the Operating System (OS) settings and other applications in your system. It also helps you fix any vulnerabilities in the OS settings
+Virtual Keyboard is a defense mechanism to prevent your confidential information from getting tracked or recorded by malicious programs like spyware and keyloggers. As the name suggests, this feature lets you type without using a physical keyboard. Whatever information you type on the Virtual Keyboard is encrypted and reaches its destination securely, without being intercepted by hackers or malware.
+This antivirus feature automatically scans external storage devices. Protects USB drives against autorun infections.
+Stops unauthorized users from changing Quick Heal security settings when the system is running on Safe Mode.
+Protects Quick Heal's running processes and services.
+Suppresses all antivirus prompts and notifications for uninterrupted PC usage. Choosing this option does not affect the security of your PC.
+Helps you export your Quick Heal security settings from a single computer and import it to other computers. This is helpful when you uninstall and reinstall the software, and during multiple computer configurations.
+Fast virus detection and removal
+Real-time shield with several antivirus engines
+Secures Internet browsing sessions and protects the online privacy
+Protection of your computer from any type of viruses, trojans and worms including their encrypted and polymorphous variations.
+Real-time protection of your system, that guarantees the safety of your information during your work time.
+Extended support of compacted files that allows to find malwares in various types of archives.
+NANO AntiVirus provides high speed scan by using of advanced technology.
+Detection of new types of malware through system behavior analysis.
+Timely update of the virus database to protect your computer from new viruses and malware.
+High detection rates for viruses and spyware;
+Scanning Scheduler;
+Automatic downloads of regularly updated Virus Database.
+Standalone virus scanner and right-click menu integration to Microsoft Windows Explorer;
+Addin to Microsoft Outlook to remove virus-infected attachments automatically
+Together with Signature-based Detection, which identifies the ‘signatures’ of known malware, you gain a multi-layered defence system for your PC that’s virtually impenetrable.
+It keeps your children safe from cyber bullying and stops them being exposed to inappropriate content. It gives you peace of mind.
+You can choose what you want to back up and how often, or just set the feature to auto backup.
+Protect your computer from unwanted hackers and identity thieves with this first line of defense.
+BullGuard Spamfilter keeps out junk mail and email scams, like phishing attempts, virus spreading and foreign language spam.
+The BullGuard protection software checks the websites that come up in your searches and lets you know which ones are safe and cautions you about those that can’t be trusted.
+You’ll never have to wait again to get your computer up and running. BullGuard’s PC Tune Up removes unnecessary files to improve your computer’s performance and frees up memory so your computer runs faster.
+Checks your computer for out-dated software that hackers and viruses can exploit to gain access to your system, damage it or steal personal information.
+New and improved interface
+Clear protection status of your system
+Manage main features from one screen
+Protect your system - Virtualize it!
+Virtual Mode Always On or just in current session
+Ability to save files via File Manager
+Browse real and virtual disks and registry
+Trust programs from real-disk only
+Only allow trusted services to run
+Allow all programs to run
+Manage client's features
+Schedule AV/Windows Updates
+Restart client machines
+Create custom groups of clients
+McAfee Active Protection technology instantly analyzes and blocks new and emerging threats in milliseconds, so there’s virtually no gap in your protection. Unlike the competition, threats are analyzed and blocked in milliseconds, so you don’t have to wait for regular updates to arrive.
+Detects, blocks, and removes viruses, spyware, adware, even rootkits—insidious programs designed to tamper with your PC.
+Blocks outsiders from hacking into your PC.
+Helps you know about a website’s risks before you click to stop malware threats. Advanced phishing protection alerts you to websites that may try to steal your identity or gain access to your financial information. Provides site ratings in 22 popular search engines.
+Advanced spam identification capabilities prevent SPAM from clogging your inbox.
+Rely on real time scanning to automatically protect you against threats to your PC. Enjoy fast subsequent full system scan time which won't slow you down.
+Small memory footprint means less impact on your day-to-day PC activity.
+Easily check the status of your protection, monitor how many threats have been blocked, and manage your security—all from the McAfee home screen.
+Reserve security scans and updates for when you are not using your PC, for less disruptions.
+Internet filtering controls allow you to effectively manage your children’s online activity.
+Alerts are unintrusive and easy to understand.
+Take the hassle out of manually backing up your most valuable digital files. Once installed, the backup process is fully automated. Your files are encrypted and stored on a secure, remote online server. Comes with 1GB of online backup with the option to upgrade to unlimited.
+Safely removes junk files that slow down your PC.
+Digitally destroys no-longer-needed sensitive files to prevent anyone from accessing them.
+Get quick access to consolidate fragmented files and folders.
+Protects the system from malware infection by monitoring a file’s execution, replication, relocation, and other actions.
+Automatically blocks ActiveX Controls being installed without the user’s consent.
+Completely removes hidden threats by scanning and removing malware that use Rootkit.
+Constantly monitors malware execution by periodic memory scans.
+Assures a stable system administration and minimum CPU and memory usage through a Multi-Threading technique.
+The Tachyon Engine, developed wholly from INCA Internet, provides an efficient malware response through scanning and treatment.
+Incorporates a second globally recognized engine (ICSA Labs, CheckMark, VB Certified) that scans 100% of the latest wild-list viruses.
+Proactive Detection protects the system by scanning for new unknown malware.
+Protects itself from malware infections and intentional modifications / damage.
+When self-infected, it scans itself and repairs itself.
+When major files of the program, such as the anti-virus engine or pattern, are damaged, the program recovers itself from the damage and keeps the system safe.
+70 thousand monthly pattern-updates and holds the largest Korean malware database.
+Supports daily updates and emergency updates for an efficient malware threat correspondence.
+Prepares for emergency situations from new viruses and code zeroes through 24-hour global monitoring.
+Protects the product from unwanted option changes or deletions through an administrator password feature.
+Encrypt or permanently delete files with sensitive information to prevent information leakage.
+Automatically collects and sends malware suspicious files in the user’s system.
+Easily report “Treatment Failed” files after a treatment.
+Provides a preview of the report to the user.
+Antivirus for Windows - Protect your PC against any kind of threat.
+Wi-Fi Protection - Protect your Wi-Fi network and block intruders.
+Parental Control - Keep your children away from inappropriate content.
+Data Shield - Protect your money and most important data from cyber-criminals.
+Backup - Back up your files and recover them quickly and simply.
+Password Manager - Manage all of your passwords with a single click.
+File Encryptor - Encrypt your confidential data.
+File Shredder - Delete files permanently.
+Tuneup - Optimize your computer for peak performance.
+Automatic installations and updates
+Automatic virus definition updates
+Terminal server support
+Automatic reports
+Professional security package for small networks and ideal supplement for businesses that use the Microsoft SmallBusiness Server, for example
+Leading detection and elimination of viruses, worms, Trojans, adware, spyware and other malware
+Innovative AHeAD (Advanced Heuristic Analysis and Detection) technology for the detection of unknown or rapidly changing attackers for proactive security
+Avira Rootkit Detection (protection against processes that manipulate systems) including repair function.
+Real-time monitoring of the Internet data traffic (incoming, outgoing), monitoring of HTTP and FTP connections
+Simple installation and configuration of the security environment to be protected via the Avira SmallBusiness Suite Configuration Assistant
+Central control of searches and updates as well as network-wide administration by the Avira Security Management Center (SMC)
+Intrusion detection system in real time
+Sort startup programs by date
+Scan and Clean ADS stream
+Fix Internet Explorer
+Process Manager
+Automatic Update via internet
+VirIT eXplorer Lite will incorporate heuristic virus scanning engine of virus detection and can detect a large percentage of new and unknown viruses that have not yet been analyzed by antivirus researchers of C.R.A.V.
+Clean the rootkit of Gromozon - LinkOptimizer
+High-speed file scan engine capable of detecting modified trojans
+Memory scanning for detecting any modified variant of a particular build of a trojan
+Registry scanning for detecting traces of trojans in the registry
+Inifile scanning for detecting traces of trojans in configuration files
+Port scanning for detecting open trojan ports
+The Advanced Trojan Analyzer, an exclusive feature of TrojanHunter, is able to find whole classes of trojans using advanced scanning techniques
+TrojanHunter Guard for resident memory scanning - detect any trojans if they manage to start up
+LiveUpdate utility for effortless ruleset updating via the Internet
+Process list giving details about every running process on the system, including the path to the actual executable file
+Accurate removal of all detected trojans - even if they are running or if the trojan has injected itself into another process
+Built-in netstat viewer
+Extensive help files
+Blocks viruses, spyware, worms and Trojans, preventing infection of your computer.
+Protects against spyware by identifying dangerous links in websites, social networks, emails and instant messaging.
+Detects spam emails containing phishing scams that can trick you into revealing private personal information.
+Identifies safe and dangerous links in search engines so you can browse without having to worry about online threats.
+Scanning of installed programs for "Potentially Unwanted Programs" (PUPs)
+Checking for junk files, created by PUPs, adware, and spyware
+Scanning of Windows startup programs, services, and drivers
+Testing Windows shortcuts
+Scanning for rootkits
+Examining the browsers' search settings
+Scanning the browsers add-ons
+Testing the hosts file and DNS settings
+Testing startup files using several antivirus programs on the Virustotal.com
+Detect viruses, malware and more, even on your home network.
+Real-time analysis of unknown files, so viruses can’t take you by surprise.
+Play with maximum power and no interruptions.
+Forget your passwords
+Except one. Log in anywhere with your master password; we’ll remember the rest.
+Make sure the banking site you’re visiting is the one you think it is.
+Not till someone steals your details.
+Stop unwanted visitors from invading your privacy.
+Keep your inbox clean, lean and organized.
+Update your software without thinking about it.
+Or lend, or repair. Ensure no one recovers the files you thought were gone.
+New feature designed to ensure the safety of your data by blocking ransomware and other dangerous apps
+Get award-winning, multi-layered security for desktops and laptops
+Stay safe against zero-day vulnerabilities with DeepGuard, our proactive on-host protection engine
+Get centrally managed, automatic patches to your software to protect it against known vulnerabilities
+Enjoy complete protection with minimal impact on system performance
+Enjoy automatically augmented security for online banking and other business-critical transactions
+Benefit from protection technologies powered by next-generation threat intelligence, advanced machine learning techniques, and highly skilled cyber security experts
+Fast, Real-time Online Protection with the Immunet Cloud
+Community-level Protection
+Basic Detection and Removal of bots, viruses, worms, trojans, keyloggers, and spyware.
+Basic Network Scanning including Quick Scan, On-Demand Scan, and On-Access Scan
+File Management & Protection: Scan Individual Files, Exclude Files, Scan Compressed Files, Quarantine Infected Files
+Clear documentation with History & Report Logging
+Community Forums
+Compatible with existing antivirus software for an extra layer of protection.
+Zero Hour Anti Virus technology
+Recurrent Pattern Detection (RPD)
+Internet Watch Foundation (IWF)
+Scored Restricted Words
+Restricted Word lists
+Sender Policy Framework (SPF)
+DNSBL
+Protects any type of internal mail server including
+Exchange and Notes.
+Dual anti virus scanning engines - high level of protection
+Zero hour Anti SpamAnti Virus technology -
+constantly monitoring internet for new threats
+Virtually no false positivefalse negative Anti Spam matches
+Stops image only spam
+Automatic user authentication against internal mail server
+Minimal configuration required - works out of the box
+Automatic message routing to internal server
+Automatic ASAV signature updates
+Language independent
+Outbound scanning for further protection
+User, System and Domain level Quarantine
+Automatic Quarantine reminder emails
+Comprehensive User, System and Domain level whitelisting
+Flexible and comprehensive Anti Spam features
+Flexible Anti Virus configuration
+Includes Bayesian filters and phrase based checks
+No limitations on amount of messages or bandwidth
+No specialised hardware needed
+No specialist administrator needed
+Protection for over 100,000 known viruses
+Stops acceptance of messages onto mail servers
+No limit on number of domains
+Protects multiple internal mail servers
+Individual and group user profiles
+Web enabled admin interface
+Multi platform - Windows, Linux, AIX and Solaris
+SELinux Support
+Proxy server support and virus scanning of web pages
+SSL enable
+Remote monitoring available
+Protection for email. The Shield Deluxe scans email traffic for viruses according to the protocol via which it is sent (POP3, IMAP and NNTP for incoming mail and SMTP for outgoing mail) on any mail program, while plug-ins and treatment for viruses in Microsoft Outlook and Microsoft Outlook Express mail databases are offered.
+All HTTP Internet traffic is scanned for viruses in real-time, ensuring that infected objects are not saved to the computer’s hard disk.
+Individual files, catalogues and disks can be designated for antivirus scanning. Users can limit antivirus scanning to critical areas of the operating system and startup objects to ensure that attention is focused on the most vulnerable areas of the system.
+Control over changes in the file system. With The Shield Deluxe it is possible to compile lists of applications, the component structure of which will be controlled, thus helping to prevent malicious programs from undermining the integrity of the application.
+The Shield Deluxe monitors the activity of programs and processes that have been launched in the computer’s memory and, at the same time, warns users of any dangerous, suspicious or hidden processes (that is, rootkits), and of unauthorized changes in routine processes.
+The Shield Deluxe controls the status of the system registry and notifies users of any suspicious objects or attempts to create hidden keys in the registry.
+Proactive protection affords control over the operation of macros based on Visual Basic for Applications in Microsoft Office documents and blocks dangerous macro-commands from being executed.
+The system can be restored after malicious activity. The Shield Deluxe can roll back any changes made to the system by malicious programs. Fast operating speeds
+Technology for accelerated antivirus scanning. iSwift and iChecker technology make it possible to limit scanning to new and modified files, or to limit scanning to potentially dangerous objects only. Antivirus scanning can be suspended during times of increased user activity to ensure that your computer’s resources are free for your use.
+The size of updates downloaded to users’ PC has been reduced almost 10 times (now amounting to several tens of kilobytes) in The Shield Deluxe, making our updates virtually instant.
+Relentless security software scans and blocks dangerous emails, risky web content, and online threats like viruses, Trojans, spyware, and rootkits.
+Cyber-criminals are masters of disguise. McAfee Active Protection immediately looks at suspicious material and determines its risk to help keep your computer secure.
+Extra layers of Internet security software block bad guys breaking in or sneaking out with your personal information. This traffic cop patrols nonstop to prevent malicious software from gaining access to your PC.
+Color-coded icons next to your search results let you know before you click which sites are safe and which may install malicious code, phish for your identity, or send you spam.
+Helps you enjoy your digital life to the limit—surfing, shopping, and socializing with minimal interruptions.
+Permanently destroy sensitive files to be sure they cannot be retrieved by other users when you donate, recycle, lend or upgrade your PC.
+Unused applications, cached browser files, and other junk slow down your PC. McAfee QuickClean™ software removes the clutter so your computer can keep up with your digital life.
+McAfee now blocks stealthy botnet software by denying its attempts to connect your PC to web addresses that belong to crooks. This extra defense helps prevent your computer from sending out your personal information to Internet crime networks.
+Portable storage devices can be infected in their travels, spreading malicious code from system to system. McAfee scans and blocks this portable payload of viruses, Trojans, and worms before it can wriggle into your PC and your network.
+Many people get McAfee protection because they are already infected. To help you salvage your system, McAfee works to remove infections as our software installs.
+DoubleScan: best, award-winning virus detection
+OutbreakShield: Immediate protection against new viruses
+New Heuristics detects even more unknown viruses
+Improved protection vfrom viruses, worms, rootkits, spyware, dialers, Trojans, backdoors, and more.
+Virus blockers for e-mails and instant messaging
+Award-winning protection against attacks
+New optimization for games: Switches automatically to Autopilot for transparent firewall protection
+Easier to use, thanks to new rules
+Four levels of security, or expert mode
+Expanded by language blocker: detects and blocks ten different e-mail languages as desired
+Individual user profiles, blocks offensive contents and more
+Keywort-Filter for full text search (extensible)
+Trace eraser and data shredder
+Blocks banners, pop-ups, Flash, Java / VB script, etc.
+Virus Defintions Updated (Manual) Daily
+Real time scanning
+Full Scanning
+On-access Scanning
+On-demand Scanning
+Smart Scanning
+Scheduled Scanning
+Heuristic Scanning
+Manual Scanning
+Memory Scanning
+Rootkit Scanning
+Adware/Spyware Scanning
+Trojan Smart Blocking
+Anti Keylogger
+Auto-Clean Infected Files
+Auto-Clean Driver Files
+Auto-Clean Startup Files
+Detailed Virus Information
+Manual Definition Updates
+Manual Program Updates
+Auto Defense
+History/Report
+Phone Support
+Email Support
+Protector Plus has been designed with all new interface for easier use. All critical components of an anti-virus software are available at the click of a button. The interface is intuitive, even first time users find it easy to configure Protector Plus for their needs.
+The scan engine is fine tuned for a better scanning performance. To detect the latest viruses a new heuristics scan technology is implemented to provide maximum security.
+The Real-time scanner of Protector Plus is designed to monitor the system all the time. It prevents any virus from entering the system during the activities like browsing the internet, accessing the network or while using removable media like cd-rom, usb drives, etc. The Real-time scanner will ensure that the system is free of any security threats.
+Improved email scan with the latest technology of stopping infected emails at the incoming port before they reach your Inbox. Email scan configurations are automated to make it easier even for first time users.
+InstaUpdate feature of Protector Plus will automatically download the virus signature updates in the background without disturbing the user. It can download hourly updates to provide protection against the latest threats that spread rapidly.
+A powerful feature, which assists the support executives at Proland Software to provide product support and to investigate the users' system. Through the user friendly interface files can be easily submitted to the virus analysis lab. Users can submit the suspicious files like those loaded at the system startup, the files that are heuristically detected as suspicious or the files moved to the Quarantine folder. Every submission is analyzed and a report is sent to the user.
+Virus database updates which are compact in size are released everyday. Added to this, emergency updates are released whenever there is an outbreak of a virus in the wild.
+100% protection against any threats via USB drive
+The best solution to protect offline computer
+The world's fastest and smallest antivirus software
+Require no signature updates
+Best at curing active infections
+Installs in an infected system without its preliminary curing
+Fast multi-thread scanning
+Unique technologies blocking even unknown threats
+Full scan of archives at all nesting levels
+Best detection and neutralization of complex viruses
+Full scan of archives at all nesting levels
+Protects against unauthorized access by a network; prevents data leaks; blocks suspicious connections on package and application layers
+Advanced Spyware Scanner which can effectively detect hidden user-land Rootkit processes as well as suspicious/injected Dlls within all running processes in the system.
+Detection and removal of hidden user-land Rootkit processes using sophisticated techniques
+State of art technique for completely removing the injected DLL from remote process across session boundaries using 'Advanced DLL Ejection' method. This is one of those unique features found only in SpyDllRemover.
+Sophisticated Auto Analysis based on Dll & Process Heuristics to help in identification of known as well as unknown threats.
+Color based threat representation technique for clear and easier analysis of various type of threats.
+Advanced 'Online Threat Verification' of suspicious elements using VirusTotal, ThreatExpert, ProcessLibrary & Google-Search to help in easier threat analysis.
+Direct interface with Process & File specific operations to defeat smart tricks by user-land Rootkits.
+Integration of third party applications for extended analysis of suspicious Process or Dll.
+Inteli-Refresh of active Processes shown in 'Process Viewer' provides flicker free & smoother user experience.
+'DLL Tracer' feature to search for suspicious DLL within all running processes using partial or full name.
+'Scan Settings' and 'General Options' dialog to customize the entire operation based on one's needs.
+'Right Click Menu' integration for quick actions.
+Advanced report generation for offline as well as remote investigation by third party.
+Displays detailed information about all running processes and loaded Dlls for detailed analysis.
+Every program started and every file opened undergoes an antivirus check. The resident protection reliably blocks attempts to run malware. Depending on the repair settings the defective file is renamed, moved to quarantine or permanently deleted.
+It is possible to carry out regular or one-off checks of the entire disk, selected contents or files.
+Scanning can be planned on regular weekly, daily or hourly cycles but of course it can also be carried out manually according to current needs.
+Thanks to the use of two top of the range scanner motors the antivirus is able to achieve one of the highest detection rates in the world. It is able to detect and stop practically all existing viruses, worms and trojans.
+In addition to traditional scanning methods based on the comparison of the data being checked with a database containing examples of viruses, the antivirus is also able to identify as yet undefined harmful code. Analysis of the structure and behaviour of the start code can with a high degree of probably ascertain if the code contains a virus or spyware.
+The antivirus is regularly automatically updated. Depending on the settings example viruses are downloaded at regular intervals, also new versions of the software are offered for downloading and installation. In this way the computer is always totally protected.
+The antivirus files of the system are themselves protected against any attempts to change them by unauthorized applications. In this way malware has no chance of putting the antivirus out of action and evading detection.
+Optimized scanning engine
+Improved detection of suspicious files and threats
+Introducing 6 new languages
+Signatures are updated up to several times per day to keep you fully protected from the latest threats
+Malware protection
+Secure Online Banking
+Safe surfing
+Safe shopping
+Safe emailing and chatting
+Protection against spyware
+Mobile phone protection
+Blocks annoying spam
+Real-time protection neutralizes attacks as they happen
+Behavior blocker monitors application behavior and also eliminates not yet classified threats such as zero-day exploits
+On-access guard effectively neutralizes infection attempts during file operations
+Multi-engine scanner with two scan engines for maximum accuracy
+Integrated self-protection to prevent program manipulation through malware
+Daily updates keep protection always up to date
+Manage all types of Autoruns on your system
+Control all Explorer and Browser plugins (BHOs, Toolbars, etc.)
+Manage all running Processes and their associated modules
+Control all Services, even those Windows doesn't display
+View open ports and the associated listening processes
+View all DNS entries in the hosts file
+Manage installed Layered Service Providers (LSPs)
+Analyze the system configuration with using our live online analysis
+Malware protection
+E-mail scanner
+Data sent by communicators, bluetooth and WiFi protection
+Proactive protection (heuristic)
+Advaced virus database thanks to Molecule technology
+Firewall
+HTTP scanner
+E-banking protection
+Antiphishing
+Parental control
+Web Content Control
+Antispam
+Check of the archives created by the most used archivers: RAR, ZIP, ARJ, TAR, GZIP, BZIP2, MS CAB
+Processing (including neutralization) of messages in Microsoft Outlook Express 4 and 5, Microsoft Outlook, The Bat! mail bases
+Automatic updating of anti-virus bases and executable modules of the program
+Automatic updating up to new versions without the necessity of reinstallation of the package
+Use of the technology "Deltapatching" for repeated reduction in volume of the information, downloaded from the Internet at updating

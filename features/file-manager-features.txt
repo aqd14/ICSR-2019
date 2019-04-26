@@ -1,0 +1,1819 @@
+Along with data protection we are constantly working on MacDrive to bring you the fastest transfer speeds possible. Film makers, recording artists, IT professionals and thousands of other Windows users rely on MacDrives speed as well as its data protection.
+Access almost any type of Mac-formatted disk including hard drives, DVDs, CDs and more. You can even mount a Mac in Target Disk mode!
+MacDrives Disk Manager makes it easy to create, partition and delete your Mac disks on your PC.
+MacDrives Disk Repair can automatically find and safely fix most errors on Mac disks.
+MacDrive allows you to browse through Time Machine backups as well as copy those files and folders to your PC.
+You can use MacDrive on a Mac with Apples Boot Camp utility and access drives with VMware Fusion or Parallels.
+Favorites: Quick access to most often used folders.
+Drag&Drop: Move files by dragging in Q-views, and other programs such as MS Explorer.
+Clipboard: Copy/ Paste between the Q-Dir directory views, and other programs such as MS Explorer.
+Folder-Type: ZIP-, FTP-,cabinet-,network-, system - folders, shortcuts ...
+Views: Large icons, tiles, list, detail, thumbnail (Vista: extra large symbols) .
+Export: to XLS, CSV, TXT, HTML.
+Popup Menus: Desktop, My Computer.
+Screen magnifier: anything on the screen can be enlarged.
+Color Filter: Different colors for different item types (e.g. *.log;*.txt).
+Highlight-Filter: Effective way for fast items highlighting.
+File-Filter: Allows for quick and easy filtering of the items.
+Columns: All columns support, and save function .
+Quick-Link's: For fast folder access.
+Folder-Select: Fast & flexible folder selection address-bar/ desktop menu/ my-computer menu/...
+Multi-INI: Several INI files for Q-Dir.
+Tree-View: Simple and quadruple.
+Preview: Allows a quick preview
+own installer with choose type of installation and elements to install (language, plugins, icons, shortcuts, default skin) and installation type (for all users and personal)
+a lot of automatically configured plugins
+expanded main menu: tabs (tab management), system (quick launch system windows: desktop, my computer, fonts, network, printers, trash), extended configuration menu (direct access to configuration options)
+expanded toolbar: comments, quickview, search, CD tree, synchronize dirs, multirename tool)
+preconfiguration for advanced users
+predefined search patterns and custom fields (WDX)
+color file names depend on type
+skins changes icons, colors and fonts
+new color and layout
+Drag and drop facility for copy and move operations;
+Easy configurable options: internal/external  file  viewer and text editor, file operation associations for certain File types, panel view and file sorting modes;
+Long file name support;
+NTFS "compressed" and "encrypted"  (Win2K)  attribute  and Hard/symbolic links support;
+Plugin modules and commands: default plugins set  includes Archive management plugin, FTP  client,  network  browser, print manager and temporary panel, but you may write  your own plugins;
+Tunable configuration, color scheme customization;
+Clipboard functions;
+Define just the views you need in each pane for your folders and files.
+The EF Commander have a full featured hi quality audio player with playlist and ID3 Tag support. Plays in background with less resources usage MP3, Ogg/Vorbis, FLAC, WMA and WAV. More formats can be play over Winamp Plugins.
+A versatile function for comfortable renaming of numerous files in a processing step. Use a flexible concept for the clear definition of renaming rules, include rules for MP3 files and EXIF informations.
+Quickly and easily get an overview your photos or other image collections.
+All long operations are run with multi-tasking. You can run any number of different operations at the same time, or several instances of the same operation -- for example, you can have several "copy" commands going simultaneously.
+EF Commander was the first file manager worldwide with this feature. Handle your data in the same way as on your desktop or laptop computer.
+Nero Burning ROM (www.nero.com) is required.
+Use EF Commander to pack files or whole folders in any of the common archive formats. No external programs are required.
+Supported formats: 7-Zip, ACE, ARC, ARJ, BZIP2, CAB, CPIO, GZIP, IMG, ISO (ISO9660), LHA, RAR, RPM, SFX, SQX, TAR, TBZ, TGZ, ZIP, Zip64, ZOO
+View picture files and movies, and play MP3, Ogg/Vorbis, FLAC, WMA and WAV audio files, without having to use any other software.
+Enlarge the number of available formats to 400 or more. EF Commander runs quietly in the background, but remains fully available to you. Files can also be managed in the internal viewer, in the quick view mode, or as thumbnails.
+The built-in FTP client features resume download and FxP (server to server transfers), FTPS secure (SSL/TLS) connection.
+EF Commander has full text and hex editors for files that are limited only by your system resources.
+Split large files into smaller parts, and recombine the parts.
+Check the integrity of your data. EF Commandersupports the SFV, MD5, SHA1, SHA256 and SHA512 formats.
+Synchronize your notebook or your LAN with your work station.
+Allows file list in CAB.
+Allows to unpack some files from CAB to any directory.
+Allows to make new CAB.
+Dual-panel technology
+Optional tree view for each panel
+Built in file viewer to view files in hex, binary, text or image format
+File viewer inside archives too
+Built in archive handling: ZIP (read, write), CAB (read, write), RAR (read)
+Nested archive handling
+Easy access to system folders, control panel, desktop and start menu
+Copy, move, delete, rename files and folders
+Wipe files
+Create and verify MD5 checksums
+File splitting
+File properties and context menu
+Calculation of folder size
+Folder comparison / synchronization
+Modification of file date and attributes
+Folder / program favorites
+File searching (inside archive too)
+File filters for display
+DOS command line
+Multiple language support
+Multithreading operation to provide extremely fast search results.
+Faster duplicate file searching than any other program of its kind.
+Fast Search mode allows extremely fast byte comparisons on large files.
+Search across multiple directories and drives.
+Search for all file type or narrow your search to specific file types only!
+Also can locate and delete empty files.
+Double click a file in the tree list to display a detailed information dialog.
+Ability to delete selected original files.
+Two independent panels with directory listings
+Open plugin architecture
+Directory listings always up to date
+Hotkeys for all functions
+Internal support for ZIP, RAR, ARJ, CAB, ACE, and TAR/GZIP archives
+Support for creating self-extracting archives
+The ability to view content of files (text, html, over 40 picture formats, mp3, etc.)
+Command line for executing arbitrary commands through the system shell
+Support for long filenames, file type associations, and compression on NTFS volumes
+Internal viewer for up to 2 GB files with text and hex modes
+Easy handling even with files over 4 GB
+Changing case of filenames
+Very fast file and directory search
+User menu for all selected files and directories
+Online HTML help
+Fully configurable user interface
+All windows are reconfigurable with multiple docking options as well as the ability to float or be hidden
+ToolWindows have Toolbars that maybe hidden or docked in any location.
+User definable shortcut keys
+User definable visual themes
+Fully configurable layouts
+Classic Treeview/Listview layout
+Dual Listview layout
+New ListMode layout
+Any combination of the above can also be designed
+Ultra fast display rendering and folder enumeration
+Fully integrated Tabbing feature
+Tabbing is context sensitive to which listview is currently active
+"New Tab" initial location user definable
+The Tabs are drag drop aware. You can drop files on the tab to place them in the folder.
+"BreadCrumb" bar allow fast access to parent folders in the current path hierarchy
+Dropdown menus allow direct access to other folders in the folder hierarchy or to the property sheet for the folder
+Supports Total Commander Lister Plug-ins
+An UltraExplorer exclusive. The components used the for file listings, unlike other Explorer replacements, are faster then Explorer itself. This means it is practical to have multiple lists of files visible at one time. This will quickly become a favorite view for many applications.
+Tabbed interface
+Flexible layouts
+Customizable HTML appearance
+Customizable association, menus, keys, mouse gestures, alias
+Customizable scripts work
+Multiple language and Unicode support
+Burn CDs and DVDs directly from Total Commander's directory structure, by displaying commands and burning projects as pseudo-directories and pseudo-files.
+Data CDs/DVDs
+Video DVDs
+Audio CDs
+ISO/CUE image files
+Planned types: VideoCD, Super Video CD, UDF Data CD
+CD-R/RW
+DVD+R/RW
+DVD-R/RW
+DVD-RAM
+Verify Data and VideoDVD projects after burning
+Erase rewritable media, modes Fast and Complete
+Display information about available burning devices (brand, vendor, product ID) and inserted media (type, mode, number of sessions, used and free space).
+Explore, visualize, and comprehend drive space usage
+Find the disk space hogs with just a few clicks
+Visualize the distribution of files by file type, age, and size
+Schedule automatic scans and generate reports
+Reclaim gigabytes of drive space in minutes!
+Customize program layout for your individual needs
+Multi-threaded scanning algorithm for better performance and responsiveness
+Interactive, dynamic, full-color, customizable bar and pie charts
+Scan filtering using powerful regular expressions
+HTML, XML, CSV and plain text report generation
+Command-line operation
+Files types and extensions reports
+Top 100 files by size, age, or owner
+Largest files report and drive space monitor.
+Convenient drive space monitor
+Chart export to clipboard and image files
+Searches in Tabs: You often search your system for files added in the last 24 hours? You quickly need a list of all text files containing your name? Let a "finding tab" do this or any other search job at a single click!
+The Address Bar accepts not just folders, but also files, URLs, and search terms. Yes, you can enter search patterns directly into the Address Bar. Simply put "?" between location and search pattern (Boolean operators and Regular Expressions allowed).
+The Tree and List offer a suite of unique highlighting options to increase visual grip. Highlight Folder, Boxed Branch, Favorite Folder Bold, Highlight Focused Row, Highlight Sorted Column, Colored Grid, ... all colors are fully customizable.
+Find Files: XYplorer features a high-end search engine with tremendous power and amazing speed. It fully supports Boolean Logic, advanced pattern matching, Regular Expressions, Boolean RegExp (the Boolean combination of any number of Regular Expressions), whole word and fuzzy matching, content search (look for text strings inside files, wildcards supported), multiple location search, a Duplicate File Finder, and much more
+Configurable Toolbar: A configurable toolbar where most buttons have a specific right-click menu. Additionally many buttons feature a dropdown menu
+Floating Preview: The Floating Preview, quickly toggled by F11, shows the current file in a non-modal preview window whose size and absolute screen position is stored between sessions. It supports all types of images, and snapshot previews for HTML, PDF, MPEG, DWG, etc., everything your system can generate thumbnails for. Resizing the window resizes the preview in real time
+Two-panel interface
+Extended search of files
+Multi-rename tool
+Dirs synchronization
+Support of archives ZIP, RAR, ACE, CAB, JAR, TAR, LHA
+Built-in FTP client
+Directory tabs
+Support of LS-plug-ins and WCX-plug-ins
+Build-in viewer and quick view function
+Work with a network environment
+Support Drag and Drop at work with other applications
+History and Hotlist buttons
+Background file copying/moving/deleting
+Deleting files with WIPE
+Background pictures support
+Visual styles: color categories of files, fonts for all interface elements
+Full Drag and Drop capability
+Built-in file viewer for text, RTF and binary files
+System Tree View for both panels - able to mimic Windows Explorer.
+Advanced change attributes capability (recurse subdirectories, ability to change System attribute, ability to change Created/Modified/Accessed file time/date stamp)
+Copy speed display
+Advanced filtering capability (in file panels and in basic operations like copy, move and delete)
+Built-in favourites for quick directory change
+Ability to wipe the files from the disk so they can not be undeleted
+Fully customisable colours in the file panels
+Built-in Media Player for quick preview of WAV, MID, MP3, AVI, MPG and other supported file formats without any need for opening separate applications
+Very detailed, yet very simple user interface
+Full Clipboard support including file name and file path copy
+Built-in strong encryption capability for quick fil encryption
+Very advanced selection mechanism
+Detailed directory info display with graph
+Customizable colors
+Commandline field for quick commands
+Windows Explorer styled keyboard/mouse setup
+Dual panel
+Fast Selection/Deselection of multiple files using filters
+Load/Save current selection to memory or file
+History button to show the latest location you been at for fast access
+Disconnect usb/remote device from inside Multi Commander
+Show files and folder in detailed or list or thumbnail list mode
+Browse local hard drives
+Browse the Registry as a filesystem
+Browse archives (Zip, 7-Zip, Rar, Tar, gz, bz2 )
+All file operations are run in background. Do not hang/block the main window
+Delete files inside archives (eg Zip)
+Copy, move, rename, multi-rename
+Copy / move file operations
+Filters to include or exclude files and folders
+Keep broken/unfinished files
+Copy/Move Plugins like Auto Sort, Auto Unpack, Content copy
+Unpack archives into individual folders
+Pack (Zip, 7Zip, tar,gz,bz2, tar.gz, tar.bz2 )
+Line numbers
+Customize colors and background
+Copy selection to clipboard or save to file
+Find substring in text
+Find opened/locked files. Find what process has a specific file open
+Change file attribute , date and time
+Run Multi Commander from Portable/USB device
+Mulit Update automatically updates Mulit Commander to latest version
+Send filename with or without fullpath to clipboard
+Send comma separated list of all selected files to the clipboard
+Image information in clipboard (screen capture) can be save as JPG/PNG/BMP with ctrl+v (paste)
+Text information in clipboard can be save to text file with ctrl+v (paste)
+Reformat or compact xml files
+Base64 encode/decode files
+Wizard that helps you create JunctionsSymlinksHardlinks
+File system browser will flow links
+Shows Link target in file system browser
+Remove file permission for all users on files/folders
+Add permission to user/group for files/folders
+Remove ID3 meta data from mp3
+Export ID3 data to text file
+Show MP3 ID3 Information
+Show ID3 data as columns in the file system browser
+Convert pictures to JPEG/PNG/BMP
+Rotate or flip pictures
+Strip EXIF Information from pictures
+Adjust EXIF Date information in pictures by changing the time -/+ X minutes
+Adjust Pictures file date to the date of the EXIF date information
+Show EXIF data column in the file system browser
+Show Movie Information like rating, genre (and more) as columns on movie files
+Get Movie Information from IMDB and RottenTomato
+Exclude folders from search
+Search by looking for file content, file attributes, file size, file time
+Remove items or group of items from search result with context menu
+Save/load search criteria
+Save/load search result
+Verify .SFV (crc32), MD5 files
+Create SFV / MD5
+Verify CRC/MD5/SHA1 code against a file.
+Option to rename all bad files to *.bad
+Option to delete all bad files
+Auto start verify if double click on .sfv file in the file system browser
+File System plugin ( eg, Registry , FTP, Zip, Rar )
+Copy/Move File Operations Plugins ( Eg. Auto Unpack, Auto sorting files )
+File Properties plugin (for showing file properties in columns ), (Eg Showing EXIF or ID3 meta information)
+Create zip and iso files
+Upload files to the Internet using FTP
+Fast file management using the keyboard
+Built-in viewers for many file formats
+Built-in text editor
+No installation required (self-extracting zip provided for convenience)
+No uninstallation required (just delete the folder)
+Free for non-professional home use
+You will be able to manage and view disk space consumption with the help of disk space usage reports grouped by file types, file size, attributes, file date and file ownership. You can drill-down and see exactly how files are consuming disk space on your computer.
+DiskAnalyzer Pro allows you to specify your own search terms while looking for unwanted files and folders consuming your disk space.
+Over a period of time, hard disk space becomes cluttered with useless files (junk, temporary, internet files, zero size files etc.). DiskAnalyzer Pro can find and delete such files and regain gigabytes of hard disk space.
+Locate biggest and oldest files
+You will be able to see a list of biggest space hogging files as well as old unused files from your hard disk drives. You can delete these files and regain big chunk of disk space.
+Network computers are generally filled up with files such as videos, images, audio files, compressed files duplicated all over hard disk. DiskAnalyzer pro can locate these files and help you to remove not required files.
+The new command-line scanner can be used to perform a disk search from the command-prompt and create a saved disk report archive. This can be later opened with DiskAnalyzer Pro for detailed disk space analysis. You can use any scheduling program to schedule the disk search using command-line scanner.
+This is one of the essential reports in disk space management. This report consists of a single list of all folders and respective subfolders sorted by file size. So now you can quickly find out how many folders consume most of the disk space.
+Whenever you need to drill-down to file level from any disk space report, you can use File Explorer (Viewer). This tool lists all the files for a particular disk space report and allows you to further filter the list using multiple criterias such as file name (with wild cards), file size, date, file type, file path etc.
+You might need to export any or all of the disk space reports to external file and you can do it here. You can save reports as HTML, CSV and XML files. This is useful for comparison of disk space reports over a period of time or to maintain disk space usage history.
+clean minimalistic, customizable interface
+seamless handling of virtual folders (FTP/webfolders/zipfolders etc)
+extended file/folder details (MP3 tags, checksum etc)
+instant preview of text, graphics and audio/video content
+find files using hyperfilters (e.g. locate files searching their comments for keywords)
+detect and cleanup duplicate files
+manage many folders in dual pane or using tabs
+easy folder comparison & synchronization
+powerful visual filtering and selection engine
+touch dates, split/merge and shred files
+mass renaming
+execute text commands (or DOS scripts) on files
+advanced NTFS support: hard links, file comments etc
+robust filesystem file/folder transfers
+unicode and text encoding aware
+export file information as text for printing etc
+focus on usability with keyboard shortcuts, histories, autocompletion etc
+Integrated file search to quickly locate and jump to those lost files.
+Integrated quick launch area for fast access to the programs you use the most.
+Favorite buttons to quickly open those often used folders.
+Dual-pane view for those that demand speed in file management.
+Requires no installation, no data is written to the system registry. A43's configuration information is saved in a local .ini file.
+Keep it on your pen/jump drive and take it where ever you go.
+Completely erase a whole hard drive.
+The 'Delete Permanently' option is integrated in the Windows Shell.
+Permanently delete multiple files and folders at once.
+Ultra flexibility to choose what to delete and how to delete.
+Permanently delete files from computers, hard drives, removable disks, USB drives, memory sticks, network drives, etc
+001 File Joiner & Splitter supports all the popular file formats: AVI, MPEG, MP3, EXE, or any other type.
+001 File Joiner & Splitter breaks the 2GB size limit found in other software. We have tested our software with files over 50GB in size with no problems!
+This feature makes split files much more portable. Join files back on computers without our software! Convenient Splitting Methods Split files by either desired file size or by number of split files.
+The new version comes with a beautiful new user interface which makes joining and splitting that much easier.
+Easily install or remove our software.
+Easy, User friendly and intuitive interface.
+Can be launched directly from Windows Explorer shell context menu.
+Search in every kind of Drive: Internal, External, Network, CD-ROM, DVD, etc.
+Ability to calculate the size of the folders.
+Search Files or Files and Folders or only Folders.
+Allows you to quickly select the Local or Network Drives or of single Drive.
+Search in plain text files and in binary files looking in their raw format, (e.g. txt, html, csv, exe, dll, obj etc.)
+Allows you to specify the Text Masks in 2 ways: "Words" and "Phrases".
+Can ignore Files of certain Types: Hidden, System, Image, Audio, Video.
+Possibility to select the Date Range on the basis of hours, Minutes, Seconds.
+Possibility to append results of consecutive searches.
+Multi-select support in order to perform editing on multiple Items. (e.g. Cut, Copy, Copy to Folder, Move to Folder, Rename, Delete etc.).
+The results can be exported in various File formats.
+Display of the main Search Filters in the Window Caption and in the Taskbar.
+Can choose which types of MRU Items to save and (or) load.
+ftp client
+Copying, moving, renaming and deleting files and folders.
+batch renaming files, folders
+splitting and combining files
+Keyboard functions.
+Extra Tool Bar (to run Windows tools).
+Command line support
+Display of column titles in the first row, turn on/off.
+Display of intertitles (directory path), turn on/off.
+Print directory listing, direct printing of corresponding list.
+Export list into other programs by copying to the clipboard.
+Open the list directly in Microsoft Word and Excel.
+Support for connecting and disconnecting network drives.
+Automatic saving of display options when exiting the program.
+Start program with a directory path as a parameter.
+Selection of starting directory by an Explorer like tree structure.
+Selection of starting directory by entering the path as a text string.
+Manage plugins of all types
+Install plugins, even from zipped packs and nested folders
+Disable/enable plugins - TC cannot do it
+Run / restart Total Commander
+Log installation operations
+Customize a Menus for Home and Work
+Add Files & Folders from Windows Explorer
+Access LT Pop-up Menu from IE
+One Click Access, Super fast, Super easy!
+Highly configurable and convenient file management environment.
+Transparent interface. Now you can view the files on ftp or in the archive as easily as you would do it on your local computer.
+Quick view for browsing your photo and music collection or for sorting out the random chaos of your Downloads folder.
+A number of file viewers that can handle DBF, RTF, HTML, DOC, Excel and other formats.
+Additional utilities included (TreeNotes, StartUp Manager, Calculator, SmartPad and Directory Size Manager).
+Quick folders (bookmarks). You can easily access the folder that you use most often;
+Favorites (similar to IE's Favorites);
+The history of moving around the folders, history of file operations (View and Edit);
+Built-in file viewers supporting image viewing(.jpg, .jpeg, .bmp, .gif, .ico, .tif, .tiff, .png, .wmf, .emf, .pcx, .tga), Abdobe Photoshop(.psd), text editing, web contents (HTML) browsing, hex viewing, and much more.
+Well-thought-out multithreaded program engine allows the handling of any number of concurrent file operations (copy, download, move, search, extract, compress, upload, etc.).
+Integrated support of all common types of compressed file archives (Zip, Arj, Rar, Ace, Jar, Ha, Lha and more).
+Folder comparison system (very helpful when you need to compare two files and detect the changes/differences).
+Versatile support FTP. FTPS and SFTP protocols are support also.
+File synchronization system. The simple way to compare and merge your files and folders. You may sync folder on FTP sites.
+Size manager. Finds the folders that take up too much HD space.
+File reconstruction after the copy process is interrupted. This is a must when a huge file, such as a film, is copied).
+Advanced search system, allowing fast searching on local and network disks; now regular expressions are added.
+Multi-rename tool.
+Total Commander file plug-ins system support.
+Built-in text viewer features configurable syntax color highlighting for common programming languages (C, C++, Java, Pascal,etc.), scripting languages (Perl, PHP, VBScript, Bat,etc.) and document markup languages (HTML, XML).
+Method navigator — quick search for a necessary function or procedure in big/huge/vast files (Pascal, VB, SQL, PHP, Perl and others).
+HTML support system, quick type feature for the most commonly used tags, Internet Explorer view, code completion.
+Export in HTML and RTF with color highlighting.
+This is extremely convenient when publishing your sources on the web.
+View and edit MP3 tags.
+Detailed information about video files.
+Picture operations. All popular formats are supported.
+Image converter.
+Powerful selection engine, for easily building up selection patterns for items before file operations.
+File filters, both for selecting and for displaying files.
+Drive bar navigation, for accessing quickly all the drives installed on a computer.
+Keyboard shortcuts for nearly all its commands, for efficient everyday use.
+Complete file date information, utilizing Creation and Last Accessed information as well as the normal Modification date.
+Printing of folder contents, find results and other statistics.
+Proper file sorting, based on extension (alphabetically)
+Full drag/drop and shell context menu support, for integration with the desktop.
+Separable tree view; one can have both the tree view and the two contents panes visible at the same time.
+Multi functional address bar, for specifying folder names and visual filters, plus for running windows or DOS applications.
+Dockable Thumbnail bar, for previewing popular graphics formats (jpg, bmp, gif, etc.) plus HTML and M/S Office documents.
+Efficient navigation, supporting bookmarks, folder history and internet-style back/next folder navigation.
+Shell namespace browser, allowing the browsing of non-filesystem folders like Control Panel etc. If you install a shell extension for FTP and/or ZIP content browsing, 2xExplorer will integrate with that too.
+Auto completion for paths and other frequently typed information.
+Copy path names of selected items and preview bitmaps, simplifying clipboard transfers.
+Optional single-click activation schemes for both views and tree, to match your usability patterns.
+Tabbed browsing
+Bookmarks
+Text editor
+File search
+Thumbnails
+Free disk space labels
+Empty recycle bin button
+Handles large files with ease
+A dual pane interface
+Files can be viewed in Greenbar mode
+Columns of text may be copied to the clipboard
+Regular expression searching and GREP
+Extensive command line support
+The application automatically extract all files contained within Mac Disk Image files on to your Windows computer.
+Easy to use software, no technical knowledge required
+Recover any file from your DMGs
+Supports all formats of DMG files
+Quick View Plus maintains the formatting of the original documents, allowing you to see the content as it was originally created.
+Quick View Plus integrates with popular browsers and e-mail applications, allowing these programs to seamlessly view file formats they do not support.
+The Quick View Plus viewing environment provides two-pane navigation, allowing users to quickly navigate through their file system and use the same Quick View Plus window to view any files they choose. The file navigation panes can be oriented in either a left-hand or top attachment manner.
+Not only can Quick View Plus view the contents within a .zip file, it can also create them. This can save your organization the expense or hassle dealing with a separate program to create or open .zip files.
+All or a portion of any viewed file can be copied and then pasted into an application. Quick View Plus is the fast way to view and print all or part of one or multiple file. You can even print files without viewing them.
+Along with data protection we are constantly working on MacDrive to bring you the fastest transfer speeds possible. Film makers, recording artists, IT professionals and thousands of other Windows users rely on MacDrives speed as well as its data protection.
+Access almost any type of Mac-formatted disk including hard drives, DVDs, CDs and more. You can even mount a Mac in Target Disk mode!
+MacDrives Disk Manager makes it easy to create, partition and delete your Mac disks on your PC.
+MacDrives Disk Repair can automatically find and safely fix most errors on Mac disks.
+MacDrive allows you to browse through Time Machine backups as well as copy those files and folders to your PC.
+You can use MacDrive on a Mac with Apples Boot Camp utility and access drives with VMware Fusion or Parallels.
+Easy selection of directories
+Three available outputs: text, html and csv
+Flexible choice of output columns
+Files filtering
+Heavily customized html and text output
+Fast file enumeration engine
+Available in several languages
+Printing of the listing
+Extended representation of files list, with adjustable thumbnails size.
+Fast preview any page of multipage documents.
+Fast access to a tree of bookmarks in PDF or DjVu files.
+Detection of HTML pairs (e.g. "foo.htm" and a folder named "foo_files")
+Various file operations on the document repository (e.g. creating folders, inserting new files) can be performed through DocFetcher's interface.
+Customizable text and HTML file extensions (e.g. "nfo", "cpp", "java", "py", "shtml", and so on)
+Regular expression based exclusion of files from indexing
+Automatic index updates on changes to the indexed documents (optional).
+Preview panel with search-term highlighting and a simple built-in web browser
+Search results can be sorted and filtered according to different criteria (filetype, filesize, path, etc.).
+A portable version for both Windows and Linux is available, which, amongst other things, is useful in combination with volume encryption (TrueCrypt).
+Virtual filesystem with support for local volumes, FTP, SFTP, SMB, NFS, HTTP, Amazon S3, Hadoop HDFS and Bonjour
+Quickly copy, move, rename files, create directories, email files...
+Browse, create and uncompress ZIP, RAR, 7z, TAR, GZip, BZip2, ISO/NRG, AR/Deb and LST archives
+ZIP files can be modified on-the-fly, without having to recompress the whole archive
+Universal bookmarks and credentials manager
+Multiple windows support
+Full keyboard access
+Highly configurable
+Available in 23 languages : American & British English, French, German, Spanish, Czech, Simplified & Traditional Chinese, Polish, Hungarian, Russian, Slovenian, Romanian, Italian, Korean, Brazilian Portuguese, Dutch, Slovak, Japanese, Swedish, Danish, Ukrainian and Arabic.
+One click to show/hide files or folders in the list
+Drag and drop to add items
+Search/filter the list
+Privacy mode showing only requested items (mode saved on exit)
+Warning if hidden items are displayed in Windows Explorer
+Memory card speed calculation
+Save files or folders (with lots of options) to a text file
+Multiple file renaming
+15 renaming rules: "Add Space", "Add Text", "Add Numbers", "Add Date/Time", "Add Path Name", "Remove Space", "Remove Text", "Remove Numbers", "Add Music Tag", "Add Image Tag", "Change Case", "Replace Date/Time", "Replace Text", "Replace Numbers", "Split Name".
+Any number of rules can be combined into rule sets, and saved, allowing total flexibility and fast operation.
+Saved rule sets are listed on the toolbar for quick retrieval.
+EXIF and MP3 tag support.
+Instant preview of the new file names - know what the application will do before any files are renamed.
+Conflict checking and illegal file name fixing built in.
+Instant visual display of each file's state making it easy to see what will be renamed and if conflicts will arise.
+Command line support. Any rule set can be exported as a complete script for later automation.
+Rollback after rename for final checking.
+Very long filename support (32,000 characters).
+The wizard helps non techies configure the server and gives detailed instructions for how to configure a home cable/DSL network. The wizard can automatically configure UPnP enabled routers. The wizard lets you activate a Dynamic DNS client that keeps your domain name working if you have a varying IP address -- i.e. a dynamic WAN IP address.
+Provides you with a single application that has all the functionality necessary to create, deploy, and manage your own website. The free CMS is so easy to use you can have your grandmother be your new webmaster.
+Replaces obtrusive emails with a more convenient way of communicating.
+Use your company/home computer as a centralized and secure file server.
+Easy upload and download of files using a Web Browser, view photos, and stream music using the integrated MP3 player.
+Provides road warriors and business partners with secure access to back-end servers and resources such as email servers.
+On a client computer, download and install any of the 3 clients for the HTTPS Tunnel Server.
+Rightclick the tray icon to configure
+Choose Settings to change rules and options
+Choose Enable to Start or Stop all the rules
+File/Folder/Disk shell context menu
+Multilanguage (English and Russian)
+Working with file descriptions
+Command line with the ability to view output and to interact with DOS- and console applications
+File names coloring, unlimited number of color groups
+FTP-client
+Quick view panel with the ability to view files even in archives and on FTP-sites
+Possibility to assign separate programs to view and edit files of different types
+File search by size, date, attributes and inner text. Search in archives
+Drag-and-Drop support
+Inplace file renaming by Alt+F9 (just as F2 in the Windows Explorer)
+Archive contents can be viewed like a folder. Supported formats: 7-Zip, ACE, AIN, ARC, ARJ, BZip, CAB, GZip, HA, JAR, LZH, RAR, TAR, ZIP. Ability to integrate with external archivers for full-scale archive processing
+File encryption and compression on NTFS
+Ability to copy NTFS file streams
+Folder comparison and synchronization
+Favourite folders with hotkey accessibility
+Ability to minimize FN window to the system tray
+Ability to make file lists for group file operations
+Ability to duplicate User Menu commands by toolbar buttons
+Customizable color scheme
+Ability to store settings in the INI-file
+Ability to use external modules (DLL) to view files of different types directly in the FN window
+Search files by file name, text string, unicode string, regular expression, binary data, file size, file date.
+Replace string in files creating backup copies.
+Multiple searches/replaces in the separate tag pages.
+UFS Explorer Standard Access provides access to data located on Apple Mac OS, Linux and FreeBSD operating systems installed as a supplementary to Windows. Working on your PC with active Windows OS you can easily get any data from any supported operating system.
+UFS Explorer Standard Access allows you to open inaccessible files located on an external storage formatted with HFS+ (Apple Mac OS); Ext2, Ext3, Ext4, Reiser, XFS, JFS (JFS2) (Linux) and UFS/UFS2 (FreeBSD).
+UFS Explorer Standard Access offers direct access to files on virtual disks of virtual machines and any their copies without virtual machine start and configuration.
+UFS Explorer Standard Recovery works in a safe read-only mode without making any modifications on the storage and threatening your data. This ensures complete safety of your information during program operation.
+Compares files or folders (including sub-folders) between floppy drives, hard drives, CD-ROM drives, zip  drives,  and network drives (UNC paths supported)
+Supports the following file systems: FAT, VFAT, FAT32, HPFS, NTFS, CDFS, and UDF
+Offers choice of eight comparison types:  Filename Only, Size Only, Size and Date/Time, Contents, Attributes, Version Stamp,  CRC32, and SHA-1Supports HUGE files (> 4 GB)
+Compares only files and folders that match Include and Exclude filter pattern lists which you define (wildcards supported)
+Include/Exlude System and Hidden Files Handles NTFS and FAT timestamp incompatibilities
+Allows for user-specified number of bytes (chunk size) to be read and compared during a Content, CRC32, or SHA-1 comparison.
+Remembers the last 20 folders compared.
+Shows text differences between two ASCII text files, Microsoft Word documents, Excel Spreadsheets, RTF documents, or Adobe PDF documents. (MS Word, MS Excel, and Adobe Reader not required)
+Single-click auto synchronization
+Guides through the process using helpful wizard screens
+Offers choice of nine preset auto-Synchronization methods, or a user-defined custom method
+Supports Copy, Move,Send to the Recycle Bin, and Delete Permanently operations for manual  synchronization
+Checks for available disk space before all operations
+Shows all operations about to be performed and prompts for confirmation
+Logs synchronization history
+Allows for the creation of new sub-folders
+Renames multiple files and folders
+Synchronizes the dates/times of two files
+Sets the date/times of multiple files
+Sync your PC's system clock with an atomic time server
+Includes a full-featured duplicate file finder
+Displays the binary contents of files using a built-in Hexadecimal (HexDump) viewer
+Prints the results of the folder comparison in any number of layouts
+Saves the results of the folder comparison by printing to a file.
+Save multiple Session Settings
+Open and Edit any file from within FolderMatch
+User-configurable sounds associated with certain events.
+Ridiculously simple to use
+Split any large files to any size you specify.
+Allows convenience of placing large files on multiple diskettes.
+Allows convenience of sending large files via email, as you can break them down to any size.
+Allows anyone to paste files back into the original files without having this software installed.
+Allows you to split and recreate any file type, whether avi, mp3, exe, or any other file type.
+No maximum size limits, even tested on files that are 20 gig in size and larger!
+Allows you to split your files into almost any sized segments.
+Allows you to split and rejoin any sized file, there are no limits in size or file type.
+Creates a tiny program so anyone can paste the files back together without having this installed!
+Allows you to send the contents of any folder to your printer.
+Keeps track of all split statistics for viewing your stats.
+Easy interface for copying and moving files/folders.
+Directory contents size overview.
+Extract files from RAR and ZIP archives.
+FTP client.
+Text and hex file viewer.
+View BMP, WMF, EMF, JPEG, PNG, MNG, GIF, PCX, ICO, CUR and HIPS images. If MeeSoft Image Analyzer is installed, JPEG 2000, TIFF, RAS, PNM, PGM and PPM images are also supported.
+Image thumbnail view
+Auto scaling and enhancement of images suitable for browsing large pictures from e.g. digital cameras.
+Compare directory contents.
+Automatic rule-based renaming of files
+Keyboard shortcuts compatible with Norton Commander
+Search for identical files by name, size, timestamp and/or contents.
+Search for nearly identical image files.
+Advanced "pocket" calculator with equation solver.
+FTP - You access PowerDesk Easy FTP in an easy-to-use, drag-and-drop interface that lets you view FTP sites as though they were ordinary folders. Once you have set up your favorite FTP sites, connecting with them is one click away.
+Sync Manager - Compare and synchronize the contents of two folders. This is especially useful for those who work on files that are shared between two computers, but it is also useful for backing up files, and many other uses.
+Size Manager? - A powerful utility that shows you where and how the space on each of your drives is being used. Using Size Manager makes it easy to efficiently manage storage space on your drives.
+Dialog Helper - Enhances Open dialog boxes and Save dialog boxes by adding a list selections for previously opened files and previously opened folders. It also provides a file viewer pane that supports over 150 file formats. Dialog helper further allows the resizing of these dialogs that are often fixed in size.
+Archive Manager - users can easily compress and expand files from over 30 popular compression formats. PowerDesk also allows users to see within many archives to see the entire list of files and selectively view the contents or extract selected files with a simple drag and drop operation.
+File Finder - Forget where you saved that important file? No problem. With PowerDesk? Pro 6, you can quickly locate files through searches by almost any criteria with its powerful "search engine" type tool. Search by keyword, file type, size, or date range and see the "hits" displayed in a single-line reference. You can also search inside Zip files and archives, too!
+Multi-panel interface
+Panel tabs
+File operations
+File search
+Quick search
+Multi-rename tool
+FTP
+Customizable interface
+No 640K memory barrier, log an unlimited number of disks and files
+Support for long file and directory names
+Full support of third-party archivers, with most popular programs pre-configured out of the box.
+Undelete NOW! supports every kind of disk, including FAT 12/16/32 and NTFS (including compressed and encrypted) partitions. It supports regular hard disks, backup disks, USB drives, and any other disks shown in Windows Explorer.
+Undelete NOW! uses multiple advanced scanning techniques not found in other undelete software. Depending on your disk type, it employs a combination of surface scanning, bit-by-bit scanning, and advanced error detection with AFR™ technology.
+When scanning is complete, the actual recovery process takes under one second on average. That's lightening speed in comparison with rival software products!
+Enter the path in "Root Directory" text edit (Enter will start the search)
+Drag a directory from windows explorer (will start automatically)
+Clear the "Root Directory" text edit and click Scan, will scan all the drives. This will scan all drive types selected (Hard, CDROM, Network, Removable)
+Use the combo box list to select a single drive.
+The main window of AB Commander hosts two panels, independently displaying the contents of folders of your computer, just like the built-in Windows Explorer does. Each panel may be used to browse all folders, both virtual and real ones, located on local or remote drives. Having two independent panels is especially convenient when copying or moving files, enabling you to see the contents of the source and destination folders simultaneously.
+AB Commander offers several powerful means of navigation between folders: the Folder bar that lets you browse the whole hierarchy of folders, the Favorites list, the Most Recently Visited Folders (History) lists, the Drive bar and Drive menu.
+AB Commander offers commands to works with files and folders directly (that is, copy, move, rename and delete).  AB Commander's commands do not involve the use of the clipboard. So now you can work with files in a direct and straightforward way.
+If you often move files between your desktop computer and a laptop, you will appreciate the commands to compare and synchronize folders.
+The command prompt lets you quickly run programs that accept command-line arguments. AB Commander saves you time by allowing you to insert the names or full paths of the selected file objects directly into the command prompt.
+Shows all records for uninstall program
+Uninstalls any program installed, like Control Panel Add/Remove Software ("Enter")
+Views all properties of record ("F3" or "Ctrl-Q")
+Deletes incorrect links ("Del" or "F8")
+Edits some properties of record ("Alt"+"Enter")
+Configs plugin ("Alt"+"Enter" in Network Neighborhood)
+Automatically search and add all your music files by scanning your disk folders
+Automatically recognition of AudioCD
+Automatically import tag information of MP3, WMA, OGG files
+Tool to automatically download and store album covers
+Tool to automatically download and store artists photo
+Tool to automatically download and store artists biography
+View / Edit Title, Artist, Album, Composer, Genre e.t.c
+Create playlists for your favorite music player
+Play music files/AudioCD
+Save different views
+Easily sort your database according to Artists / Album / Title / Year / File Format / Genre e.t.c
+Rename your files according to Artist / Album / Title / Year / Genre
+Advanced search for helping you to find any songs
+Quick Filter for easily apply database filter
+Customize Interface with skins
+Interact with your photos and music in 3D
+Interact with your videos in full motion 3D
+Watch your favorite show while simultaneously surfing the internet
+Multiple files and folders renaming.
+Subfolders processing.
+Unique visual templates system.
+New names preview.
+Files sorting.
+Files filtering.
+Multiple usages of the templates (import/export).
+No more struggle with directories
+Search all your files amazingly fast to find what you're looking for
+Advanced file views (3D globe, calendar and more)
+Easy migration of all your files and directories
+Neatly integrates into Microsoft Windows and third-party software
+Support Install and Uninstall
+No admin privileges required (default installation)
+Small footprint. Only 1.7Mb in size.
+Easy to operate. Help file provided, however.
+Support major spreadsheet viewer (Excel, OpenOfice, Google Doc, LibreOffice, etc) via CSV, TSV & other DSV output-file format.
+Come with template creation to easily load / save frequently used settings
+Support multiple instance. More then one application can be run at same time
+Multi-threaded processing. Fully responsive while performing a task
+Multiple directory scanning via SendTo shortcut (Windows Explorer context menu)
+Word Recovery Software Extracts all the text from the corrupt word document
+Word Recovery Software supports multiple document recovery at a time
+Recover and restores font style and formatting
+Supports Rich Text Format (RTF)
+Recover and restore data structures
+Recovers OLE objects
+Recover fields, including hyperlinks (URL's)
+Restore and restore headers and footnotes.
+Repairs corrupt Word documents saved in Macintosh format.
+Recovers tables, bulleted lists, embedded images, chart and drawing
+Easy to use, user friendly software, requires no technical skills.
+Full UNICODE support
+Fast directory browsing
+Access to non system folders (My computer, Control panel, ...)
+Direct access to Network Neighborhood
+Internal file viewer
+Internal ZIP packer and unpacker
+Customizable toolbar
+Context menus like Windows Explorer
+Pictures behind the panels
+Easy, fast and friendly control
+Copy, delete and move in the background
+Drag & Drop
+Command line for starting programs with parameters
+Synotpical information about number of folders, files and disk's free space
+English and Czech language support
+Perform file management tasks in background: copy, compress, move, rename, delete files individually or as groups, applying batch rules.
+Search for files using name masks or complex content filters. You can save search results and search conditions for future reuse.
+View JPEG (with EXIF), GIF, PNG, TIFF, PSD and 30 other image formats individually or in a Slide Show. Copy image fragments to clipboard.
+Convert any images to JPEG, TIFF, GIF. PNG and BMP formats, recompress JPEG.
+Manage text, MS Office, Photoshop, PDF, HTML and others documents, accessing documents contents.
+Preview and install True Type fonts.
+Quickly navigate through files and folders using bookmarks, shortcuts, color marks, history lists and filters.
+Preview audio and video files (MP3, WAV and others), generate play-lists.
+E-mail files and folders using your default e-mail client.
+Use, manage and easily configure files associations.
+Work with the Windows console in a convenient graphical environment.
+Work with ZIP, TAR, GZIP, ARJ, RAR and others archives.
+Edit binary files in hexadecimal mode.
+Create, save and restore your personal workspaces using AccelMan Interface Schemes. 12 predefined schemes included (Images Browser, Film Strip, Norton Commander and others).
+Browse and manage files and folders
+Favorites list which allows to quickly switch between folders in the Browser.
+Copy files and folders
+Move files and folders
+Create new folders
+Delete files and folders
+Find files by file mask or files date
+Rename files in several folders simultaneously
+Replace text blocks in list of files in several folders simultaneously
+Replace several strings in list of files in several folders simultaneously
+Quick rename files and folders in the same directory, using F2 or SHIFT+F6 shortcut.
+Search files by mask (*doc;*xls;*html) etc.
+Find files created within period of time
+Find files not older than some hours, days, weeks, months from current time
+Find files by size (equal, larger than, smaller than)
+Find files by attributes
+Two mode of replace: simple and batch
+Create a backup copy of original files
+Find and Replace single text block or batch of strings
+Insert text block, batch of strings before text
+Insert text block, batch of strings after text
+Delete text block, batch of strings
+Insert text block to the head of file
+Insert text block to the foot of file
+Insert counter in file names
+Insert data or time in file names
+Easy convert all characters to UPPERCASE or lowercase
+Various control words for generate new name of file
+True point-and-click hash creation and verification.
+No-brainer hash creation and verification. In a word; simple.
+Choice of MD5 or SHA1 hashing algorithms.
+Create a regular MD5sum (128-bit), or further increase security by using the SHA1 algorithm (160-bit). checksum recognizes and works with both formats, even mixed up in the same file.
+hash single files, or folders/directories full of files.. no problem.
+checksum can create hash files for individual files or folders full of files, and importantly, automatically recognizes both kinds during verification, verifying every kind of checksum file it can find. Also, when creating individual hash files, checksum is smart enough to skip any that already exist.
+Effortless recursion. (point at a folder/directory or volume and GO!)
+Not only fully automatic creation and verification of files, and folders full of files, but hash all the files and folders inside, and all the folders inside them, and so on, and so on, through an entire volume, if you desire..  one click! ... Drive hashing is now officially EASY!
+Multiple user-defined file mask groups.
+For instance, hash only MP3 files, or only movies, whatever you like, available from a handy drop-down menu. All your favourite file types can be stored in custom groups for easy-peezy file-type-specific hashing. e.g..
+music=*.mp3,*.wav,*.ogg,*.flac,*.ape,*.shn,*.mpc,*.mp2
+The most common groups are already provided, and it's trivial to create your own. You can also enter custom masks directly into the one-shot options, e.g. reports-*.pdf, to hash all the reports in a folder, create ad-hoc groups, or whatever.
+Automatic music playlist creation!
+Another killer feature; checksum can create music playlist files along with your checksums! When creating a folder hash, if checksum encounters any of the music files you have specified in your preferences; mp3's, ogg files, wma, whatever; it can create a playlist for the collection (i.e.. the album). Rather nifty, and a perfect addition to the custom command in the tips and tricks section.
+As well as regular Windows standard .m3u playlist files (Winamp, etc.), checksum also supports .pls playlists (shoutcast/icecast). Your call.
+Effortlessly handles all known** legacy md5 files.
+If you discover an MD5sum that checksum doesn't support, send me that file!
+Create lowercase or UPPERCASE checksums at will.
+Like many things, this can also be set permanently, if you so wish.
+Automatic synchronization of old and new files
+Automatically add new hashes to existing checksum files.
+That's right! Automatically add new hashes to existing checksum files!
+Integrated Windows® Explorer context (right-click) operation.
+The installer will setup Windows® Explorer context commands for all files and folders, so you can right-click anything and create or verify checksums at will. Very handy. "setup", the rather clever installer, is also available in its own right, as a free, and 100% ini-driven installer engine for your own goodies. Stuffed with features, easy to use, and definitely deserving a page to itself. Soon.
+As explained above, you can also bypass the installer altogether, and simply unzip-and-go, for 100% portable checksumming. Or you can have both.
+No-fuss intelligent checksum verification.
+Cut and paste your own checksum files if you like, rename them, mix and match legacy md5 formats in a single file, even throw in a few sha1 hashes just for fun; worry not; checksum will work it out!
+Can be configured to permanently ignore any file types.
+Obviously we don't want checksums files of checksum files, for starters, but if you have other file types you'd like on a permanent ignore, desktop.ini files, thumbs.db, whatever; it's easy to setup. The most common annoying file types already are.
+Real-time tool-tip style dynamic progress update.
+Drag it around the screen - it snaps to the edges, and stays there (checksum also remembers its dialog screen positions, for intuitive, fast operation).
+Tool-tip progress can be disabled altogether, if you wish.
+Right-click the Tooltip for extra options.
+During verification, any failures can be seen real-time in a system tray tool-tip, hover your mouse over the tray icon for details. checksum also flashes the progress tooltip red momentarily, and (optionally) beeps your PC speaker, to let you know of any hash failures. If there were errors, the final tooltip is red (by default). Anything to make life a bit easier.
+Verify a mix of multiple (and nested) md5 and sha1 checksum files with a single command.
+Does what it says on the can!
+Extensionless checksum files.
+Traditionally, individual checksum files are named filename.ext.md5. Personally, I find this inelegant, and prefer them to be named filename.md5. I like it so much, I made it the default, but you can change that, if you like. When running extensionless; if checksum encounters multiple files with same name, it simply adds them to the same checksum file, so checksums for foo.txt, foo.htm, and foo.jpg would all go inside foo.md5, or better yet, foo.hash. Highly groovy.
+On the verify side of things, checksum has always verified every possible checksum it can find, so these multi-hash file look just like regular folder hash files, and verify perfectly, so long as the data hasn't changed, of course!
+Smart checksum file naming, with dynamic @tokens.
+checksum file names reflect the actual files or folders checked! Automatically.
+If you want more, you can specify either static or dynamic checksum file names, with a wide range of automagically transforming tokens. See below for details.
+Effortless hashing of read-only volumes.
+checksum can create sha1 and md5 hashes for the read-only volume, but store the checksum files elsewhere; either with relative paths inside; so you can later copy the checksum file into other copies of the volume, or absolute paths; so you can keep tabs on the originals from anywhere.
+checksum currently has three different read-only fallback strategies to choose from; use whichever most suits your needs.
+Extensive logging capabilities, with intelligent log handling and dynamic log naming.
+checksum always gives you the option to log failures. But you can log everything if you prefer. hashing times can be included in the logs, and proper css classes ensure you can tell what's-what at a glance.
+Relative or absolute log file path locations can be configured in your preferences, as can the checksum log name itself; with dynamic date and time, as well as dynamic location and status tokens, so you can customize the output naming format to your exact requirements.
+In other words, as well leaving it to checksum to work out automatically, or typing a regular name into your prefs, such as "checksum.log", you can use cool @tokens to insert the current..
+@sec   ...   seconds value. from 00 to 59
+@min   ...   minutes value. from 00 to 59
+@hour   ...   hours value, in 24-hour format. from 00 to 23
+@mday   ...   numeric day of month. from 01 to 31
+@mon   ...   numeric month. from 01 to 12
+@year   ...   four-digit year
+@wday   ...   numeric day of week. from 1 to 7 which corresponds to Sunday through Saturday.
+@yday   ...   numeric day of year. from 1 to 366 (or 365 if not a leap year)
+There is also a special token: @item which is transformed into the name of the file or folder being checked, and @status, which automatically transforms into the current success/failure status.
+You can mix these up with regular strings, like so..
+log_name=[@year-@mon-@mday @ @hour.@min.@sec] checksums for @item [@status!].log
+The @status strings can also be individually configured in your prefs, if you wish. Roll the whole thing up, and with the settings above, the final log name might look like..
+[2007-11-11 @ 16.43.50] checksums for golden boy [100% AOK!].log
+HTML logging with log append and auto log-rotation
+As well as good old plain text, checksum can output logs in lovely XHTML, with CSS used for all style and positional elements. With the ability to append new logs to old, and auto-transforming tokens, you setup automatic daily/monthly/whatever log rotation by doing no more than choosing the correct name. You can even have your logs organized by section and date, all automatically; via the free-energy from your @tokens.
+Click here to see a sample of checksum's log output, amongst other things.
+Total cross-platform and legacy md5 file format support
+MD5 and SHA1 hash files from UNIX, Linux, Mac and Solaris, as well as a myriad of legacy Windows and DOS MD5 formats, in fact, every hash file I've ever come across, is supported. Throw any old MD5sum at checksum, and you'll get results. And if you don't (*gasp*), Send Me That FILE!
+Work with hidden checksums.
+If you don't like to see those checksum files, no problem; checksum can create and verify hidden checksum files as easily as visible ones. Like most options, as well as on-the-fly configuration via the options dialog (hold down SHIFT when you launch checksum), you can set this permanently by altering checksum.ini.
+To create hidden checksums (same as attrib +h), use "h" on the command-line, or choose that option from the options dialog.
+Don't worry about creating music playlists with the invisible option enabled, the playlists will be perfectly visible, only the checksums get hidden! (well, someone asked! ;o)
+"Quiet" operation.
+Handy if you are making scheduled items, etc, and want to disable all the dialogs. Simply add a 'q'.
+You can also set checksum to only pop up dialogs for "long operations". Just how long constitutes a long operation, is of course, up to you. The default is 0, so you get "SUCCESS!", even if it only took a millisecond. Check your ini for more wee tricks like this.
+Audio alerts.
+Unrelated to the "quiet" option (above), checksum can thoughtfully invoke your peecee speaker to notify you of any verification failures as they happen, as well as shorter double-pips on completion. You can even specify the exact KHz value for the beeps, whatever suits you best.
+You can also assign WAV files for the success and failure sounds, if you prefer.
+Drag-and-drop files, folders and drives onto checksum.
+If you prefer to drag and drop things, you can keep checksum (or a shortcut to it) handy on your desktop/toolbars/sendto menu, and drag files or folders onto it for instant checksum creation. This works for verification, too; if you drag a hash file onto checksum, its hashes are instantly verified.
+Note: like regular menu activation, you can use the SHIFT key to pop-up the options dialog at launch-time. You can also drag and drop files and folders onto the one-shot options dialogs, to have their paths automatically inserted for you.
+User preferences are stored in a plain text Windows® ini file.
+You can look at it, edit it, back it up, script with it, and handle it. Lots of things can be tweaked and set from here, though 99.36% of people will probably find the defaults are just fine, and the one-shot option dialogs handle everything else they could ever need. But if you are a more advanced user, with special requirements, chances are checksum has a setting just for you. Click here to find out more about checksum.ini
+Comprehensive set of command-line switches.
+Normally with checksum, you simply click-and-go; but checksum also accepts a large number of command-line switches. If you are creating a custom front-end, modifying your explorer context menu commands, or creating a custom scheduled task, take a look at checksum's many switches.
+If you simply have some special task to perform, it can probably be achieved via the one-shot options dialog.
+Analyze folder and disk space usage with an intuitive interface
+Find all duplicate files by name, size or contents with an option to delete if necessary.
+Any operation can be executed on subsets of data by using extensive filtering capabilities.
+Filters include dates, sizes, attributes and even text to find within a file.
+Retrieve statistical data about your files, by file types, or file sizes.
+Explore your computer.
+Perform all standard file operation's like moving , copying , deleting , creating folders, change file names or extension, change volume names, creates new empty files, shortcuts to existing files and much more....
+View selected file contents or detailed information about file by use of built-in File Viewer. File Viewer recognizes a lot of file types, and it will show you the contents of any text file type, play audio or video, view playlist, show pictures, show all files that can be viewed by Internet Explorer, Microsoft Excel or embedded with custom application.
+Write CD Audio & Data discs. CD-DVD Writer let you write fully compatible ISO9660 / Joliet data CDs. Supports BURN-PROOF for error free recording. Write ISO images for raw writing by other applications. Import and write ISO images from other applications. Import multi-session ISO/Joliet tracks and merge new files with an existing session and more.
+Copy CD tracks from CD Audio to drive as WAV file.
+Set file attributes and date, support mass file operations as well.
+View & manage the contents of your computer in 10+ File Browsers and Tree View controls.
+Execute system commands like delete files from Recycle Bin, runs Control Panel items, shutdown, reboot computer, registering ocx, dll and many more.....
+Run all files and documents by double click on the file in the File Browser.
+Check if file's fits on selected destination folder, drive.
+Use comparison features like Compare folders contents, compare files and Folder Synchronizer utility
+You may check your shortcuts (.LNK or .PIF) on your computer to see if it's valid, and for a valid item, in addition you can delete invalid links.
+Join files together
+Erase directories with command that deletes all files in a specified directory along with its sub directories, but will leave the directory structure itself intact.
+Split & Merge files, this feature works with removable and hard drives.
+View File dependencies.
+Search your computer, File Searcher allows to search for specified files in your computer, returns the number of files/directories matching a specification and attributes. With this feature, you can make a list of specified files.
+Search & Replace multiple files at once with the source one. This tool allows you to search through folders for specified files and replace all of them with the one source file.
+Print documents, graphics on any printer installed on computer
+View, edit and convert pictures.
+Create, view and decompress ZIP & GZIP archives
+Encrypt & Decrypt files.
+Transfer files to and from remote server by use built-in FTP Client
+Copy or move multiple files to different locations at once by use of Multi Copy & Move utility.
+View Drive's Information on Charts & Grid
+View Folder Information on Chart & Grid
+Manage your system startup programs by use of built-in Startup Manager
+Search cookies and delete unwanted cookie files
+Connect to directories shared on the network, use network drives.
+Use standard keyboard shortcuts like such keys as Ctrl+C (Copy), Ctrl+X (Cut), Ctrl+V (Paste) and F5 (Refresh)
+Use Drag & Drop method, with the mouse you can drag files directly between Browsers. You can also Drag & Drop files to and from another Windows application as well.
+Use automatic context menu processing. When you right-click on a selected file or group of files will display a standard alike Windows Explorer pop up-menu
+Scrub files, delete files completely without any trace in your computer. Clean files.
+Use Favorites & Run menus to build a list of your shortcuts for easy access to your favorite files or paths.
+Use file filters to show different contents of browsers. Only files that match the selected file filter are displayed in the browsers.
+View and edit text files
+Set different view styles, changeable fonts, colors, borders, menus, toolbar's. Sortable browser columns. Displays file icons, which are associated to that file in the Windows system.
+Dual-panel file explorer (a'la Total Commander, Frigate)
+Files/folders creation, move, copying, deleting, renaming
+FTP client
+Cryptography
+Multi-rename tool
+Viewing and editing of selected text files
+Quick view for browsing your photo
+Internal packer/unpacker for ZIP
+JPEG, GIF, BMP, DIB, PNG, WMF, EMF, ICO, CUR, ANI
+Graphic Filters
+Compatibility in Windows XP/2000/NT4/Me/98/95
+Multi-language support (English, French, German, Polish, Slovak, Spanish)
+Free for commercial or non-commercial use
+CSV (Comma Separated Values) browser
+Plugins
+Image converter
+Direct access to Network Neighbourhood
+Multi-Language Support - File Shredder supports our MLS technology. Just choose from the language list inside the program, and it will appear in the language preferred by you. Languages are changed on the fly; no additional plug-ins are required as everything is in the same installation.
+Integration with Windows Explorer - You can wipe your files or folders right from Windows Explorer. To do this just select the files or folders you want to process, then click them with right mouse button and select "Destroy with Shredder" from the Explorer's pop-up menu.
+Virtual Folder Shell Extension - You can set File Shredder to have its icon on your desktop. So it will act similar to Windows Recycle Bin, i.e. you can drag & drop items right to the icon.
+Drop Target Window - To make drag & drop really convenient, you can use a little drop target window which always stays on top of other windows.
+Custom Backgrounds - You can choose between eleven different window backgrounds, so you can customize the product appearance.
+Useful tips banner - Context sensitive tips are shown in the top section of the window, here you will learn how to use the program in the most convenient way.
+Online services - You can go to the help menu click on "Product Support", and get connected to our support service via the web.
+Auto-tag files based on folders, user defined rules or manually
+Use virtual folders and regular folders together
+Works on files, folders and URLs (including Gmail)
+Manage multi-file projects on network drives
+On-the-fly group files far away from each other
+Find and clean file duplicates
+Search your files based on what they're related to
+Access your files through different paths
+Combine virtual folders to filter files
+File compare compare two files at a time, with the ability to merge differences between compared files.
+Folder compare comparison of local/network directories and merge differences between compared directories.
+Line compare allows for a single line comparison and replacement.
+Advanced Editing Options for easy file merging, including multi line copy, delete.
+Summary Bar gives a quick overview of differenes between files or directories.
+Windows Explorer Cotext Menu Integration for easy file selection of files through Windows Explorer Right Click context menu.
+Modify file date directily by set date and time
+Modify file date by plus or minus year, month, day, hour, minute, second separately
+Modify file date by copy from other properties
+Modify file date by copy properties from other files with the same name
+EXEONE System Navigator is the "file manager" perfected! It helps you manage your files using an intuitive dual panel interface and an impressive set of options that can be applied to files and folders.
+System Info tool offers a comperhensive sheet of information about your computer. The information ranges from the list of installed harware and drivers, to the browser related information and list of programs setup to run at your system startup. This tool will turn you into a computer expert in no time.
+EXEONE System Navigator's Size Manager provides you with a set of detailed information regarding the space consumption on your hard disk. It generates statistical charts and tables you are able to export into a format suitable for later use.
+Fast file management with three windows to your files.
+Use easy and intuitive keyboard shortcuts to quickly perform operations.
+Quick directory/folder find feature. Find directories instantly.
+Uncomplicated Zip file handling from within the program.
+Different types of files appear in a different color. Customize colors to the way you want them.
+Built-in file find function to search your hard drive for matching file names or search for files that contain specified text.
+File encryption function.
+Can work as a launch pad for all of your software.
+Executes programs with paramaters, and works from the DOS command line.
+Drive space thermometers.
+3-View all active system.
+2-PanelViews and one TreeView Panel. you can copy, move, delete and make folders in panel views.
+Extremely fast File/Folder management, thanks to DiskShop's 3-panel system.
+TreeView panel(too combined in One),as a third command source for file/folder select in Panelviews.
+Total information and security when managing files and folders on your drives.
+Program optimized with respect to size and speed.
+Resize/move program on monitor, - save position.
+Access your folders with one click from folder history and save your history to file for autoload.
+Access your files from "Recent file list" with one click from file history 25 files backwards.
+Keyboard shortcuts to all vital commands.
+Picture boxes in each panel for viewing your digital photos ect. (enable/disable possibility)
+Make file, Edit file and go to Dos prompt.
+Sort your files and folders from panel view.
+Rename file and folders, single or multiple, plus commands for indexing and lcase/Ucase.
+Control all file/folder Attributes, single or multiple.
+Start your programs with dbl. click on associated file in Panelviews.
+Explore all important file/folder details in separate window, Single or Multiple.
+Programmable Disk Cleanup/search function with file open possibility from view, plus Several delete options.
+Use Preset to store your common used folder locations, and get there FAST whenever you want.
+Besides Presets, enjoy the build in favorite option as file and Internet favorites.
+Memory function of selected view (memory store, memory recall and undo recall).
+Open File-Folder-Internet address menu. Stores last 15 items.
+Lan Networking with attach drive menu.
+Browsing your Disk with History function.
+Build in Command line function, dedicated for advanced Program start.
+Optimize your networking speed.
+View your Disk and Ram condition.
+Swap Panel function.
+Compare/Synchronize folders with preview window.
+Virtual Desktop.
+Drag/drop between views.
+Copy To/From Desktop.
+Advanced view filtering, date interval, user pattern and file attribute.
+Advanced file filtering, with functions same as view filtering above.
+Selection tracing and fast recall of previous selections in all folders .
+Color change on items in each panel to indicate which mode you are using, copy, move or delete.
+You will,for sure,experience increased productivity .
+Easy to use,  Interface for simple creation and maintenance of synchronization tasks.
+Four file comparison methods: Date/Time, Size, Contents, and CRC32
+Uni-directional synchronization, replication, mirroring of data from Source folder to Target Folder
+One-to-many synchronization is supported.  One Source folder may be synchronized with multiple Target folders.
+Uses native operating system APIs for scanning directories and copying files for optimum performance.
+Assembly Language routines are also utilized for blazingly fast execution.
+File copy only occurs if target files are actually different than the matching source file, reducing file transfer requirements.
+Multiple Copy Options:  Including the ability to maintain the source file's create time stamp, and a Safe Copy option which ensures that the target file is not deleted unless the copy operation is successful.
+Loads at Windows Startup and resides in the System Tray
+Interval options include: Manual, Every Few Minutes, Every Few Hours, Every Few Days, Only On Selected Days, First Day of Month, and Last Day of Month.
+Can Ignore the FAT/NTFS time stamp issues of "2 second difference" and "daylight savings time difference"
+All synchronization activity and errors are logged.  Or optionally, only errors are logged.
+Log size limit can be determined by user
+Scheduled synchronizations can be paused
+Folders can be compared and an HTML-formatted report generated
+Batch execution of multiple synchronization tasks in a user specified order
+Password protection is available for Administrators
+Batch File Renaming Rename multiple files,photos,web pages,music at once,preview changes before renaming.
+Batch Folders Renaming: Can process folder names in mass.
+Rename file extension: File extensions can be selectively renamed, allowing bulk re-association of multiple files.
+Convert file case: Upcase, Lowcase file names or extension.
+Insert string: insert string in existing file names starting at any character positions you like.
+Delete string : delete parts of file names starting at a specific character position from which you select how many characters to delete from that position.
+String Replacement: Search for a certain string within filenames and replace it with another string.
+Sequential Renaming: Sequential Renaming will add a sequence of numbers to your filenames.
+Rename MP3 files: Tag and rename multiple MP3 files according to their tag information(ID3 tags) !.
+Filelist renaming: Renaming using a list of filenames.
+Powerful real-time preview.
+Easy-to-use Window Explorer style interface: Intuitive user interface that requires no technical knowledge whatsoever.
+Full drag and drop support.
+Segregated search result types
+Dynamic work surfaces
+Keyword tag any item (files, folders, email, contacts, calendar items, notes, etc.), and search keyword tags in fuzzy (non-exact) way
+Full context views
+Sticky work surfaces
+Quick previews for items found
+Targeted and Granular indexing options
+Easy way to file documents at work and at home.
+The documents are gathered in digital folders and binders that correspond to the ones in a traditional archive.
+Quick access to necessary documents saved in the archive: From now on the physical searching and going through paper piles are things of the past.
+Security
+The well-thought-out, intuitive interface allows to start quickly and work with the program efficiently.
+Scanning documents, including the multipage ones, and enclosing any kind of digital attachments.
+Creating many archives with documents, both local and network ones, with unlimited size.
+Administrating access rights and creating backup copies
+Practical application
+Most features of the original Norton Commander like copy, move, delete and dual pane views.
+Look and feel of Windows Explorer.
+Full drag and drop support.
+Customizable toolbar.
+Multi threaded file management by using shell API for most operations.
+Changes to file and folders from another programs will be immediately reflected in the views of Pablo Commander.
+Context menus just like Explorer.
+Compare the contents of two folders.
+Integrated FTP client (including FTP to FTP), view/open files and folder just like your local files/folders.
+Intelligent addressbar to select folders, execute programs, connect to ftp sites and almost every other Windows Shell action.
+Offline browsing file
+Manageable catalog database files
+multi-level categories supported
+Import and export catalog database
+Detailed information about every file, folder, or disk
+Support comment for every catalog item
+Support Custom Property for every catalog item
+Support thumbnail for every catalog item
+Support bookmark
+Support script develop
+Support big data quantity
+Very powerful file searching
+Support file parse
+Support loading, Viewing and Clearing file conten
+Instantly find files by name
+Text highlighting
+Tabbed user interface
+File content search
+Advanced queries
+Ten or twenty application buttons you can configure to start your favourite applications with a mouse click, and at the same time feed a selected file to the application
+Configure function keys as you like it
+Zip and unzip with a few mouse clicks
+Also support for RAR, CAB, TAR, GZIP and TZ archives
+Search for files and for text strings in files
+Compare directories
+Compare (text) files
+Built-in viewer for text(-like) files and popular graphics formats: JPEG, GIF, TIFF, BMP, PCX
+Built-in editor for text files
+Built-in hex editor
+Explorer like context menus
+Reach your desktop icons with one click of the mouse, even when the desktop is cluttered with windows
+Reach your Control Panel applets with one click of the mouse
+Use FTP sites as local disks, with proxy/firewall support
+Print ASCII files one or two page on a sheet
+Command prompt with command history
+Shows the current date and time in the title bar of the current application
+Minimize by right clicking on empty space in the main window
+Esc key instantly activates your screen saver
+A button ExitWin to log off and on, to exit and restart Windows or reboot the machine.
+Copy, move, rename, delete, zip, unzip, and email files.
+Upload and download files using ftp.
+Encrypt and decrypt files with 128, 192 or 256 bit AES encryption.
+Select files to be processed based on a specified date range or file mask.
+Add a time/date stamp to file and folder names automatically.
+Verify the integrity of copied or moved files.
+Run other file utility programs as separate tasks within jobs.
+Track job successes, warnings, and errors in the NT Event log.
+Create tasks, jobs, and schedules in minutes with a few clicks of the mouse.
+Send emails to your PC, your pager or your cell phone that detail job problems or completions.
+Set up complicated multi-step jobs with ease. If you need to copy a file from one machine to another, then zip and encrypt that file, and then upload it to a ftp server, you can create a scheduled job in the NTS File Mover that will automate the entire process.
+reads WPD (WordPerfect) documents and converts to PDF (doesn't require Adobe Acrobat to be installed), HTML, RTF (MS Word doesn't need to be installed), CHM, HLP, TXT (ANSI and Unicode), MS DOC (MS Word);
+supports batch conversion (registered version only);
+supports multiple charsets;
+easy to use and easy to set up;
+supports advanced PDF export options;
+supports multiple CHM and HLP export options;
+command line support, multiple language support, skin support;
+since v3.01 the program does not require Corel WordPerfect to be installed (that saves your money).
+95% of your work can be done while accessing only 5% folders in your computer. Use Virtual Folder to create a virtual disk which is composed of your most frequently used folders to double your efficiency.
+Virtual Folder creates a virtual disk which can be accessed from anywhere (even the command line).
+Want to create a virtual folder? Just right click it and input the name. You can delete a virtual folder as a common folder, and all your files will be kept.
+Is your computer in a complex local area network? Or maybe you have to use too many shared folders? You don't need to map a mass of network drives any more, create a virtual folder to rapidly access any remote folder.
+Move one, multiple, or all files from one folder to another
+Delete one, multiple, or all files from a folder
+You can choose to send to recycle bin or delete permanently
+View all programs on the machine and uninstall a program
+View all files in a folder and delete, rename, or open a file
+Run a Windows Run command inside the application
+Explore your File System using the Folder Map and open a specific folder
+Web Search that will let you search for Websites, Images, Videos, and News articles from a variety of search engines
+Ability to vertically append multiple files together. You can choose files individually, specify wildcards for multiple file selection, and then combine them together
+Ability to change the order of joined files, and remove and add new files
+Ability to specify a 'separator' between joined files. For example, if you had multiple text files that you wanted to merge together, you could specify a simple text delimiter to make it easier to read when opening in an application such as notepad or Microsoft Word
+Can join pretty much any file type, combining ASCII text files, merging binary files, and so forth
+Extremely fast processing times. It can process multiple large files very quickly, saving you time and getting the job done, and its very easy to use!
+Completely customizable: You can sort folder contents by name, date, size, type, or any of the other several information columns. Even change the font to suit your needs
+Suported file formats: save or print detailed information about a number of different file formats, including: MP3, Ogg Vorbis, WAV, AVI, ASF, ASX, WMV, MPEG, QuickTime, BMP, GIF, JPEG, PNG, Targa, PCX, Photoshop (PSD)
+Detailed information: view the following information on your files: name, size, type, date modified, date created, date accessed, file version, attributes, playtime, dimensions, title, artist, album title, year, track number, genre, bit rate, copyright, author, CRC32, SHA1, MD5
+Multiple save options: save the directory contents as a plain text file, or as a comma-delimited file to be used with Microsoft Excel, or any other supported spreadsheet software
+Search your whole computer for music files in seconds!
+Search by extension (.mp3, .wav or .wmv)
+Search by title
+Easy to use menu where you can add or remove music files you want to move or copy. You can even delete files from your computer entirely.
+Play music files before you copy them.
+AutoSync ensures that you always have your latest work, most current photos, and favorite music on all of your computers and storage devices.
+Simple one-time setup designed to easily sync files between multiple computers, USB keychain drives, portable hard disks, and more. After the simple 3-step configuration wizard, files are automatically consolidated and synchronized
+AutoSync keeps track of all changes - whenever you add or remove a file, or change a name, or re-organize your folders, AutoSync automatically updates the synced folders.
+Create separate sync plans for work documents, photos, and music. Use a USB device or iPod to keep work files up to date between a home and work PC. Sync music files directly across your home LAN.
+Encrypt your files when synchronizing to a USB drive or portable hard drive - extra protection in case your drive is lost or stolen.
+clean minimalistic, customizable interface
+seamless handling of virtual folders (FTP/webfolders/zipfolders etc)
+extended file/folder details (MP3 tags, checksum etc)
+instant preview of text, graphics and audio/video content
+find files using hyperfilters (e.g. locate files searching their comments for keywords)
+detect and cleanup duplicate files
+manage many folders in dual pane or using tabs
+easy folder comparison & synchronization
+powerful visual filtering and selection engine
+touch dates, split/merge and shred files
+mass renaming
+execute text commands (or DOS scripts) on files
+advanced NTFS support: hard links, file comments etc
+robust filesystem file/folder transfers
+unicode and text encoding aware
+export file information as text for printing etc
+focus on usability with keyboard shortcuts, histories, autocompletion etc
+You can add filenames to the Filename Extractor by either clicking the Browse button and selecting the filenames you want extracted, or you can simply drag and drop files into the Filename Extractor window.
+If you need the full path of the filename, check the Include Full Path option.
+Sometimes simply getting a list of filenames isn't quite enough - you need to add some sort of text either before or after each filename for some process to work (html photo albums come to mind).
+Click Options -> Always On Top (Ctrl+T) or click the yellow windows icon to toggle the Always On Top state.
+You can save the filenames extracted to a txt file or print them for your convenience.
+Securely overwrites and destroys all data on physical drive or logical partition.
+Supports IDE / ATA / SCSI hard disk drives.
+Supports large (more than 128GB) size drives.
+Supports HDD / Floppies / Zip / FlashMedia drives.
+US Department of Defense 5220.22 M compliant.
+Supports several erasing methods including the most secure Gutmann's algorithm.
+Data verification could be performed after erasing is completed
+Erasing report is created and can be saved as a file.
+Can be placed and run from floppy.
+Displays detected drive and partition information.
+Supports Command Line mode (can be run with no user interaction).
+Disk Viewer allows to preview any sectors on a drive.
+Allows to scan drives and preview files on FAT, FAT32 and NTFS file systems before erasing.
+Wipes out drive's free space out of previously deleted data.
+Securely erases particular files and folders (multiselection is supported).
+Allows to create and schedule cleaning up the user defined profile.
+Erases Internet Activities (temporary internet files, cookies, history, etc.).
+Erases caches of Internet Explorer, Netscape, Opera and AOL browsers.
+Erases Local User Activities (temporary files, recent file list, run list, etc.).
+Lightweight installation (only 1MB) for both DOS and Windows
+Installation is signed with AuthentiCode signature and thus protected.
+Immediately after purchase personalized software package. including registration info can be downloaded.
+Easy to use Explorer Style User Interface.
+Integrated with Windows Explorer via Context Menus.
+Complete interactive help file includes "How to..." sections.
+Complete integration with Windows Explorer and the Windows shell.
+Coolest looking pie charts and bar graphs, with 3D look, textures and transparency!
+Shell context menu integration, pies and bars behave just like files and folders.
+Print support for DiskView reports, with custom headers and footer.
+Pie chart and bar chart report options.
+Export charts to PNG, JPG and BMP format, or copy to clipboard .
+Instant Charts: Instant generation of charts as you browse the file-system.
+Extremely configurable and customizable - easily change chart colors, label placement, print options, etc
+Integrated disk summary to see real-time disk usage of all drives.
+Reporting of actual size occupied on disk.
+Support for mapped network drives, as well as network folders with UNC paths.
+'Size on Disk' and 'Relative Size' column-handlers for Windows Explorer details view .
+Integrated 'DiskView Folders' pane that shows relative folder sizes.
+I18N Localization
+built in media players
+document editors
+file type management
+tabbed browsing
+file search
+Tabs
+Startup directories [tabs] are fixed. Changing directory inside fixed tab creates new tab. You can close fixed tab like an ordinary one.
+Views
+Besides standard file view you can view files by size and by time. Size view dynamically calculates subdirectories size and sorts them by size on disk. Size of the files on disk takes into account NTFS compression, NTFS sparse files and disk cluster size.
+Icons
+Besides standard icons for files, SurF makes icons from image files. This process is slow, so, some limitations based on picture file size apply. Default limitations can be changed using Pictures icons settings dialog.
+Groups
+Files are divided by groups based on their extensions. Inside each group sorting is based on file name. Default groups can be modified using File groups settings dialog.
+Settings
+SurF registers Win+S global hotkey for you to activate it at any time. Pressing hotkey when SurF window is already active minimizes it. Hot key is configurable via General settings dialog.
+Editing favorites and startup directories you can drag rows with mouse. To delete row - select it by Shift + Space or by clicking on row header and then press Delete key. Use F2 key to edit cells.
+File operations
+If current directory has parent directory, it is represented as " . . ". Current directory is represented as " . ".
+You can drag'n'drop selected files from SurF to Windows Explorer and back. Default mode is move. To copy files hold down Control key. You can drag selected file name from SurF to cmd.exe. If you drop file on directory item in SurF, then it will be the target directory. You can additionally hold Alt key while dropping files to auto-rename files on paste. If you drop file on tab name, files go there. You can additionally hold Shift key to open selected tab (or target directory) after paste.
+When you copy files to clipboard full path text is placed to clipboard along with files and you can paste it in text edit fields.
+To find file in current directory - quickly type several first characters of file name.
+QuickPath
+In QuickPath Search field you can type for example csys32 to open c:windowssystem32. First letter should be a drive letter. Search is limited to 3 subdirectories: c36 will find c:123456, but c4 will not find c:1234.
+To search only subdirectories of current directory enter .(dot) as first character. For example, when file tab shows c:1 typing .45 will find 2345.
+Access to network shares
+If you enter server name in Network server dialog (e.g. our_server) Select share dialog will appear. Shares that you can't open look gray. You can select several shares to open at once. Connecting to Windows 9x computer with password protected share, select this share and check "Connect to selected share" before clicking Reconnect as.
+Copies all directories and files recursively.
+Copy local users and groups copy local users, local groups and their membership between remote hosts. Will automatically copy these objects as encountered in security and audit permissions.
+Copies creation time, last access time, last write time of files and directories.
+Copies read, archive, system and hidden attributes of files and directories.
+Copies all file and directory security permissions exactly as defined on source object.
+Copies all file and security auditing rules exactly as defined on source object.
+Copies all file and directory ownership exactly as defined on source object.
+Will copy any shares defined for directories, and provides UI for user to manually import file, print or device shares.
+Will copy all share permissions.
+Before importing local users and groups, it will try to reuse them if already existing (by name) on the target machine.
+Gets a list of all machine, user and group Security Identifiers defined on a local machine.
+Identify files and directories which define rules for a certain object..
+Replace security rules for users, groups or arbitrary SID with another.
+Servers do not need to be connected to a domain to copy all objects.
+Copier will not quit on access defined, but attempt to grant itself access to such objects.
+Directs you to the appropriate program to open files
+Easy-to-use drag and drop analysis of file extensions
+Scans registry to let you know which extensions are currently supported
+File manager feature makes it easy to control the associations between extensions and software to open files
+Monitors your system and alerts you if something is trying to alter your file extension associations
+History page makes it easy for you to keep track of what has been done
+Nine modes: File Manager, Web Browser, File Viewer (as text or Binary-Hex), Text Editor, Image Viewer, Movie Viewer, Zip File Viewer, FTP and Audio Player (independent of mode)
+Built in Zip, UnZip, Zip to .Exe & Zip repair support along with many other FIle Tools  such as convert between BMP, JPG, GIF, WMF & TIF files, Create numbered files, Append file names etc..
+Email files from file manager or text from text editor.
+Search for files and text content.
+Synchronize Folders
+Calendar/clock create calendar file or print.
+Still access to DOS prompt (for us old timers)
+Built in CD player
+Create playlists from Audio Player
+ID3 Tag editing for your MP3's
+Quick access to recent folders used and web Favorites
+Handles large files with ease
+A dual pane interface
+Files can be viewed in Greenbar mode
+Columns of text may be copied to the clipboard
+Regular expression searching and GREP
+Extensive command line support
+Easily transfers files between your PC and phone
+One-click auto-fill allows quick media uploading
+Automatically backs up new photos and videos from your phone
+Intuitive graphical interface provides easy file browsing
+Quickly find files based on file size
+Apply a 'fast' checksum algorithm to identically sized files to find out whether content is identical
+Ability to quickly and easily select the files you wish to delete and remove
+Visually preview file headers, 'just in case' to see if files match
+Blisteringly fast searching of your documents
+Search and highlight terms in PDF documents
+Scan documents in bulk to file at a later date
+Reminder system so you don't forget to action important documents
+Documents can be stored in pre-defined filing areas
+Documents can be found by searching for any word in any document
+Store Microsoft Office documents or most types of image file
+Dedicated viewer for internet documents
+Scan single sided or double sided pages
+Works with most home scanners
+Import from a Watch Folder
+Copy (F5), supports background execution.
+Move (F6), supports background execution.
+Delete (F8), supports background execution and deletion to Recycled. Deletion to Recycled by Mask.
+Make folder (F7).
+Make file (Shift+F4).
+View with internal viewer. Internal viewer supports following file formats: ASCII, BMP, WFM, EMF, PCX, ICO, JPG, JPEG, GIF, JIF, DIB, RLE, TGA, HTML (required Internet Explorer 4.0 and later), and also binary files.
+Find files by mask, date changed, size and attributes.
+Set and change file attributes.
+Set and change description for files and folders.
+Pack files and directories (Alt+F5). Now supports: ZIP, CAB, TAR, RAR, ARJ.
+Unpack fpacked files (Alt+F9). Now supports: ZIP, CAB, TAR, RAR, ARJ.
+Supports addition new packer modules on base external packers.
+Support Drag and Drop.
+Customizable user interface. Customizable color theme, which may be saved. Customizable file colors.
+Customizable user applications, user can customize application menu for his needs.
+Multilanguage support. Now is available: English, Russian, Slovak, Szech, Polish, Ukrainian, Hungarian and Spanish.
+Windows file menu.
+Supports Windows Clipboard file operation such as Copy, Cut and Paste.
+Quick file and folder viewer.
+Minimize to system tray.
+Support WindowsXP themes.
+Support UNC paths. You can working with UNC paths in the same way as with local directories. For example, You can view \\server\sharedir directory if You execute "cd \\server\sharedir" or select direcory in Go to dialog (Go to menu).\
+Very easy to use
+Wizard-like, multi-language user interface
+Unicode filename support
+Scans folders or file groups
+Optimized detection algorithms (file size, CRC32 and bytewise comparison)
+Duplicate detection by contents, dates, name, size
+Employs file filters (date, attributes, size) to minimize scan time
+Automatic duplicate file selector
+The duplicates can be copied, moved, recycled or passed as parameters to external programs
+Finds and deletes duplicate files
+regains valuable hard disk space
+Reduces time needed to defragment your hard drives
+Minimizes time used by antivirus to scan your computer
+When generating the data lists you can use properties like size, date of creation, file extensions. In addition, a lot of the metadata contained in files can be used. This feature enables you to create, for example, MP3 lists that contain artist, album, and genre…. Photographers have the option to utilize information like shooting location, shooting date, camera model, and resolution for photo lists.
+With Folder2List you can easily print folder contents. Or you can save the directory contents as a text file, CSV file, etc. to further process the extracted information. For export, there are many formats available.
+The extensive filter and sort functions can be applied to many properties (such as file extensions, image size, and date of creation). By using filters you can include or exclude files and/or folders.
+Due to the real-time preview the effects of all settings (such as changes of the column width, font color, and frame color) are visible immediately.
+The settings made can be saved as a profile for repeated use. Examples are output type, page format, and appearance.
+Attribute Changer
+DateTime Changer
+Duplicate Finder
+Folder Icon Changer
+Generate File Hash/Checksum, Verify file Checksum and Compare Files
+Reveal Hidden File or Folder
+Splitter & Merger
+Automatically organize with digital magnets
+File Preview
+Working together
+Share documents
+Versioning and comparison
+Efficient search function
+Store files, emails and various documents
+All file functions: copy/move, delete, rename, split, etc
+Built-in Zip and Unzip
+Quick view (mp3, wav, avi, mpeg, etc)
+File viewer with syntax highlighting
+Command line (shell commands, dos commands, built-in commands)
+Console (command.com/cmd.exe replacement)
+CD player
+Autocomplete and history
+Themes (skins)
+Sound effects (SFX)
+Multiple language support
+Clipboard support
+Full source files (GPL)
+Alarm
+Detailed file info
+File comments and colors
+Find duplicate files in any drives, folders and neighborhood computers
+Search similar and duplicate files by CRC, name,size and their combinations
+Search a file in results by inputing part of the file name
+Show charts by duplicate file type, size and quantity
+Find duplicates for a specified file
+Search in local computer and networked computers
+Check file similarity by CRC, name,size and their combinations
+Compare two files by CRC (Cyclic Redundancy Check)
+Move unnecessary duplicate files to Recycle Bin (Delete unnecessary files temporarily)
+Remove unwanted files permanently
+Rename selected duplicate files, move them to another folder, open the folder they are located
+Log all the actions of duplicate file scan and resolutions
+Record file scan results
+Set file scan scope on file date, size, and arttribution
+Skip file type scan or specify file type scan
+File name auto numbering (Customizable Starting number, increment value and number format)
+File name text repacement
+Insert custom texts
+set date-time to certain value;
+increment/decrement date-time;
+date-time masking;
+set Created Date=Modified Date or Modified Date=Created Date etc.
+change attributes of files and folders;
+process one file, folder or a group of files, folders, subfolders;
+recursive operations: process whole directory tree (or certain branch);
+print folder contents;
+powerful custom filters to selectively stamp certain files or folders;
+custom templates
+preview result mode
+error reporting
+Secure erase of files and folders
+Secure erase of whole disks and parititions
+Time-controlled erase
+Password-protected program interface
+Quick and easy handling
+Standard: DoD 5220.22-M
+Standard: BSI VSITR
+Standard: Peter Gutmann
+Standard: Bruce Schneier
+RealFS Relational File System
+Microsoft Office Integration
+Manage files for most Windows apps
+Preformed Certificates
+File Security
+Variant Control
+Version Control
+Configuration Management (Packages)
+Document Approval
+Document Delivery and Traceability
+Document Security
+Relational Documents
+Relational Categories
+Themes and Events
+Favorites
+Send Outlook Emails
+Measure Progress
+Work Status
+Reminders and Notifications
+Archive Management
+Fast Search & Filter Engines
+Data Dictionary
+Report to Excel
+Report to QDMS
+VisBiz Users and Groups
+Multi-level Security and Permissions
+External Contacts
+VisBiz Projects
+Migrate to SQL Server (or MSDE) Support
+Multi panel & multi desktop file manager.
+The modern interface helps you to have full control over your files and folders. You can immediately begin using Owl Commander, with no learning curve, because it will feel extremely familiar and comfortable to you. Fully Configurable Menus, Toolbars and Hotkeys. Support drag&drop, right-click context menus, and clipboard operations with files.
+You not need external ZIP and FTP programs - Owl Commander lets you access ZIP files and FTP sites as easily as local folders! You can copy files from anywhere and to anywhere - even from an FTP site straight into a ZIP file!
+Upload/Download Entire Folders at Once,parallel operations,automatically retry if a connection attempt failed.
+You can have several "copy" commands going simultaneously from anywhere and to anywhere
+You can view content of files (text, html, pictures and RTF)
+Very fast file and directory search, Search by file context. search in ZIP files.
+Command line for executing arbitrary commands through the system shell
+Smart statistical module
+CloneKiller will clean your hard drive of duplicate files that are just wasting space
+Workspace control allow You to save and reuse current workspace in future sessions.
+Drag-and-Drop Confirmation for ALL objects dropped into XplorPlus, whether internally or from external applications (i.e.: Explorer)
+Be in 2 places at one time with Dual Independent Folder/File List layout
+File Filters, simple and complex, inclusive and exclusive, for displaying files you want
+Compare File Lists (Folder Contents) with extensive comparison options
+Printing of folder contents, including file version information if required and available, plus more layout options.
+Full Drag-and-Drop interaction for all supported applications
+Keyboard shortcuts for nearly all commands, for efficient everyday use
+Enhanced file selection capabilities, based on Extension, as well as Type
+Start-Up folder options, including "C: root", "My Documents", "Last Used", etc.
+Enhanced Search Engine, with multiple file specs and inclusive/exclusive options, now also finds folders (new in version 1.4.2).
+Instant Font Sizing to suit your eyesight, both larger and smaller, and font selection.
+Change Font and Background colors independently for both File Lists
+Save a Copy As feature, to make a copy of a file or folder with a new name or path.
+Folder 'plus-sign' resolution for remote drive folders.
+Refresh File List (that works)
+Refresh From Here (for folders)
+Refresh All (that actually refreshes all the lists)
+Compare, Synchronise and Swap Displayed File List Contents
+Rename Multiple Files window, using a custom ‘template, with a rename preview window to check the desired results before you commit.
+Image Contact Sheet Manager window, with options for headings, orientation, image size and direction. Multi-page. Optimizes page usage.
+New Clear Work Files dialog, to Wipe or Delete unused files immediately or on Start up.
+All Windows and dialogs now open using a “Smart-Positioning” strategy to ensure visibility.
+Quickly View System Settings like Computer Name, User Name, Total RAM, Memory Usage, Processor Name, Speed and Load, Operating System, Service Pack, and more.
+Synchronise the Computer Date and Time with Internet Time Servers.
+Quickly Create an Internet Web Gallery from selected images in one or more folders.
+View the Registry, and change key settings them if youre game.
+Play Multiple selected Media files, in a playlist.
+Uses a launch bar instead the old folder tree
+Searches files by name, extension, date and type
+Can save bookmarks for the most frequented folders
+Keyboard shortcuts
+Multiuser access
+FTP support
+Virtual folders
+View/Edit on the spot
+Advanced backup between folders without re-copy of existing files
+Folder synchronization
+Deletion of duplicate files within single folder or between folders
+Compare and Copy missing files between folders
+CRC file check between two folders
+Multiple synchronization jobs in task list
+Scheduled Jobs
+Automatic sync and backup
+Run tasks simultaneously
+NTFS file permissions
+Keep copies of old files
+High Speed Data Migration Tool.
+Transfer from ANY data source to another. For example you can transfer data from an Existing Microsoft Access Database to an Existing SQL Database.
+Templates for SQL, DBF, Access, CSV and Excel.
+Transfer at high speed rates from ANY data source that has an ODBC connection without the use of our templates.
+Considerably accelerates your work
+Simplifies file and folder operations
+Ensures safety of files and folders management
+Highly configurable and convenient file management environment.
+Transparent interface. Now you can view the files on ftp or in the archive as easily as you would do it on your local computer.
+Quick view for browsing your photo and music collection or for sorting out the random chaos of your Downloads folder.
+A number of file viewers that can handle DBF, RTF, HTML, DOC, Excel and other formats.
+Additional utilities included (TreeNotes, StartUp Manager, Calculator, SmartPad and Directory Size Manager).
+Built-in file viewers supporting image viewing
+Well-thought-out multithreaded program engine allows the handling of any number of concurrent file operations (copy, download, move, search, extract, compress, upload, etc.).
+Integrated support of all common types of compressed file archives (Zip, Arj, Rar, Ace, Jar, Ha, Lha and more).
+Folder comparison system (very helpful when you need to compare two files and detect the changes/differences).
+Versatile support FTP. FTPS and SFTP protocols are support also.
+File synchronization system. The simple way to compare and merge your files and folders. You may sync folder on FTP sites.
+Size manager. Finds the folders that take up too much HD space.
+File reconstruction after the copy process is interrupted. This is a must when a huge file, such as a film, is copied).
+Advanced search system, allowing fast searching on local and network disks; now regular expressions are added.
+Multi-rename tool.
+Total Commander file plug-ins system support.
+Built-in text viewer features configurable syntax color highlighting for common programming languages (C, C++, Java, Pascal,etc.), scripting languages (Perl, PHP, VBScript, Bat,etc.) and document markup languages (HTML, XML).
+Method navigator - quick search for a necessary function or procedure in big/huge/vast files (Pascal, VB, SQL, PHP, Perl and others).
+HTML support system, quick type feature for the most commonly used tags, Internet Explorer view, code completion.
+Export in HTML and RTF with color highlighting. This is extremely convenient when publishing your sources on the web.
+View and edit MP3 tags.
+Detailed information about video files.
+Picture operations. All popular formats are supported.
+Image converter.
+Drag And Drop
+Pause / Resume
+Different destinations for each item
+Folder or single file
+Time estimate for transfer
+Simple Interface
+Side-by-side comparison of two directories
+Simultaneous multi-directories comparison
+Detect differences in a file size, timestamps, attributes
+Exclude directories from a comparison
+Explorer-style tree of embedded directories
+Basic / simple functionalities.
+Light-weight (stand-alone execution).
+Portable. (No install: just unzip and execute on the spot.)
+Easy uninstall. (Just delete the application and its related files)
+Easy intuitive user-interface / operations.
+User-definable file list filters.
+Selective renaming.
+Rename preview provided.
+Built with Embarcadero C++ Builder.
+Users can upload or download files from the host machine using their browser. These files are transferred from pre-defined shared folders that are created by the administrator.
+Access important files from your office or home machine from anywhere. The intuitive web interface allows you to move, copy, download and upload files as if you are working locally.
+Using public links you can have your clients or other business associates transfer files from your machine without having to create a user account for them.
+Modify the name and logo that appears on the screen to give a more personal touch to your clients.
+Users can easily copy, cut and paste files on the host machine using the remote clipboard operations. This allows users to move files from one folder to another on the host machine from any remote location.
+Easily zip and unzip files on the host machine from a remote location, allowing users to compress files before transferring them over the Internet saving tremendous amount of network traffic and time.
+SynaMan is a product, not a service. This means you purchase it once and use if for ever. There are no monthly fees, setup fees, transfer fees or usage fees.
+Actual file transfers as well as any administrative task can be optionally encrypted using SSL. A self-signed SSL certificate comes bundled with the product that gets you up and running withing minutes.
+Create unlimited user accounts, which are protected by user id and passwords. Administrators can associate multiple shared folders to these accounts with customizable read/write access.
+User access can be restricted by IP addresses for further security.
+Using built-in audit trail and logging mechanism administrator can easily back-track any user's activity in the past. Using the audit trail log you can answer questions like who logged into the system and what did they do.
+The system automatically sends email alerts to the administrator when a security violation occurs. For example, an alert is generated when someone tries to login with incorrect password more than 5 times.
+Notification messages can be sent via email when someone uploads or downloads files from a specified folder. This is a handy feature if you are using SynaMan as a central repository for a project.
+Works with any operating system
+Upload and download files using a web browser. No other software is required on the client end. Works with all popular browsers including Internet Explorer, Mozilla Firefox, Apple Safari and Google Chrome.
+Installing SynaMan is very easy. Simply download the installer and run it. An interactive wizard will guide you through the setup process. Within minutes you can have your clients/colleagues transfer files.
+No other software is required to run SynaMan. There is no need to configure any web, database, or FTP server. Everything required to run SynaMan is included and gets configured automatically during installation.
+Use our free IP discovery service to locate your machine on the Internet if you are using SynaMan on a dynamic IP address, such as home.
+Important email alerts are sent to the administrator when suspicious activity is observed on the host machine. For example, an alert is generated if someone tries to guess a user's password.
+SynaMan automatically checks for new releases and bug fixes and updates itself on a regular basis. Once the updates are downloaded and verified, they get applied to the running instance without any human interaction.
+The web interface exposed by SynaMan is AJAX enabled, providing a smooth and user-friendly environment to work with. Users see files and folders as they appear on their local machine.
+Since SynaMan is a 100% web-based solution, all you need is a browser to connect, administer and transfer files.
+Easy to use and searches are fast
+Search files of a certain type, size, modified time and created time
+Remove and move files in batch
+Can pause and resume search process
+Identifies and sorts music and movies into duplicate clusters
+Finds all track references in iTunes which are missing, and puts them into the "Non-existent Tracks" group.
+Browses your music library and finds which of the duplicates you want to keep and which to delete.
+Evaluates the play count and dates added to determine the best tracks
+Tracks are marked with a tick if they are to be deleted.
+Goes in iTunes and deletes both the track reference from iTunes and the file itself if you have the option checked in "Preferences"
+You can send the items to the Recycle Bin or permanently remove them from the computer
+Multiple windows: Up to four windows can be opened simultaneously. They can be tiled, cascaded or arranged any way you want to make copying and moving files far easier.
+File previews: An optional preview window can be opened to display the contents of files. The types of files that can be displayed include graphics, word processing documents, text files, PDFs, spreadsheets, multimedia files and others.
+File filters to include or exclude files meeting particular specifications
+Expand the folder tree for a specific folder or an entire drive to make all folders visible at once
+Display and print listing of folder sizes (number of files and total bytes for each folder) for the entire tree or any part
+Print files from the preview window
+Convert graphics to different formats
+View graphic thumbnails
+Create and extract from Zip files, extract from RAR files
+Group rename: change the extension of a group of files all at once
+Change file date and time
+Encrypt and decrypt files
+Destroy files by writing over their contents so they cannot be recovered
+System information display, including current memory usage
+Go straight to a folder by name
+Built-in command line to run any Windows or DOS command
+Quick access to system functions such as Control Panel, clipboard viewer, calculator, DOS prompt, format diskette, copy diskette
+User-defined programs can be added to the menu
+Thumbnail view of files available in any version of Windows
+Quick search function based on user-defined criteria
+XML to CSV conversion
+Filter data columns
+Remove non numeric text
+Index and split large files
+Record macros
+Press Ctrl+P to quickly jump to a directory. fman remembers which folders you visit most often and suggests them first. This is so much quicker than manually navigating through directory hierarchies.
+Completely tailor fman to your needs via its powerful plugin system. Install plugins created by others – or write your own and share them with the community.
+Launched in 2016, fman is under very active development. We're committed to developing it for years. If progress ever stalls, fman's open source promise guarantees that you will never be locked into an unmaintained platform.
+Scans any location or drive (CD,DVD, USB, Network path)
+Quick search by FileName,Path of file type
+Create, rename and delete your entries
+Add as many files and folders as you want to rename
+Change the file order
+Define how the new file names will look like concerning file date, numbers, customized text and so on
+Decide by your own how date and time in file names should be formatted
+Substitute drive letter for any path
+Restore virtual drives after system reboot
+Single Pass
+DoD 5223-22M (3 Passes)
+NSA (7 Passes)
+Guttman (35 Passes)
+Wipe Methods
+View All Assemblies form GAC.
+Search assemblies based from part of assembly name or public key.
+Sort the searched list based on any assembly attribute.
+Select one or more assemblies and remove them. Application can remove assemblies which is installed by any installer.
+Refresh search assemblies.
+Double Click on row to open assembly in IL Disassembler (ildasm). Note that you have to set proper path environment variable so that "ildasm" can work.
+SwiftCompare lite is a free file compare and folder synchronization tool for Windows. Compare and merge any type of files (including binary files), folders or drives using this freeware file compare tool. A light version of SwiftCompare, SwiftCompare lite is very useful for business people, programmers, web developers, travelers who need to work at multiple sites (on different PCs), home users who need to keep their photos, music files, videos etc. organized, and just about anybody who keeps multiple backups or backups of backups of his stuff to protect him from any disaster/data corruption/accidental deletion. People who copy/burn important data onto a floppy, CD/DVD ROM before taking the latter to office/home/presentation site can use the binary compare function of SwiftCompare lite to make sure that the data copied/burned is correct to the last byte, hence saving them from possible frustation or embarrassment
+Full drag and drop
+Filename filtering
+Command Line Scripts and Command Line Switches allow you to easily process multiple operations. Scripts can also be created interactively from the main dialog.
+Easily change the case of file names and number files sequentially. Time and date variables can also be used during renames.
+Built-in viewer that displays the actual differences between two files and output the results (optionally) to a formatted text file.
+Easily find Duplicate Files on your drive.
+Project management.
+File System and FTP Plug-in.
+Overlayed folder structures for better overview.
+Simple and recursive compare of folders and files.
+Binary file comparison.
+Different display filters.
+Ignoring folders and files by name, relative path, absolute path or pattern.
+Manual change of synchronization settings.
+Synchronization of folders and files with the possibility to choose alternative destination and backup paths.
+Throughput limit and pause for all file transfers.
+Windows Explorer compatible Drag & Drop.
+Opening, deleting and renaming files and folders.
+Defining custom file commands, including the integration of graphical file comparison tools.
+Creating virtual structures by mapping locations as subfolders.
+Defining tasks and bundling them to jobs for automated execution (command line / scheduler).
+The embedded advanced search algorithm and content analysis technology enables it to quickly compare file content bit by bit and accurately identify all the duplicates in the selected folders and disk.
+The customized search settings enable you to exclude subfolders, exclude or include specific file types, define file size range and modified date, etc. The flexibility lets you pin down the search scale and speed up the scanning process.
+It finds duplicate files of all types. With convenient file-type selection guide, you can search for files of specific types, such as music, videos, emails, images, Open Office documents, MS office documents, etc.
+You can add and scan multiple folders or drives on your computer at a time. Besides, it supports any removable storage devices, such as USB flash drive, iPhone, iPod, PSP, Zune, MP3/MP4 player, camera and so on.
+Finding and removing duplicates not only frees up your disk space and reduces clutter, back up size and time, but also help to speed up file indexing and therefore improve your computer performance.
+As default, Smart Duplicate Finder will exclude system files, application files, hidden and protected files, avoiding system crash because of mistakenly removing critical files.
+Very easy-to-use interface
+Program can also read from and write to SD cards, USB sticks, external drives etc.
+Add as many folders as you want where the program should replace files
+Add as many files as you want as source files that are used to overwrite the old ones
+Define what files are worth overwriting concerning file size, file dates and much more
+Check later what you replaced with the history function
+Print out your history file via network or on a local printer
+Load and save replacement projects
+Arrange your data by type, with a hierarchy of labels
+Search your data by name, rating, date added, last time opened, type, labels, artist, actor, duration
+Rate your data and add comments
+Fill information about your data, or simply retrieve it from the Internet (automatically):  poster, previews (automatically taken from the video), list of actors, directors, producers, writers, synopsis, comments, rating from Internet users, album covers, images, list of tracks with information, artist and album name, year
+Play your media in an integrated or external media player, directly on your TV (using Internet Box if supported, i.e. SFR Neuf Box Media Center)
+Explorer of files with tabs
+Surlignage of the files according to their extensions
+Fast outline of the photographs, textual files
+Filtering of the list of the files to find a file quickly
+Navigation in archive's files
+Decompression of the files to the format ZIP, Rar, Ace, Cab
+Calculation of the size occupied by your files
+Rotation of the photographs
+Personalization of the icons of the files
+Management of the favorite files
+FTP access
+Internal system of copy of files
+Control CRC of the files
+Search for files
+Comparison of files
+Editor of tags ID3 (mp3)
+Cutting of files
+Manage files, directories, and drives, and nothing else!
+Use instead of Windows Explorer.
+Accurate searches for files.
+Print file listings.
+All the key information right in the main window.
+Complete, easy-to-use online documentation.
+Easy access to files and tools you use often.
+Clear out all temporary files.
+Launch files upon detection of removable media.
+Shared directory icons.
+Customize the view (font, background and tag color)
+Set the minimum and maximum tag size
+Show only specific tags
+Customize filters by editing file extensions
+Sort files and folders by columns
+Hide and show any columns
+Highlights incorrect elements
+Optional launch at the system start
+Icon in the notification area
+Browsing through the directories
+Deleting files and directories
+Copy or move files and directories
+Supporting drag&drop
+Check the synchronization state of the files
+Synchronize two directories
+Copy only the newer files to a other directory
+PopUp Menu
+Property window
+Open files by doubleclick or popup menu in external program
+Rename files with popup menu
+Progress dialog when copying or moving or deleteing files and directories
+Manager all your movies, TV shows, and concerts. Import new files and rename them automatically
+Scrape The Movie DB, The TV DB, IMDB, Cinefacts, Videobuster and OFDb. Logos, ClearArts and more are scraped from fanart.tv
+MediaElch creates .nfo files for use with Kodi. Thanks to extensive configuration options, other media centers are supported as well
+MediaElch is open source and developed continuously. Feature suggestions can be made in our community.
+Running invisibly
+Prevent file deletions on start up
+Recordthe name and directory of the deleted file as well as the action performed on it
+Auto-tag files based on folders, user defined rules or manually
+Use virtual folders and regular folders together
+Works on files, folders and URLs (including Gmail)
+Manage multi-file projects on network drives
+On-the-fly group files far away from each other
+Find and clean file duplicates
+Search your files based on what they're related to
+Access your files through different paths
+Combine virtual folders to filter files
+organize volumes, folders, and files into categories;
+browse ZIP, ARJ, RAR, CAB, ARC, ACE, LZH, and TAR archives;
+add comments to each file, folder, and disk;
+search for files and folders using a filename or your own comments (with wildcards), limiting the search results by date, size, and category;
+search for files in archives;
+search for duplicated files;
+generate reports;
+import descriptions from files;
+extract descriptions (including ID3 tags) from WAV, MP3, WMA, and Ogg Vorbis files;
+extract CD information from CDDB;
+extract descriptions from HTML, Adobe Acrobat PDF, and Microsoft Office files;
+multilanguage interface (more than 30 languages are supported).
+Load file contents of folders and subfolders
+Display the length and bit rate of MP3 files
+Sort files by name, size, type, date, duration, or bit rate
+Copy all information / selected items to Clipboard (tab-delimited CSV mode)
+Export all information / selected items only to MHT web archive, generic XML, or XML with defined XSLT template
+Support for UTF-8 encoding mode
+File Viewer Express - Search for many common file types, or groups of file types, display, print, organize or send files over the internet.
+bullet
+Find and Display Pictures, Videos, Sounds, Music, Text Files, Documents, DataSnap Database Files on your computer.
+bullet
+Picture File Types supported are JPG, JPG2000, GIF, uncompressed TIF, TIFF, BMP, ICO, PCX, WMF, EMF, PSD, PNG, TGA,   etc.
+bullet
+View Text, DOC (Word), HTM, HTML, SHTML, SHTM, ASP, PNP, PDF, RTF, WRI, SYS, BAT, BAK, LST, INI, DOS, WPS,  CDS (Datasnap) Files.
+bullet
+Find phrases, letters and numbers in Text Files.
+bullet
+Quick Color editing and resizing of pictures or images.
+bullet
+Find and Play WAV, MID, WMA, WMV, AVI, MPG, MPEG, MP4, MOV, MP3, FLV files.
+bullet
+Separate and multiple Play Lists for Music and Video Files.
+bullet
+Some Image Editing features as Contrast, Brightness, Resize etc.
+bullet
+Quick Print of Pictures, Text, Documents, Database (Access,Excel) and DataSnap (cds) files that are viewable by File Viewer Express.
+bullet
+Print a list of all occurrences of a file or searchable file types on your disk or CD Rom, and save in a Text File.
+bullet
+Send Files you can find with File Viewer Express by E-Mail if you use a stand alone E-Mail Program as Outlook Express..
+bullet
+Receive Files over the internet by same E-Mail Tab.
+bullet
+Organize any number of files in groups you create, and define in your own file database, with easy tabular viewing for quick location, and retrieval of frequently used files.
+bullet
+Sort and View Cataloged Files by Name, Description, Search Word, and Groups you define.
+bullet
+Organize your entire disk with one procedure, automatically grouping files as Pictures, Sounds,
+bullet
+Music, Video, Text, Documents, Database, or Spread Sheets using File Cataloging.
+bullet
+Set your own style for Windows, List boxes, Entry Fields, and ThumbNails.
+bullet
+Complete Help Text for easy program use.
+bullet
+Window's Explorer Style Interface, and click for viewing of supported files.
+bullet
+Supports source view of Adobe PDF Files !
+bullet
+Windows version views MS Access, Paradox, Excel and DataSnap, SQLLite Database Files.
+bullet
+Create Slide Shows of Photo Albums with music from Play Lists and Transitional Effects.
+bullet
+Organize Pictures in Photo Albums, Videos and Music in Play Lists, Documents, Text, and Database Files in Lists.
+bullet
+Get Photos from the internet.
+View File Information
+Copy File Data
+Four Different Types of Views
+File Identifier
+Drag-and-drop files or directories
+Recursive calculation for directory structures (optional)
+Result list can be sorted (ascending/descending) by any checksum type
+Link to files can be resolved (optional)
+Hash values can be displayed in hexadecimal or MIME-compatible base64 mode
+Display of detailed file properties like attributes, size, and date of creation
+Result list can be copied or saved as CSV or HTML files
+During long run calculation, the computing progression is displayed
+Statistics on computation (average speed rate, file size..) are automatically collected
+A warning message may be displayed before a time consuming computation is started
+Multiple files computation tasks may be aborted during the calculation
+Checksum calculation for a very big files may be aborted too
+All options are maintained in an INI file, which is automatically saved in the current user's application data directory and can be configured
+Comparing File Contents, 100% Accurate Result
+High-speed Comparison Algorithm, Very Fast
+Very Easy to Use, Only Need 1 Click to Get Result
+Flexible Sources: Drive(s), Folder(s), Files, Size(s) and Type(s)
+Save / Load the Result (Duplicate Files)
+Helpful Options: Sub Folders, System/Hidden Files, Excluding Paths
+Invert Checks: Operating the Result Easily
+Fast Filter: Quickly Filter the Duplicate Files by Size
+Sorts Result by Size in Descending Order
+Marks the Adjacent Duplicate File Groups by Different Colors
+Can set and reset attributes,
+Copy and manipulate date-time stamps
+Insert date-time information into file name
+Rename files
+Change files extensions
+Print folder contents.
+Ideal tool to annotate your documents.
+You can use custom filters, templates, batch process files, search files, mask and shift date-time, print folder contents.
+Preview result mode.
+Command line mode.
+Rich features.
+Atmfiler can handle folders that does not exist for the moment, like a USB-stick. When the USB becomes available the sync will start.
+There are no limitations if the folders are local or on the network.
+You can ignore subfolders if you like.
+You can let the application wait x days before it syncs.
+Logging all the events done.
+Filters and wildcard for just syncing *.jpg files, or for example files that starts with PHOTO. Unlimited filter rules per folder.
+Three way to handle file collisions, overwrite, create a new file and skip.
+You can create subfolders to easy manage photos for example, theese are available: MMMM yyyy, yyyyMMdd with both date of the copied file and file creation date. (january 2014 or 20140101)
+Possible to add a new file prefix, like COPIED_,  that will then be COPIED_file.txt (only available in move)
+Move files to a folder, as soon as any file arrives (which contains all the above possible parameters) the file is transfered to one or unlimited amount of destination folders.
+Unlimited numbers of master-folders aswell.
+Supports to import EML files that are exported from Windows Live Mail, Windows Mail, Outlook Express into Mac Mail.
+Import EML into Mac Mail with accurate email properties like: To, Cc, Bcc, From, Sent & Received date, Attachments.
+This program preserves all formatting (text & html) of EML files.
+Batch & Bulk Mode to Import EML into Mac Mail
+Split a file by size.
+Split a file by number.
+Split a file by segment.
+Merge the ripped units of the file.
+The numbering function is particularly helpful with the comfortable administration of picture or music collections. As user of WinFR Folders you have many options to number folders. It is possible to place the numbering before and after the folder names.
+This function allows the changing of an existing numbering. You can insert new folders into numbering, remove folders from numbering, or change the parameters of the numbering
+With this option date and time of creation or last modification can be added to the folder names. Therefore different date/time formats are available or can be defined by your own.
+Like file names, also folder names can have an extension. To change this for many folders at once, this functionality is available. You can simply replace the existing folder extension, or keep it as part of the folder name and add a new one.
+Four functions of capitalization are available, which should cover the most usual requirements. There is the option to apply this function to folder names only, to folder extensions only, or to both.
+With this option the folder names are extended by a prefix and/or suffix, without changing the actual core of the folder name.
+With the help of this option single characters or character strings of a folder name can be removed or replaced by new characters or character string (e.g. replacing of underlines by blanks).
+Insert
+This menu option allows to insert charakter strings on free choosable places of the folder name. There is the possibility to select if the counting starts at the beginning or at the end of the file name
+Herewith you can freely move parts of folder names to new positions.
+A name structure provides the functionality to assemble folder names by a specific schema. Beside normal text (which will be taken over one-to-one into the file name) also so called elements (tags) are supported.
+By means of this option new folder names can be determined by a list. For this WinFR Folders uses CSV files which among others can be created with customary spreadsheet programs.
+Changing folder attributes - set or delete attributes like "Hidden", "Archive" etc., or change date/time of folders
+Creation of subfolders
+Deleting folders
+Copy or move folders
+Creating a folder list - creates a list of folders opened in WinFR Folders
+Resizable window
+Different ways to open folders - (by dialogue, by Drag and Drop from other applications like the Windows explorer, or by means of folder lists)
+Free-to-define filters at the Open-Dialog
+Number of folders to open only limited by the system
+Instantly updated preview
+Sorting of the preview by clicking the column header
+Manual sorting of the preview by Drag'n'Drop
+Multiple undo functionality - Thus the possibility exists of returning at any time to a previous status of the modifications without having to reject directly all modifications made up to then
+History functionality - cancel changes at folder names, which were already taken over or longer time to be past
+Scripting functionality - Allows you to record complex renaming actions and to re-use them at a later time
+Show long names as tooltiptext
+Save form settings
+Edit folder names manually
+Coloured marking of changed folder names
+Get positions of characters - makes it easier to insert or replace characters at the right position
+b>Multi-language-ability - the implementation of languages other than English and German is also possible
+Command line options - allows controlling the program from command line
+Easy program updates - it's not needed updating the program manually anymore
+You take data from a server on a laptop on the road you must synchronize your laptop with the server to and returning from travel. You often copy on your laptop a large volume of data hosted on a server: synchronizing a large volume of data is incomparably faster since only one the files that are not up to date are copied.
+You need to maintain folders or discs up to date with recent changes (mirroring RAID). WinSynchro can manage your synchronizations and run them automatically at intervals of time or specific times (Pro version).
+With the ability to perform unidirectional or bidirectional synchronization, Winsynchro can be used as a manager of automatic or manual backups. Backups are very fast as only files that are not up to date in the backup are copied.
+Winsynchro can be used very quickly from the context menu that appears on all folders. It opens the window of WinSynchro in compact mode for a bidirectional synchronization of the folder with its image.
+At the end of each synchronization, a report is created and saved in the folders.
+Get a quick and complete overview of the hierachical structure and content of a new folder you have received.
+Find the most recently modified files anywhere in a folder hierarchy of documents.
+Find the files and folders taking up the most space on your hard drive, and move them to a different drive.
+Find duplicate files (files with identical content) in your documents folder and delete them.
+Reliably copy the entire content of one external hard drive to another.
+Backup the files from your main hard drive to an external drive.
+Search for files of a paticular name (or partial path) quickly in a big hierarchy of files.
+Extract files of a particular type (for example image files) out of a hierarchy and move them to a different root folder.
+Complete integration of NTFS, DFS and Active Directory administration into a single tool
+A powerful visual query designer for AD searches, create complex searches with no need to manually write LDAP filters
+A detailed log of all administrative tasks performed
+Superior workflow compared to MMC and Explorer exponentially increases your productivity

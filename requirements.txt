@@ -1,0 +1,9 @@
+requests
+BeautifulSoup4
+lxml
+selenium
+gensim
+spacy
+scikit-learn
+pandas
+matplotlib

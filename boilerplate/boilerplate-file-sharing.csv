@@ -1,0 +1,567 @@
+id,verb,object,detail
+0,download,one file,more user
+0,download,corruption,download speed
+0,improve,fast connection,classical downloading segment position
+0,s,an ize,file size
+0,decide,chunk speed,NA
+1,download,file,other user
+1,download,download speed,network
+2,be,upload speed limit,opened slot hub
+3,disconnect,source,certain value
+3,be,certain time,speed
+3,go,the source,the set value
+3,avoid,unnecessary slot usage,NA
+4,set,sound,popup
+4,accord,balloon,emoticon
+5,web,link,new window
+6,show,timestamps,NA
+7,check,the result,the lowest status bar
+8,autocomplete,user name,main chat
+9,skip,list file,t
+10,popup,menu,url
+10,winamp,playlist,NA
+11,file,the popup menu,the search result window
+12,notification,pm,the user
+12,go,offline,t
+12,write,message,NA
+13,autosearch,alternative,both folder
+14,specify,text color,NA
+15,define,color,main chat multicolor
+16,filter,the user list,user
+16,find,the list,NA
+17,add,icon,the window tab
+17,see,that specific tab,NA
+18,fast,algorithm,the search
+19,customize,color,the progress bar
+19,customize,the transfer window,NA
+20,search,alternate,release
+21,tile,subwindows,NA
+22,option,the viewmenu,the transfer window
+23,file,menu,the transfer menu
+23,open,incomplete file,NA
+24,type,eg,g search string
+24,search,google,chat
+25,file,information,transfer window
+26,global,torrent speed,NA
+28,set,download location relocate feature,file
+29,add,torrent dialog,magnet link
+30,add,option,user activity
+30,detect,the computer,NA
+31,tiger,tree hash,tth
+31,use,file integrity,NA
+32,select,type size,NA
+33,resume,downloads,optional search
+34,logging,option,configuration
+34,log,chat private message downloads,uploads
+35,auto,upnp router,NA
+36,magnet,link support,specific content
+38,save,user s file list,NA
+39,download,speed,torrent
+41,set,the forward,your router
+42,use,a proxy,both tracker
+42,use,peer,communication
+43,set,a default download,completed file
+44,import,torrent,a set dir
+45,include,quick help,NA
+46,embed,tracker,your own torrent automate
+46,embed,periodic scanning,a dir
+47,distribute,hash table host,the tracker
+48,dynamic,bandwidth management download,other application
+49,detail,stats,the health
+49,provide,a safer more controlled experience,NA
+50,reduce,hassle,fast downloads
+51,global,torrent speed,NA
+52,write,c stable and fast very low cpu usage,NA
+53,multiple,simultaneous downloads ability,download file
+53,select,one torrent,file priority
+54,speed,a download ,NA
+55,use,all default setting,NA
+56,get,the max download rate,NA
+57,s,the read write frequency,extra memory usage
+57,be,the cost,NA
+58,allocate,no longtime disk allocation,the disk fragment
+59,scan,ning,resume
+60,support,torrent share exchange torrent file,NA
+61,support,longtime seeding,download speed
+62,use,only one tcp listening port,NA
+64,auto,config port mapping,router upnp support
+64,require,router window,xp
+65,support,mutitracker torrent format,extension udp tracker proptocol
+67,use,interface,NA
+68,search,a multitude,site
+68,search,a single click,NA
+69,return,all result,a single list
+70,download,the list,the website source page
+70,visit,complete detail,NA
+71,complete,filtering,sorting
+71,complete,result,any column
+72,download,site,user registration
+72,use,your system s cooky,NA
+73,complete,downloading transparency,an engine status screen
+73,show,a comprehensive breakdown,exactly what
+73,show,page,the result
+73,load,each page,NA
+74,get,update,engine
+74,get,torrent harvester,NA
+75,create,your own engine,your favourite site
+75,use,the inbuilt engine designer,your own torrent harvester update website
+75,create,engine,other user
+76,allow,creation,search engine
+77,complete,help,the way
+78,support,peerguardian binary list format code,few minor modification
+79,autoopen,chat work,the entry
+79,rename,hub chatroom,NA
+80,toolbar,position,NA
+81,explorer,locking,toolbars
+81,add,a toolbar context menu toolbar,NA
+82,use,autocomplete,search window
+82,use,this option,revconnect
+83,keep,finished uploads downloads,session
+85,add,view menu,NA
+86,display,full info,file list
+86,display,download queue,NA
+87,place,all non hub tab,front pm window
+87,count,a hub tab,NA
+88,use,zion,tab
+89,mini,tab hub tab,NA
+90,blend,offline search result,NA
+91,option,chat,favorite hub property
+92,auto,chat message box set max value,expert
+93,consider,old client,tth
+93,consider,a cheating,NA
+94,use,wildcards,ignorelist use
+94,look,the list,NA
+95,toggle,speed indicator,stealthy styled progress bar
+96,check,finished file,virus
+97,use,the old way,hub name default
+99,highlight,search window,user
+99,share,smt,NA
+100,chat,use rc,NA
+101,regexp,adlsearch,related feature
+101,relate,zion blue,NA
+102,use,one layout,all hub window
+103,modify,the present hub,chat room feature
+103,s,raw or uer command,added note
+104,extract,metadata,profile xml file
+106,use,organized search,the advanced search
+106,set,individual parameter,search result
+107,imagine,all the latest movie music game,software
+107,be,one place,easytouse search
+107,filtrate,result,various criterion
+108,embed,multiformat medium player mediaget,music
+108,listen,movie,their download
+108,be,just press play,NA
+109,adjust,pas band,fast recovery
+109,adjust,interrupted download serial torrent integration,NA
+110,download,music,video
+110,add,your medium database,your collection
+110,sort,any way,a file name
+110,enter,a name,the artist
+110,find,a certain file result,the request
+111,find,more source and downloads file,many user
+111,find,the speed,your downloads
+111,enjoy,the most easytouse bittorrent client,NA
+112,are,galaxy search engine help,exactly what
+112,want,the best airfare,every single torrent site
+112,perform,multiple web search,NA
+113,are,galaxy work,firewall
+113,require,zero configuration,restricted network
+113,be,data sharing,two peer
+113,enable,a firewall,NA
+114,client,several network,one reliable network source exchange kad
+115,be,an open testphase emule,kad
+116,emule,queue and credit system,the file
+116,upload,the network,NA
+117,check,corruption,an error free file
+118,speed,the correction,corrupted part
+119,auto,source management,many downloads
+120,look,your video,the video lan client
+121,have,quick access,the internet
+122,create,category,your download
+123,find,the file,emule
+123,want,a wide range,search possibility
+123,include,server local and global web based jigle,filedonkey
+123,base,kad,alpha
+124,use,very complex boolean search,the search
+125,send,message,other client
+125,add,a friend,your friend
+126,chat,other downloaders,chatter
+128,support,multiple torrent,one instance
+129,load,torrent info,torrent file
+130,support,tab session,current session
+133,par,all data,all running utorrent azureus
+133,run,abc instance,NA
+134,select,upload,speed
+135,select,random value,upload
+135,select,speed,tracker update
+136,select,tracker response interval program,this value
+136,select,tracker,NA
+138,show,uploaded downloaded tracker update interval,more info
+138,download,realtime,NA
+139,support,custom announce,client simulation parameter
+140,support,different type,proxy http
+141,keep,a log,any error
+141,send,the developer,the log
+141,fix,the problem,NA
+142,inform,new version,NA
+143,work,almost all bittorrent tracker,NA
+144,download,one file,multiple user
+144,download,the same time,corruption
+144,improve,your download speed,NA
+145,prevent,user,precious free slot
+145,exhaust,the network,NA
+146,reward,user,the network
+146,e,othr clint,NA
+147,client,the network,a unique bit rsa public key
+147,grant,earned credit,other user
+149,recommend,quality file,ease
+149,recommend,a look,the share master
+150,decide,your downloads,find source
+151,use,the power,network
+152,mean,access,a wide variety
+152,look,no further shareaza,NA
+153,experience,downloads,fast shareaza
+153,swarm,four network,NA
+154,say,adios,corrupted file
+154,corrupt,that skip,shareaza detects
+154,fix,corruption,the download completes
+155,find,that file,global searching
+156,search,the entire network,NA
+157,display,a new window,your search result
+157,be,overwritten shareaza,the search
+158,preview,user comment,rating
+159,get,picture,movie preview
+159,get,the search panel,comment
+159,view,rating,user
+159,write,shareaza ensures,the real deal
+161,choose,dozen,different look
+161,make,your own skin,the world shareaza
+161,suit,your taste,NA
+162,translate,over ten different language,counting
+162,equip,full unicode support,true international search and downloads shareaza
+162,be,the world,NA
+164,extend,the functionality,shareaza
+164,extend,plugin module,the sky
+164,be,the limit,NA
+166,play,all type,video and audio file watch visualisation edit playlist
+166,play,the er,a snazzy remote shareaza
+166,be,your onestop medium solution,NA
+167,view,that video file,the ability
+167,preview,your incomplete audio and video file,NA
+168,chat,a friend,NA
+169,chat,friend,shareaza pas
+169,use,a message,another shareaza user
+170,have,the ability,malicious company
+170,block,client shareaza,NA
+171,contact,list,instant messaging
+171,contact,private mail,NA
+174,improve,the client,a more intuitive and appealing gui server transfer
+174,appeal,statistic window,better screen usage
+174,revamp,greater customization,NA
+175,conceive,emule,official
+175,control,your client,feature
+175,have,some extended feature,a intruder detection
+175,extend,a graphical queue list client version information automatic compression support gzip,much more emule xp and emule light template
+175,include,the main distribution,our web server template
+175,reduce,required traffic,compatibility
+175,keep,different browser,NA
+176,take,special care,the interface design
+176,see,any misplaced box,a cut string image
+176,use,our client,site
+176,do,the best way,graphic designer
+177,localization,team,translator
+177,localize,new string,currently supported language basque belarusian catalan
+177,chinesesimplifi,extremaduran finnish french german greek,NA
+178,include,window user releasers,a lot
+178,include,different system configuration,an extensive testing process
+178,have,a release,t
+178,mean,the client,bug
+178,win,the majority,the user
+179,static,server priority priority,static server
+179,change,the gui,user
+179,change,the configuration file,NA
+180,rating,comment,file
+180,rat,a better  information,user
+180,get,an idea,the file rating
+180,get,several level,quality
+180,inform,this system,remote user
+180,accumulate,an average value,the thermometer style
+181,progress,improved upload  bar,a better glimpse
+181,give,the status,the number
+181,show,each client,a currently downloading part
+182,ask,another file management,the protocol
+182,allow,only one file,the same time
+182,transfer,a single client,other request
+182,queue,the transferring file,our client
+182,show,source,other file
+182,request,each single file source list,another file
+183,store,source,your client
+183,close,long period source,the source exchange protocol
+183,recover,rare file,the obtained source
+183,obtain,other session,a file
+184,show,different mule icon different color,the official color
+184,relate,the software,a better insight
+184,give,the client type distribution,your queue
+184,connect,credit friend,status
+184,show,different icon modification,NA
+185,be,your download queue,t
+185,have,chunk,the file
+185,use,a slot,this kind
+185,remove,the max source,a file
+186,download,queue progress queue progress,color coding progression regression
+186,show,the same position,information
+186,lose,previous source status check,NA
+187,set,the main incoming directory destination directory,every downloading file
+187,download,completion,a file
+187,transfer,that directory,NA
+188,filename,cleanup,this feature
+188,clean,filename unwanted advertisement string or noncased file,a more pleasant way
+189,improved,search,file
+189,contain,string,support
+189,be,filedonkey,the selected search method
+189,retain,session,need
+189,change,your preferred choice,a new search
+190,enhanced,information,search result
+190,enhance,additional information,the date
+190,provide,server,a complete source
+190,see,the specific file,this information
+190,be,file selection,the risk
+190,stay,incomplete file medium information length bitrate,codec
+190,provide,medium content file,search result average file rating comment
+190,be,the estimation,the number
+191,relate,file search,a related search
+191,relate,the file,the client
+191,share,the given file,related companion file
+191,anomaly,file distribution,NA
+192,part,traffic,information
+192,spread,application,which file
+192,be,releasers,this information
+192,obtain,the client,all transfer information
+192,store,the plus team,the second method
+192,know,your client,NA
+193,part,status,client
+193,ask,rare part,this isn t
+193,need,more time,mind
+193,spread,a feature,disable access
+193,disable,these part,the client
+194,jumpstart,the initial release,a file
+194,be,the problem,some part
+194,be,the file,time
+194,transfer,all jumpstart,a release
+194,supervise,the spread,the different chunk
+194,be,an automated and intelligent process,NA
+195,upload,the protocol,a way
+195,design,full chunk,a chunk
+195,have,a size,that part
+195,share,the world,the zz upload system
+195,prioritize,the upload,your upload speed
+195,maximize,trickle slot,these slot
+195,use,the other downloading client,the speed
+195,prioritize,a level transfer speed,all the downloading client
+195,download,a faster spread,file
+196,upload,a faster spread small file,NA
+197,shell,menu,shared file
+197,share,a shell menu,the file handling option
+197,support,the operating system,NA
+198,doubleclick,behavior,a possibility
+198,provide,the doubleclick action,source
+198,let,a user,which way
+199,allow,customization,the font style
+199,allow,size,NA
+200,smooth,file completion,a custom
+200,make,copy,one completing file
+200,let,a much more responsive system,NA
+201,message,filtering,disable message
+201,contain,filtered word,an option
+201,keep,the log,NA
+202,comment,filtering,disable comment
+202,contain,filtered word,an option
+202,keep,the log,NA
+203,allow,faster file,the rarest and or complete chunk
+204,save,bandwidth,download speed
+204,increase,dual network capacity environment,your pc
+204,be,the internet,a lan
+204,discover,other local lan source,these client
+204,upload,your client s normal  limit,people
+204,share,an internet connection,other emule plus user student network home network and metropolitan area network
+204,support,multicast data,NA
+205,complete,source,a new column
+205,complete,shared file window,a range
+205,show,possible value,the number
+205,receive,enough data,a total range
+205,see,an approximate value,a sign tip
+205,precede,not visible feature,NA
+206,share,file permission permission,a file
+206,show,the shared file list,a remote user
+206,request,this feature,comprehensive flexibility
+206,report,only desirable shared file,particular user category
+207,auto,download list,every x minute client
+207,auto,xml file,preconfigured location
+207,contain,those link,specified category
+207,download,first spreading,file
+208,improved,source exchange track,all file request
+208,improve,not only client,some file
+208,wait,queue,more source
+208,provide,source exchange request,a some client
+208,request,several file,NA
+209,support,large file maximum ed file size,byte byte
+210,instal,any file,your dropbox folder
+210,be,any other computer,dropbox
+210,instal,a well,the web
+210,sync,your other computer,NA
+211,delete,page,a meeting
+211,have,a handy dropbox feature,the ability
+211,undelete,file,any previous version
+212,share,file,folder
+212,be,music,buddy doc
+212,be,colleague,photo
+212,re,dropbox user,NA
+213,ob,speed,dropbox
+213,be,the way,file
+213,handle,example,a change
+213,make,a huge file dropbox,the piece
+213,update,the file,NA
+214,transport,ssl,bank use
+215,complete,compromised file,NA
+216,search,userspecified interval,NA
+218,pause,downloads,NA
+219,save,auto load,startup
+220,save,auto load,startup
+221,clean,any adware,spyware
+222,finished,wrong file,NA
+223,find,more source,user
+223,specify,interval,NA
+225,be,a system tray icon,NA
+226,finished,wrong file,NA
+227,find,more source,userspecified interval
+229,be,a system tray icon,NA
+230,save,auto load,startup
+231,clean,any adware,spyware
+232,upload,speed limit,NA
+233,install,the program,a single torrent download
+234,s,additional feature auto tartup update file aociation,installation
+235,allow,deluge,a a daemon
+236,connect,daemon,NA
+239,store,your file,NA
+240,share,file,realtime
+241,create,new document spreadsheet,presentation
+242,integration,gmail,google
+243,open,file type,your browser
+245,create,revision,your stored content
+246,finished,wrong file,NA
+247,find,more source,userspecified interval
+248,save,auto load,startup
+250,be,a system tray icon,NA
+251,customize,traffic,NA
+252,turn,download report,seeder emulation
+253,turn,upload report,network problem emulation
+255,move,a different folder,NA
+256,control,transmission,the web
+256,use,rpc,NA
+257,use,upnp natpmp,NA
+258,fast,peer caching,NA
+259,update,the same bluetack peer list,peerguardian
+259,use,peerblock,NA
+262,operate,interface,NA
+264,operable,system tray icon,convenient and faster use
+265,search,multiple source,userspecified interval
+266,keep,configuration,last run and auto load
+266,keep,startup,NA
+267,access,your onedrive right,window explorer photo document
+267,access,all your other important file,NA
+268,add,new file,the onedrive folder
+269,organize,your file,folder
+269,organize,onedrive,any other folder
+270,connect,your pc,onedrive
+271,play,music and video file,any device
+271,play,your home,a second thought
+271,assure,your favorite song,vacation video
+271,play,any supported device,format
+271,enjoy,the show,sound nero mediahome
+271,do,the rest,NA
+272,have,so much digital medium,your pc laptop
+272,save,the hard drive,your game console
+272,keep,your file,order
+272,keep,nero mediahome organizing digital medium file,intuitive categorization feature
+272,be,tv channel collection music photo,video nero mediahome
+272,give,full control,your personal medium file
+272,include,your xbox,playstation game console
+273,watch,your favorite tv program someplace,your home
+273,watch,your living room stream,wireless streaming feature
+273,live,nero mediahome,simple network configuration
+273,watch,your favorite show,NA
+274,enjoy,your favorite song,your home nero
+274,be,mediahome,the hard drive
+274,stream,your pc,any room
+274,choose,a variety,web radio station
+275,share,photo music video apps,other file type
+275,pdf,no size restriction,NA
+276,control,your ppt,your mobile
+277,back,valuable data,a second save
+278,back,contact message apps,all type
+279,search,torrent file,the most popular search engine
+281,embed,web browser,link
+281,embed,the best torrent site,your own favs
+282,share,your file,the rest
+282,share,the community,NA
+283,know,your downloads,NA
+285,install,italian german,french
+285,include,polish,dutch
+287,be,a system tray icon,NA
+288,complete,bad file,NA
+289,search,more source,userspecified period
+290,save,auto load,startup
+292,integrate,r feed reader,downloader
+293,dht,encryption,NA
+294,cross,platform linux mac o,NA
+295,control,file,a torrent filtering
+297,ip,filtering emule dat file,peerguardian file
+298,peer,display,country
+298,peer,hostname,resolution qbittorrent
+299,advanced,control,torrent tracker qbittorrent
+301,remote,control,secure web user interface
+302,find,more source,userspecified interval
+303,save,auto load,startup
+305,finished,wrong file,NA
+306,be,a system tray icon,NA
+307,detail,user interface,view
+308,include,trading seeding share adjustment,adjustable priority
+308,seed,individual transfer,peer
+309,efficient,peer,algorithm
+309,ensure,fast downloads,NA
+310,create,new transfer,NA
+311,peer,transfer,systemwide event
+311,log,adjustable detail level,backscroll size
+312,move,downloaded file,new filesystem location
+312,download,transfer,progress
+312,be,different partition,NA
+313,include,detailed message traffic charting,NA
+314,free,zultrax,a contribution
+314,like,the program,NA
+315,clean,no bundle,zultrax doesn t
+315,modify,your registry,NA
+316,stable,zultrax doesn t crash,problem
+317,smart,the zultrax kernel,advanced state
+317,contain,the art technology,NA
+318,silent,zultrax,an eye
+318,keep,your cpu usage,adapts
+318,slow,your machine,NA
+319,update,new show,NA
+320,featured,show show,NA
+322,resolve,peer s host name,country
+323,display,peer,country flag
+324,tray,icon and balloon tooltips,download
+325,add,a new torrent,NA
+326,view,detail,connected peer
+331,open,received file,the application
+332,show,your ip address,the ip connection page
+333,disk,cache,magnet
+333,disk,uri support,NA
+334,use,protocol,NA
+335,filter,emule style,ipfilter dat import
+336,tray,transfer rate summary,NA
+338,login,tracker,NA
+339,edit,tracker,the torrent
+339,create,torrent file,NA
+340,port,randomisation,natpmp
+341,transfer,rate and connection limit,NA
