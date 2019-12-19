@@ -1,0 +1,8 @@
+﻿domain,url,output
+File Sharing,"https://www.softpedia.com/catList/41,0,1,0,{}.html",file_sharing_reqs.csv
+Web Browser,"https://www.softpedia.com/catList/29,0,1,0,{}.html",web_browser_reqs.csv
+Antivirus,"https://www.softpedia.com/catList/1,0,1,0,{}.html",antivitus_reqs.csv
+Compression Tool,"https://www.softpedia.com/catList/2,0,1,0,{}.html",compression_reqs.csv
+VPN,"https://www.softpedia.com/catList/292,0,1,0,{}.html",vpn_reqs.csv
+News,"https://www.softpedia.com/catList/123,0,1,0,{}.html",news_reqs.csv
+Download Manager,"https://www.softpedia.com/catList/40,0,1,0,{}.html", download_manager_reqs.csv

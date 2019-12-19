@@ -1,109 +1,116 @@
 import os
 import requests
+import pandas as pd
+from string import printable
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.common.exceptions import *
 
 # prepare the option for the chrome driver
 options = webdriver.FirefoxOptions()
 options.add_argument('-headless')
 
-path = os.path.join(os.getcwd(), 'geckodriver.exe')
-print(path)
+# Use Firefox webdriver to automate switching to 'Features' tab while scraping an application
+webdriver_path = os.path.join(os.getcwd(), 'geckodriver.exe')
+print(webdriver_path)
+browser = webdriver.Firefox(executable_path=webdriver_path, options=options)
 
-# start chrome browser
-browser = webdriver.Firefox(executable_path=path, options=options)
-# browser.get("https://www.softpedia.com/get/Antivirus/Avast-Home-Edition.shtml")
-# browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/h3[3]').click()
-# print(browser.page_source)
 
-# url = 'https://www.softpedia.com/catList/41,0,1,0,{}.html'
-# url = 'https://www.softpedia.com/catList/29,0,1,0,{}.html'
-# 'https://www.softpedia.com/catList/22,0,1,0,{}.html'
-url = 'https://www.softpedia.com/catList/1,0,1,0,{}.html'
+def extract_num_pages(url):
+    """
+    Extract total numbers of pages for a certain domain
+    :param url:
+    :return: number of pages
+    """
+    soup = BeautifulSoup(requests.get(url).content, 'lxml')
+    last_page = soup.find(class_='fr ta_right').find_all('a')
+    return int(last_page[-2].text)
 
-filename = 'file-sharing-features.txt'
 
-count = 0
+def scrape_app_features(url):
+    """
+    :param url: app to be scraped
+    :return: a list of requirements
+    """
+    browser.get(url)
+    # switch to 'Feature' tab in the application's page
+    try:
+        feature_tab = browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/h3[3]')
+        feature_tab.click()
+        # print('Clicked on feature tab...')
+    except NoSuchElementException as e:
+        print(e)
+        return None
+    # if change_log_element:
+    #     change_log_element.click()
+    # else:
+    #     print('App has no changelog!')
+    #     continue
 
-# with open(filename, 'w') as f:
-for i in range(1, 20):
+    soup = BeautifulSoup(browser.page_source, 'lxml')
+    # can be features, system requirements, or others
+    highlights = soup.find(id='specifications').find_all("b", class_='upcase bold')
+    for item in highlights:
+        if item.text == 'features':
+            requirements = []
+            features = item.find_next('ul').find_all('li')
+            for f in features:
+                if f.has_attr('class'):
+                    print('[Summary] %s' % f.text)
+                else:
+                    r = ''.join(filter(lambda c: c in printable, f.text))
+                    requirements.append(r)
 
-    r = requests.get(url.format(i))
+            return requirements
 
-    if r.status_code != 200:
-        print('can\'t retrieve the html!')
-        exit(1)
 
-    soup = BeautifulSoup(r.content, 'lxml')
+def scrape_all(path):
+    """
+    Scrape software requirements from all domains specified in a csv file
+    :param path domain file path
+    :return: None. Save all scraped requirements to csv files
+    """
 
-    # d = {}
+    domains_df = pd.read_csv(path)
+    # domains to be scraped
+    domains = domains_df['domain']
+    urls = domains_df['url']
+    reqs_output = domains_df['output']
 
-    app_items = soup.select('div.grid_48.dlcls')
+    for d, u, o in zip(domains, urls, reqs_output):
+        # print(d, u, o, sp, ep)
+        reqs_df = pd.DataFrame(columns=['domain', 'app', 'requirement', 'url'])
+        num_pages = extract_num_pages(u.format(1))  # get number of pages from scraping the first page
+        for page in range(1, num_pages+1):
+            r = requests.get(u.format(page))
+            if r.status_code != 200:
+                print('can\'t retrieve the html!')
+                continue
 
-    summary = []  # summary of features
-    details = []  # details of features
+            soup = BeautifulSoup(r.content, 'lxml')
+            app_items = soup.select('div.grid_48.dlcls')
 
-    for item in app_items:
-        link = item.find('h4', class_='ln').find('a')['href']
-        app_name = link[link.rfind('/')+1:len(link)].replace('.shtml', '')
+            for item in app_items:
+                url = item.find('h4', class_='ln').find('a')['href']
+                app_name = url[url.rfind('/') + 1:len(url)].replace('.shtml', '')
+                print('Start scraping requirements from {}'.format(url))
+                requirements = scrape_app_features(url)
+                if requirements:
+                    try:
+                        reqs_df = reqs_df.append(pd.DataFrame({
+                                                'domain': [d] * len(requirements),
+                                                'app': [app_name] * len(requirements),
+                                                'requirement': requirements,
+                                                'url': [url] * len(requirements)
+                                                }))
+                        reqs_df.to_csv(os.path.join(os.getcwd(), 'requirement', o), index=False)
+                    except Exception as e:
+                        print(e)
+            print("Finished Page Number {}".format(page))
+        print('Completed collecting requirements for domain %s' % d)
 
-        browser.get(link)
-        try:
-            browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/h3[3]').click()
-        except Exception:
-            continue
-        soup = BeautifulSoup(browser.page_source, 'lxml')
 
-        specs = soup.find(id='specifications')
-        # changelogs = soup.find('span', class_='changelog').find_all('ul', recursive=False)
+if __name__ == '__main__':
+    domains_file_path = os.path.join(os.getcwd(), 'domains.csv')
+    scrape_all(domains_file_path)
 
-        changes = specs.select('b.upcase.bold')
-        found_feature = False
-        for c in changes:
-            if c.text == 'features':
-                print('found feature!')
-                features = c.find_next('ul')
-                found_feature = True
-                count += 1
-                break
-
-        if found_feature is False:
-            continue
-
-            # changelogs = soup.find('span', class_='changelog').find_all('ul', recursive=False)
-            #
-            # l = len(changelogs)
-            # if l == 1:
-            #     features = changelogs[0]
-            # elif l == 3:
-            #     features = changelogs[1]
-            # else:
-            #     print('features len = {}'.format(l))
-            #     print(changelogs)
-            #     continue
-
-            # descriptions = features.find_all('li')
-            # for d in descriptions:
-            #     print(d.text)
-            #     if d.has_attr('class') is False:
-            #         try:
-            #             f.write(d.text + '\n')
-            #         except UnicodeEncodeError as e:
-            #             continue
-
-                # if d.has_attr('class'):
-                #     summary.append(d.text)
-                # else:
-                #     details.append(d.text)
-#
-# with open('summary.txt', 'w') as f:
-#     for s in summary:
-#         f.write(s + '\n')
-#
-# with open('details.txt', 'w') as f:
-#     for d in details:
-#         f.write(d + '\n')
-
-# print(len(l))
-
-print(count)
