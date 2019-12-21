@@ -1,0 +1,288 @@
+domain,app,requirement,url
+VPN,Tunngle,Tunngle is a magic tool that will never let you down (even with the most troublesome games): its LAN emulation features are very powerful and will work with virtually any game that supports IP based LAN gaming.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle is even more: you can use the Tunngle LAN emulation with virtually any program that has IP based network capabilities. You will never see a complete list of supported programs-games because it would be too long. Everything can work with Tunngle.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Every network comes with a fully functional chat which you can use to communicate with every Tunngler active on that very same network. This chat is a powerful tool to arrange matches or to have some small talk. Bigger networks without LAN capabilities, like the Lobby, can be used for more general chat sessions (for example if you are searching players for a certain game or want to talk about the weather).",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle API is a really powerful tool for all those programs that need to interact with Tunngle itself.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Using this interface, programs and scripts can have Tunngle perform a series of tasks.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"For example the API can be used to command Tunngle to jump in and out from networks. The Tunngle API works via a Launcher DLL. In addition, parameters can be passed to the new Tunngle auxiliary process (Launcher EXE).",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Each Tunngle Basic client receives a dynamic Tunngle IP upon Login. This IP is refreshed every time one logs in.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,*During beta everybody will receive a static IP instead.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Tunngle features a powerful blacklist that will help you keep annoyances at bay. Cheaters, flooders, spammers have no place in the Tunngle Community. Banning is simple and quick. All it takes is a click on the offender nickname. You have the power to decide the duration and scope of the ban.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle Public Networks are the core of the Tunngle Experience.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"One game, one (or more if needed) huge network where all the players from around the world can gather and play online.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,It's amazingly simple but yet very innovative. Tunngle Public Networks are a really powerful asset when it comes to have fun and meet new players.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"A couple of clicks! That's all it takes to play a game online. Discover the Tunngle Community, be a part of it. In one word: have fun! That's the power of Tunngle Public networks.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,As a Tunngle Basic user you can create one Basic Network for up to 32 Tunnglers. You can choose the network name and the password.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Basic Networks aren't shown in the Tunngle Browser and aren't included in the Tunngle Network Search.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,A Basic Network will be deleted after three days of inactivity.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,It is always possible to recreate the network after it is deleted.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Your Basic private network always comes with one reserved slot just for you.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Private networks are intended to be an integration of our powerful Public Network-Clan Network program. This is the reason why they won't show up in the network browser.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle uses its own network protocol for all the data transfer. This protocol is extremely fast and secure. Our main focus has been on reliability and performance during all the development stages. We intend to keep it this way.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,There are no limits for your creativity. You can use the free Almediadev Skinbuilder to create your own skin in the twinkling of an eye and any audio editor to modify the original sounds.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Personalizing Tunngle for yourself, your friends or your clan couldn't be easier. Just fire up the skin builder and unleash your imagination!",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle uses the internationally approved Advanced Encryption Standard (AES).,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,This encryption algorithm won against its competitors in the year 2000 in a competition of the National Institute of Standards and Technology (NIST).,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,We are using the highest possible encryption level that this algorithm provides using a key length of 256 bit.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"The keys are exchanged using the secure RSA method with 2048 bit encryption. The abbreviation RSA is composed of the initials of the surnames of the developers Ronald L. Rivest, Adi Shamir und Leonard Adelman. This method was already developed in 1977 and still is the standard for applications that count on secure key exchange because of its mathematical properties.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle Shares is a cool feature of the Tunngle integrated messenger that allows secure file transfers via an highly encrypted proprietary protocol. Tunngle Shares includes a tight permission control that allows each Tunngler to choose the shared folders and assign the access rights. The embedded download manager supports resuming of aborted/incomplete downloads. Tunngle uses its own protocol and its own rights management system and is designed to be totally independent of Windows file sharing.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Tunngle Shares actively compresses the data that is being transferred. This, where compression is possible, allows faster file transfers and saves your bandwidth for other applications.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Only connections above port 1024 are permitted.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Only use of ICMP, UDP and TCP protocol on IPv4 basis.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,This means that there is no access to critical Windows system services.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Create and maintain a buddy list,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Check the on-line state of your friends in real time,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Chat with your buddies over the private direct-chat,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Share media with your friends (Tunngle Shares),https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"Use your Tunngle Web Signature in forums, blogs or on any other web page.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"To activate your personal Tunngle web signature, go to System - Options and enable the Web Signature checkbox.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Note that it takes a little while to update your sig.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,http://www.tunngle.net/sig/YourTunngleNickname.png,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Replace 'YourTunngleNickname' with your own registered Tunngle account name.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,No more network hunting! We provide powerful tools to be sure that you always find the right network for your game!,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,With Tunngle you can find a net with just one click using the integrated full-text network search!,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"As an alternative, the Tunngle network browser allows you to know exactly what's going on in the Tunngle world.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Get a quick overview of all the public networks ordered by genre and know instantaneously where people are gathering.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,And if you love playing a certain game you can add a network bookmark for an even quicker selection of your preferred networks.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle.Net and NationVoice.com have teamed up to offer a top quality voice service to the Tunngle Community.,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Tunngle Voice is completely free and allows the Tunngle Community members to voice-chat with each other using some of the most popular VoIP tools out there (Ventrilo for starters).,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Europe: tunngle-eu.nationvoice.com:3784,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,USA: tunngle-usa.nationvoice.com:3784,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"The C-Class (or B-Class) Emulator, that is active in many Tunngle networks, is indeed a great asset when it comes to gaming. As a matter of fact, a consistent number of games need a special IP range in order to establish a successful Local Area Network connection. This can often be the source of countless headaches during the preparation of the match, because of the bothering Class C/B errors popping all around.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,"With Tunngle you can forget about these headaches! Tunngle automatically enforces the Class C/B Network type by emulating the required IP range. While you retain your current IP, all the other peers in the network will ""receive"" a different IP address compatible with yours. This ensures that you can easily create and join LAN games even with the most stubborn games.",https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Personal Tunngle nickname,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Autojoin a network on Startup,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Network Logging,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Tunngle,Powerful Community Support,https://www.softpedia.com/get/Internet/File-Sharing/Tunngle.shtml
+VPN,Hamachi,On-demand networking. Create and manage virtual networks on-demand as you need them.,https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,Centralized software deployment. Quickly and easily provision virtual network client software to new computers without having to go onsite. Simply send end users a link to download and install the client to participate in a specific virtual network.,https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Manage and restore networks. Manage and restore virtual networks for end-users with the click of a mouse, from anywhere via the web.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Gateway virtual networking. Provide remote users with secure access to your private network/LAN, including the resources on it, from a centralized LogMeIn Hamachi gateway, without modifying firewalls or network routers.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Hub-and-spoke virtual networking. Provide remote users with secure access to specific computers on your network, from any location, without modifying firewalls or network routers.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Mesh networking. Connect all of your network clients to each other. Quickly and easily create a simple, virtual, mesh network that allows remote machines to directly connect to each other, thereby giving users basic network access to all the network resources they need.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Encrypted communications. Secure communications using AES 256-bit encryption, over public and private networks.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Centralized access controls. Control network access and usage, including password management, network authentication, network locking, and ongoing network membership.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,Hamachi,"Network / client configuration management. Configure default settings for individual networks and clients, with support for full, restricted and minimal client interface modes.",https://www.softpedia.com/get/Internet/File-Sharing/Hamachi.shtml
+VPN,SoftEther-VPN,Free and open-source software.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Easy to establish both remote-access and site-to-site VPN.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,SSL-VPN Tunneling on HTTPS to pass through NATs and firewalls.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Revolutionary VPN over ICMP and VPN over DNS features.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Resistance to highly-restricted firewall.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Ethernet-bridging (L2) and IP-routing (L3) over VPN.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Embedded dynamic-DNS and NAT-traversal so that no static nor fixed IP address is required.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,AES 256-bit and RSA 4096-bit encryptions.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Sufficient security features such as logging and firewall inner VPN tunnel.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,1Gbps-class high-speed throughput performance with low memory and CPU usage.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,"Windows, Linux, Mac, Android, iPhone, iPad and Windows Mobile are supported.",https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,"SSL-VPN (HTTPS) and 6 major VPN protocols (OpenVPN, IPsec, L2TP, MS-SSTP, L2TPv3 and EtherIP) are all supported as VPN tunneling underlay protocols.",https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,The OpenVPN clone function supports legacy OpenVPN clients.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,IPv4 / IPv6 dual-stack.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,"The VPN server runs on Windows, Linux, FreeBSD, Solaris and Mac OS X.",https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Configure All settings on GUI.,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,"Multi-languages (English, Japanese and Simplified-Chinese).",https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,"No memory leaks. High quality stable codes, intended for long-term runs. We always verify that there are no memory or resource leaks before releasing the build.",https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,RADIUS / NT Domain user authentication function,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,RSA certificate authentication function,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Deep-inspect packet logging function,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,Source IP address control list function,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,SoftEther-VPN,syslog transfer function,https://www.softpedia.com/get/Security/Security-Related/SoftEther-VPN.shtml
+VPN,OpenVPN,"Tunnel any IP subnetwork or virtual ethernet adapter over a single UDP or TCP port, configure a scalable, load-balanced VPN server farm using one or more machines which can handle thousands of dynamic connections from incoming VPN clients,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Use all of the encryption, authentication, and certification features of the OpenSSL library to protect your private network traffic as it transits the internet,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Use any cipher, key size, or HMAC digest (for datagram integrity checking) supported by the OpenSSL library,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Choose between static-key based conventional encryption or certificate-based public key encryption,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Use static, pre-shared keys or TLS-based dynamic key exchange,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Use real-time adaptive link compression and traffic-shaping to manage link bandwidth utilization,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Tunnel networks whose public endpoints are dynamic such as DHCP or dial-in clients,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Tunnel networks through connection-oriented stateful firewalls without having to use explicit firewall rules,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Tunnel networks over NAT,",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,"Create secure ethernet bridges using virtual tap devices, and",https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,OpenVPN,control OpenVPN using a GUI,https://www.softpedia.com/get/Security/Security-Related/OpenVPN.shtml
+VPN,CyberGhost-VPN,"CyberGhost VPN allows you to surf anonymously online in three easy steps: log in, connect, surf securely.",https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,CyberGhost VPN provides you with a virtual private network protected by 256-bit AES encryption. The encryption keys are generated on your own computer so no one can use them to eavesdrop on your network activities.,https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,"CyberGhost VPN works with almost any program that accesses the Internet, letting you surf, communicate, and share data anonymously.  To prevent misuse by spammers, email programs should not be concealed (this does not apply to web mail, i.e., mail applications accessed by browsers).",https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,"CyberGhost VPN allows you to surf securely when using public WLANs and hotspots and prevents others from spying on your data transmissions (does not apply to traditional email clients, which cannot operate inside the VPN).",https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,CyberGhost VPN offers a high-performance server network. Basic users experience only minimal delays while premium users will hardly notice the difference.,https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,CyberGhost VPN provides its subscribers with 256-bit AES-encrypted online storage (careful: lost passwords cannot be recovered).,https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,"CyberGhost VPN guarantees premium subscribers a minimum bandwidth of 2,000 kbit/s (higher speeds depend on server load).",https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,"CyberGhost VPN supports all PC Internet connections (WLAN, Internet cafs, UMTS, DSL, ISDN, modem).",https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,CyberGhost VPN gives users more online security and freedom with fewer worries about Internet privacy.,https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,CyberGhost-VPN,CyberGhost VPN has an easy-to-follow overview of subscriptions costs and continually-updated usage reports.,https://www.softpedia.com/get/Security/Security-Related/CyberGhost-VPN.shtml
+VPN,UltraVPN,Watch american streaming websites like hulu.com or favorite-tvshows.com,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/UltraVPN.shtml
+VPN,UltraVPN,Access blocked websites from within a corporate environmement,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/UltraVPN.shtml
+VPN,UltraVPN,Connect or log in into MSN if it's blocked,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/UltraVPN.shtml
+VPN,UltraVPN,Use VoIP software like Skype if it's blocked,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/UltraVPN.shtml
+VPN,UltraVPN,Protect your email and browsing privacy,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/UltraVPN.shtml
+VPN,Shrew-Soft-VPN-Client,NAT Traversal ( RFC & Draft 00-04 versions ),https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,NAT Keep Alive,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,IKE Fragmentation,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Hybrid RSA + XAuth,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Mutual RSA + XAuth,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Mutual PSK + XAuth,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Mutual RSA,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Mutual PSK,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ASN1DN,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,FQDN,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,UFQDN,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Address,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Key Identifier,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Main,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Aggressive,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Configuration ( push or pull ),https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Quick,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Informational,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,AES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Blowfish,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,3DES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,CAST,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,DES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,MD5,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,SHA1,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ESP-AES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ESP-Blowfish,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ESP-3DES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ESP-CAST,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,ESP-DES,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,HMAC-MD5,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,HMAC-SHA1,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,PFS is supported,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Tunnel mode is supported,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Transport mode is not supported,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Compression is not supported,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Banner,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Address,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Netmask,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,WINS Server,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,DNS Server,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,DNS Default Domain,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Login Banner,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Split Network Include List,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Split Network Exclude List,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,Split DNS Domain List,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,Shrew-Soft-VPN-Client,PFS DH Group,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/Shrew-Soft-VPN-Client.shtml
+VPN,FlyVPN,"In many locations (Brazil, China, Iran, India, Oman, Saudi Arabia, etc) you have to use a VPN or proxy to access the websites in USA. FlyVPN provides USA VPN and USA Proxy for you to bypass all restrictions to view any website you want.",https://www.softpedia.com/get/Network-Tools/IP-Tools/FlyVPN.shtml
+VPN,FlyVPN,"Play USA or Korean games, including World of Warcraft(WoW, in USA, Korea or Taiwan), Aion Online, StarCraft-II (SC2, in USA, Korea or Taiwan), Dungeon & Fighter(DNF, in Korea). We have Dedicated IP VPN Servers with best game experience for you top players!",https://www.softpedia.com/get/Network-Tools/IP-Tools/FlyVPN.shtml
+VPN,FlyVPN,"How to hide my IP? FlyVPN can help you to change IP or hide IP, make your Internet surfing anonymous, secure your Internet connection at public places (like open Wi-Fi Hotspots at airports, cafes, hotels, malls, etc). We have unlimited bandwidth to meet all your requirement.",https://www.softpedia.com/get/Network-Tools/IP-Tools/FlyVPN.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Compliant with more than 120+ Enterprise VPN Router/Gateways,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Easiest & fastest integration in existing networks on the market right now,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Full IPSec, full IKE",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Strong authentication: X-Auth, Certificates, PreShared Key, USB Token, Hybrid Authentication Method",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Strong encryption: DES, 3DES, AES 128/512bits",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Secure hash algorithms: SHA1-2, MD5",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Key group: Diffie-Hellman Group1, 2, 5 & 14",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Flexible Certificate support (PEM, PKCS12, ...)",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"NAT Traversal, IP address emulation",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"IP Encapsulating Security: mode tunnel & transport (Main, Agressive, Quick)",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Config-Mode support,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Multi-tunneling to several Gateways, Dead Peer Detection, redundant gateway support",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Use USB stick to carry or deploy encrypted keys, password, VPN Configuration",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Operates as a Service, allowing the use on unattended Servers",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"High performances, no system overhead",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Enterprise integration with Authentication servers e.g. Radius, PKI, Certificates Authority",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Allow 'IPSec only' traffic filtering,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Peer-to-peer connections,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,Accepts incoming IPSec Tunnels,https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Token support: USB stick, Smartcards (Aladdin,..)",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TheGreenBow-IPSec-VPN-Client,"Communication support: DSL, LAN, GPRS-Edge-3G, PCMCIA cards, WIFI",https://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/TheGreenBow-IPSec-VPN-Client.shtml
+VPN,TunnelBear,"If your connection gets disrupted for any reason, TunnelBear will block all unsecured traffic until its safely reconnected.",https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,"Set to launch at startup, stay connected and dont worry about re-connecting on restart.",https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,TunnelBear does NOT log any activity of customers connected to our service. Period. Your privacy is paramount.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Just want to be secure and not sure which country to connect to? Use closest tunnel for easy security.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Lightning Fast Speeds,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Get lightning fast speeds with TunnelBear's award winning service.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Browse with confidence while you're connected to public wifi and other untrusted networks.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Knowledge base with commonly asked questions and dedicated support staff are always available.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Connect to the fastest servers in 20+ countries on TunnelBears virtual private network.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,Add up to 5 devices to cover your whole device network and be secure across all of them.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,"Defeat VPN blocking with GhostBear. Make your encrypted VPN data less detectable to governments, businesses and ISPs.",https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,TunnelBear,TunnelBear uses strong AES 256-bit encryption by default. Weaker encryption isn't even an option.,https://www.softpedia.com/get/Security/Security-Related/TunnelBear.shtml
+VPN,Invisible-Browsing,"Open VPN, PPTP, L2TP, SSTP supported",https://www.softpedia.com/get/Security/Security-Related/Invisible-Browsing.shtml
+VPN,Invisible-Browsing,ibDNS integrated,https://www.softpedia.com/get/Security/Security-Related/Invisible-Browsing.shtml
+VPN,Invisible-Browsing,Connects at start up,https://www.softpedia.com/get/Security/Security-Related/Invisible-Browsing.shtml
+VPN,Invisible-Browsing,Kill Switch & auto reconnect included,https://www.softpedia.com/get/Security/Security-Related/Invisible-Browsing.shtml
+VPN,proXPN,Keep what you do online,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Protect your identity and data.,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Conceal your location,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Unlimited VPN speed,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Connect to proXPN worlwide,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Access your favorite sites everywhere,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,proXPN,Open all available ports,https://www.softpedia.com/get/Security/Security-Related/proXPN.shtml
+VPN,Betternet,Access to blocked websites,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/Betternet.shtml
+VPN,Betternet,Connect to the fastest servers,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/Betternet.shtml
+VPN,Betternet,Protect your online privacy and security,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/Betternet.shtml
+VPN,Betternet,Access geo-restricted and blocked channels,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/Betternet.shtml
+VPN,VyprVPN,Engineered VPN performance,https://www.softpedia.com/get/Security/Security-Related/VyprVPN.shtml
+VPN,VyprVPN,Engineered reliability,https://www.softpedia.com/get/Security/Security-Related/VyprVPN.shtml
+VPN,VyprVPN,OpenVPN,https://www.softpedia.com/get/Security/Security-Related/VyprVPN.shtml
+VPN,VyprVPN,NAT Firewall,https://www.softpedia.com/get/Security/Security-Related/VyprVPN.shtml
+VPN,VyprVPN,Sync your files on all devices,https://www.softpedia.com/get/Security/Security-Related/VyprVPN.shtml
+VPN,VPN-X-Server,Traverse NAT (P2P),https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/VPN-X-Server.shtml
+VPN,VPN-X-Server,Virtual DNS,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/VPN-X-Server.shtml
+VPN,VPN-X-Server,Security chat,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/VPN-X-Server.shtml
+VPN,VPN-X-Server,Cross platforms,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/VPN-X-Server.shtml
+VPN,VPN-X-Server,"support multi access protocol (UDP, TCP, Java/JSSE SSL, OpenSSL) at the same time.",https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/VPN-X-Server.shtml
+VPN,VpnProxy,Establish VPN connections from/to a network with firewall or NAT without changing the network configuration and jeopardizing the security.,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/VpnProxy.shtml
+VPN,VpnProxy,Create and manage rules to control VPN access in your network,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/VpnProxy.shtml
+VPN,GoTrusted-Secure-Tunnel,Quick connection via a desktop tray icon - You're secure anytime in seconds!,https://www.softpedia.com/get/Internet/Other-Internet-Related/GoTrusted-Secure-Tunnel.shtml
+VPN,GoTrusted-Secure-Tunnel,No configuration required. Works with virtually all applications.,https://www.softpedia.com/get/Internet/Other-Internet-Related/GoTrusted-Secure-Tunnel.shtml
+VPN,GoTrusted-Secure-Tunnel,Industrial strength SSL encryption,https://www.softpedia.com/get/Internet/Other-Internet-Related/GoTrusted-Secure-Tunnel.shtml
+VPN,GoTrusted-Secure-Tunnel,SPAM-Kill email alias feature to hide your real email address,https://www.softpedia.com/get/Internet/Other-Internet-Related/GoTrusted-Secure-Tunnel.shtml
+VPN,GoTrusted-Secure-Tunnel,Web proxy support,https://www.softpedia.com/get/Internet/Other-Internet-Related/GoTrusted-Secure-Tunnel.shtml
+VPN,gateProtect-VPN-Client,High security standards through X.509 certifikats at VPN-over-SSL,https://www.softpedia.com/get/Security/Security-Related/gateProtect-VPN-Client.shtml
+VPN,gateProtect-VPN-Client,High compatibily through IPsec and VPN-over-SSL,https://www.softpedia.com/get/Security/Security-Related/gateProtect-VPN-Client.shtml
+VPN,gateProtect-VPN-Client,Availability of all services through VPN-over-SSL-Tunnel,https://www.softpedia.com/get/Security/Security-Related/gateProtect-VPN-Client.shtml
+VPN,gateProtect-VPN-Client,Perfect co-operation with gateProtect firewall,https://www.softpedia.com/get/Security/Security-Related/gateProtect-VPN-Client.shtml
+VPN,gateProtect-VPN-Client,Easy installation with Single-Click-Connection,https://www.softpedia.com/get/Security/Security-Related/gateProtect-VPN-Client.shtml
+VPN,VPN-Lifeguard,"Blocks traffic (P2P, browser, etc) in case of VPN disconnection",https://www.softpedia.com/get/Security/Firewall/VPN-Lifeguard.shtml
+VPN,VPN-Lifeguard,Automatically reconnects the VPN,https://www.softpedia.com/get/Security/Firewall/VPN-Lifeguard.shtml
+VPN,VPN-Lifeguard,Supports PPTP and IPSec,https://www.softpedia.com/get/Security/Firewall/VPN-Lifeguard.shtml
+VPN,HideIPVPN,Provides a layer of security and anonymity,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Protects you by hiding your real IP address,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Secure connection between your PC and the Internet (128-2048bit),https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Access sites restricted to US and UK residents,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Anonymous Internet Surfing,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Security for Hotspot Wireless Access Users,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,HideIPVPN,Unblock all VOIP Applications include Skype,https://www.softpedia.com/get/Security/Security-Related/HideIPVPN.shtml
+VPN,SurfOpenly,Hide Your IP,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/SurfOpenly.shtml
+VPN,SurfOpenly,Web Encryption,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/SurfOpenly.shtml
+VPN,SurfOpenly,Bypass Internet Censorship,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/SurfOpenly.shtml
+VPN,SurfOpenly,Speed You Never Imagined,https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/SurfOpenly.shtml
+VPN,tunXten,"You don't need to install .NET, Java or any other runtime. Consequently, it has a very small memory footprint and performs really fast.",https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,"Nothing is ever hidden, you always see what's happening.",https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,Auto login. Your credentials can be securely stored for later reuse to save you the trouble of entering them over and over again.,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,"You can create custom installers with arbitrary OpenVPN configurations included, set up just the way you want.",https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,Your credentials can be securely stored for later reuse to save you the trouble of entering them over and over again.,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,"Everything is compact and easy as pie, you won't have to navigate through multitudes of menus and property pages to do simple things.",https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,tunXten,You can run it even under a restricted user account (although you still have to install it under an admin account).,https://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/tunXten.shtml
+VPN,Kaspersky-Secure-Connection,"When you want to surf the Web, Kaspersky Secure Connection automatically offers to connect you via Virtual Private Network (VPN) technology  so others can't see what you're doing and you can safely go online in privacy.",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/Kaspersky-Secure-Connection.shtml
+VPN,Kaspersky-Secure-Connection,"Whether you're online banking, shopping, video streaming, socializing or dating, we make sure hackers can't read your communications. All data you send & receive is transferred via an encrypted, secure channel  and your location and IP address aren't revealed.",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/Kaspersky-Secure-Connection.shtml
+VPN,Kaspersky-Secure-Connection,"Because your location and your IP address aren't revealed, it's easier for you to access websites and content in other regions  without being traced. Kaspersky Secure Connection won't log what you're doing online and won't keep any records of which websites you visit.",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/Kaspersky-Secure-Connection.shtml
+VPN,OnionFruit-Connect,Working in the background,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OnionFruit-Connect.shtml
+VPN,OnionFruit-Connect,Secure WiFi Hotspots,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OnionFruit-Connect.shtml
+VPN,OnionFruit-Connect,DragonFruit Services,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OnionFruit-Connect.shtml
+VPN,VPNSecure,"Many security services on the internet LOG even when they say they don't. We are true to our word, we respect your right to privacy and our systems are designed around this.",https://www.softpedia.com/get/Security/Security-Related/VPNSecure.shtml
+VPN,VPNSecure,"Many Countries including United Kingom, France, Germany, East Asia, Central Asia, and the Middle East/North Africa and many more employ internet censorship or filtering.",https://www.softpedia.com/get/Security/Security-Related/VPNSecure.shtml
+VPN,VPNSecure,"Music, Videos, Pictures, Documents, emails. It's important to keep your information secure.",https://www.softpedia.com/get/Security/Security-Related/VPNSecure.shtml
+VPN,OneVPN,Fastest VPN,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OneVPN.shtml
+VPN,OneVPN,Best VPN Protocol,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OneVPN.shtml
+VPN,OneVPN,Zero Logging Policy,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OneVPN.shtml
+VPN,OneVPN,Free Ad-Blocker,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OneVPN.shtml
+VPN,OneVPN,Instant Setup,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/OneVPN.shtml
+VPN,SoftLAN,It's very easy to deploy,https://www.softpedia.com/get/Internet/Remote-Utils/SoftLAN.shtml
+VPN,SoftLAN,It uses P2P technology,https://www.softpedia.com/get/Internet/Remote-Utils/SoftLAN.shtml
+VPN,SkyVPN,3000+ VPN services powered by our patented smart routing technology,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,"Unlimited bandwidth, worldwide locations, no throttling",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,"No matter where you are - campus, office, any countries",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,Hide your IP address and location from any website and app,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,Watch any foreign or domestic content while traveling overseas.,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,Secure your internet connection with bank-grade encryption,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,Access the internet safely even on unsecured public Wi-Fi,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,No account registration required,https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,SkyVPN,"No connection logs, no activity log",https://www.softpedia.com/get/Internet/Secure-Browsing-VPN/SkyVPN.shtml
+VPN,Zoog-VPN,"One-click connect feature is available, just pick your VPN location and tap the big round button to connect.",https://www.softpedia.com/get/Security/Security-Related/Zoog-VPN.shtml
+VPN,Zoog-VPN,"Once the connection has been interrupted, the software reconnects automatically.",https://www.softpedia.com/get/Security/Security-Related/Zoog-VPN.shtml
+VPN,Zoog-VPN,"The client automatically launches and connects on startup to your favourite VPN location (marked with star), for the added convenience.",https://www.softpedia.com/get/Security/Security-Related/Zoog-VPN.shtml
+VPN,Zoog-VPN,"During an active VPN connection the application deletes the default gateway, making it impossible for your real IP to leak to unwanted third parties.",https://www.softpedia.com/get/Security/Security-Related/Zoog-VPN.shtml
+VPN,Zoog-VPN,The client saves your username and password for easy login and VPN server authentication.,https://www.softpedia.com/get/Security/Security-Related/Zoog-VPN.shtml
+VPN,NetSee-VPN,Comprehensive list of servers,https://www.softpedia.com/get/Security/Security-Related/NetSee-VPN.shtml
+VPN,NetSee-VPN,Account details are presented inside the main window,https://www.softpedia.com/get/Security/Security-Related/NetSee-VPN.shtml
+VPN,NetSee-VPN,The server list is updated automatically,https://www.softpedia.com/get/Security/Security-Related/NetSee-VPN.shtml
