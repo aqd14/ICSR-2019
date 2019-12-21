@@ -1,4 +1,5 @@
 import os
+import time
 import requests
 import pandas as pd
 from string import printable
@@ -12,8 +13,6 @@ options.add_argument('-headless')
 
 # Use Firefox webdriver to automate switching to 'Features' tab while scraping an application
 webdriver_path = os.path.join(os.getcwd(), 'geckodriver.exe')
-print(webdriver_path)
-browser = webdriver.Firefox(executable_path=webdriver_path, options=options)
 
 
 def extract_num_pages(url):
@@ -32,36 +31,36 @@ def scrape_app_features(url):
     :param url: app to be scraped
     :return: a list of requirements
     """
-    browser.get(url)
-    # switch to 'Feature' tab in the application's page
+    driver = webdriver.Firefox(executable_path=webdriver_path, options=options)
+    driver.set_page_load_timeout(5)
+    driver.implicitly_wait(5)
+    driver.get(url)
     try:
-        feature_tab = browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/h3[3]')
+        # switch to 'Feature' tab in the application's page
+        feature_tab = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/h3[3]')
         feature_tab.click()
-        # print('Clicked on feature tab...')
-    except NoSuchElementException as e:
+        soup = BeautifulSoup(driver.page_source, 'lxml')
+        # highlights can be features, system requirements, or others
+        highlights = soup.find(id='specifications').find_all("b", class_='upcase bold')
+        for item in highlights:
+            if item.text == 'features':
+                requirements = []
+                features = item.find_next('ul').find_all('li')
+                for f in features:
+                    if f.has_attr('class'):
+                        print('[Summary] %s' % f.text)
+                    else:
+                        r = ''.join(filter(lambda c: c in printable, f.text))
+                        requirements.append(r)
+
+                return requirements
+    except (TimeoutException, NoSuchElementException) as e:
+        # page took too long to response, or couldn't find the 'Feature' tab
+        # stop scraping requirements from this app
         print(e)
         return None
-    # if change_log_element:
-    #     change_log_element.click()
-    # else:
-    #     print('App has no changelog!')
-    #     continue
-
-    soup = BeautifulSoup(browser.page_source, 'lxml')
-    # can be features, system requirements, or others
-    highlights = soup.find(id='specifications').find_all("b", class_='upcase bold')
-    for item in highlights:
-        if item.text == 'features':
-            requirements = []
-            features = item.find_next('ul').find_all('li')
-            for f in features:
-                if f.has_attr('class'):
-                    print('[Summary] %s' % f.text)
-                else:
-                    r = ''.join(filter(lambda c: c in printable, f.text))
-                    requirements.append(r)
-
-            return requirements
+    finally:
+        driver.quit()
 
 
 def scrape_all(path):
@@ -70,7 +69,6 @@ def scrape_all(path):
     :param path domain file path
     :return: None. Save all scraped requirements to csv files
     """
-
     domains_df = pd.read_csv(path)
     # domains to be scraped
     domains = domains_df['domain']
@@ -106,6 +104,7 @@ def scrape_all(path):
                         reqs_df.to_csv(os.path.join(os.getcwd(), 'requirement', o), index=False)
                     except Exception as e:
                         print(e)
+                time.sleep(0.5)
             print("Finished Page Number {}".format(page))
         print('Completed collecting requirements for domain %s' % d)
 
